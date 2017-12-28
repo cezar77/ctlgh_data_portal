@@ -85,6 +85,7 @@ class Animal(models.Model):
     vaccination = models.CharField(max_length=100, blank=True)
     treatment = models.CharField(max_length=100, blank=True)
     farm = models.ForeignKey('Farm', related_name='animals')
+    species = models.ForeignKey('animals.Species', related_name='chickens')
 
     def __str__(self):
         return self.animal_id
