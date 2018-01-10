@@ -71,7 +71,7 @@ class Farm(models.Model):
     other_animals = pg_fields.JSONField(null=True, blank=True)
 
     def save(self, *args, **kwargs):
-        self.geolocation = Point(self.latitude, self.longitude)
+        self.geolocation = Point(float(self.longitude), float(self.latitude))
         super(Farm, self).save(*args, **kwargs)
 
     def get_absolute_url(self):
