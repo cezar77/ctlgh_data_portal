@@ -52,8 +52,8 @@ class Farm(models.Model):
     )
     coop_type = models.CharField(max_length=100, blank=True)
     previous_illnes_occurence = models.CharField(max_length=100, blank=True)
-    chicken_feed = pg_fields.JSONField(default={})
-    other_animals = pg_fields.JSONField(default={})
+    chicken_feed = pg_fields.JSONField(null=True, blank=True)
+    other_animals = pg_fields.JSONField(null=True, blank=True)
 
 
 class Animal(models.Model):
