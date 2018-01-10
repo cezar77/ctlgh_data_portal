@@ -1,6 +1,8 @@
 from django.contrib.gis.db import models
+from django.contrib.gis.geos import Point
 from django.contrib.postgres import fields as pg_fields
 from django.utils.functional import cached_property
+from django.urls import reverse
 
 
 class Farm(models.Model):
@@ -27,7 +29,20 @@ class Farm(models.Model):
         ('DW', 'Deep well pump water'),
     )
 
-    geolocation = models.PointField()
+    latitude = models.DecimalField(
+        max_digits=7,
+        decimal_places=5,
+        null=True,
+        blank=True
+    )
+    longitude = models.DecimalField(
+        max_digits=8,
+        decimal_places=5,
+        null=True,
+        blank=True
+    )
+    altitude = models.PositiveSmallIntegerField(null=True, blank=True)
+    geolocation = models.PointField(null=True, blank=True)
     village = models.CharField(max_length=50, blank=True)
     soil_type = models.CharField(
         max_length=2,
@@ -51,9 +66,16 @@ class Farm(models.Model):
         blank=True
     )
     coop_type = models.CharField(max_length=100, blank=True)
-    previous_illnes_occurence = models.CharField(max_length=100, blank=True)
+    previous_illness_occurence = models.CharField(max_length=100, blank=True)
     chicken_feed = pg_fields.JSONField(null=True, blank=True)
     other_animals = pg_fields.JSONField(null=True, blank=True)
+
+    def save(self, *args, **kwargs):
+        self.geolocation = Point(self.latitude, self.longitude)
+        super(Farm, self).save(*args, **kwargs)
+
+    def get_absolute_url(self):
+        return reverse('farm-detail', kwargs={'pk': str(self.pk)})
 
 
 class Animal(models.Model):
