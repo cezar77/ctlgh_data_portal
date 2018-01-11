@@ -1,0 +1,19 @@
+[
+    {
+        "model": "animals.species",
+        "pk": 1,
+        "fields": {
+            "common_name": "Chicken",
+            "slug": "gallus-gallus",
+            "species": "gallus",
+            "genus": "Gallus",
+            "subfamily": "Phasianinae",
+            "family": "Phasianidae",
+            "order": "Galliformes",
+            "class_name": "Aves",
+            "phylum": "Chordata",
+            "ncbi_id": 9031,
+            "image": 1
+        }
+    }
+]

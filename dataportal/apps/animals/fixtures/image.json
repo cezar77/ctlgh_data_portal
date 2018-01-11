@@ -1,0 +1,11 @@
+[
+    {
+        "model": "animals.image",
+        "pk": 1,
+        "fields": {
+            "page_url": "https://commons.wikimedia.org/wiki/File%3ABrown_Leghorn_rooster_in_Australia.jpg",
+            "file_url": "https://upload.wikimedia.org/wikipedia/commons/5/52/Brown_Leghorn_rooster_in_Australia.jpg",
+            "attribution": "By Fernando de Sousa from Melbourne, Australia (Standing Tall) [<a href=\"https://creativecommons.org/licenses/by-sa/2.0\">CC BY-SA 2.0</a>], <a href=\"https://commons.wikimedia.org/wiki/File%3ABrown_Leghorn_rooster_in_Australia.jpg\">via Wikimedia Commons</a>"
+        }
+    }
+]

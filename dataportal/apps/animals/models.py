@@ -19,6 +19,7 @@ class Species(models.Model):
     class_name = models.CharField('class', db_column='class', max_length=30)
     phylum = models.CharField(max_length=30)
     ncbi_id = models.PositiveSmallIntegerField('NCBI ID', unique=True)
+    image = models.OneToOneField('Image', related_name='species')
 
     class Meta:
         verbose_name = 'Species'
@@ -53,3 +54,11 @@ class Species(models.Model):
         )
     ncbi_taxonomy_html.short_description = 'NCBI Taxonomy URL'
 
+
+class Image(models.Model):
+    page_url = models.URLField(max_length=255, unique=True)
+    file_url = models.URLField(max_length=255, unique=True)
+    attribution = models.CharField(max_length=500)
+
+    def __str__(self):
+        return self.attribution
