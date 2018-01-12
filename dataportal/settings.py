@@ -47,9 +47,9 @@ INSTALLED_APPS = [
     # third-party apps
     'rest_framework',
     # custom apps
-    'dataportal.apps.animals',
-    'dataportal.apps.studies',
-    'dataportal.apps.chickens',
+    'dataportal.modules.animals',
+    #'dataportal.apps.studies',
+    #'dataportal.apps.chickens',
 ]
 
 MIDDLEWARE = [
