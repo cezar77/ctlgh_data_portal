@@ -8,7 +8,6 @@ router = DefaultRouter()
 router.register(r'species', views.SpeciesViewSet)
 router.register(r'image', views.ImageViewSet)
 
-app_name = 'animals'
 urlpatterns = [
     url(r'^', include(router.urls)),
 ]

@@ -22,7 +22,11 @@ class Species(models.Model):
     class_name = models.CharField('class', db_column='class', max_length=30)
     phylum = models.CharField(max_length=30)
     ncbi_id = models.PositiveSmallIntegerField('NCBI ID', unique=True)
-    image = models.OneToOneField('Image', related_name='species')
+    image = models.OneToOneField(
+        'Image',
+        on_delete=models.CASCADE,
+        related_name='species'
+    )
 
     class Meta:
         verbose_name = 'Species'
@@ -36,6 +40,11 @@ class Species(models.Model):
         if not self.pk:
             self.slug = slugify(self.binomial_name)
         super(Species, self).save(*args, **kwargs)
+
+    def delete(self, *args, **kwargs):
+        self.image.delete()
+        super(Species, self).delete(*args, **kwargs)
+        
 
     @cached_property
     def binomial_name(self):
@@ -68,8 +77,8 @@ class Species(models.Model):
 
 
 class Image(models.Model):
-    page_url = models.URLField(max_length=255, unique=True)
-    file_url = models.URLField(max_length=255, unique=True)
+    page_url = models.URLField(max_length=255)
+    file_url = models.URLField(max_length=255)
     attribution = models.CharField(max_length=500)
 
     def __str__(self):

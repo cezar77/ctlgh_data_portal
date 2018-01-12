@@ -1,5 +1,8 @@
+import json
+
 from django.test import TestCase
 from django.utils.text import slugify
+from django.urls import reverse
 
 from dataportal.modules.animals.models import Species, Image
 
@@ -100,3 +103,127 @@ class SpeciesTestCase(TestCase):
             self.species.image.attribution,
             '<figcaption>{}</figcaption>'.format(self.species.display_image)
         )
+
+
+class SpeciesViewSetTestCase(TestCase):
+    @classmethod
+    def setUpTestData(cls):
+        """
+        Set up test data
+        """
+        cls.chicken_image = Image.objects.create(
+            page_url = "https://commons.wikimedia.org/wiki/File%3ABrown_Leghorn_rooster_in_Australia.jpg",
+            file_url = "https://upload.wikimedia.org/wikipedia/commons/5/52/Brown_Leghorn_rooster_in_Australia.jpg",
+            attribution = 'By Fernando de Sousa from Melbourne, Australia (Standing Tall) [<a href="https://creativecommons.org/licenses/by-sa/2.0">CC BY-SA 2.0</a>], <a href="https://commons.wikimedia.org/wiki/File%3ABrown_Leghorn_rooster_in_Australia.jpg">via Wikimedia Commons</a>'
+		)
+        cls.chicken = Species.objects.create(
+            common_name='Chicken',
+            species='gallus',
+            genus='Gallus',
+            family='Phasianidae',
+            order='Galliformes',
+            class_name='Aves',
+            phylum='Chordata',
+            ncbi_id=9031,
+			image=cls.chicken_image
+        )
+        cls.sheep_image = Image.objects.create(
+            page_url="https://commons.wikimedia.org/wiki/File%3AOvis_orientalis_aries_'Skudde'_(aka).jpg",
+            file_url="https://upload.wikimedia.org/wikipedia/commons/e/e7/Ovis_orientalis_aries_%27Skudde%27_%28aka%29.jpg",
+            attribution='By André Karwath aka Aka (Own work) [<a href="https://creativecommons.org/licenses/by-sa/2.5">CC BY-SA 2.5</a>], <a href="https://commons.wikimedia.org/wiki/File%3AOvis_orientalis_aries_&#039;Skudde&#039;_(aka).jpg">via Wikimedia Commons</a>'
+        )
+        cls.sheep= Species.objects.create(
+            common_name='Sheep',
+            species='aries',
+            genus='Ovis',
+            family='Bovidae',
+            order='Artiodactyla',
+            class_name='Mammalia',
+            phylum='Chordata',
+            ncbi_id=9940,
+			image=cls.sheep_image
+        )
+
+    def test_create_endpoint(self):
+        """
+        Test create
+        """
+        url = reverse('species-list')
+        image =  {
+            'page_url': "https://commons.wikimedia.org/wiki/File%3AFox_-_British_Wildlife_Centre_(17429406401).jpg",
+            'file_url': "https://upload.wikimedia.org/wikipedia/commons/1/16/Fox_-_British_Wildlife_Centre_%2817429406401%29.jpg",
+            'attribution': 'By Airwolfhound from Hertfordshire, UK (Fox - British Wildlife Centre) [<a href="https://creativecommons.org/licenses/by-sa/2.0">CC BY-SA 2.0</a>], <a href="https://commons.wikimedia.org/wiki/File%3AFox_-_British_Wildlife_Centre_(17429406401).jpg">via Wikimedia Commons</a>'
+        }
+        data = json.dumps({
+            'common_name': 'Red fox',
+            'species': 'vulpes',
+            'genus': 'Vulpes',
+            'subfamily': 'Caninae',
+            'family': 'Canidae',
+            'order': 'Carnivora',
+            'class': 'Mammalia',
+            'phylum': 'Chordata',
+            'ncbi_id': 9627,
+			'image' : image
+        })
+        response = self.client.post(url, data, content_type='application/json')
+        species = Species.objects.get(slug='vulpes-vulpes')
+        self.assertEqual(response.status_code, 201)
+        self.assertEqual(response.data['slug'], species.slug)
+
+    def test_list_endpoint(self):
+        """
+        Test list
+        """
+        url = reverse('species-list')
+        response = self.client.get(url)
+        self.assertEqual(response.status_code, 200)
+        self.assertEqual(len(response.data), Species.objects.all().count())
+        self.assertEqual(response.data[0]['slug'], self.chicken.slug)
+        self.assertEqual(response.data[1]['slug'], self.sheep.slug)
+
+    def test_retrieve_endpoint(self):
+        """
+        Test retrieve
+        """
+        url = reverse('species-detail', kwargs={'slug': self.chicken.slug})
+        response = self.client.get(url)
+        self.assertEqual(response.status_code, 200)
+        self.assertEqual(response.data['common_name'], self.chicken.common_name)
+
+    def test_update_endpoint(self):
+        """
+        Test update
+        """
+        url = reverse('species-detail', kwargs={'slug': self.sheep.slug})
+        data = json.dumps({
+            'common_name': 'Sheep',
+            'species': 'aries',
+            'genus': 'Ovis',
+            'subfamily': 'Caprinae',
+            'family': 'Bovidae',
+            'order': 'Artiodactyla',
+            'class': 'Mammalia',
+            'phylum': 'Chordata',
+            'ncbi_id': 9940,
+            'image': {
+                'page_url': "https://commons.wikimedia.org/wiki/File%3AOvis_orientalis_aries_'Skudde'_(aka).jpg",
+                'file_url': "https://upload.wikimedia.org/wikipedia/commons/e/e7/Ovis_orientalis_aries_%27Skudde%27_%28aka%29.jpg",
+                'attribution': 'By André Karwath aka Aka (Own work) [<a href="https://creativecommons.org/licenses/by-sa/2.5">CC BY-SA 2.5</a>], <a href="https://commons.wikimedia.org/wiki/File%3AOvis_orientalis_aries_&#039;Skudde&#039;_(aka).jpg">via Wikimedia Commons</a>'
+            }
+        })
+        response = self.client.put(url, data, content_type='application/json')
+        species = Species.objects.get(slug='ovis-aries')
+        self.assertEqual(response.status_code, 200)
+        self.assertEqual(response.data['common_name'], species.common_name)
+        self.assertEqual(response.data['subfamily'], species.subfamily)
+
+    def test_delete_endpoint(self):
+        """
+        Test delete
+        """
+        url = reverse('species-detail', kwargs={'slug': self.sheep.slug})
+        response = self.client.delete(url)
+        self.assertEqual(response.status_code, 204)
+        self.assertIsNone(response.data)
+
