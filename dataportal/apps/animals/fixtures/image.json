@@ -7,5 +7,14 @@
             "file_url": "https://upload.wikimedia.org/wikipedia/commons/5/52/Brown_Leghorn_rooster_in_Australia.jpg",
             "attribution": "By Fernando de Sousa from Melbourne, Australia (Standing Tall) [<a href=\"https://creativecommons.org/licenses/by-sa/2.0\">CC BY-SA 2.0</a>], <a href=\"https://commons.wikimedia.org/wiki/File%3ABrown_Leghorn_rooster_in_Australia.jpg\">via Wikimedia Commons</a>"
         }
+    },
+    {
+        "model": "animals.image",
+        "pk": 2,
+        "fields": {
+            "page_url": "https://commons.wikimedia.org/wiki/File%3AOvis_orientalis_aries_'Skudde'_(aka).jpg",
+            "file_url": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Ovis_orientalis_aries_%27Skudde%27_%28aka%29.jpg",
+            "attribution": "By André Karwath aka Aka (Own work) [<a href=\"https://creativecommons.org/licenses/by-sa/2.5\">CC BY-SA 2.5</a>], <a href=\"https://commons.wikimedia.org/wiki/File%3AOvis_orientalis_aries_&#039;Skudde&#039;_(aka).jpg\">via Wikimedia Commons</a>"
+        }
     }
 ]

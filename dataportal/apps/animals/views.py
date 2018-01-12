@@ -1,7 +1,7 @@
 from rest_framework import viewsets
 
-from .models import Species
-from .serializers import SpeciesSerializer
+from .models import Species, Image
+from .serializers import SpeciesSerializer, ImageSerializer
 
 
 class SpeciesViewSet(viewsets.ModelViewSet):
@@ -9,3 +9,7 @@ class SpeciesViewSet(viewsets.ModelViewSet):
     serializer_class = SpeciesSerializer
     lookup_field = 'slug'
 
+
+class ImageViewSet(viewsets.ModelViewSet):
+    queryset = Image.objects.all()
+    serializer_class = ImageSerializer

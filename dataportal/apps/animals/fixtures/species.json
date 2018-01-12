@@ -15,5 +15,22 @@
             "ncbi_id": 9031,
             "image": 1
         }
+    },
+    {
+        "model": "animals.species",
+        "pk": 2,
+        "fields": {
+            "common_name": "Sheep",
+            "slug": "ovis-aries",
+            "species": "aries",
+            "genus": "Ovis",
+            "subfamily": "Caprinae",
+            "family": "Bovidae",
+            "order": "Artiodactyla",
+            "class_name": "Mammalia",
+            "phylum": "Chordata",
+            "ncbi_id": 9940,
+            "image": 2
+        }
     }
 ]

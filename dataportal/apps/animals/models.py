@@ -1,3 +1,6 @@
+import re
+import urllib
+
 from django.db import models
 from django.utils.functional import cached_property
 from django.utils.text import slugify
@@ -54,6 +57,15 @@ class Species(models.Model):
         )
     ncbi_taxonomy_html.short_description = 'NCBI Taxonomy URL'
 
+    @cached_property
+    def display_image(self):
+        return format_html(
+            '<figure><img src="{file_url}" alt="{alt}" width="512"><figcaption>{attribution}</figcaption></figure>',
+            file_url=self.image.file_url,
+            alt=self.image,
+            attribution=format_html(self.image.attribution)
+        )
+
 
 class Image(models.Model):
     page_url = models.URLField(max_length=255, unique=True)
@@ -61,4 +73,10 @@ class Image(models.Model):
     attribution = models.CharField(max_length=500)
 
     def __str__(self):
-        return self.attribution
+        m = re.match(r'^.+/(.+)\.jpg$', self.file_url)
+        result = m.group(1)
+        return urllib.parse.unquote(result.replace('_', ' '))
+
+    @cached_property
+    def display_image(self):
+        return self.species.display_image

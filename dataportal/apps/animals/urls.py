@@ -6,6 +6,7 @@ from . import views
 
 router = DefaultRouter()
 router.register(r'species', views.SpeciesViewSet)
+router.register(r'image', views.ImageViewSet)
 
 urlpatterns = [
     url(r'^', include(router.urls)),
