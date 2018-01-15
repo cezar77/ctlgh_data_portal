@@ -77,8 +77,8 @@ class Species(models.Model):
 
 
 class Image(models.Model):
-    page_url = models.URLField(max_length=255)
-    file_url = models.URLField(max_length=255)
+    page_url = models.URLField('Page URL', max_length=255)
+    file_url = models.URLField('File URL', max_length=255)
     attribution = models.CharField(max_length=500)
 
     def __str__(self):
