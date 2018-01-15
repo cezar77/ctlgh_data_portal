@@ -20,6 +20,18 @@ class ImageSerializer(serializers.HyperlinkedModelSerializer):
             'file_url': {'validators': []}
         }
 
+    def validate_page_url(self, value):
+        if self.context['request']._request.method == 'POST':
+            if self.Meta.model.objects.filter(page_url=value).exists():
+                raise serializers.ValidationError('This page URL already exists.')
+        return value
+
+    def validate_file_url(self, value):
+        if self.context['request']._request.method == 'POST':
+            if self.Meta.model.objects.filter(file_url=value).exists():
+                raise serializers.ValidationError('This file URL already exists.')
+        return value
+
 
 class SpeciesSerializer(serializers.HyperlinkedModelSerializer):
     image = ImageSerializer(required=True)
@@ -39,12 +51,6 @@ class SpeciesSerializer(serializers.HyperlinkedModelSerializer):
 
     def create(self, validated_data):
         image_data = validated_data.pop('image')
-
-        if Image.objects.filter(page_url=image_data['page_url']).exists():
-            raise serializers.ValidationError('This page URL already exists.')
-
-        if Image.objects.filter(file_url=image_data['file_url']).exists():
-            raise serializers.ValidationError('This file URL already exists.')
 
         image = ImageSerializer.create(ImageSerializer(), validated_data=image_data)
         species = Species.objects.create(image=image, **validated_data)
