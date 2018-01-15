@@ -5,6 +5,7 @@ from django.db import models
 from django.utils.functional import cached_property
 from django.utils.text import slugify
 from django.utils.html import format_html
+from django.urls import reverse
 
 
 class Species(models.Model):
@@ -35,6 +36,9 @@ class Species(models.Model):
 
     def __str__(self):
         return '{} ({})'.format(self.common_name, self.binomial_name)
+
+    def get_absolute_url(self):
+        return reverse('species-detail', kwargs={'slug': self.slug})
 
     def save(self, *args, **kwargs):
         if not self.pk:
@@ -77,14 +81,17 @@ class Species(models.Model):
 
 
 class Image(models.Model):
-    page_url = models.URLField('Page URL', max_length=255)
-    file_url = models.URLField('File URL', max_length=255)
+    page_url = models.URLField('Page URL', max_length=255, unique=True)
+    file_url = models.URLField('File URL', max_length=255, unique=True)
     attribution = models.CharField(max_length=500)
 
     def __str__(self):
         m = re.match(r'^.+/(.+)\.jpg$', self.file_url)
         result = m.group(1)
         return urllib.parse.unquote(result.replace('_', ' '))
+
+    def get_absolute_url(self): 
+        return reverse('image-detail', kwargs={'pk': str(self.pk)})
 
     @cached_property
     def display_image(self):
