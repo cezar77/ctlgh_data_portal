@@ -39,7 +39,14 @@ class SpeciesSerializer(serializers.HyperlinkedModelSerializer):
 
     def create(self, validated_data):
         image_data = validated_data.pop('image')
-        image = ImageSerializer.create(ImageSerializer(), validated_data=image_data) 
+
+        if Image.objects.filter(page_url=image_data['page_url']).exists():
+            raise serializers.ValidationError('This page URL already exists.')
+
+        if Image.objects.filter(file_url=image_data['file_url']).exists():
+            raise serializers.ValidationError('This file URL already exists.')
+
+        image = ImageSerializer.create(ImageSerializer(), validated_data=image_data)
         species = Species.objects.create(image=image, **validated_data)
         return species
 
