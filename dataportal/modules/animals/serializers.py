@@ -15,6 +15,10 @@ class ImageSerializer(serializers.HyperlinkedModelSerializer):
         fields = (
             'url', 'id', 'page_url', 'file_url', 'attribution', 'species'
         )
+        extra_kwargs = {
+            'page_url': {'validators': []},
+            'file_url': {'validators': []}
+        }
 
 
 class SpeciesSerializer(serializers.HyperlinkedModelSerializer):
@@ -49,7 +53,7 @@ class SpeciesSerializer(serializers.HyperlinkedModelSerializer):
         instance.subfamily = validated_data.get('subfamily', instance.subfamily)
         instance.family = validated_data.get('family', instance.family)
         instance.order = validated_data.get('order', instance.order)
-        instance.class_name = validated_data.get('class', instance.class_name)
+        instance.class_name = validated_data.get('class_name', instance.class_name)
         instance.phylum = validated_data.get('phylum', instance.phylum)
         instance.ncbi_id = validated_data.get('ncbi_id', instance.ncbi_id)
         instance.save()
