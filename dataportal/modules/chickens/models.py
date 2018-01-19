@@ -110,7 +110,10 @@ class Animal(models.Model):
     species = models.ForeignKey('animals.Species', related_name='chickens')
 
     def __str__(self):
-        return self.animal_id
+        return '{} {}'.format(
+            self.species.common_name,
+            self.animal_id
+        )
 
     @cached_property
     def relatives(self):

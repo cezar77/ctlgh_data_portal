@@ -46,8 +46,11 @@ INSTALLED_APPS = [
     'django.contrib.gis',
     # third-party apps
     'rest_framework',
+    # own third-party apps
+    'boundaries',
     # custom apps
     'dataportal.modules.animals',
+    'dataportal.modules.sheep',
     #'dataportal.apps.studies',
     #'dataportal.apps.chickens',
 ]
