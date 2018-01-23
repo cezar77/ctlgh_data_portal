@@ -1,4 +1,5 @@
 from django.contrib.gis.db import models
+from django.contrib.gis.geos import Point
 from django.contrib.postgres import fields as pg_fields
 from django.contrib.contenttypes.fields import GenericForeignKey
 from django.utils.functional import cached_property
@@ -76,7 +77,7 @@ class Sampling(models.Model):
 
     def save(self, *args, **kwargs):
         self.geolocation = Point(float(self.longitude), float(self.latitude))
-        super(Farm, self).save(*args, **kwargs)
+        super(Sampling, self).save(*args, **kwargs)
 
     
 class Animal(models.Model):
