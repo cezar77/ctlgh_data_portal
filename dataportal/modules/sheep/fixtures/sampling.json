@@ -1,0 +1,194 @@
+[
+    {
+        "model": "sheep.sampling",
+        "pk": 1,
+        "fields": {
+            "date": "2016-05-14",
+            "longitude": 36.2500,
+            "latitude": 7.2667,
+            "altitude": [1788, 1788],
+			"locality": "Bonga",
+            "population": 1,
+            "content_type": 20,
+            "object_id": 600
+        }
+    },
+    {
+        "model": "sheep.sampling",
+        "pk": 2,
+        "fields": {
+            "date": "2016-05-15",
+            "longitude": 39.6908,
+            "latitude": 10.1217,
+            "altitude": [3068, 3068],
+            "locality": "Molale",
+            "population": 2,
+            "content_type": 20,
+            "object_id": 123
+        }
+    },
+    {
+        "model": "sheep.sampling",
+        "pk": 3,
+        "fields": {
+            "date": "2016-05-16",
+            "longitude": 37.8047,
+            "latitude": 7.3528,
+            "altitude": [2324, 2324],
+            "locality": "Doyogena",
+            "population": 3,
+            "content_type": 20,
+            "object_id": 606
+        }
+    },
+    {
+        "model": "sheep.sampling",
+        "pk": 4,
+        "fields": {
+            "date": "2016-05-22",
+            "site": "Communal grazing field",
+            "longitude": 36.9061,
+            "latitude": 11.5258,
+            "altitude": [2490, 2515],
+            "locality": "Gafera",
+            "population": 4,
+            "content_type": 20,
+            "object_id": 46
+        }
+    },
+    {
+        "model": "sheep.sampling",
+        "pk": 5,
+        "fields": {
+            "date": "2016-05-22",
+            "site": "Village",
+            "longitude": 38.8617,
+            "latitude": 8.1439,
+            "altitude": [1555, 1636],
+            "population": 5,
+            "locality": "Shubi Gemo",
+            "content_type": 20,
+            "object_id": 430
+        }
+    },
+    {
+        "model": "sheep.sampling",
+        "pk": 6,
+        "fields": {
+            "date": "2016-06-15",
+            "site": "Village",
+            "longitude": 38.4142,
+            "latitude": 6.4964,
+            "altitude": [1912, 1986],
+            "locality": "Loya",
+            "population": 6,
+            "content_type": 20,
+            "object_id": 628
+        }
+    },
+    {
+        "model": "sheep.sampling",
+        "pk": 7,
+        "fields": {
+            "date": "2016-08-02",
+            "site": "Village",
+            "longitude": 36.2367,
+            "latitude": 10.8422,
+            "altitude": [1186, 1404],
+            "population": 7,
+            "locality": "Gesses",
+            "content_type": 20,
+            "object_id": 187
+        }
+    },
+    {
+        "model": "sheep.sampling",
+        "pk": 8,
+        "fields": {
+            "date": "2016-08-02",
+            "site": "Village",
+            "longitude": 36.3194,
+            "latitude": 10.1944,
+            "altitude": [1304, 1304],
+            "locality": "Kido",
+            "population": 8,
+            "content_type": 20,
+            "object_id": 187
+        }
+    },
+    {
+        "model": "sheep.sampling",
+        "pk": 9,
+        "fields": {
+            "date": "2016-09-08",
+            "site": "Village",
+            "longitude": 39.9069,
+            "latitude": 11.1511,
+            "altitude": [1500, 1500],
+            "locality": "Arabo",
+            "population": 9,
+            "content_type": 20,
+            "object_id": 67
+        }
+    },
+    {
+        "model": "sheep.sampling",
+        "pk": 10,
+        "fields": {
+            "date": "2016-09-09",
+            "site": "Village",
+            "longitude": 39.8333,
+            "latitude": 11.2377,
+            "altitude": [2430, 2450],
+            "locality": "Adane",
+            "population": 10,
+            "content_type": 20,
+            "object_id": 67
+        }
+    },
+    {
+        "model": "sheep.sampling",
+        "pk": 11,
+        "fields": {
+            "date": "2016-09-22",
+            "site": "Village",
+            "longitude": 40.0183,
+            "latitude": 9.5122,
+            "altitude": [890, 890],
+            "locality": "Kefis",
+            "population": 11,
+            "content_type": 20,
+            "object_id": 31
+        }
+    },
+    {
+        "model": "sheep.sampling",
+        "pk": 12,
+        "fields": {
+            "date": "2016-09-23",
+            "site": "Village",
+            "longitude": 40.0589,
+            "latitude": 9.2792,
+            "altitude": [740, 740],
+            "locality": "Segentu",
+            "population": 12,
+            "content_type": 20,
+            "object_id": 31
+        }
+    },
+    {
+        "model": "sheep.sampling",
+        "pk": 13,
+        "fields": {
+            "date": "2016-07-18",
+            "site": "Village",
+            "longitude": 15.1025,
+            "latitude": 32.3194,
+            "altitude": [6, 6],
+            "population": 13,
+            "content_type": 15,
+            "object_id": 26
+        }
+    }
+]
+

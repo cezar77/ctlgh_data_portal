@@ -1,0 +1,133 @@
+[
+    {
+        "model": "sheep.population",
+        "pk": 1,
+        "fields": {
+            "mean_litter_size": 1.40,
+            "tail_type": "FT",
+            "tail_shape": "L",
+            "possible_related_breed": "Bonga"
+        }
+    },
+    {
+        "model": "sheep.population",
+        "pk": 2,
+        "fields": {
+            "mean_litter_size": 1.11,
+            "tail_type": "FT",
+            "tail_shape": "S",
+            "further_tail_description": "turned-up at the end",
+            "possible_related_breed": "Menz"
+        }
+    },
+    {
+        "model": "sheep.population",
+        "pk": 3,
+        "fields": {
+            "mean_litter_size": 1.37,
+            "tail_type": "FT",
+            "tail_shape": "L",
+            "possible_related_breed": "Doyogana"
+        }
+    },
+    {
+        "model": "sheep.population",
+        "pk": 4,
+        "fields": {
+            "mean_litter_size": 1.11,
+            "tail_type": "FT",
+            "tail_shape": "S",
+            "possible_related_breed": "Washera"
+        }
+    },
+    {
+        "model": "sheep.population",
+        "pk": 5,
+        "fields": {
+            "mean_litter_size": 1.37,
+            "tail_type": "FT",
+            "tail_shape": "L",
+            "possible_related_breed": "Arsi-Bale"
+        }
+    },
+    {
+        "model": "sheep.population",
+        "pk": 6,
+        "fields": {
+            "mean_litter_size": 1.42,
+            "tail_type": "FT",
+            "tail_shape": "L",
+            "possible_related_breed": "Adilo"
+        }
+    },
+    {
+        "model": "sheep.population",
+        "pk": 7,
+        "fields": {
+            "mean_litter_size": 1.31,
+            "tail_type": "TT",
+            "tail_shape": "L",
+            "possible_related_breed": "Gumz"
+        }
+    },
+    {
+        "model": "sheep.population",
+        "pk": 8,
+        "fields": {
+            "mean_litter_size": 1.31,
+            "tail_type": "TT",
+            "tail_shape": "L",
+            "possible_related_breed": "Gumz"
+        }
+    },
+    {
+        "model": "sheep.population",
+        "pk": 9,
+        "fields": {
+            "mean_litter_size": 1.03,
+            "tail_type": "FR",
+            "further_tail_description": "rump, fat tail",
+            "possible_related_breed": "Afar"
+        }
+    },
+    {
+        "model": "sheep.population",
+        "pk": 10,
+        "fields": {
+            "mean_litter_size": 1.03,
+            "tail_type": "FR",
+            "further_tail_description": "rump, fat tail",
+            "possible_related_breed": "Afar"
+        }
+    },
+    {
+        "model": "sheep.population",
+        "pk": 11,
+        "fields": {
+            "mean_litter_size": 1.03,
+            "tail_type": "FR",
+            "further_tail_description": "rump, fat tail",
+            "possible_related_breed": "Afar"
+        }
+    },
+    {
+        "model": "sheep.population",
+        "pk": 12,
+        "fields": {
+            "mean_litter_size": 1.03,
+            "tail_type": "FR",
+            "further_tail_description": "rump, fat tail",
+            "possible_related_breed": "Afar"
+        }
+    },
+    {
+        "model": "sheep.population",
+        "pk": 13,
+        "fields": {
+            "mean_litter_size": 1.07,
+            "tail_type": "FT",
+            "possible_related_breed": "Lybian Barbary Sheep"
+        }
+    }
+]
+

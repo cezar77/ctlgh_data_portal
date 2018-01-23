@@ -1,0 +1,1740 @@
+[
+    {
+        "pk": "1", 
+        "model": "sheep.animal", 
+        "fields": {
+            "sampling": 1, 
+            "species": 2,
+            "animal_id": "BQ2602"
+        }
+    }, 
+    {
+        "pk": "2", 
+        "model": "sheep.animal", 
+        "fields": {
+            "sampling": 1, 
+            "species": 2,
+            "animal_id": "BQ2609"
+        }
+    }, 
+    {
+        "pk": "3", 
+        "model": "sheep.animal", 
+        "fields": {
+            "sampling": 1, 
+            "species": 2,
+            "animal_id": "BQ2610"
+        }
+    }, 
+    {
+        "pk": "4", 
+        "model": "sheep.animal", 
+        "fields": {
+            "sampling": 1, 
+            "species": 2,
+            "animal_id": "BQ2611"
+        }
+    }, 
+    {
+        "pk": "5", 
+        "model": "sheep.animal", 
+        "fields": {
+            "sampling": 1, 
+            "species": 2,
+            "animal_id": "BQ2614"
+        }
+    }, 
+    {
+        "pk": "6", 
+        "model": "sheep.animal", 
+        "fields": {
+            "sampling": 1, 
+            "species": 2,
+            "animal_id": "BQ2619"
+        }
+    }, 
+    {
+        "pk": "7", 
+        "model": "sheep.animal", 
+        "fields": {
+            "sampling": 1, 
+            "species": 2,
+            "animal_id": "BO2620"
+        }
+    }, 
+    {
+        "pk": "8", 
+        "model": "sheep.animal", 
+        "fields": {
+            "sampling": 1, 
+            "species": 2,
+            "animal_id": "BQ2626"
+        }
+    }, 
+    {
+        "pk": "9", 
+        "model": "sheep.animal", 
+        "fields": {
+            "sampling": 1, 
+            "species": 2,
+            "animal_id": "BQ2627"
+        }
+    }, 
+    {
+        "pk": "10", 
+        "model": "sheep.animal", 
+        "fields": {
+            "sampling": 1, 
+            "species": 2,
+            "animal_id": "BQ2637"
+        }
+    }, 
+    {
+        "pk": "11", 
+        "model": "sheep.animal", 
+        "fields": {
+            "sampling": 1, 
+            "species": 2,
+            "animal_id": "BQ2638"
+        }
+    }, 
+    {
+        "pk": "12", 
+        "model": "sheep.animal", 
+        "fields": {
+            "sampling": 1, 
+            "species": 2,
+            "animal_id": "BQ2643"
+        }
+    }, 
+    {
+        "pk": "13", 
+        "model": "sheep.animal", 
+        "fields": {
+            "sampling": 1, 
+            "species": 2,
+            "animal_id": "BO2660"
+        }
+    }, 
+    {
+        "pk": "14", 
+        "model": "sheep.animal", 
+        "fields": {
+            "sampling": 1, 
+            "species": 2,
+            "animal_id": "BO2661"
+        }
+    }, 
+    {
+        "pk": "15", 
+        "model": "sheep.animal", 
+        "fields": {
+            "sampling": 1, 
+            "species": 2,
+            "animal_id": "BO2668"
+        }
+    }, 
+    {
+        "pk": "16", 
+        "model": "sheep.animal", 
+        "fields": {
+            "sampling": 2, 
+            "species": 2,
+            "animal_sex": "F", 
+            "animal_id": "WA1308"
+        }
+    }, 
+    {
+        "pk": "17", 
+        "model": "sheep.animal", 
+        "fields": {
+            "sampling": 2, 
+            "species": 2,
+            "animal_sex": "F", 
+            "animal_id": "WA1319"
+        }
+    }, 
+    {
+        "pk": "18", 
+        "model": "sheep.animal", 
+        "fields": {
+            "sampling": 2, 
+            "species": 2,
+            "animal_sex": "F", 
+            "animal_id": "WA1322"
+        }
+    }, 
+    {
+        "pk": "19", 
+        "model": "sheep.animal", 
+        "fields": {
+            "sampling": 2, 
+            "species": 2,
+            "animal_sex": "F", 
+            "animal_id": "WA1323"
+        }
+    }, 
+    {
+        "pk": "20", 
+        "model": "sheep.animal", 
+        "fields": {
+            "sampling": 2, 
+            "species": 2,
+            "animal_sex": "F", 
+            "animal_id": "WA1324"
+        }
+    }, 
+    {
+        "pk": "21", 
+        "model": "sheep.animal", 
+        "fields": {
+            "sampling": 2, 
+            "species": 2,
+            "animal_sex": "F", 
+            "animal_id": "WA1325"
+        }
+    }, 
+    {
+        "pk": "22", 
+        "model": "sheep.animal", 
+        "fields": {
+            "sampling": 2, 
+            "species": 2,
+            "animal_sex": "F", 
+            "animal_id": "WA1327"
+        }
+    }, 
+    {
+        "pk": "23", 
+        "model": "sheep.animal", 
+        "fields": {
+            "sampling": 2, 
+            "species": 2,
+            "animal_sex": "F", 
+            "animal_id": "WA1332"
+        }
+    }, 
+    {
+        "pk": "24", 
+        "model": "sheep.animal", 
+        "fields": {
+            "sampling": 2, 
+            "species": 2,
+            "animal_sex": "F", 
+            "animal_id": "WA1333"
+        }
+    }, 
+    {
+        "pk": "25", 
+        "model": "sheep.animal", 
+        "fields": {
+            "sampling": 2, 
+            "species": 2,
+            "animal_sex": "M", 
+            "animal_id": "WA1335"
+        }
+    }, 
+    {
+        "pk": "26", 
+        "model": "sheep.animal", 
+        "fields": {
+            "sampling": 2, 
+            "species": 2,
+            "animal_sex": "F", 
+            "animal_id": "WA1339"
+        }
+    }, 
+    {
+        "pk": "27", 
+        "model": "sheep.animal", 
+        "fields": {
+            "sampling": 2, 
+            "species": 2,
+            "animal_sex": "F", 
+            "animal_id": "WA1341"
+        }
+    }, 
+    {
+        "pk": "28", 
+        "model": "sheep.animal", 
+        "fields": {
+            "sampling": 2, 
+            "species": 2,
+            "animal_sex": "F", 
+            "animal_id": "WA1343"
+        }
+    }, 
+    {
+        "pk": "29", 
+        "model": "sheep.animal", 
+        "fields": {
+            "sampling": 2, 
+            "species": 2,
+            "animal_sex": "F", 
+            "animal_id": "WA1345"
+        }
+    }, 
+    {
+        "pk": "30", 
+        "model": "sheep.animal", 
+        "fields": {
+            "sampling": 2, 
+            "species": 2,
+            "animal_sex": "F", 
+            "animal_id": "WA2829"
+        }
+    }, 
+    {
+        "pk": "31", 
+        "model": "sheep.animal", 
+        "fields": {
+            "sampling": 3, 
+            "species": 2,
+            "animal_sex": "M", 
+            "animal_id": "MZ2601"
+        }
+    }, 
+    {
+        "pk": "32", 
+        "model": "sheep.animal", 
+        "fields": {
+            "sampling": 3, 
+            "species": 2,
+            "animal_sex": "F", 
+            "animal_id": "MZ2608"
+        }
+    }, 
+    {
+        "pk": "33", 
+        "model": "sheep.animal", 
+        "fields": {
+            "sampling": 3, 
+            "species": 2,
+            "animal_sex": "F", 
+            "animal_id": "MZ2617"
+        }
+    }, 
+    {
+        "pk": "34", 
+        "model": "sheep.animal", 
+        "fields": {
+            "sampling": 3, 
+            "species": 2,
+            "animal_sex": "M", 
+            "animal_id": "MZ2622"
+        }
+    }, 
+    {
+        "pk": "35", 
+        "model": "sheep.animal", 
+        "fields": {
+            "sampling": 3, 
+            "species": 2,
+            "animal_sex": "F", 
+            "animal_id": "MZ2623"
+        }
+    }, 
+    {
+        "pk": "36", 
+        "model": "sheep.animal", 
+        "fields": {
+            "sampling": 3, 
+            "species": 2,
+            "animal_sex": "F", 
+            "animal_id": "MZ2628"
+        }
+    }, 
+    {
+        "pk": "37", 
+        "model": "sheep.animal", 
+        "fields": {
+            "sampling": 3, 
+            "species": 2,
+            "animal_sex": "M", 
+            "animal_id": "MZ2630"
+        }
+    }, 
+    {
+        "pk": "38", 
+        "model": "sheep.animal", 
+        "fields": {
+            "sampling": 3, 
+            "species": 2,
+            "animal_sex": "M", 
+            "animal_id": "MZ2631"
+        }
+    }, 
+    {
+        "pk": "39", 
+        "model": "sheep.animal", 
+        "fields": {
+            "sampling": 3, 
+            "species": 2,
+            "animal_sex": "F", 
+            "animal_id": "MZ2633"
+        }
+    }, 
+    {
+        "pk": "40", 
+        "model": "sheep.animal", 
+        "fields": {
+            "sampling": 3, 
+            "species": 2,
+            "animal_sex": "F", 
+            "animal_id": "MZ2634"
+        }
+    }, 
+    {
+        "pk": "41", 
+        "model": "sheep.animal", 
+        "fields": {
+            "sampling": 3, 
+            "species": 2,
+            "animal_sex": "F", 
+            "animal_id": "MZ2642"
+        }
+    }, 
+    {
+        "pk": "42", 
+        "model": "sheep.animal", 
+        "fields": {
+            "sampling": 3, 
+            "species": 2,
+            "animal_sex": "F", 
+            "animal_id": "MZ2644"
+        }
+    }, 
+    {
+        "pk": "43", 
+        "model": "sheep.animal", 
+        "fields": {
+            "sampling": 3, 
+            "species": 2,
+            "animal_sex": "M", 
+            "animal_id": "MZ2645"
+        }
+    }, 
+    {
+        "pk": "44", 
+        "model": "sheep.animal", 
+        "fields": {
+            "sampling": 3, 
+            "species": 2,
+            "animal_sex": "F", 
+            "animal_id": "MZ2646"
+        }
+    }, 
+    {
+        "pk": "45", 
+        "model": "sheep.animal", 
+        "fields": {
+            "sampling": 3, 
+            "species": 2,
+            "animal_sex": "M", 
+            "animal_id": "MZ2649"
+        }
+    }, 
+    {
+        "pk": "46", 
+        "model": "sheep.animal", 
+        "fields": {
+            "sampling": 4, 
+            "species": 2,
+            "animal_id": "DH2651"
+        }
+    }, 
+    {
+        "pk": "47", 
+        "model": "sheep.animal", 
+        "fields": {
+            "sampling": 4, 
+            "species": 2,
+            "animal_id": "DA2653"
+        }
+    }, 
+    {
+        "pk": "48", 
+        "model": "sheep.animal", 
+        "fields": {
+            "sampling": 4, 
+            "species": 2,
+            "animal_id": "DA2655"
+        }
+    }, 
+    {
+        "pk": "49", 
+        "model": "sheep.animal", 
+        "fields": {
+            "sampling": 4, 
+            "species": 2,
+            "animal_id": "DA2657"
+        }
+    }, 
+    {
+        "pk": "50", 
+        "model": "sheep.animal", 
+        "fields": {
+            "sampling": 4, 
+            "species": 2,
+            "animal_id": "DH2664"
+        }
+    }, 
+    {
+        "pk": "51", 
+        "model": "sheep.animal", 
+        "fields": {
+            "sampling": 4, 
+            "species": 2,
+            "animal_id": "DH2667"
+        }
+    }, 
+    {
+        "pk": "52", 
+        "model": "sheep.animal", 
+        "fields": {
+            "sampling": 4, 
+            "species": 2,
+            "animal_id": "DA2669"
+        }
+    }, 
+    {
+        "pk": "53", 
+        "model": "sheep.animal", 
+        "fields": {
+            "sampling": 4, 
+            "species": 2,
+            "animal_id": "DA2670"
+        }
+    }, 
+    {
+        "pk": "54", 
+        "model": "sheep.animal", 
+        "fields": {
+            "sampling": 4, 
+            "species": 2,
+            "animal_id": "DH2677"
+        }
+    }, 
+    {
+        "pk": "55", 
+        "model": "sheep.animal", 
+        "fields": {
+            "sampling": 4, 
+            "species": 2,
+            "animal_id": "DH2679"
+        }
+    }, 
+    {
+        "pk": "56", 
+        "model": "sheep.animal", 
+        "fields": {
+            "sampling": 4, 
+            "species": 2,
+            "animal_id": "DA2685"
+        }
+    }, 
+    {
+        "pk": "57", 
+        "model": "sheep.animal", 
+        "fields": {
+            "sampling": 4, 
+            "species": 2,
+            "animal_id": "DH2688"
+        }
+    }, 
+    {
+        "pk": "58", 
+        "model": "sheep.animal", 
+        "fields": {
+            "sampling": 4, 
+            "species": 2,
+            "animal_id": "DA2689"
+        }
+    }, 
+    {
+        "pk": "59", 
+        "model": "sheep.animal", 
+        "fields": {
+            "sampling": 4, 
+            "species": 2,
+            "animal_id": "DA2692"
+        }
+    }, 
+    {
+        "pk": "60", 
+        "model": "sheep.animal", 
+        "fields": {
+            "sampling": 4, 
+            "species": 2,
+            "animal_id": "DH2693"
+        }
+    }, 
+    {
+        "pk": "61", 
+        "model": "sheep.animal", 
+        "fields": {
+            "sampling": 5, 
+            "species": 2,
+            "animal_id": "LA1304"
+        }
+    }, 
+    {
+        "pk": "62", 
+        "model": "sheep.animal", 
+        "fields": {
+            "sampling": 5, 
+            "species": 2,
+            "animal_id": "LA1305"
+        }
+    }, 
+    {
+        "pk": "63", 
+        "model": "sheep.animal", 
+        "fields": {
+            "sampling": 5, 
+            "species": 2,
+            "animal_id": "LA1307"
+        }
+    }, 
+    {
+        "pk": "64", 
+        "model": "sheep.animal", 
+        "fields": {
+            "sampling": 5, 
+            "species": 2,
+            "animal_id": "LA1310"
+        }
+    }, 
+    {
+        "pk": "65", 
+        "model": "sheep.animal", 
+        "fields": {
+            "sampling": 5, 
+            "species": 2,
+            "animal_id": "LA1311"
+        }
+    }, 
+    {
+        "pk": "66", 
+        "model": "sheep.animal", 
+        "fields": {
+            "sampling": 5, 
+            "species": 2,
+            "animal_id": "LA1313"
+        }
+    }, 
+    {
+        "pk": "67", 
+        "model": "sheep.animal", 
+        "fields": {
+            "sampling": 5, 
+            "species": 2,
+            "animal_id": "LA1314"
+        }
+    }, 
+    {
+        "pk": "68", 
+        "model": "sheep.animal", 
+        "fields": {
+            "sampling": 5, 
+            "species": 2,
+            "animal_id": "LA1330"
+        }
+    }, 
+    {
+        "pk": "69", 
+        "model": "sheep.animal", 
+        "fields": {
+            "sampling": 5, 
+            "species": 2,
+            "animal_id": "LA1338"
+        }
+    }, 
+    {
+        "pk": "70", 
+        "model": "sheep.animal", 
+        "fields": {
+            "sampling": 5, 
+            "species": 2,
+            "animal_id": "LA1344"
+        }
+    }, 
+    {
+        "pk": "71", 
+        "model": "sheep.animal", 
+        "fields": {
+            "sampling": 5, 
+            "species": 2,
+            "animal_id": "LA2809"
+        }
+    }, 
+    {
+        "pk": "72", 
+        "model": "sheep.animal", 
+        "fields": {
+            "sampling": 5, 
+            "species": 2,
+            "animal_id": "LA2814"
+        }
+    }, 
+    {
+        "pk": "73", 
+        "model": "sheep.animal", 
+        "fields": {
+            "sampling": 5, 
+            "species": 2,
+            "animal_id": "LA2817"
+        }
+    }, 
+    {
+        "pk": "74", 
+        "model": "sheep.animal", 
+        "fields": {
+            "sampling": 5, 
+            "species": 2,
+            "animal_id": "LA2821"
+        }
+    }, 
+    {
+        "pk": "75", 
+        "model": "sheep.animal", 
+        "fields": {
+            "sampling": 5, 
+            "species": 2,
+            "animal_id": "LA2822"
+        }
+    }, 
+    {
+        "pk": "76", 
+        "model": "sheep.animal", 
+        "fields": {
+            "sampling": 6, 
+            "species": 2,
+            "animal_id": "KO2768"
+        }
+    }, 
+    {
+        "pk": "77", 
+        "model": "sheep.animal", 
+        "fields": {
+            "sampling": 6, 
+            "species": 2,
+            "animal_id": "KO2765"
+        }
+    }, 
+    {
+        "pk": "78", 
+        "model": "sheep.animal", 
+        "fields": {
+            "sampling": 6, 
+            "species": 2,
+            "animal_id": "KO2766"
+        }
+    }, 
+    {
+        "pk": "79", 
+        "model": "sheep.animal", 
+        "fields": {
+            "sampling": 6, 
+            "species": 2,
+            "animal_id": "KO2767"
+        }
+    }, 
+    {
+        "pk": "80", 
+        "model": "sheep.animal", 
+        "fields": {
+            "sampling": 6, 
+            "species": 2,
+            "animal_id": "KO2771"
+        }
+    }, 
+    {
+        "pk": "81", 
+        "model": "sheep.animal", 
+        "fields": {
+            "sampling": 6, 
+            "species": 2,
+            "animal_id": "KO2773"
+        }
+    }, 
+    {
+        "pk": "82", 
+        "model": "sheep.animal", 
+        "fields": {
+            "sampling": 6, 
+            "species": 2,
+            "animal_id": "KO2774"
+        }
+    }, 
+    {
+        "pk": "83", 
+        "model": "sheep.animal", 
+        "fields": {
+            "sampling": 6, 
+            "species": 2,
+            "animal_id": "KO2775"
+        }
+    }, 
+    {
+        "pk": "84", 
+        "model": "sheep.animal", 
+        "fields": {
+            "sampling": 6, 
+            "species": 2,
+            "animal_id": "KO2789"
+        }
+    }, 
+    {
+        "pk": "85", 
+        "model": "sheep.animal", 
+        "fields": {
+            "sampling": 6, 
+            "species": 2,
+            "animal_id": "KO2791"
+        }
+    }, 
+    {
+        "pk": "86", 
+        "model": "sheep.animal", 
+        "fields": {
+            "sampling": 7, 
+            "species": 2,
+            "animal_id": "GGD2795"
+        }
+    }, 
+    {
+        "pk": "87", 
+        "model": "sheep.animal", 
+        "fields": {
+            "sampling": 7, 
+            "species": 2,
+            "animal_id": "GGD2796"
+        }
+    }, 
+    {
+        "pk": "88", 
+        "model": "sheep.animal", 
+        "fields": {
+            "sampling": 7, 
+            "species": 2,
+            "animal_id": "GGD2799"
+        }
+    }, 
+    {
+        "pk": "89", 
+        "model": "sheep.animal", 
+        "fields": {
+            "sampling": 7, 
+            "species": 2,
+            "animal_id": "GGD2770"
+        }
+    }, 
+    {
+        "pk": "90", 
+        "model": "sheep.animal", 
+        "fields": {
+            "sampling": 7, 
+            "species": 2,
+            "animal_id": "GGD2797"
+        }
+    }, 
+    {
+        "pk": "91", 
+        "model": "sheep.animal", 
+        "fields": {
+            "sampling": 7, 
+            "species": 2,
+            "animal_id": "GGD2781"
+        }
+    }, 
+    {
+        "pk": "92", 
+        "model": "sheep.animal", 
+        "fields": {
+            "sampling": 7, 
+            "species": 2,
+            "animal_id": "GGD2777"
+        }
+    }, 
+    {
+        "pk": "93", 
+        "model": "sheep.animal", 
+        "fields": {
+            "sampling": 7, 
+            "species": 2,
+            "animal_id": "GGD2780"
+        }
+    }, 
+    {
+        "pk": "94", 
+        "model": "sheep.animal", 
+        "fields": {
+            "sampling": 7, 
+            "species": 2,
+            "animal_id": "GGD2772"
+        }
+    }, 
+    {
+        "pk": "95", 
+        "model": "sheep.animal", 
+        "fields": {
+            "sampling": 7, 
+            "species": 2,
+            "animal_id": "GGD2794"
+        }
+    }, 
+    {
+        "pk": "96", 
+        "model": "sheep.animal", 
+        "fields": {
+            "sampling": 8, 
+            "species": 2,
+            "animal_sex": "M", 
+            "animal_id": "SHG2831"
+        }
+    }, 
+    {
+        "pk": "97", 
+        "model": "sheep.animal", 
+        "fields": {
+            "sampling": 8, 
+            "species": 2,
+            "animal_sex": "F", 
+            "animal_id": "SHG2825"
+        }
+    }, 
+    {
+        "pk": "98", 
+        "model": "sheep.animal", 
+        "fields": {
+            "sampling": 8, 
+            "species": 2,
+            "animal_sex": "M", 
+            "animal_id": "SHG2836"
+        }
+    }, 
+    {
+        "pk": "99", 
+        "model": "sheep.animal", 
+        "fields": {
+            "sampling": 8, 
+            "species": 2,
+            "animal_sex": "F", 
+            "animal_id": "SHG2830"
+        }
+    }, 
+    {
+        "pk": "100", 
+        "model": "sheep.animal", 
+        "fields": {
+            "sampling": 8, 
+            "species": 2,
+            "animal_sex": "F", 
+            "animal_id": "SHG2818"
+        }
+    }, 
+    {
+        "pk": "101", 
+        "model": "sheep.animal", 
+        "fields": {
+            "sampling": 8, 
+            "species": 2,
+            "animal_sex": "F", 
+            "animal_id": "SHG2838"
+        }
+    }, 
+    {
+        "pk": "102", 
+        "model": "sheep.animal", 
+        "fields": {
+            "sampling": 8, 
+            "species": 2,
+            "animal_sex": "F", 
+            "animal_id": "SHG2832"
+        }
+    }, 
+    {
+        "pk": "103", 
+        "model": "sheep.animal", 
+        "fields": {
+            "sampling": 8, 
+            "species": 2,
+            "animal_sex": "F", 
+            "animal_id": "SHG2847"
+        }
+    }, 
+    {
+        "pk": "104", 
+        "model": "sheep.animal", 
+        "fields": {
+            "sampling": 8, 
+            "species": 2,
+            "animal_sex": "M", 
+            "animal_id": "SHG2843"
+        }
+    }, 
+    {
+        "pk": "105", 
+        "model": "sheep.animal", 
+        "fields": {
+            "sampling": 8, 
+            "species": 2,
+            "animal_sex": "M", 
+            "animal_id": "SHG2840"
+        }
+    }, 
+    {
+        "pk": "106", 
+        "model": "sheep.animal", 
+        "fields": {
+            "sampling": 8, 
+            "species": 2,
+            "animal_sex": "F", 
+            "animal_id": "SHG2834"
+        }
+    }, 
+    {
+        "pk": "107", 
+        "model": "sheep.animal", 
+        "fields": {
+            "sampling": 8, 
+            "species": 2,
+            "animal_sex": "F", 
+            "animal_id": "SHG2819"
+        }
+    }, 
+    {
+        "pk": "108", 
+        "model": "sheep.animal", 
+        "fields": {
+            "sampling": 8, 
+            "species": 2,
+            "animal_sex": "M", 
+            "animal_id": "SHG2837"
+        }
+    }, 
+    {
+        "pk": "109", 
+        "model": "sheep.animal", 
+        "fields": {
+            "sampling": 8, 
+            "species": 2,
+            "animal_sex": "F", 
+            "animal_id": "SHG2826"
+        }
+    }, 
+    {
+        "pk": "110", 
+        "model": "sheep.animal", 
+        "fields": {
+            "sampling": 8, 
+            "species": 2,
+            "animal_sex": "F", 
+            "animal_id": "SHG2807"
+        }
+    }, 
+    {
+        "pk": "111", 
+        "model": "sheep.animal", 
+        "fields": {
+            "sampling": 9, 
+            "species": 2,
+            "animal_id": "FKD2704"
+        }
+    }, 
+    {
+        "pk": "112", 
+        "model": "sheep.animal", 
+        "fields": {
+            "sampling": 9, 
+            "species": 2,
+            "animal_id": "FKD2798"
+        }
+    }, 
+    {
+        "pk": "113", 
+        "model": "sheep.animal", 
+        "fields": {
+            "sampling": 9, 
+            "species": 2,
+            "animal_id": "FKD2710"
+        }
+    }, 
+    {
+        "pk": "114", 
+        "model": "sheep.animal", 
+        "fields": {
+            "sampling": 9, 
+            "species": 2,
+            "animal_id": "FKD2769"
+        }
+    }, 
+    {
+        "pk": "115", 
+        "model": "sheep.animal", 
+        "fields": {
+            "sampling": 9, 
+            "species": 2,
+            "animal_id": "FKD2790"
+        }
+    }, 
+    {
+        "pk": "116", 
+        "model": "sheep.animal", 
+        "fields": {
+            "sampling": 9, 
+            "species": 2,
+            "animal_id": "FKD2800"
+        }
+    }, 
+    {
+        "pk": "117", 
+        "model": "sheep.animal", 
+        "fields": {
+            "sampling": 9, 
+            "species": 2,
+            "animal_id": "FKD2746"
+        }
+    }, 
+    {
+        "pk": "118", 
+        "model": "sheep.animal", 
+        "fields": {
+            "sampling": 9, 
+            "species": 2,
+            "animal_id": "FKD2759"
+        }
+    }, 
+    {
+        "pk": "119", 
+        "model": "sheep.animal", 
+        "fields": {
+            "sampling": 9, 
+            "species": 2,
+            "animal_id": "FKD2712"
+        }
+    }, 
+    {
+        "pk": "120", 
+        "model": "sheep.animal", 
+        "fields": {
+            "sampling": 9, 
+            "species": 2,
+            "animal_id": "FKD2702"
+        }
+    }, 
+    {
+        "pk": "121", 
+        "model": "sheep.animal", 
+        "fields": {
+            "sampling": 9, 
+            "species": 2,
+            "animal_id": "FKD2757"
+        }
+    }, 
+    {
+        "pk": "122", 
+        "model": "sheep.animal", 
+        "fields": {
+            "sampling": 9, 
+            "species": 2,
+            "animal_id": "FKD2749"
+        }
+    }, 
+    {
+        "pk": "123", 
+        "model": "sheep.animal", 
+        "fields": {
+            "sampling": 9, 
+            "species": 2,
+            "animal_id": "FKD2783"
+        }
+    }, 
+    {
+        "pk": "124", 
+        "model": "sheep.animal", 
+        "fields": {
+            "sampling": 10, 
+            "species": 2,
+            "animal_id": "FSG2706"
+        }
+    }, 
+    {
+        "pk": "125", 
+        "model": "sheep.animal", 
+        "fields": {
+            "sampling": 10, 
+            "species": 2,
+            "animal_id": "FSG2736"
+        }
+    }, 
+    {
+        "pk": "126", 
+        "model": "sheep.animal", 
+        "fields": {
+            "sampling": 10, 
+            "species": 2,
+            "animal_id": "FSG2761"
+        }
+    }, 
+    {
+        "pk": "127", 
+        "model": "sheep.animal", 
+        "fields": {
+            "sampling": 10, 
+            "species": 2,
+            "animal_id": "FSG2786"
+        }
+    }, 
+    {
+        "pk": "128", 
+        "model": "sheep.animal", 
+        "fields": {
+            "sampling": 10, 
+            "species": 2,
+            "animal_id": "FSG2760"
+        }
+    }, 
+    {
+        "pk": "129", 
+        "model": "sheep.animal", 
+        "fields": {
+            "sampling": 10, 
+            "species": 2,
+            "animal_id": "FSG2753"
+        }
+    }, 
+    {
+        "pk": "130", 
+        "model": "sheep.animal", 
+        "fields": {
+            "sampling": 11, 
+            "species": 2,
+            "animal_id": "AKR2950"
+        }
+    }, 
+    {
+        "pk": "131", 
+        "model": "sheep.animal", 
+        "fields": {
+            "sampling": 11, 
+            "species": 2,
+            "animal_id": "AKR2918"
+        }
+    }, 
+    {
+        "pk": "132", 
+        "model": "sheep.animal", 
+        "fields": {
+            "sampling": 11, 
+            "species": 2,
+            "animal_id": "AKR2930"
+        }
+    }, 
+    {
+        "pk": "133", 
+        "model": "sheep.animal", 
+        "fields": {
+            "sampling": 11, 
+            "species": 2,
+            "animal_id": "AKR2916"
+        }
+    }, 
+    {
+        "pk": "134", 
+        "model": "sheep.animal", 
+        "fields": {
+            "sampling": 11, 
+            "species": 2,
+            "animal_id": "AKR2915"
+        }
+    }, 
+    {
+        "pk": "135", 
+        "model": "sheep.animal", 
+        "fields": {
+            "sampling": 11, 
+            "species": 2,
+            "animal_id": "AKR2917"
+        }
+    }, 
+    {
+        "pk": "136", 
+        "model": "sheep.animal", 
+        "fields": {
+            "sampling": 11, 
+            "species": 2,
+            "animal_id": "AKR2926"
+        }
+    }, 
+    {
+        "pk": "137", 
+        "model": "sheep.animal", 
+        "fields": {
+            "sampling": 11, 
+            "species": 2,
+            "animal_id": "AKR2941"
+        }
+    }, 
+    {
+        "pk": "138", 
+        "model": "sheep.animal", 
+        "fields": {
+            "sampling": 11, 
+            "species": 2,
+            "animal_id": "AKR2934"
+        }
+    }, 
+    {
+        "pk": "139", 
+        "model": "sheep.animal", 
+        "fields": {
+            "sampling": 11, 
+            "species": 2,
+            "animal_id": "AKR2947"
+        }
+    }, 
+    {
+        "pk": "140", 
+        "model": "sheep.animal", 
+        "fields": {
+            "sampling": 12, 
+            "species": 2,
+            "animal_id": "AKD2942"
+        }
+    }, 
+    {
+        "pk": "141", 
+        "model": "sheep.animal", 
+        "fields": {
+            "sampling": 12, 
+            "species": 2,
+            "animal_id": "AKD2925"
+        }
+    }, 
+    {
+        "pk": "142", 
+        "model": "sheep.animal", 
+        "fields": {
+            "sampling": 12, 
+            "species": 2,
+            "animal_id": "AKD2940"
+        }
+    }, 
+    {
+        "pk": "143", 
+        "model": "sheep.animal", 
+        "fields": {
+            "sampling": 12, 
+            "species": 2,
+            "animal_id": "AKD2904"
+        }
+    }, 
+    {
+        "pk": "144", 
+        "model": "sheep.animal", 
+        "fields": {
+            "sampling": 12, 
+            "species": 2,
+            "animal_id": "AKD2949"
+        }
+    }, 
+    {
+        "pk": "145", 
+        "model": "sheep.animal", 
+        "fields": {
+            "sampling": 12, 
+            "species": 2,
+            "animal_id": "AKD2948"
+        }
+    }, 
+    {
+        "pk": "146", 
+        "model": "sheep.animal", 
+        "fields": {
+            "sampling": 12, 
+            "species": 2,
+            "animal_id": "AKD2921"
+        }
+    }, 
+    {
+        "pk": "147", 
+        "model": "sheep.animal", 
+        "fields": {
+            "sampling": 12, 
+            "species": 2,
+            "animal_id": "AKD2936"
+        }
+    }, 
+    {
+        "pk": "148", 
+        "model": "sheep.animal", 
+        "fields": {
+            "sampling": 12, 
+            "species": 2,
+            "animal_id": "AKD2920"
+        }
+    }, 
+    {
+        "pk": "149", 
+        "model": "sheep.animal", 
+        "fields": {
+            "sampling": 12, 
+            "species": 2,
+            "animal_id": "AKD2939"
+        }
+    }, 
+    {
+        "pk": "150", 
+        "model": "sheep.animal", 
+        "fields": {
+            "sampling": 12, 
+            "species": 2,
+            "animal_id": "AKD2923"
+        }
+    }, 
+    {
+        "pk": "151", 
+        "model": "sheep.animal", 
+        "fields": {
+            "sampling": 12, 
+            "species": 2,
+            "animal_id": "AKD2901"
+        }
+    }, 
+    {
+        "pk": "152", 
+        "model": "sheep.animal", 
+        "fields": {
+            "sampling": 13, 
+            "species": 2,
+            "animal_id": "LBR2859"
+        }
+    }, 
+    {
+        "pk": "153", 
+        "model": "sheep.animal", 
+        "fields": {
+            "sampling": 13, 
+            "species": 2,
+            "animal_id": "LBR2860"
+        }
+    }, 
+    {
+        "pk": "154", 
+        "model": "sheep.animal", 
+        "fields": {
+            "sampling": 13, 
+            "species": 2,
+            "animal_id": "LBR2861"
+        }
+    }, 
+    {
+        "pk": "155", 
+        "model": "sheep.animal", 
+        "fields": {
+            "sampling": 13, 
+            "species": 2,
+            "animal_id": "LBR2864"
+        }
+    }, 
+    {
+        "pk": "156", 
+        "model": "sheep.animal", 
+        "fields": {
+            "sampling": 13, 
+            "species": 2,
+            "animal_id": "LBR2865"
+        }
+    }, 
+    {
+        "pk": "157", 
+        "model": "sheep.animal", 
+        "fields": {
+            "sampling": 13, 
+            "species": 2,
+            "animal_id": "LBR2856"
+        }
+    }, 
+    {
+        "pk": "158", 
+        "model": "sheep.animal", 
+        "fields": {
+            "sampling": 13, 
+            "species": 2,
+            "animal_id": "LBR2858"
+        }
+    }, 
+    {
+        "pk": "159", 
+        "model": "sheep.animal", 
+        "fields": {
+            "sampling": 13, 
+            "species": 2,
+            "animal_id": "LBR2852"
+        }
+    }, 
+    {
+        "pk": "160", 
+        "model": "sheep.animal", 
+        "fields": {
+            "sampling": 13, 
+            "species": 2,
+            "animal_id": "LBR2890"
+        }
+    }, 
+    {
+        "pk": "161", 
+        "model": "sheep.animal", 
+        "fields": {
+            "sampling": 13, 
+            "species": 2,
+            "animal_id": "LBRDO55"
+        }
+    }, 
+    {
+        "pk": "162", 
+        "model": "sheep.animal", 
+        "fields": {
+            "sampling": 13, 
+            "species": 2,
+            "animal_id": "LBRD102"
+        }
+    }, 
+    {
+        "pk": "163", 
+        "model": "sheep.animal", 
+        "fields": {
+            "sampling": 13, 
+            "species": 2,
+            "animal_id": "LBRD103"
+        }
+    }, 
+    {
+        "pk": "164", 
+        "model": "sheep.animal", 
+        "fields": {
+            "sampling": 13, 
+            "species": 2,
+            "animal_id": "LBRD105"
+        }
+    }, 
+    {
+        "pk": "165", 
+        "model": "sheep.animal", 
+        "fields": {
+            "sampling": 13, 
+            "species": 2,
+            "animal_id": "LBRD111"
+        }
+    }, 
+    {
+        "pk": "166", 
+        "model": "sheep.animal", 
+        "fields": {
+            "sampling": 13, 
+            "species": 2,
+            "animal_id": "LBRD107"
+        }
+    }, 
+    {
+        "pk": "167", 
+        "model": "sheep.animal", 
+        "fields": {
+            "sampling": 13, 
+            "species": 2,
+            "animal_id": "LBRD115"
+        }
+    }, 
+    {
+        "pk": "168", 
+        "model": "sheep.animal", 
+        "fields": {
+            "sampling": 13, 
+            "species": 2,
+            "animal_id": "LBRD116"
+        }
+    }, 
+    {
+        "pk": "169", 
+        "model": "sheep.animal", 
+        "fields": {
+            "sampling": 13, 
+            "species": 2,
+            "animal_id": "LBRD120"
+        }
+    }, 
+    {
+        "pk": "170", 
+        "model": "sheep.animal", 
+        "fields": {
+            "sampling": 13, 
+            "species": 2,
+            "animal_id": "LBRD106"
+        }
+    }, 
+    {
+        "pk": "171", 
+        "model": "sheep.animal", 
+        "fields": {
+            "sampling": 13, 
+            "species": 2,
+            "animal_id": "LBRD125"
+        }
+    }, 
+    {
+        "pk": "172", 
+        "model": "sheep.animal", 
+        "fields": {
+            "sampling": 13, 
+            "species": 2,
+            "animal_id": "LBRD132"
+        }
+    }, 
+    {
+        "pk": "173", 
+        "model": "sheep.animal", 
+        "fields": {
+            "sampling": 13, 
+            "species": 2,
+            "animal_id": "LBRD133"
+        }
+    }, 
+    {
+        "pk": "174", 
+        "model": "sheep.animal", 
+        "fields": {
+            "sampling": 13, 
+            "species": 2,
+            "animal_id": "LBRD136"
+        }
+    }, 
+    {
+        "pk": "175", 
+        "model": "sheep.animal", 
+        "fields": {
+            "sampling": 13, 
+            "species": 2,
+            "animal_id": "LBRD140"
+        }
+    }, 
+    {
+        "pk": "176", 
+        "model": "sheep.animal", 
+        "fields": {
+            "sampling": 13, 
+            "species": 2,
+            "animal_id": "LBRD147"
+        }
+    }, 
+    {
+        "pk": "177", 
+        "model": "sheep.animal", 
+        "fields": {
+            "sampling": 13, 
+            "species": 2,
+            "animal_id": "LBRD148"
+        }
+    }, 
+    {
+        "pk": "178", 
+        "model": "sheep.animal", 
+        "fields": {
+            "sampling": 13, 
+            "species": 2,
+            "animal_id": "LBRD150"
+        }
+    }, 
+    {
+        "pk": "179", 
+        "model": "sheep.animal", 
+        "fields": {
+            "sampling": 13, 
+            "species": 2,
+            "animal_id": "LBRD151"
+        }
+    }, 
+    {
+        "pk": "180", 
+        "model": "sheep.animal", 
+        "fields": {
+            "sampling": 13, 
+            "species": 2,
+            "animal_id": "LBRD152"
+        }
+    }, 
+    {
+        "pk": "181", 
+        "model": "sheep.animal", 
+        "fields": {
+            "sampling": 13, 
+            "species": 2,
+            "animal_id": "LBRD154"
+        }
+    }, 
+    {
+        "pk": "182", 
+        "model": "sheep.animal", 
+        "fields": {
+            "sampling": 13, 
+            "species": 2,
+            "animal_id": "LBRD156"
+        }
+    }, 
+    {
+        "pk": "183", 
+        "model": "sheep.animal", 
+        "fields": {
+            "sampling": 13, 
+            "species": 2,
+            "animal_id": "LBRD160"
+        }
+    }, 
+    {
+        "pk": "184", 
+        "model": "sheep.animal", 
+        "fields": {
+            "sampling": 13, 
+            "species": 2,
+            "animal_id": "LBRD162"
+        }
+    }, 
+    {
+        "pk": "185", 
+        "model": "sheep.animal", 
+        "fields": {
+            "sampling": 13, 
+            "species": 2,
+            "animal_id": "LBRD165"
+        }
+    }, 
+    {
+        "pk": "186", 
+        "model": "sheep.animal", 
+        "fields": {
+            "sampling": 13, 
+            "species": 2,
+            "animal_id": "LBRD171"
+        }
+    }, 
+    {
+        "pk": "187", 
+        "model": "sheep.animal", 
+        "fields": {
+            "sampling": 13, 
+            "species": 2,
+            "animal_id": "LBRD172"
+        }
+    }, 
+    {
+        "pk": "188", 
+        "model": "sheep.animal", 
+        "fields": {
+            "sampling": 13, 
+            "species": 2,
+            "animal_id": "LBRD185"
+        }
+    }
+]
+
