@@ -1,8 +1,9 @@
-from django.views.generic import ListView
+from django_tables2 import SingleTableView
 
 from .models import Population, Sampling, Animal
+from .tables import SamplingTable
 
 
-class SamplingList(ListView):
+class SamplingList(SingleTableView):
     model = Sampling
-    context_object_name = 'samplings'
+    table_class = SamplingTable
