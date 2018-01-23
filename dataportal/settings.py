@@ -47,6 +47,7 @@ INSTALLED_APPS = [
     # third-party apps
     'rest_framework',
     'django_tables2',
+    'django_filters',
     # own third-party apps
     'boundaries',
     # custom apps
