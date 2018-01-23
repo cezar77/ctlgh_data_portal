@@ -46,6 +46,7 @@ INSTALLED_APPS = [
     'django.contrib.gis',
     # third-party apps
     'rest_framework',
+    'django_tables2',
     # own third-party apps
     'boundaries',
     # custom apps
