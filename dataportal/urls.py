@@ -21,4 +21,5 @@ urlpatterns = [
     url(r'^boundaries/', include('boundaries.urls')),
     #url(r'^chickens/', include('dataportal.modules.chickens.urls')),
     url(r'^animals/', include('dataportal.modules.animals.urls')),
+    url(r'^sheep/', include('dataportal.modules.sheep.urls')),
 ]

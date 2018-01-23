@@ -1,3 +1,8 @@
-from django.shortcuts import render
+from django.views.generic import ListView
 
-# Create your views here.
+from .models import Population, Sampling, Animal
+
+
+class SamplingList(ListView):
+    model = Sampling
+    context_object_name = 'samplings'
