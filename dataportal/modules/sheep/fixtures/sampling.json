@@ -46,7 +46,7 @@
         "pk": 4,
         "fields": {
             "date": "2016-05-22",
-            "site": "Communal grazing field",
+            "site": "C",
             "longitude": 36.9061,
             "latitude": 11.5258,
             "altitude": [2490, 2516],
@@ -61,7 +61,7 @@
         "pk": 5,
         "fields": {
             "date": "2016-05-22",
-            "site": "Village",
+            "site": "V",
             "longitude": 38.8617,
             "latitude": 8.1439,
             "altitude": [1555, 1637],
@@ -76,7 +76,7 @@
         "pk": 6,
         "fields": {
             "date": "2016-06-15",
-            "site": "Village",
+            "site": "V",
             "longitude": 38.4142,
             "latitude": 6.4964,
             "altitude": [1912, 1987],
@@ -91,7 +91,7 @@
         "pk": 7,
         "fields": {
             "date": "2016-08-02",
-            "site": "Village",
+            "site": "V",
             "longitude": 36.2367,
             "latitude": 10.8422,
             "altitude": [1186, 1405],
@@ -106,7 +106,7 @@
         "pk": 8,
         "fields": {
             "date": "2016-08-02",
-            "site": "Village",
+            "site": "V",
             "longitude": 36.3194,
             "latitude": 10.1944,
             "altitude": [1304, 1305],
@@ -121,7 +121,7 @@
         "pk": 9,
         "fields": {
             "date": "2016-09-08",
-            "site": "Village",
+            "site": "V",
             "longitude": 39.9069,
             "latitude": 11.1511,
             "altitude": [1500, 1501],
@@ -136,7 +136,7 @@
         "pk": 10,
         "fields": {
             "date": "2016-09-09",
-            "site": "Village",
+            "site": "V",
             "longitude": 39.8333,
             "latitude": 11.2377,
             "altitude": [2430, 2451],
@@ -151,7 +151,7 @@
         "pk": 11,
         "fields": {
             "date": "2016-09-22",
-            "site": "Village",
+            "site": "V",
             "longitude": 40.0183,
             "latitude": 9.5122,
             "altitude": [890, 891],
@@ -166,7 +166,7 @@
         "pk": 12,
         "fields": {
             "date": "2016-09-23",
-            "site": "Village",
+            "site": "V",
             "longitude": 40.0589,
             "latitude": 9.2792,
             "altitude": [740, 741],
@@ -181,7 +181,7 @@
         "pk": 13,
         "fields": {
             "date": "2016-07-18",
-            "site": "Village",
+            "site": "V",
             "longitude": 15.1025,
             "latitude": 32.3194,
             "altitude": [6, 7],

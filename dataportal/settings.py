@@ -48,6 +48,7 @@ INSTALLED_APPS = [
     'rest_framework',
     'django_tables2',
     'django_filters',
+    'crispy_forms',
     # own third-party apps
     'boundaries',
     # custom apps
