@@ -1,0 +1,14 @@
+{% extends 'base.html' %}
+{% block main %}
+  <h3 class="text-center">Browse the samples by animal species</h3>
+  <div class="row">
+    {% for sp in species %}
+      <figure class="col-lg-3">
+        <a href="#" class="thumbnail">
+          <img class="img-responsive" src="{{ sp.image.file_url }}" alt="{{ sp.common_name }}">
+        </a>
+        <caption><small>{{ sp.image.attribution|safe }}</small></caption>
+      </figure>
+    {% endfor %}
+  </div>
+{% endblock %}

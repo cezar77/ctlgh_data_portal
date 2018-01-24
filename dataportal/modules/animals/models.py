@@ -47,8 +47,7 @@ class Species(models.Model):
 
     def delete(self, *args, **kwargs):
         self.image.delete()
-        super(Species, self).delete(*args, **kwargs)
-        
+        super(Species, self).delete(*args, **kwargs)        
 
     @cached_property
     def binomial_name(self):
@@ -78,6 +77,10 @@ class Species(models.Model):
             alt=self.image,
             attribution=format_html(self.image.attribution)
         )
+
+    @property
+    def species_homepage(self):
+        return reverse('{}-home'.format(self.common_name.lower()))
 
 
 class Image(models.Model):

@@ -49,9 +49,12 @@ INSTALLED_APPS = [
     'django_tables2',
     'django_filters',
     'crispy_forms',
+    # project
+    'dataportal',
     # own third-party apps
     'boundaries',
     # custom apps
+    'dataportal.modules.core',
     'dataportal.modules.animals',
     'dataportal.modules.sheep',
     #'dataportal.apps.studies',

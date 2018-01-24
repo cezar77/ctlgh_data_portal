@@ -19,6 +19,7 @@ from django.contrib import admin
 urlpatterns = [
     url(r'^admin/', admin.site.urls),
     url(r'^boundaries/', include('boundaries.urls')),
+    url(r'^core/', include('dataportal.modules.core.urls')),
     #url(r'^chickens/', include('dataportal.modules.chickens.urls')),
     url(r'^animals/', include('dataportal.modules.animals.urls')),
     url(r'^sheep/', include('dataportal.modules.sheep.urls')),
