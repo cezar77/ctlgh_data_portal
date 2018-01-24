@@ -4,6 +4,7 @@
         "pk": 1,
         "fields": {
             "date": "2016-05-14",
+            "geolocation": "POINT(36.2500 7.2667)",
             "longitude": 36.2500,
             "latitude": 7.2667,
             "altitude": [1788, 1789],
@@ -18,6 +19,7 @@
         "pk": 2,
         "fields": {
             "date": "2016-05-15",
+            "geolocation": "POINT(39.6908 10.1217)",
             "longitude": 39.6908,
             "latitude": 10.1217,
             "altitude": [3068, 3069],
@@ -32,6 +34,7 @@
         "pk": 3,
         "fields": {
             "date": "2016-05-16",
+            "geolocation": "POINT(37.8047 7.3528)",
             "longitude": 37.8047,
             "latitude": 7.3528,
             "altitude": [2324, 2325],
@@ -47,6 +50,7 @@
         "fields": {
             "date": "2016-05-22",
             "site": "C",
+            "geolocation": "POINT(36.9061 11.5258)",
             "longitude": 36.9061,
             "latitude": 11.5258,
             "altitude": [2490, 2516],
@@ -62,6 +66,7 @@
         "fields": {
             "date": "2016-05-22",
             "site": "V",
+            "geolocation": "POINT(38.8617 8.1439)",
             "longitude": 38.8617,
             "latitude": 8.1439,
             "altitude": [1555, 1637],
@@ -77,6 +82,7 @@
         "fields": {
             "date": "2016-06-15",
             "site": "V",
+            "geolocation": "POINT(38.4142 6.4964)",
             "longitude": 38.4142,
             "latitude": 6.4964,
             "altitude": [1912, 1987],
@@ -92,6 +98,7 @@
         "fields": {
             "date": "2016-08-02",
             "site": "V",
+            "geolocation": "POINT(36.2367 10.8422)",
             "longitude": 36.2367,
             "latitude": 10.8422,
             "altitude": [1186, 1405],
@@ -107,6 +114,7 @@
         "fields": {
             "date": "2016-08-02",
             "site": "V",
+            "geolocation": "POINT(36.3194 10.1944)",
             "longitude": 36.3194,
             "latitude": 10.1944,
             "altitude": [1304, 1305],
@@ -122,6 +130,7 @@
         "fields": {
             "date": "2016-09-08",
             "site": "V",
+            "geolocation": "POINT(39.9069 11.1511)",
             "longitude": 39.9069,
             "latitude": 11.1511,
             "altitude": [1500, 1501],
@@ -137,6 +146,7 @@
         "fields": {
             "date": "2016-09-09",
             "site": "V",
+            "geolocation": "POINT(39.8333 11.2377)",
             "longitude": 39.8333,
             "latitude": 11.2377,
             "altitude": [2430, 2451],
@@ -152,6 +162,7 @@
         "fields": {
             "date": "2016-09-22",
             "site": "V",
+            "geolocation": "POINT(40.0183 9.5122)",
             "longitude": 40.0183,
             "latitude": 9.5122,
             "altitude": [890, 891],
@@ -167,6 +178,7 @@
         "fields": {
             "date": "2016-09-23",
             "site": "V",
+            "geolocation": "POINT(40.0589 9.2792)",
             "longitude": 40.0589,
             "latitude": 9.2792,
             "altitude": [740, 741],
@@ -182,6 +194,7 @@
         "fields": {
             "date": "2016-07-18",
             "site": "V",
+            "geolocation": "POINT(15.1025 32.3194)",
             "longitude": 15.1025,
             "latitude": 32.3194,
             "altitude": [6, 7],
