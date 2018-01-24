@@ -4,6 +4,8 @@ from .models import Sampling
 
 
 class SamplingTable(tables.Table):
+    administrative_area = tables.Column(orderable=False)
+
     class Meta:
         model = Sampling
         template = 'django_tables2/bootstrap.html'
