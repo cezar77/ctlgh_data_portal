@@ -5,7 +5,7 @@
     <div class="col-lg-3">
       {% if filter %}
         <form action="" method="get" class="form form-inline">
-          {{ filter.form|crispy }}
+          {% crispy filter.form %}
           <button type="submit" role="button" class="btn btn-primary">Search</button>
           <a href="{% url 'sampling-list' %}" role="button" class="btn btn-warning">Clear</a>
         </form>
