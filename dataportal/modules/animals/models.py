@@ -80,7 +80,8 @@ class Species(models.Model):
 
     @property
     def species_homepage(self):
-        return reverse('{}-home'.format(self.common_name.lower()))
+        #return reverse('{}-home'.format(self.common_name.lower()))
+        return reverse('animal-list')
 
 
 class Image(models.Model):

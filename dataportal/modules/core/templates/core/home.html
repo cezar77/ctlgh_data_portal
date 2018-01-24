@@ -4,7 +4,7 @@
   <div class="row">
     {% for sp in species %}
       <figure class="col-lg-3">
-        <a href="#" class="thumbnail">
+        <a href="{{ sp.species_homepage }}" class="thumbnail">
           <img class="img-responsive" src="{{ sp.image.file_url }}" alt="{{ sp.common_name }}">
         </a>
         <caption><small>{{ sp.image.attribution|safe }}</small></caption>

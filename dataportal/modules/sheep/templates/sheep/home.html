@@ -1,0 +1,27 @@
+{% extends 'base.html' %}
+{% load django_tables2 crispy_forms_tags %}
+{% block main %}
+  <div class="well well-sm">
+    <h3 class="text-center">Samples for {{ species }}</h3>
+  </div>
+  <div class="row">
+    <div class="col-lg-3">
+      <figure>
+        <img class="img-responsive" src="{{ species.image.file_url }}" alt="{{ object_list.0.species.common_name }}">
+        <caption><small>{{ species.image.attribution|safe }}</small></caption>
+      </figure>
+      {% if filter %}
+        <form action="" method="get" class="form form-inline">
+          {{ filter.form|crispy }}
+          <button type="submit" role="button" class="btn btn-primary">Search</button>
+          <a href="{{ request.path }}" role="button" class="btn btn-warning">Clear</a>
+        </form>
+      {% endif %}
+      <p>NCBI taxonomy: {{ species.ncbi_taxonomy_html }}</p>
+      </p>
+    </div>
+    <div class="col-lg-9">
+      {% render_table table 'django_tables2/bootstrap.html' %}
+    </div>
+  </div>
+{% endblock %}
