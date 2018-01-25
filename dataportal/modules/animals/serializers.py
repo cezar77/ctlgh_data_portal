@@ -1,4 +1,5 @@
 from rest_framework import serializers
+from rest_framework.validators import UniqueValidator
 
 from .models import Species, Image
 
@@ -22,14 +23,22 @@ class ImageSerializer(serializers.HyperlinkedModelSerializer):
 
     def validate_page_url(self, value):
         if self.context['request']._request.method == 'POST':
-            if self.Meta.model.objects.filter(page_url=value).exists():
-                raise serializers.ValidationError('This page URL already exists.')
+            unique = UniqueValidator(
+                self.Meta.model.objects.all(),
+                message='Image with this page URL already exists.'
+            )
+            unique.set_context(self.fields['page_url'])
+            unique(value)
         return value
 
     def validate_file_url(self, value):
         if self.context['request']._request.method == 'POST':
-            if self.Meta.model.objects.filter(file_url=value).exists():
-                raise serializers.ValidationError('This file URL already exists.')
+            unique = UniqueValidator(
+                self.Meta.model.objects.all(),
+                message='Image with this file URL already exists.'
+            )
+            unique.set_context(self.fields['file_url'])
+            unique(value)
         return value
 
 
