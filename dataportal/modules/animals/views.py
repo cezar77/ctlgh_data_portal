@@ -10,6 +10,6 @@ class SpeciesViewSet(viewsets.ModelViewSet):
     lookup_field = 'slug'
 
 
-class ImageViewSet(viewsets.ModelViewSet):
+class ImageViewSet(viewsets.ReadOnlyModelViewSet):
     queryset = Image.objects.all()
     serializer_class = ImageSerializer
