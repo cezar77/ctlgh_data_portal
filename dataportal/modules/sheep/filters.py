@@ -26,7 +26,12 @@ class AnimalFilter(filters.FilterSet):
     )
     sampling__population__mean_litter_size = filters.RangeFilter(
         widget=filters.widgets.RangeWidget(
-            attrs={'type': 'number'}
+            attrs={
+                'type': 'number',
+                'step': 0.01,
+                'min': 0,
+                'max': 10
+            }
         )
     )
 
