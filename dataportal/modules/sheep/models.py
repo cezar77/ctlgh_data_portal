@@ -79,6 +79,16 @@ class Sampling(models.Model):
         self.geolocation = Point(float(self.longitude), float(self.latitude))
         super(Sampling, self).save(*args, **kwargs)
 
+    @cached_property
+    def altitude_display(self):
+        lower = self.altitude.lower
+        upper = self.altitude.upper - 1
+        if lower == upper:
+            display = '{} m a.s.l.'.format(lower)
+        else:
+            display = '{} - {} m a.s.l.'.format(lower, upper)
+        return display
+
     
 class Animal(models.Model):
     SEXES = (
