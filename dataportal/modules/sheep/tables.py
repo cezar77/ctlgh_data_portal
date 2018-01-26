@@ -18,7 +18,7 @@ class SamplingTable(tables.Table):
 
 class AnimalTable(tables.Table):
     id = tables.LinkColumn(
-        viewname='animal-detail',
+        viewname='sheep:animal-detail',
         kwargs={'pk': A('pk')},
         accessor='animal_id',
         orderable=False

@@ -20,7 +20,7 @@ class SamplingList(FilterView, SingleTableView):
 class AnimalList(FilterView, SingleTableView):
     model = Animal
     table_class = AnimalTable
-    template_name = 'sheep/home.html'
+    template_name = 'core/table.html'
 
     filterset_class = AnimalFilter
 

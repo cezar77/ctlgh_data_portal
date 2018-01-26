@@ -38,7 +38,7 @@ class Species(models.Model):
         return '{} ({})'.format(self.common_name, self.binomial_name)
 
     def get_absolute_url(self):
-        return reverse('species-detail', kwargs={'slug': self.slug})
+        return reverse('animals:species-detail', kwargs={'slug': self.slug})
 
     def save(self, *args, **kwargs):
         if not self.pk:
@@ -81,7 +81,7 @@ class Species(models.Model):
     @property
     def species_homepage(self):
         #return reverse('{}-home'.format(self.common_name.lower()))
-        return reverse('animal-list')
+        return reverse('sheep:animal-list')
 
 
 class Image(models.Model):

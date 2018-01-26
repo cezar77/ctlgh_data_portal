@@ -7,7 +7,7 @@
   <div class="row">
     <div class="col-lg-3">
       <figure>
-        <img class="img-responsive" src="{{ species.image.file_url }}" alt="{{ object_list.0.species.common_name }}">
+        <img class="img-responsive" src="{{ species.image.file_url }}" alt="{{ species.common_name }}">
         <caption><small>{{ species.image.attribution|safe }}</small></caption>
       </figure>
       <p>NCBI taxonomy: {{ species.ncbi_taxonomy_html }}</p>
