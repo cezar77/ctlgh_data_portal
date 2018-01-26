@@ -4,6 +4,7 @@ from django.contrib.postgres import fields as pg_fields
 from django.contrib.contenttypes.fields import GenericForeignKey
 from django.utils.functional import cached_property
 from django.utils.text import slugify
+from django.utils.html import format_html
 
 
 class Population(models.Model):
@@ -83,11 +84,12 @@ class Sampling(models.Model):
     def altitude_display(self):
         lower = self.altitude.lower
         upper = self.altitude.upper - 1
+        masl = '{display}&nbsp;m&nbsp;a.s.l.'
         if lower == upper:
-            display = '{} m a.s.l.'.format(lower)
+            display = '{}'.format(lower)
         else:
-            display = '{} - {} m a.s.l.'.format(lower, upper)
-        return display
+            display = '{}-{}'.format(lower, upper)
+        return format_html(masl, display=display)
 
     
 class Animal(models.Model):
