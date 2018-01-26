@@ -3,6 +3,7 @@ import json
 from django.test import TestCase
 from django.utils.text import slugify
 from django.urls import reverse
+from django.contrib.auth.models import User
 
 from dataportal.modules.animals.models import Species, Image
 
@@ -132,7 +133,7 @@ class SpeciesViewSetTestCase(TestCase):
             file_url="https://upload.wikimedia.org/wikipedia/commons/e/e7/Ovis_orientalis_aries_%27Skudde%27_%28aka%29.jpg",
             attribution='By André Karwath aka Aka (Own work) [<a href="https://creativecommons.org/licenses/by-sa/2.5">CC BY-SA 2.5</a>], <a href="https://commons.wikimedia.org/wiki/File%3AOvis_orientalis_aries_&#039;Skudde&#039;_(aka).jpg">via Wikimedia Commons</a>'
         )
-        cls.sheep= Species.objects.create(
+        cls.sheep = Species.objects.create(
             common_name='Sheep',
             species='aries',
             genus='Ovis',
@@ -143,12 +144,13 @@ class SpeciesViewSetTestCase(TestCase):
             ncbi_id=9940,
 			image=cls.sheep_image
         )
+        cls.user = User.objects.create_user('Test', 'test@example.com', 'testpass') 
 
     def test_create_endpoint(self):
         """
         Test create
         """
-        url = reverse('species-list')
+        url = reverse('animals:species-list')
         image =  {
             'page_url': "https://commons.wikimedia.org/wiki/File%3AFox_-_British_Wildlife_Centre_(17429406401).jpg",
             'file_url': "https://upload.wikimedia.org/wikipedia/commons/1/16/Fox_-_British_Wildlife_Centre_%2817429406401%29.jpg",
@@ -166,6 +168,7 @@ class SpeciesViewSetTestCase(TestCase):
             'ncbi_id': 9627,
 			'image' : image
         })
+        self.client.force_login(self.user)
         response = self.client.post(url, data, content_type='application/json')
         species = Species.objects.get(slug='vulpes-vulpes')
         self.assertEqual(response.status_code, 201)
@@ -175,7 +178,7 @@ class SpeciesViewSetTestCase(TestCase):
         """
         Test list
         """
-        url = reverse('species-list')
+        url = reverse('animals:species-list')
         response = self.client.get(url)
         self.assertEqual(response.status_code, 200)
         self.assertEqual(len(response.data), Species.objects.all().count())
@@ -186,7 +189,7 @@ class SpeciesViewSetTestCase(TestCase):
         """
         Test retrieve
         """
-        url = reverse('species-detail', kwargs={'slug': self.chicken.slug})
+        url = reverse('animals:species-detail', kwargs={'slug': self.chicken.slug})
         response = self.client.get(url)
         self.assertEqual(response.status_code, 200)
         self.assertEqual(response.data['common_name'], self.chicken.common_name)
@@ -195,7 +198,7 @@ class SpeciesViewSetTestCase(TestCase):
         """
         Test update
         """
-        url = reverse('species-detail', kwargs={'slug': self.sheep.slug})
+        url = reverse('animals:species-detail', kwargs={'slug': self.sheep.slug})
         data = json.dumps({
             'common_name': 'Sheep',
             'species': 'aries',
@@ -212,6 +215,7 @@ class SpeciesViewSetTestCase(TestCase):
                 'attribution': 'By André Karwath aka Aka (Own work) [<a href="https://creativecommons.org/licenses/by-sa/2.5">CC BY-SA 2.5</a>], <a href="https://commons.wikimedia.org/wiki/File%3AOvis_orientalis_aries_&#039;Skudde&#039;_(aka).jpg">via Wikimedia Commons</a>'
             }
         })
+        self.client.force_login(self.user)
         response = self.client.put(url, data, content_type='application/json')
         species = Species.objects.get(slug='ovis-aries')
         self.assertEqual(response.status_code, 200)
@@ -222,7 +226,8 @@ class SpeciesViewSetTestCase(TestCase):
         """
         Test delete
         """
-        url = reverse('species-detail', kwargs={'slug': self.sheep.slug})
+        url = reverse('animals:species-detail', kwargs={'slug': self.sheep.slug})
+        self.client.force_login(self.user)
         response = self.client.delete(url)
         self.assertEqual(response.status_code, 204)
         self.assertIsNone(response.data)

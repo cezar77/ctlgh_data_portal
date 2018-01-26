@@ -6,7 +6,7 @@ from .models import Species, Image
 
 class ImageSerializer(serializers.HyperlinkedModelSerializer):
     species = serializers.HyperlinkedRelatedField(
-        view_name='species-detail',
+        view_name='animals:species-detail',
         read_only=True,
         lookup_field='slug'
     )
@@ -17,6 +17,7 @@ class ImageSerializer(serializers.HyperlinkedModelSerializer):
             'url', 'id', 'page_url', 'file_url', 'attribution', 'species'
         )
         extra_kwargs = {
+            'url': {'view_name': 'animals:image-detail'},
             'page_url': {'validators': []},
             'file_url': {'validators': []}
         }
@@ -55,7 +56,10 @@ class SpeciesSerializer(serializers.HyperlinkedModelSerializer):
         depth = 1
         read_only_fields = ('slug',)
         extra_kwargs = {
-            'url': {'lookup_field': 'slug'}
+            'url': {
+                'lookup_field': 'slug',
+                'view_name': 'animals:species-detail'
+            }
         }
 
     def create(self, validated_data):
