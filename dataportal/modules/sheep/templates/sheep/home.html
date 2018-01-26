@@ -10,6 +10,7 @@
         <img class="img-responsive" src="{{ species.image.file_url }}" alt="{{ object_list.0.species.common_name }}">
         <caption><small>{{ species.image.attribution|safe }}</small></caption>
       </figure>
+      <p>NCBI taxonomy: {{ species.ncbi_taxonomy_html }}</p>
       {% if filter %}
         <form action="" method="get" class="form form-inline">
           {{ filter.form|crispy }}
@@ -17,11 +18,17 @@
           <a href="{{ request.path }}" role="button" class="btn btn-warning">Clear</a>
         </form>
       {% endif %}
-      <p>NCBI taxonomy: {{ species.ncbi_taxonomy_html }}</p>
-      </p>
     </div>
     <div class="col-lg-9">
       {% render_table table 'django_tables2/bootstrap.html' %}
     </div>
   </div>
+{% endblock %}
+
+{% block javascript %}
+<script>
+  $(document).ready(function() {
+    $('.datepicker').datepicker();
+  });
+</script>
 {% endblock %}

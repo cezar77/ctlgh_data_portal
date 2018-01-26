@@ -28,6 +28,11 @@ class AnimalTable(tables.Table):
         accessor='sampling.administrative_area',
         orderable=False
     )
+    altitude = tables.Column(
+        verbose_name='Altitude',
+        accessor='sampling.altitude_display',
+        order_by='sampling.altitude'
+    )
 
     class Meta:
         model = Animal
@@ -38,7 +43,7 @@ class AnimalTable(tables.Table):
             'sampling.population.mean_litter_size',
             'sampling.population.tail_type',
             'sampling.population.tail_shape',
-            'sampling.site', 'sampling.locality',
+            'sampling.site', 'sampling.locality', 'altitude'
         )
 
     def render_animal_sex(self, value):
