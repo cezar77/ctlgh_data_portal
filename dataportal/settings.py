@@ -152,3 +152,6 @@ REST_FRAMEWORK = {
         'rest_framework.permissions.IsAuthenticatedOrReadOnly',
     )
 }
+
+# Crispy forms
+CRISPY_TEMPLATE_PACK = 'bootstrap3'
