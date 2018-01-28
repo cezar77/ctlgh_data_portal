@@ -67,7 +67,6 @@ class AnimalFilter(filters.FilterSet):
             'sampling__population__tail_type',
             'sampling__population__tail_shape', 'sampling__site'
         )
-        form = AnimalFilterForm
 
     def __init__(self, *args, **kwargs):
         super(AnimalFilter, self).__init__(*args, **kwargs)

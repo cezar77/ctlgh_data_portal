@@ -11,13 +11,12 @@
         <caption><small>{{ species.image.attribution|safe }}</small></caption>
       </figure>
       <p>NCBI taxonomy: {{ species.ncbi_taxonomy_html }}</p>
-      {% crispy filter.form %}
       {% if filter %}
-        <form action="" method="get" class="form form-inline">
+        <form action="" method="get">
           {{ filter.form|crispy }}
           <div>
             <button type="submit" role="button" class="btn btn-primary">Search</button>
-            <a href="{{ request.path }}" role="button" class="btn btn-warning">Clear</a>
+            <button type="reset" role="button" class="btn btn-warning">Reset</button>
           </div>
         </form>
       {% endif %}
