@@ -55,6 +55,14 @@
       <th>Population tail shape</th>
       <td>{{ animal.sampling.population.get_tail_shape_display }}</td>
     </tr>
+    <tr>
+      <th>Study</th>
+      <td>{{ animal.sampling.study }}</td>
+    </tr>
+    <tr>
+      <th>Contact person</th>
+      <td>{{ animal.sampling.study.contact_person }}</td>
+    </tr>
   </table>
   <input type="hidden" id="boundary" value="{{ animal.sampling.administrative_area.geom.geojson }}">
   <input type="hidden" id="country" value="{{ animal.sampling.administrative_area.country.geom.geojson }}">

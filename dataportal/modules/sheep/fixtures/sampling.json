@@ -11,7 +11,8 @@
 			"locality": "Bonga",
             "population": 1,
             "content_type": 20,
-            "object_id": 600
+            "object_id": 600,
+            "study": 1
         }
     },
     {
@@ -26,7 +27,8 @@
             "locality": "Molale",
             "population": 2,
             "content_type": 20,
-            "object_id": 123
+            "object_id": 123,
+            "study": 1
         }
     },
     {
@@ -41,7 +43,8 @@
             "locality": "Doyogena",
             "population": 3,
             "content_type": 20,
-            "object_id": 606
+            "object_id": 606,
+            "study": 1
         }
     },
     {
@@ -57,7 +60,8 @@
             "locality": "Gafera",
             "population": 4,
             "content_type": 20,
-            "object_id": 46
+            "object_id": 46,
+            "study": 1
         }
     },
     {
@@ -73,7 +77,8 @@
             "population": 5,
             "locality": "Shubi Gemo",
             "content_type": 20,
-            "object_id": 430
+            "object_id": 430,
+            "study": 1
         }
     },
     {
@@ -89,7 +94,8 @@
             "locality": "Loya",
             "population": 6,
             "content_type": 20,
-            "object_id": 628
+            "object_id": 628,
+            "study": 1
         }
     },
     {
@@ -105,7 +111,8 @@
             "population": 7,
             "locality": "Gesses",
             "content_type": 20,
-            "object_id": 187
+            "object_id": 187,
+            "study": 1
         }
     },
     {
@@ -121,7 +128,8 @@
             "locality": "Kido",
             "population": 8,
             "content_type": 20,
-            "object_id": 187
+            "object_id": 187,
+            "study": 1
         }
     },
     {
@@ -137,7 +145,8 @@
             "locality": "Arabo",
             "population": 9,
             "content_type": 20,
-            "object_id": 67
+            "object_id": 67,
+            "study": 1
         }
     },
     {
@@ -153,7 +162,8 @@
             "locality": "Adane",
             "population": 10,
             "content_type": 20,
-            "object_id": 67
+            "object_id": 67,
+            "study": 1
         }
     },
     {
@@ -169,7 +179,8 @@
             "locality": "Kefis",
             "population": 11,
             "content_type": 20,
-            "object_id": 31
+            "object_id": 31,
+            "study": 1
         }
     },
     {
@@ -185,7 +196,8 @@
             "locality": "Segentu",
             "population": 12,
             "content_type": 20,
-            "object_id": 31
+            "object_id": 31,
+            "study": 1
         }
     },
     {
@@ -200,7 +212,8 @@
             "altitude": [6, 7],
             "population": 13,
             "content_type": 15,
-            "object_id": 26
+            "object_id": 26,
+            "study": 1
         }
     }
 ]

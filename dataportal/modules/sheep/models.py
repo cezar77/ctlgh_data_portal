@@ -62,6 +62,10 @@ class Sampling(models.Model):
     altitude = pg_fields.IntegerRangeField()
     locality = models.CharField(max_length=50, blank=True)
     population = models.OneToOneField('Population', related_name='sampling')
+    study = models.ForeignKey(
+        'studies.Study',
+        related_name='sheep_samplings'
+    )
 
     content_type = models.ForeignKey(
         'contenttypes.ContentType',

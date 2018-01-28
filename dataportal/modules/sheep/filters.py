@@ -1,7 +1,6 @@
 import django_filters as filters
 
 from .models import Sampling, Animal
-from .forms import AnimalFilterForm
 
 
 class SamplingFilter(filters.FilterSet):

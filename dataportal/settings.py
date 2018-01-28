@@ -55,9 +55,9 @@ INSTALLED_APPS = [
     'boundaries',
     # custom apps
     'dataportal.modules.core',
+    'dataportal.modules.studies',
     'dataportal.modules.animals',
     'dataportal.modules.sheep',
-    #'dataportal.apps.studies',
     #'dataportal.apps.chickens',
 ]
 
