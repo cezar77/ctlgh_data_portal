@@ -41,7 +41,7 @@
     </tr>
     <tr>
       <th>Sampling administrative area</th>
-      <td>{{ animal.sampling.administrative_area }}</td>
+      <td>{{ animal.sampling.administrative_area.all.0.administrative_area }}</td>
     </tr>
     <tr>
       <th>Population possible related breed</th>
@@ -64,8 +64,8 @@
       <td>{{ animal.sampling.study.contact_person }}</td>
     </tr>
   </table>
-  <input type="hidden" id="boundary" value="{{ animal.sampling.administrative_area.geom.geojson }}">
-  <input type="hidden" id="country" value="{{ animal.sampling.administrative_area.country.geom.geojson }}">
+  <input type="hidden" id="boundary" value="{{ animal.sampling.administrative_area.all.0.administrative_area.geom.geojson }}">
+  <input type="hidden" id="country" value="{{ animal.sampling.administrative_area.all.0.administrative_area.country.geom.geojson }}">
   <input type="hidden" id="point" value="{{ animal.sampling.geolocation.geojson }}">
 {% endblock %}
 
