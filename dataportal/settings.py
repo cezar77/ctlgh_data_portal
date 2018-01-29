@@ -49,6 +49,7 @@ INSTALLED_APPS = [
     'django_tables2',
     'django_filters',
     'crispy_forms',
+    'email_obfuscator',
     # custom apps
     'dataportal.modules.core',
     'dataportal.modules.boundaries',

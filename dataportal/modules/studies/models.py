@@ -7,6 +7,10 @@ class Study(models.Model):
     slug = models.CharField(max_length=255, db_index=True)
     contact_person = models.ForeignKey('Person', related_name='studies')
 
+    class Meta:
+        verbose_name = 'study'
+        verbose_name_plural = 'studies'
+
     def __str__(self):
         return self.name
 
@@ -21,4 +25,8 @@ class Person(models.Model):
     email = models.EmailField(max_length=100, unique=True)
 
     def __str__(self):
-        return '{} ({})'.format(self.name, self.email)
+        return '{} ( {} )'.format(self.name, self.mask_email)
+
+    @property
+    def mask_email(self):
+        return self.email.replace('@', '[at]')
