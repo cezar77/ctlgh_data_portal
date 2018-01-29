@@ -126,10 +126,19 @@ class AdministrativeArea(models.Model):
     id_1 = models.IntegerField()
     name_1 = models.CharField(max_length=75)
     geom = models.MultiPolygonField(srid=4326)
-    router = GenericRelation(AdministrativeRouter)
+    router = GenericRelation(
+        AdministrativeRouter,
+        content_type_field='adm_content_type',
+        object_id_field='adm_object_id'
+    )
 
     class Meta:
         abstract = True 
+
+
+class FirstAdministrativeLevelManager(models.Manager):
+    def get_by_natural_key(self, iso, id_1):
+        return self.get(iso=iso, id_1=id_1)
 
 
 class FirstAdministrativeLevel(AdministrativeArea):
@@ -148,6 +157,8 @@ class FirstAdministrativeLevel(AdministrativeArea):
     nl_name_1 = models.CharField(max_length=50)
     varname_1 = models.CharField(max_length=150)
 
+    objects = FirstAdministrativeLevelManager()
+
     class Meta:
         db_table = '{}_admlevel1'.format(BoundariesConfig.name)
         unique_together = (('id_0', 'id_1'),)
@@ -158,9 +169,17 @@ class FirstAdministrativeLevel(AdministrativeArea):
     def __str__(self):
         return '{}, {}'.format(self.name_1, self.name_0)
 
+    def natural_key(self):
+        return (self.iso, self.id_1)
+
     @cached_property
     def fake_id(self):
         return '{}.{}'.format(self.id_0, self.id_1)
+
+
+class SecondAdministrativeLevelManager(models.Manager):
+    def get_by_natural_key(self, iso, id_1, id_2):
+        return self.get(iso=iso, id_1=id_1, id_2=id_2)
 
 
 class SecondAdministrativeLevel(AdministrativeArea):
@@ -184,6 +203,8 @@ class SecondAdministrativeLevel(AdministrativeArea):
     nl_name_2 = models.CharField(max_length=75)
     varname_2 = models.CharField(max_length=150)
 
+    objects = SecondAdministrativeLevelManager()
+
     class Meta:
         db_table = '{}_admlevel2'.format(BoundariesConfig.name)
         unique_together = (('id_0', 'id_1', 'id_2'),)
@@ -193,7 +214,10 @@ class SecondAdministrativeLevel(AdministrativeArea):
 
     def __str__(self):
         return '{}, {}, {}'.format(self.name_2, self.name_1, self.name_0)
-        
+
+    def natural_key(self):
+        return (self.iso, self.id_1, self.id_2)
+
     @cached_property
     def fake_id(self):
         return '{}.{}.{}'.format(self.id_0, self.id_1, self.id_2)
@@ -205,6 +229,10 @@ class SecondAdministrativeLevel(AdministrativeArea):
         )
         self.save()
 
+
+class ThirdAdministrativeLevelManager(models.Manager):
+    def get_by_natural_key(self, iso, id_1, id_2, id_3):
+        return self.get(iso=iso, id_1=id_1, id_2=id_2, id_3=id_3)
 
 class ThirdAdministrativeLevel(AdministrativeArea):
     country = models.ForeignKey(
@@ -234,6 +262,8 @@ class ThirdAdministrativeLevel(AdministrativeArea):
     nl_name_3 = models.CharField(max_length=75)
     varname_3 = models.CharField(max_length=100)
 
+    objects = ThirdAdministrativeLevelManager()
+
     class Meta:
         db_table = '{}_admlevel3'.format(BoundariesConfig.name)
         unique_together = (('id_0', 'id_1', 'id_2', 'id_3'),)
@@ -248,7 +278,10 @@ class ThirdAdministrativeLevel(AdministrativeArea):
                 self.name_1,
                 self.name_0
             )
-        
+
+    def natural_key(self):
+        return (self.iso, self.id_1, self.id_2, self.id_3)
+
     @cached_property
     def fake_id(self):
         return '{}.{}.{}.{}'.format(self.id_0, self.id_1, self.id_2, self.id_3)
@@ -267,6 +300,11 @@ class ThirdAdministrativeLevel(AdministrativeArea):
             id_2=self.id_2
         )
         self.save()
+
+
+class FourthAdministrativeLevelManager(models.Manager):
+    def get_by_natural_key(self, iso, id_1, id_2, id_3, id_4):
+        return self.get(iso=iso, id_1=id_1, id_2=id_2, id_3=id_3, id_4=id_4)
 
 
 class FourthAdministrativeLevel(AdministrativeArea):
@@ -304,6 +342,8 @@ class FourthAdministrativeLevel(AdministrativeArea):
     type_4 = models.CharField(max_length=35)
     engtype_4 = models.CharField(max_length=35)
 
+    objects = FourthAdministrativeLevelManager()
+
     class Meta:
         db_table = '{}_admlevel4'.format(BoundariesConfig.name)
         unique_together = (('id_0', 'id_1', 'id_2', 'id_3', 'id_4'),)
@@ -319,7 +359,10 @@ class FourthAdministrativeLevel(AdministrativeArea):
                 self.name_1,
                 self.name_0
             )
-        
+
+    def natural_key(self):
+        return (self.iso, self.id_1, self.id_2, self.id_3, self.id_4)
+
     @cached_property
     def fake_id(self):
         return '{}.{}.{}.{}.{}'.format(
@@ -353,6 +396,11 @@ class FourthAdministrativeLevel(AdministrativeArea):
             id_3=self.id_3
         )
         self.save()
+
+
+class FifthAdministrativeLevelManager(models.Manager):
+    def get_by_natural_key(self, iso, id_1, id_2, id_3, id_4, id_5):
+        return self.get(iso=iso, id_1=id_1, id_2=id_2, id_3=id_3, id_4=id_4, id_5=id_5)
 
 
 class FifthAdministrativeLevel(AdministrativeArea):
@@ -397,6 +445,8 @@ class FifthAdministrativeLevel(AdministrativeArea):
     type_5 = models.CharField(max_length=25)
     engtype_5 = models.CharField(max_length=25)
 
+    objects = FifthAdministrativeLevelManager()
+
     class Meta:
         db_table = '{}_admlevel5'.format(BoundariesConfig.name)
         unique_together = (('id_0', 'id_1', 'id_2', 'id_3', 'id_4', 'id_5'),)
@@ -413,6 +463,9 @@ class FifthAdministrativeLevel(AdministrativeArea):
                 self.name_1,
                 self.name_0
             )
+
+    def natural_key(self):
+        return (self.iso, self.id_1, self.id_2, self.id_3, self.id_4, self.id_5)
 
     @cached_property
     def fake_id(self):

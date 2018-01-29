@@ -67,7 +67,11 @@ class Sampling(models.Model):
         related_name='sheep_samplings'
     )
 
-    administrative_area = GenericRelation('boundaries.AdministrativeRouter')
+    administrative_area = GenericRelation(
+        'boundaries.AdministrativeRouter',
+        content_type_field='sampling_content_type',
+        object_id_field='sampling_object_id'
+    )
 
     objects = models.GeoManager()
 

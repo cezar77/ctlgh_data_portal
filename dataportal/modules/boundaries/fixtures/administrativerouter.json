@@ -1,0 +1,133 @@
+[
+    {
+        "model": "boundaries.administrativerouter",
+        "pk": 1,
+        "fields": {
+            "sampling_content_type": ["sheep", "sampling"],
+            "sampling_object_id": 1,
+            "adm_content_type": ["boundaries", "thirdadministrativelevel"],
+            "adm_object_id": 600
+        }
+    },
+    {
+        "model": "boundaries.administrativerouter",
+        "pk": 2,
+        "fields": {
+            "sampling_content_type": ["sheep", "sampling"],
+            "sampling_object_id": 2,
+            "adm_content_type": ["boundaries", "thirdadministrativelevel"],
+            "adm_object_id": 123
+        }
+    },
+    {
+        "model": "boundaries.administrativerouter",
+        "pk": 3,
+        "fields": {
+            "sampling_content_type": ["sheep", "sampling"],
+            "sampling_object_id": 3,
+            "adm_content_type": ["boundaries", "thirdadministrativelevel"],
+            "adm_object_id": 606
+        }
+    },
+    {
+        "model": "boundaries.administrativerouter",
+        "pk": 4,
+        "fields": {
+            "sampling_content_type": ["sheep", "sampling"],
+            "sampling_object_id": 4,
+            "adm_content_type": ["boundaries", "thirdadministrativelevel"],
+            "adm_object_id": 46
+        }
+    },
+    {
+        "model": "boundaries.administrativerouter",
+        "pk": 5,
+        "fields": {
+            "sampling_content_type": ["sheep", "sampling"],
+            "sampling_object_id": 5,
+            "adm_content_type": ["boundaries", "thirdadministrativelevel"],
+            "adm_object_id": 430
+        }
+    },
+    {
+        "model": "boundaries.administrativerouter",
+        "pk": 6,
+        "fields": {
+            "sampling_content_type": ["sheep", "sampling"],
+            "sampling_object_id": 6,
+            "adm_content_type": ["boundaries", "thirdadministrativelevel"],
+            "adm_object_id": 628
+        }
+    },
+    {
+        "model": "boundaries.administrativerouter",
+        "pk": 7,
+        "fields": {
+            "sampling_content_type": ["sheep", "sampling"],
+            "sampling_object_id": 7,
+            "adm_content_type": ["boundaries", "thirdadministrativelevel"],
+            "adm_object_id": 187
+        }
+    },
+    {
+        "model": "boundaries.administrativerouter",
+        "pk": 8,
+        "fields": {
+            "sampling_content_type": ["sheep", "sampling"],
+            "sampling_object_id": 8,
+            "adm_content_type": ["boundaries", "thirdadministrativelevel"],
+            "adm_object_id": 187
+        }
+    },
+    {
+        "model": "boundaries.administrativerouter",
+        "pk": 9,
+        "fields": {
+            "sampling_content_type": ["sheep", "sampling"],
+            "sampling_object_id": 9,
+            "adm_content_type": ["boundaries", "thirdadministrativelevel"],
+            "adm_object_id": 67
+        }
+    },
+    {
+        "model": "boundaries.administrativerouter",
+        "pk": 10,
+        "fields": {
+            "sampling_content_type": ["sheep", "sampling"],
+            "sampling_object_id": 10,
+            "adm_content_type": ["boundaries", "thirdadministrativelevel"],
+            "adm_object_id": 67
+        }
+    },
+    {
+        "model": "boundaries.administrativerouter",
+        "pk": 11,
+        "fields": {
+            "sampling_content_type": ["sheep", "sampling"],
+            "sampling_object_id": 11,
+            "adm_content_type": ["boundaries", "thirdadministrativelevel"],
+            "adm_object_id": 31
+        }
+    },
+    {
+        "model": "boundaries.administrativerouter",
+        "pk": 12,
+        "fields": {
+            "sampling_content_type": ["sheep", "sampling"],
+            "sampling_object_id": 12,
+            "adm_content_type": ["boundaries", "thirdadministrativelevel"],
+            "adm_object_id": 31
+        }
+    },
+    {
+        "model": "boundaries.administrativerouter",
+        "pk": 13,
+        "fields": {
+            "sampling_content_type": ["sheep", "sampling"],
+            "sampling_object_id": 13,
+            "adm_content_type": ["boundaries", "firstadministrativelevel"],
+            "adm_object_id": 26
+        }
+    }
+]
+
