@@ -24,9 +24,11 @@ class AnimalTable(tables.Table):
         orderable=False
     )
     animal_sex = tables.Column()
-    administrative_area = tables.Column(
+    administrative_area = tables.ManyToManyColumn(
+        verbose_name='Administrative Area',
         accessor='sampling.administrative_area',
-        orderable=False
+        orderable=True,
+        transform=lambda ar: ar.administrative_area
     )
     altitude = tables.Column(
         verbose_name='Altitude',

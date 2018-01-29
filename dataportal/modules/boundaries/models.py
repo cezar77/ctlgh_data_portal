@@ -78,6 +78,8 @@ class Country(models.Model):
     ldc = models.FloatField()
     geom = models.MultiPolygonField(srid=4326)
 
+    objects = models.GeoManager()
+
     class Meta:
         ordering = ('name_english',)
         verbose_name = 'Country'
@@ -126,17 +128,12 @@ class AdministrativeArea(models.Model):
     id_1 = models.IntegerField()
     name_1 = models.CharField(max_length=75)
     geom = models.MultiPolygonField(srid=4326)
-    router = GenericRelation(
-        AdministrativeRouter,
-        content_type_field='adm_content_type',
-        object_id_field='adm_object_id'
-    )
 
     class Meta:
         abstract = True 
 
 
-class FirstAdministrativeLevelManager(models.Manager):
+class FirstAdministrativeLevelManager(models.GeoManager):
     def get_by_natural_key(self, iso, id_1):
         return self.get(iso=iso, id_1=id_1)
 
@@ -156,6 +153,12 @@ class FirstAdministrativeLevel(AdministrativeArea):
     engtype_1 = models.CharField(max_length=50)
     nl_name_1 = models.CharField(max_length=50)
     varname_1 = models.CharField(max_length=150)
+    router = GenericRelation(
+        AdministrativeRouter,
+        content_type_field='adm_content_type',
+        object_id_field='adm_object_id',
+        related_query_name='adm_areas1'
+    )
 
     objects = FirstAdministrativeLevelManager()
 
@@ -177,7 +180,7 @@ class FirstAdministrativeLevel(AdministrativeArea):
         return '{}.{}'.format(self.id_0, self.id_1)
 
 
-class SecondAdministrativeLevelManager(models.Manager):
+class SecondAdministrativeLevelManager(models.GeoManager):
     def get_by_natural_key(self, iso, id_1, id_2):
         return self.get(iso=iso, id_1=id_1, id_2=id_2)
 
@@ -202,6 +205,12 @@ class SecondAdministrativeLevel(AdministrativeArea):
     engtype_2 = models.CharField(max_length=50)
     nl_name_2 = models.CharField(max_length=75)
     varname_2 = models.CharField(max_length=150)
+    router = GenericRelation(
+        AdministrativeRouter,
+        content_type_field='adm_content_type',
+        object_id_field='adm_object_id',
+        related_query_name='adm_areas2'
+    )
 
     objects = SecondAdministrativeLevelManager()
 
@@ -230,7 +239,7 @@ class SecondAdministrativeLevel(AdministrativeArea):
         self.save()
 
 
-class ThirdAdministrativeLevelManager(models.Manager):
+class ThirdAdministrativeLevelManager(models.GeoManager):
     def get_by_natural_key(self, iso, id_1, id_2, id_3):
         return self.get(iso=iso, id_1=id_1, id_2=id_2, id_3=id_3)
 
@@ -261,6 +270,12 @@ class ThirdAdministrativeLevel(AdministrativeArea):
     engtype_3 = models.CharField(max_length=50)
     nl_name_3 = models.CharField(max_length=75)
     varname_3 = models.CharField(max_length=100)
+    router = GenericRelation(
+        AdministrativeRouter,
+        content_type_field='adm_content_type',
+        object_id_field='adm_object_id',
+        related_query_name='adm_areas3'
+    )
 
     objects = ThirdAdministrativeLevelManager()
 
@@ -302,7 +317,7 @@ class ThirdAdministrativeLevel(AdministrativeArea):
         self.save()
 
 
-class FourthAdministrativeLevelManager(models.Manager):
+class FourthAdministrativeLevelManager(models.GeoManager):
     def get_by_natural_key(self, iso, id_1, id_2, id_3, id_4):
         return self.get(iso=iso, id_1=id_1, id_2=id_2, id_3=id_3, id_4=id_4)
 
@@ -341,6 +356,12 @@ class FourthAdministrativeLevel(AdministrativeArea):
     cca_4 = models.CharField(max_length=20)
     type_4 = models.CharField(max_length=35)
     engtype_4 = models.CharField(max_length=35)
+    router = GenericRelation(
+        AdministrativeRouter,
+        content_type_field='adm_content_type',
+        object_id_field='adm_object_id',
+        related_query_name='adm_areas4'
+    )
 
     objects = FourthAdministrativeLevelManager()
 
@@ -398,7 +419,7 @@ class FourthAdministrativeLevel(AdministrativeArea):
         self.save()
 
 
-class FifthAdministrativeLevelManager(models.Manager):
+class FifthAdministrativeLevelManager(models.GeoManager):
     def get_by_natural_key(self, iso, id_1, id_2, id_3, id_4, id_5):
         return self.get(iso=iso, id_1=id_1, id_2=id_2, id_3=id_3, id_4=id_4, id_5=id_5)
 
@@ -444,6 +465,12 @@ class FifthAdministrativeLevel(AdministrativeArea):
     cca_5 = models.CharField(max_length=25)
     type_5 = models.CharField(max_length=25)
     engtype_5 = models.CharField(max_length=25)
+    router = GenericRelation(
+        AdministrativeRouter,
+        content_type_field='adm_content_type',
+        object_id_field='adm_object_id',
+        related_query_name='adm_areas5'
+    )
 
     objects = FifthAdministrativeLevelManager()
 

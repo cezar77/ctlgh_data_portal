@@ -70,7 +70,8 @@ class Sampling(models.Model):
     administrative_area = GenericRelation(
         'boundaries.AdministrativeRouter',
         content_type_field='sampling_content_type',
-        object_id_field='sampling_object_id'
+        object_id_field='sampling_object_id',
+        related_query_name='sheep_samplings'
     )
 
     objects = models.GeoManager()
@@ -92,6 +93,11 @@ class Sampling(models.Model):
         else:
             display = '{}-{}'.format(lower, upper)
         return format_html(masl, display=display)
+
+    @cached_property
+    def administrative_areas(self):
+        adm = self.administrative_area.all().first()
+        return adm.administrative_area
 
     
 class Animal(models.Model):

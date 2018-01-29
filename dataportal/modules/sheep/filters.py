@@ -1,5 +1,8 @@
+from django.db.models import Q
+
 import django_filters as filters
 
+from dataportal.modules.boundaries.models import Country, AdministrativeRouter
 from .models import Sampling, Animal
 
 
@@ -57,6 +60,12 @@ class AnimalFilter(filters.FilterSet):
         ),
         lookup_expr='overlap'
     )
+    country = filters.ModelChoiceFilter(
+        name='country',
+        label='Country',
+        queryset=Country.objects.all(),
+        method='country_filter'
+    )
 
     class Meta:
         model = Animal
@@ -64,10 +73,20 @@ class AnimalFilter(filters.FilterSet):
             'sampling__population__mean_litter_size',
             'sampling__population__possible_related_breed',
             'sampling__population__tail_type',
-            'sampling__population__tail_shape', 'sampling__site'
+            'sampling__population__tail_shape', 'sampling__site',
+            'country'
         )
 
     def __init__(self, *args, **kwargs):
         super(AnimalFilter, self).__init__(*args, **kwargs)
         self.filters['sampling__population__tail_type'].label = 'Tail type'
         self.filters['sampling__population__tail_shape'].label = 'Tail shape'
+
+    def country_filter(self, queryset, name, value):
+        qs1 = queryset.filter(sampling__administrative_area__adm_areas1__country=value)
+        qs2 = queryset.filter(sampling__administrative_area__adm_areas2__country=value)
+        qs3 = queryset.filter(sampling__administrative_area__adm_areas3__country=value)
+        qs4 = queryset.filter(sampling__administrative_area__adm_areas4__country=value)
+        qs5 = queryset.filter(sampling__administrative_area__adm_areas5__country=value)
+        return qs5.union(qs4, qs3, qs2, qs1)
+
