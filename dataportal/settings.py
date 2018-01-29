@@ -50,8 +50,8 @@ INSTALLED_APPS = [
     'django_filters',
     'crispy_forms',
     # custom apps
-    'boundaries',
     'dataportal.modules.core',
+    'dataportal.modules.boundaries',
     'dataportal.modules.studies',
     'dataportal.modules.animals',
     'dataportal.modules.sheep',

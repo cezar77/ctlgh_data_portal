@@ -1,7 +1,7 @@
 from django.contrib.gis.db import models
 from django.contrib.gis.geos import Point
 from django.contrib.postgres import fields as pg_fields
-from django.contrib.contenttypes.fields import GenericForeignKey
+from django.contrib.contenttypes.fields import GenericRelation
 from django.utils.functional import cached_property
 from django.utils.text import slugify
 from django.utils.html import format_html
@@ -67,13 +67,7 @@ class Sampling(models.Model):
         related_name='sheep_samplings'
     )
 
-    content_type = models.ForeignKey(
-        'contenttypes.ContentType',
-        related_name='sheep_samplings',
-        limit_choices_to={'app_label': 'boundaries'}
-    )
-    object_id = models.PositiveIntegerField(db_index=True)
-    administrative_area = GenericForeignKey('content_type', 'object_id')
+    administrative_area = GenericRelation('boundaries.AdministrativeRouter')
 
     objects = models.GeoManager()
 
