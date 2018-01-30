@@ -56,7 +56,7 @@ INSTALLED_APPS = [
     'dataportal.modules.studies',
     'dataportal.modules.animals',
     'dataportal.modules.sheep',
-    #'dataportal.apps.chickens',
+    'dataportal.modules.chickens',
 ]
 
 MIDDLEWARE = [

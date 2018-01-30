@@ -1,0 +1,230 @@
+[
+    {
+        "pk": 1, 
+        "model": "chickens.farm", 
+        "fields": {
+            "geolocation": "POINT(8.39694444444 4.60361111111)", 
+            "agroecology": "Derived Savana", 
+            "altitude": 346, 
+            "longitude": 8.396944444444445, 
+            "village": "Ogbondoroko", 
+            "latitude": 4.603611111111111
+        }
+    }, 
+    {
+        "pk": 2, 
+        "model": "chickens.farm", 
+        "fields": {
+            "geolocation": "POINT(8.94666666667 5.1175)", 
+            "agroecology": "Southern Guinea Savana", 
+            "altitude": 199, 
+            "longitude": 8.946666666666667, 
+            "village": "Sanchitagi", 
+            "latitude": 5.1175
+        }
+    }, 
+    {
+        "pk": 3, 
+        "model": "chickens.farm", 
+        "fields": {
+            "geolocation": "POINT(4.76055555556 6.76722222222)", 
+            "agroecology": "Humid Savana/Mangrove", 
+            "altitude": -21, 
+            "longitude": 4.760555555555555, 
+            "village": "Degema", 
+            "latitude": 6.767222222222222
+        }
+    }, 
+    {
+        "pk": 4, 
+        "model": "chickens.farm", 
+        "fields": {
+            "geolocation": "POINT(4.76138888889 6.76944444444)", 
+            "agroecology": "Humid Savana/Mangrove", 
+            "altitude": -6, 
+            "longitude": 4.761388888888889, 
+            "village": "Degema", 
+            "latitude": 6.769444444444445
+        }
+    }, 
+    {
+        "pk": 5, 
+        "model": "chickens.farm", 
+        "fields": {
+            "geolocation": "POINT(4.98638888889 6.87472222222)", 
+            "agroecology": "Humid savana/Fresh water Swamp", 
+            "altitude": 28, 
+            "longitude": 4.9863888888888885, 
+            "village": "Isiokpo ", 
+            "latitude": 6.874722222222222
+        }
+    }, 
+    {
+        "pk": 6, 
+        "model": "chickens.farm", 
+        "fields": {
+            "geolocation": "POINT(5.49388888889 7.29722222222)", 
+            "agroecology": "Humid/Rain Forest", 
+            "altitude": 130, 
+            "longitude": 5.493888888888889, 
+            "village": "Okpofe", 
+            "latitude": 7.2972222222222225
+        }
+    }, 
+    {
+        "pk": 7, 
+        "model": "chickens.farm", 
+        "fields": {
+            "geolocation": "POINT(5.47222222222 7.3075)", 
+            "agroecology": "Humid/Rain Forest", 
+            "altitude": 124, 
+            "longitude": 5.472222222222222, 
+            "village": "Okpofe", 
+            "latitude": 7.3075
+        }
+    }, 
+    {
+        "pk": 8, 
+        "model": "chickens.farm", 
+        "fields": {
+            "geolocation": "POINT(5.48361111111 7.29916666667)", 
+            "agroecology": "Humid/Rain Forest", 
+            "altitude": 118, 
+            "longitude": 5.483611111111111, 
+            "village": "Okpofe", 
+            "latitude": 7.299166666666666
+        }
+    }, 
+    {
+        "pk": 9, 
+        "model": "chickens.farm", 
+        "fields": {
+            "geolocation": "POINT(5.60277777778 7.32138888889)", 
+            "agroecology": "Humid/Rain Forest", 
+            "altitude": 104, 
+            "longitude": 5.602777777777778, 
+            "village": "Odenkume ", 
+            "latitude": 7.3213888888888885
+        }
+    }, 
+    {
+        "pk": 10, 
+        "model": "chickens.farm", 
+        "fields": {
+            "geolocation": "POINT(9.16944444444 8.70555555556)", 
+            "agroecology": "Derived Savana", 
+            "altitude": 262, 
+            "longitude": 9.169444444444444, 
+            "village": "Gitta Mbasha", 
+            "latitude": 8.705555555555556
+        }
+    }, 
+    {
+        "pk": 11, 
+        "model": "chickens.farm", 
+        "fields": {
+            "geolocation": "POINT(9.0325 7.64361111111)", 
+            "agroecology": "Derived Savana", 
+            "altitude": 391, 
+            "longitude": 9.0325, 
+            "village": "Karu", 
+            "latitude": 7.643611111111111
+        }
+    }, 
+    {
+        "pk": 12, 
+        "model": "chickens.farm", 
+        "fields": {
+            "geolocation": "POINT(12.3858333333 4.4425)", 
+            "agroecology": "Sudan Savana/Arid/Semi-arid", 
+            "altitude": 250, 
+            "longitude": 12.385833333333334, 
+            "village": "Sabiyal", 
+            "latitude": 4.4425
+        }
+    }, 
+    {
+        "pk": 13, 
+        "model": "chickens.farm", 
+        "fields": {
+            "geolocation": "POINT(12.3847222222 4.44416666667)", 
+            "agroecology": "Sudan Savana/Arid/Semi-arid", 
+            "altitude": 250, 
+            "longitude": 12.384722222222223, 
+            "village": "Sabiyal", 
+            "latitude": 4.444166666666667
+        }
+    }, 
+    {
+        "pk": 14, 
+        "model": "chickens.farm", 
+        "fields": {
+            "geolocation": "POINT(12.2836111111 4.53472222222)", 
+            "agroecology": "Sudan Savana/Arid/Semi-arid", 
+            "altitude": 256, 
+            "longitude": 12.283611111111112, 
+            "village": "Jiga", 
+            "latitude": 4.534722222222222
+        }
+    }, 
+    {
+        "pk": 15, 
+        "model": "chickens.farm", 
+        "fields": {
+            "geolocation": "POINT(12.285 4.53388888889)", 
+            "agroecology": "Sudan Savana/Arid/Semi-arid", 
+            "altitude": 243, 
+            "longitude": 12.285, 
+            "village": "Jiga", 
+            "latitude": 4.533888888888889
+        }
+    }, 
+    {
+        "pk": 16, 
+        "model": "chickens.farm", 
+        "fields": {
+            "geolocation": "POINT(11.3041666667 5.23027777778)", 
+            "agroecology": "Northern Guinea Savana", 
+            "altitude": 356, 
+            "longitude": 11.304166666666667, 
+            "village": "Senchi", 
+            "latitude": 5.230277777777777
+        }
+    }, 
+    {
+        "pk": 17, 
+        "model": "chickens.farm", 
+        "fields": {
+            "geolocation": "POINT(11.5422222222 5.36305555556)", 
+            "agroecology": "Northern Guinea Savana", 
+            "altitude": 392, 
+            "longitude": 11.542222222222222, 
+            "village": "Kwendo/Doro/Tadurga", 
+            "latitude": 5.3630555555555555
+        }
+    }, 
+    {
+        "pk": 18, 
+        "model": "chickens.farm", 
+        "fields": {
+            "geolocation": "POINT(9.72111111111 8.83333333333)", 
+            "agroecology": "MidAltitude", 
+            "altitude": 1295, 
+            "longitude": 9.721111111111112, 
+            "village": "Wat-Karu", 
+            "latitude": 8.833333333333334
+        }
+    }, 
+    {
+        "pk": 19, 
+        "model": "chickens.farm", 
+        "fields": {
+            "geolocation": "POINT(9.72861111111 8.84777777778)", 
+            "agroecology": "MidAltitude", 
+            "altitude": 1301, 
+            "longitude": 9.72861111111111, 
+            "village": "Dakan-Karu", 
+            "latitude": 8.847777777777777
+        }
+    }
+]

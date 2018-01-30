@@ -1,0 +1,1222 @@
+[
+    {
+        "pk": 1, 
+        "model": "chickens.animal", 
+        "fields": {
+            "farm": 1, 
+            "animal_id": "S0182", 
+            "species": 1, 
+            "animal_sex": "F"
+        }
+    }, 
+    {
+        "pk": 2, 
+        "model": "chickens.animal", 
+        "fields": {
+            "farm": 1, 
+            "animal_id": "S0104", 
+            "species": 1, 
+            "animal_sex": "F"
+        }
+    }, 
+    {
+        "pk": 3, 
+        "model": "chickens.animal", 
+        "fields": {
+            "farm": 1, 
+            "animal_id": "S0109", 
+            "species": 1, 
+            "animal_sex": "F"
+        }
+    }, 
+    {
+        "pk": 4, 
+        "model": "chickens.animal", 
+        "fields": {
+            "farm": 1, 
+            "animal_id": "S0125", 
+            "species": 1, 
+            "animal_sex": "M"
+        }
+    }, 
+    {
+        "pk": 5, 
+        "model": "chickens.animal", 
+        "fields": {
+            "farm": 1, 
+            "animal_id": "S0118", 
+            "species": 1, 
+            "animal_sex": "F"
+        }
+    }, 
+    {
+        "pk": 6, 
+        "model": "chickens.animal", 
+        "fields": {
+            "farm": 1, 
+            "animal_id": "S0152", 
+            "species": 1, 
+            "animal_sex": "F"
+        }
+    }, 
+    {
+        "pk": 7, 
+        "model": "chickens.animal", 
+        "fields": {
+            "farm": 1, 
+            "animal_id": "S0186", 
+            "species": 1, 
+            "animal_sex": "F"
+        }
+    }, 
+    {
+        "pk": 8, 
+        "model": "chickens.animal", 
+        "fields": {
+            "farm": 1, 
+            "animal_id": "S0131", 
+            "species": 1, 
+            "animal_sex": "F"
+        }
+    }, 
+    {
+        "pk": 9, 
+        "model": "chickens.animal", 
+        "fields": {
+            "farm": 1, 
+            "animal_id": "S0129", 
+            "species": 1, 
+            "animal_sex": "M"
+        }
+    }, 
+    {
+        "pk": 10, 
+        "model": "chickens.animal", 
+        "fields": {
+            "farm": 1, 
+            "animal_id": "S0103", 
+            "species": 1, 
+            "animal_sex": "M"
+        }
+    }, 
+    {
+        "pk": 11, 
+        "model": "chickens.animal", 
+        "fields": {
+            "farm": 2, 
+            "animal_id": "S0112", 
+            "species": 1, 
+            "animal_sex": "M"
+        }
+    }, 
+    {
+        "pk": 12, 
+        "model": "chickens.animal", 
+        "fields": {
+            "farm": 2, 
+            "animal_id": "S0166", 
+            "species": 1, 
+            "animal_sex": "F"
+        }
+    }, 
+    {
+        "pk": 13, 
+        "model": "chickens.animal", 
+        "fields": {
+            "farm": 2, 
+            "animal_id": "S0115", 
+            "species": 1, 
+            "animal_sex": "F"
+        }
+    }, 
+    {
+        "pk": 14, 
+        "model": "chickens.animal", 
+        "fields": {
+            "farm": 2, 
+            "animal_id": "S0190", 
+            "species": 1, 
+            "animal_sex": "F"
+        }
+    }, 
+    {
+        "pk": 15, 
+        "model": "chickens.animal", 
+        "fields": {
+            "farm": 2, 
+            "animal_id": "S0167", 
+            "species": 1, 
+            "animal_sex": "M"
+        }
+    }, 
+    {
+        "pk": 16, 
+        "model": "chickens.animal", 
+        "fields": {
+            "farm": 2, 
+            "animal_id": "S0153", 
+            "species": 1, 
+            "animal_sex": "F"
+        }
+    }, 
+    {
+        "pk": 17, 
+        "model": "chickens.animal", 
+        "fields": {
+            "farm": 2, 
+            "animal_id": "S0127", 
+            "species": 1, 
+            "animal_sex": "M"
+        }
+    }, 
+    {
+        "pk": 18, 
+        "model": "chickens.animal", 
+        "fields": {
+            "farm": 2, 
+            "animal_id": "S0169", 
+            "species": 1, 
+            "animal_sex": "F"
+        }
+    }, 
+    {
+        "pk": 19, 
+        "model": "chickens.animal", 
+        "fields": {
+            "farm": 2, 
+            "animal_id": "S0178", 
+            "species": 1, 
+            "animal_sex": "F"
+        }
+    }, 
+    {
+        "pk": 20, 
+        "model": "chickens.animal", 
+        "fields": {
+            "farm": 2, 
+            "animal_id": "S0130", 
+            "species": 1, 
+            "animal_sex": "F"
+        }
+    }, 
+    {
+        "pk": 21, 
+        "model": "chickens.animal", 
+        "fields": {
+            "farm": 2, 
+            "animal_id": "S0998", 
+            "species": 1, 
+            "animal_sex": "F"
+        }
+    }, 
+    {
+        "pk": 22, 
+        "model": "chickens.animal", 
+        "fields": {
+            "farm": 2, 
+            "animal_id": "S0999", 
+            "species": 1, 
+            "animal_sex": "M"
+        }
+    }, 
+    {
+        "pk": 23, 
+        "model": "chickens.animal", 
+        "fields": {
+            "farm": 3, 
+            "animal_id": "S0101", 
+            "species": 1, 
+            "animal_sex": "M"
+        }
+    }, 
+    {
+        "pk": 24, 
+        "model": "chickens.animal", 
+        "fields": {
+            "farm": 3, 
+            "animal_id": "S0187", 
+            "species": 1, 
+            "animal_sex": "M"
+        }
+    }, 
+    {
+        "pk": 25, 
+        "model": "chickens.animal", 
+        "fields": {
+            "farm": 3, 
+            "animal_id": "S0107", 
+            "species": 1, 
+            "animal_sex": "F"
+        }
+    }, 
+    {
+        "pk": 26, 
+        "model": "chickens.animal", 
+        "fields": {
+            "farm": 3, 
+            "animal_id": "S0196", 
+            "species": 1, 
+            "animal_sex": "F"
+        }
+    }, 
+    {
+        "pk": 27, 
+        "model": "chickens.animal", 
+        "fields": {
+            "farm": 3, 
+            "animal_id": "S0123", 
+            "species": 1, 
+            "animal_sex": "M"
+        }
+    }, 
+    {
+        "pk": 28, 
+        "model": "chickens.animal", 
+        "fields": {
+            "farm": 4, 
+            "animal_id": "S0171", 
+            "species": 1, 
+            "animal_sex": "F"
+        }
+    }, 
+    {
+        "pk": 29, 
+        "model": "chickens.animal", 
+        "fields": {
+            "farm": 4, 
+            "animal_id": "S0105", 
+            "species": 1, 
+            "animal_sex": "F"
+        }
+    }, 
+    {
+        "pk": 30, 
+        "model": "chickens.animal", 
+        "fields": {
+            "farm": 4, 
+            "animal_id": "S0135", 
+            "species": 1, 
+            "animal_sex": "F"
+        }
+    }, 
+    {
+        "pk": 31, 
+        "model": "chickens.animal", 
+        "fields": {
+            "farm": 4, 
+            "animal_id": "S0188", 
+            "species": 1, 
+            "animal_sex": "F"
+        }
+    }, 
+    {
+        "pk": 32, 
+        "model": "chickens.animal", 
+        "fields": {
+            "farm": 4, 
+            "animal_id": "S0184", 
+            "species": 1, 
+            "animal_sex": "F"
+        }
+    }, 
+    {
+        "pk": 33, 
+        "model": "chickens.animal", 
+        "fields": {
+            "farm": 5, 
+            "animal_id": "S0162", 
+            "species": 1, 
+            "animal_sex": "F"
+        }
+    }, 
+    {
+        "pk": 34, 
+        "model": "chickens.animal", 
+        "fields": {
+            "farm": 5, 
+            "animal_id": "S0133", 
+            "species": 1, 
+            "animal_sex": "F"
+        }
+    }, 
+    {
+        "pk": 35, 
+        "model": "chickens.animal", 
+        "fields": {
+            "farm": 5, 
+            "animal_id": "S0121", 
+            "species": 1, 
+            "animal_sex": "F"
+        }
+    }, 
+    {
+        "pk": 36, 
+        "model": "chickens.animal", 
+        "fields": {
+            "farm": 5, 
+            "animal_id": "S0146", 
+            "species": 1, 
+            "animal_sex": "M"
+        }
+    }, 
+    {
+        "pk": 37, 
+        "model": "chickens.animal", 
+        "fields": {
+            "farm": 5, 
+            "animal_id": "S0197", 
+            "species": 1, 
+            "animal_sex": "F"
+        }
+    }, 
+    {
+        "pk": 38, 
+        "model": "chickens.animal", 
+        "fields": {
+            "farm": 5, 
+            "animal_id": "S0154", 
+            "species": 1, 
+            "animal_sex": "F"
+        }
+    }, 
+    {
+        "pk": 39, 
+        "model": "chickens.animal", 
+        "fields": {
+            "farm": 5, 
+            "animal_id": "S0147", 
+            "species": 1, 
+            "animal_sex": "F"
+        }
+    }, 
+    {
+        "pk": 40, 
+        "model": "chickens.animal", 
+        "fields": {
+            "farm": 5, 
+            "animal_id": "S0143", 
+            "species": 1, 
+            "animal_sex": "F"
+        }
+    }, 
+    {
+        "pk": 41, 
+        "model": "chickens.animal", 
+        "fields": {
+            "farm": 5, 
+            "animal_id": "S0137", 
+            "species": 1, 
+            "animal_sex": "F"
+        }
+    }, 
+    {
+        "pk": 42, 
+        "model": "chickens.animal", 
+        "fields": {
+            "farm": 5, 
+            "animal_id": "S0144", 
+            "species": 1, 
+            "animal_sex": "M"
+        }
+    }, 
+    {
+        "pk": 43, 
+        "model": "chickens.animal", 
+        "fields": {
+            "farm": 6, 
+            "animal_id": "S0150", 
+            "species": 1, 
+            "animal_sex": "M"
+        }
+    }, 
+    {
+        "pk": 44, 
+        "model": "chickens.animal", 
+        "fields": {
+            "farm": 6, 
+            "animal_id": "S0119", 
+            "species": 1, 
+            "animal_sex": "F"
+        }
+    }, 
+    {
+        "pk": 45, 
+        "model": "chickens.animal", 
+        "fields": {
+            "farm": 6, 
+            "animal_id": "S0145", 
+            "species": 1, 
+            "animal_sex": "F"
+        }
+    }, 
+    {
+        "pk": 46, 
+        "model": "chickens.animal", 
+        "fields": {
+            "farm": 7, 
+            "animal_id": "S0110", 
+            "species": 1, 
+            "animal_sex": "F"
+        }
+    }, 
+    {
+        "pk": 47, 
+        "model": "chickens.animal", 
+        "fields": {
+            "farm": 7, 
+            "animal_id": "S0114", 
+            "species": 1, 
+            "animal_sex": "M"
+        }
+    }, 
+    {
+        "pk": 48, 
+        "model": "chickens.animal", 
+        "fields": {
+            "farm": 7, 
+            "animal_id": "S0139", 
+            "species": 1, 
+            "animal_sex": "F"
+        }
+    }, 
+    {
+        "pk": 49, 
+        "model": "chickens.animal", 
+        "fields": {
+            "farm": 8, 
+            "animal_id": "S0106", 
+            "species": 1, 
+            "animal_sex": "M"
+        }
+    }, 
+    {
+        "pk": 50, 
+        "model": "chickens.animal", 
+        "fields": {
+            "farm": 8, 
+            "animal_id": "S0176", 
+            "species": 1, 
+            "animal_sex": "F"
+        }
+    }, 
+    {
+        "pk": 51, 
+        "model": "chickens.animal", 
+        "fields": {
+            "farm": 8, 
+            "animal_id": "S0177", 
+            "species": 1, 
+            "animal_sex": "F"
+        }
+    }, 
+    {
+        "pk": 52, 
+        "model": "chickens.animal", 
+        "fields": {
+            "farm": 8, 
+            "animal_id": "S0122", 
+            "species": 1, 
+            "animal_sex": "F"
+        }
+    }, 
+    {
+        "pk": 53, 
+        "model": "chickens.animal", 
+        "fields": {
+            "farm": 9, 
+            "animal_id": "S0151", 
+            "species": 1, 
+            "animal_sex": "F"
+        }
+    }, 
+    {
+        "pk": 54, 
+        "model": "chickens.animal", 
+        "fields": {
+            "farm": 9, 
+            "animal_id": "S0138", 
+            "species": 1, 
+            "animal_sex": "F"
+        }
+    }, 
+    {
+        "pk": 55, 
+        "model": "chickens.animal", 
+        "fields": {
+            "farm": 9, 
+            "animal_id": "S0193", 
+            "species": 1, 
+            "animal_sex": "F"
+        }
+    }, 
+    {
+        "pk": 56, 
+        "model": "chickens.animal", 
+        "fields": {
+            "farm": 9, 
+            "animal_id": "S0163", 
+            "species": 1, 
+            "animal_sex": "F"
+        }
+    }, 
+    {
+        "pk": 57, 
+        "model": "chickens.animal", 
+        "fields": {
+            "farm": 9, 
+            "animal_id": "S0170", 
+            "species": 1, 
+            "animal_sex": "F"
+        }
+    }, 
+    {
+        "pk": 58, 
+        "model": "chickens.animal", 
+        "fields": {
+            "farm": 9, 
+            "animal_id": "S0159", 
+            "species": 1, 
+            "animal_sex": "M"
+        }
+    }, 
+    {
+        "pk": 59, 
+        "model": "chickens.animal", 
+        "fields": {
+            "farm": 9, 
+            "animal_id": "S0116", 
+            "species": 1, 
+            "animal_sex": "F"
+        }
+    }, 
+    {
+        "pk": 60, 
+        "model": "chickens.animal", 
+        "fields": {
+            "farm": 9, 
+            "animal_id": "S0124", 
+            "species": 1, 
+            "animal_sex": "M"
+        }
+    }, 
+    {
+        "pk": 61, 
+        "model": "chickens.animal", 
+        "fields": {
+            "farm": 9, 
+            "animal_id": "S0136", 
+            "species": 1, 
+            "animal_sex": "M"
+        }
+    }, 
+    {
+        "pk": 62, 
+        "model": "chickens.animal", 
+        "fields": {
+            "farm": 9, 
+            "animal_id": "S0108", 
+            "species": 1, 
+            "animal_sex": "F"
+        }
+    }, 
+    {
+        "pk": 63, 
+        "model": "chickens.animal", 
+        "fields": {
+            "farm": 10, 
+            "animal_id": "S0001", 
+            "species": 1, 
+            "animal_sex": "M"
+        }
+    }, 
+    {
+        "pk": 64, 
+        "model": "chickens.animal", 
+        "fields": {
+            "farm": 10, 
+            "animal_id": "S0047", 
+            "species": 1, 
+            "animal_sex": "M"
+        }
+    }, 
+    {
+        "pk": 65, 
+        "model": "chickens.animal", 
+        "fields": {
+            "farm": 10, 
+            "animal_id": "S0002", 
+            "species": 1, 
+            "animal_sex": "M"
+        }
+    }, 
+    {
+        "pk": 66, 
+        "model": "chickens.animal", 
+        "fields": {
+            "farm": 10, 
+            "animal_id": "S0058", 
+            "species": 1, 
+            "animal_sex": "F"
+        }
+    }, 
+    {
+        "pk": 67, 
+        "model": "chickens.animal", 
+        "fields": {
+            "farm": 10, 
+            "animal_id": "S0039", 
+            "species": 1, 
+            "animal_sex": "F"
+        }
+    }, 
+    {
+        "pk": 68, 
+        "model": "chickens.animal", 
+        "fields": {
+            "farm": 10, 
+            "animal_id": "S0090", 
+            "species": 1, 
+            "animal_sex": "F"
+        }
+    }, 
+    {
+        "pk": 69, 
+        "model": "chickens.animal", 
+        "fields": {
+            "farm": 10, 
+            "animal_id": "S0051", 
+            "species": 1, 
+            "animal_sex": "F"
+        }
+    }, 
+    {
+        "pk": 70, 
+        "model": "chickens.animal", 
+        "fields": {
+            "farm": 10, 
+            "animal_id": "S0037", 
+            "species": 1, 
+            "animal_sex": "F"
+        }
+    }, 
+    {
+        "pk": 71, 
+        "model": "chickens.animal", 
+        "fields": {
+            "farm": 10, 
+            "animal_id": "S0032", 
+            "species": 1, 
+            "animal_sex": "F"
+        }
+    }, 
+    {
+        "pk": 72, 
+        "model": "chickens.animal", 
+        "fields": {
+            "farm": 10, 
+            "animal_id": "S0024", 
+            "species": 1, 
+            "animal_sex": "F"
+        }
+    }, 
+    {
+        "pk": 73, 
+        "model": "chickens.animal", 
+        "fields": {
+            "farm": 11, 
+            "animal_id": "S0078", 
+            "species": 1, 
+            "animal_sex": "M"
+        }
+    }, 
+    {
+        "pk": 74, 
+        "model": "chickens.animal", 
+        "fields": {
+            "farm": 11, 
+            "animal_id": "S0062", 
+            "species": 1, 
+            "animal_sex": "M"
+        }
+    }, 
+    {
+        "pk": 75, 
+        "model": "chickens.animal", 
+        "fields": {
+            "farm": 11, 
+            "animal_id": "S0049", 
+            "species": 1, 
+            "animal_sex": "M"
+        }
+    }, 
+    {
+        "pk": 76, 
+        "model": "chickens.animal", 
+        "fields": {
+            "farm": 11, 
+            "animal_id": "S0035", 
+            "species": 1, 
+            "animal_sex": "F"
+        }
+    }, 
+    {
+        "pk": 77, 
+        "model": "chickens.animal", 
+        "fields": {
+            "farm": 11, 
+            "animal_id": "S0017", 
+            "species": 1, 
+            "animal_sex": "F"
+        }
+    }, 
+    {
+        "pk": 78, 
+        "model": "chickens.animal", 
+        "fields": {
+            "farm": 11, 
+            "animal_id": "S0082", 
+            "species": 1, 
+            "animal_sex": "F"
+        }
+    }, 
+    {
+        "pk": 79, 
+        "model": "chickens.animal", 
+        "fields": {
+            "farm": 11, 
+            "animal_id": "S0063", 
+            "species": 1, 
+            "animal_sex": "F"
+        }
+    }, 
+    {
+        "pk": 80, 
+        "model": "chickens.animal", 
+        "fields": {
+            "farm": 11, 
+            "animal_id": "S0073", 
+            "species": 1, 
+            "animal_sex": "F"
+        }
+    }, 
+    {
+        "pk": 81, 
+        "model": "chickens.animal", 
+        "fields": {
+            "farm": 11, 
+            "animal_id": "S0018", 
+            "species": 1, 
+            "animal_sex": "F"
+        }
+    }, 
+    {
+        "pk": 82, 
+        "model": "chickens.animal", 
+        "fields": {
+            "farm": 11, 
+            "animal_id": "S0081", 
+            "species": 1, 
+            "animal_sex": "F"
+        }
+    }, 
+    {
+        "pk": 83, 
+        "model": "chickens.animal", 
+        "fields": {
+            "farm": 12, 
+            "animal_id": "S0068", 
+            "species": 1, 
+            "animal_sex": "F"
+        }
+    }, 
+    {
+        "pk": 84, 
+        "model": "chickens.animal", 
+        "fields": {
+            "farm": 12, 
+            "animal_id": "S0043", 
+            "species": 1, 
+            "animal_sex": "M"
+        }
+    }, 
+    {
+        "pk": 85, 
+        "model": "chickens.animal", 
+        "fields": {
+            "farm": 12, 
+            "animal_id": "S0006", 
+            "species": 1, 
+            "animal_sex": "M"
+        }
+    }, 
+    {
+        "pk": 86, 
+        "model": "chickens.animal", 
+        "fields": {
+            "farm": 12, 
+            "animal_id": "S0065", 
+            "species": 1, 
+            "animal_sex": "F"
+        }
+    }, 
+    {
+        "pk": 87, 
+        "model": "chickens.animal", 
+        "fields": {
+            "farm": 13, 
+            "animal_id": "S0031", 
+            "species": 1, 
+            "animal_sex": "F"
+        }
+    }, 
+    {
+        "pk": 88, 
+        "model": "chickens.animal", 
+        "fields": {
+            "farm": 13, 
+            "animal_id": "S0034", 
+            "species": 1, 
+            "animal_sex": "F"
+        }
+    }, 
+    {
+        "pk": 89, 
+        "model": "chickens.animal", 
+        "fields": {
+            "farm": 14, 
+            "animal_id": "S0084", 
+            "species": 1, 
+            "animal_sex": "F"
+        }
+    }, 
+    {
+        "pk": 90, 
+        "model": "chickens.animal", 
+        "fields": {
+            "farm": 14, 
+            "animal_id": "S0022", 
+            "species": 1, 
+            "animal_sex": "F"
+        }
+    }, 
+    {
+        "pk": 91, 
+        "model": "chickens.animal", 
+        "fields": {
+            "farm": 15, 
+            "animal_id": "S0044", 
+            "species": 1, 
+            "animal_sex": "M"
+        }
+    }, 
+    {
+        "pk": 92, 
+        "model": "chickens.animal", 
+        "fields": {
+            "farm": 15, 
+            "animal_id": "S0033", 
+            "species": 1, 
+            "animal_sex": "F"
+        }
+    }, 
+    {
+        "pk": 93, 
+        "model": "chickens.animal", 
+        "fields": {
+            "farm": 16, 
+            "animal_id": "S0014", 
+            "species": 1, 
+            "animal_sex": "M"
+        }
+    }, 
+    {
+        "pk": 94, 
+        "model": "chickens.animal", 
+        "fields": {
+            "farm": 16, 
+            "animal_id": "S0038", 
+            "species": 1, 
+            "animal_sex": "M"
+        }
+    }, 
+    {
+        "pk": 95, 
+        "model": "chickens.animal", 
+        "fields": {
+            "farm": 16, 
+            "animal_id": "S0050", 
+            "species": 1, 
+            "animal_sex": "F"
+        }
+    }, 
+    {
+        "pk": 96, 
+        "model": "chickens.animal", 
+        "fields": {
+            "farm": 16, 
+            "animal_id": "S0088", 
+            "species": 1, 
+            "animal_sex": "F"
+        }
+    }, 
+    {
+        "pk": 97, 
+        "model": "chickens.animal", 
+        "fields": {
+            "farm": 17, 
+            "animal_id": "S0061", 
+            "species": 1, 
+            "animal_sex": "M"
+        }
+    }, 
+    {
+        "pk": 98, 
+        "model": "chickens.animal", 
+        "fields": {
+            "farm": 17, 
+            "animal_id": "S0005", 
+            "species": 1, 
+            "animal_sex": "F"
+        }
+    }, 
+    {
+        "pk": 99, 
+        "model": "chickens.animal", 
+        "fields": {
+            "farm": 17, 
+            "animal_id": "S0010", 
+            "species": 1, 
+            "animal_sex": "F"
+        }
+    }, 
+    {
+        "pk": 100, 
+        "model": "chickens.animal", 
+        "fields": {
+            "farm": 17, 
+            "animal_id": "S0069", 
+            "species": 1, 
+            "animal_sex": "F"
+        }
+    }, 
+    {
+        "pk": 101, 
+        "model": "chickens.animal", 
+        "fields": {
+            "farm": 17, 
+            "animal_id": "S0095", 
+            "species": 1, 
+            "animal_sex": "F"
+        }
+    }, 
+    {
+        "pk": 102, 
+        "model": "chickens.animal", 
+        "fields": {
+            "farm": 17, 
+            "animal_id": "S0083", 
+            "species": 1, 
+            "animal_sex": "F"
+        }
+    }, 
+    {
+        "pk": 103, 
+        "model": "chickens.animal", 
+        "fields": {
+            "farm": 18, 
+            "animal_id": "S0099", 
+            "species": 1, 
+            "animal_sex": "F"
+        }
+    }, 
+    {
+        "pk": 104, 
+        "model": "chickens.animal", 
+        "fields": {
+            "farm": 18, 
+            "animal_id": "S0021", 
+            "species": 1, 
+            "animal_sex": "M"
+        }
+    }, 
+    {
+        "pk": 105, 
+        "model": "chickens.animal", 
+        "fields": {
+            "farm": 18, 
+            "animal_id": "S0092", 
+            "species": 1, 
+            "animal_sex": "F"
+        }
+    }, 
+    {
+        "pk": 106, 
+        "model": "chickens.animal", 
+        "fields": {
+            "farm": 18, 
+            "animal_id": "S0020", 
+            "species": 1, 
+            "animal_sex": "M"
+        }
+    }, 
+    {
+        "pk": 107, 
+        "model": "chickens.animal", 
+        "fields": {
+            "farm": 18, 
+            "animal_id": "S0054", 
+            "species": 1, 
+            "animal_sex": "M"
+        }
+    }, 
+    {
+        "pk": 108, 
+        "model": "chickens.animal", 
+        "fields": {
+            "farm": 18, 
+            "animal_id": "S0089", 
+            "species": 1, 
+            "animal_sex": "F"
+        }
+    }, 
+    {
+        "pk": 109, 
+        "model": "chickens.animal", 
+        "fields": {
+            "farm": 18, 
+            "animal_id": "S0029", 
+            "species": 1, 
+            "animal_sex": "F"
+        }
+    }, 
+    {
+        "pk": 110, 
+        "model": "chickens.animal", 
+        "fields": {
+            "farm": 18, 
+            "animal_id": "S0045", 
+            "species": 1, 
+            "animal_sex": "F"
+        }
+    }, 
+    {
+        "pk": 111, 
+        "model": "chickens.animal", 
+        "fields": {
+            "farm": 18, 
+            "animal_id": "S0016", 
+            "species": 1, 
+            "animal_sex": "F"
+        }
+    }, 
+    {
+        "pk": 112, 
+        "model": "chickens.animal", 
+        "fields": {
+            "farm": 18, 
+            "animal_id": "S0028", 
+            "species": 1, 
+            "animal_sex": "F"
+        }
+    }, 
+    {
+        "pk": 113, 
+        "model": "chickens.animal", 
+        "fields": {
+            "farm": 19, 
+            "animal_id": "S0009", 
+            "species": 1, 
+            "animal_sex": "F"
+        }
+    }, 
+    {
+        "pk": 114, 
+        "model": "chickens.animal", 
+        "fields": {
+            "farm": 19, 
+            "animal_id": "S0094", 
+            "species": 1, 
+            "animal_sex": "M"
+        }
+    }, 
+    {
+        "pk": 115, 
+        "model": "chickens.animal", 
+        "fields": {
+            "farm": 19, 
+            "animal_id": "S0085", 
+            "species": 1, 
+            "animal_sex": "F"
+        }
+    }, 
+    {
+        "pk": 116, 
+        "model": "chickens.animal", 
+        "fields": {
+            "farm": 19, 
+            "animal_id": "S0042", 
+            "species": 1, 
+            "animal_sex": "F"
+        }
+    }, 
+    {
+        "pk": 117, 
+        "model": "chickens.animal", 
+        "fields": {
+            "farm": 19, 
+            "animal_id": "S0019", 
+            "species": 1, 
+            "animal_sex": "F"
+        }
+    }, 
+    {
+        "pk": 118, 
+        "model": "chickens.animal", 
+        "fields": {
+            "farm": 19, 
+            "animal_id": "S0008", 
+            "species": 1, 
+            "animal_sex": "F"
+        }
+    }, 
+    {
+        "pk": 119, 
+        "model": "chickens.animal", 
+        "fields": {
+            "farm": 19, 
+            "animal_id": "S0036", 
+            "species": 1, 
+            "animal_sex": "M"
+        }
+    }, 
+    {
+        "pk": 120, 
+        "model": "chickens.animal", 
+        "fields": {
+            "farm": 19, 
+            "animal_id": "S0074", 
+            "species": 1, 
+            "animal_sex": "F"
+        }
+    }, 
+    {
+        "pk": 121, 
+        "model": "chickens.animal", 
+        "fields": {
+            "farm": 19, 
+            "animal_id": "S0098", 
+            "species": 1, 
+            "animal_sex": "F"
+        }
+    }, 
+    {
+        "pk": 122, 
+        "model": "chickens.animal", 
+        "fields": {
+            "farm": 19, 
+            "animal_id": "S0086", 
+            "species": 1, 
+            "animal_sex": "M"
+        }
+    }
+]

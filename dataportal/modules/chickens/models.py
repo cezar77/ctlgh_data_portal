@@ -3,6 +3,7 @@ from django.contrib.gis.geos import Point
 from django.contrib.postgres import fields as pg_fields
 from django.utils.functional import cached_property
 from django.urls import reverse
+from django.contrib.contenttypes.fields import GenericRelation
 
 
 class Farm(models.Model):
@@ -41,7 +42,7 @@ class Farm(models.Model):
         null=True,
         blank=True
     )
-    altitude = models.PositiveSmallIntegerField(null=True, blank=True)
+    altitude = models.SmallIntegerField(null=True, blank=True)
     geolocation = models.PointField(null=True, blank=True)
     village = models.CharField(max_length=50, blank=True)
     soil_type = models.CharField(
@@ -70,12 +71,19 @@ class Farm(models.Model):
     chicken_feed = pg_fields.JSONField(null=True, blank=True)
     other_animals = pg_fields.JSONField(null=True, blank=True)
 
-    def save(self, *args, **kwargs):
-        self.geolocation = Point(float(self.longitude), float(self.latitude))
-        super(Farm, self).save(*args, **kwargs)
+    administrative_area = GenericRelation(
+        'boundaries.AdministrativeRouter',
+        content_type_field='sampling_content_type',
+        object_id_field='sampling_object_id',
+        related_query_name='chicken_samplings'
+    )
 
-    def get_absolute_url(self):
-        return reverse('farm-detail', kwargs={'pk': str(self.pk)})
+    #def save(self, *args, **kwargs):
+    #    self.geolocation = Point(float(self.longitude), float(self.latitude))
+    #    super(Farm, self).save(*args, **kwargs)
+
+    #def get_absolute_url(self):
+    #    return reverse('farm-detail', kwargs={'pk': str(self.pk)})
 
 
 class Animal(models.Model):
@@ -218,3 +226,7 @@ class Sampling(models.Model):
         blank=True
     )
     animal = models.OneToOneField('Animal', related_name='sampling')
+    study = models.ForeignKey(
+        'studies.Study',
+        related_name='chicken_samplings'
+    )

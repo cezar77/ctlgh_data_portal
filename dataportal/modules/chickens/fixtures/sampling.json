@@ -1,0 +1,1100 @@
+[
+    {
+        "pk": 1, 
+        "model": "chickens.sampling", 
+        "fields": {
+            "study": 3, 
+            "animal": 1, 
+            "weight": 0.86
+        }
+    }, 
+    {
+        "pk": 2, 
+        "model": "chickens.sampling", 
+        "fields": {
+            "study": 3, 
+            "animal": 2, 
+            "weight": 1.05
+        }
+    }, 
+    {
+        "pk": 3, 
+        "model": "chickens.sampling", 
+        "fields": {
+            "study": 3, 
+            "animal": 3, 
+            "weight": 0.84
+        }
+    }, 
+    {
+        "pk": 4, 
+        "model": "chickens.sampling", 
+        "fields": {
+            "study": 3, 
+            "animal": 4, 
+            "weight": 1.5
+        }
+    }, 
+    {
+        "pk": 5, 
+        "model": "chickens.sampling", 
+        "fields": {
+            "study": 3, 
+            "animal": 5, 
+            "weight": 0.82
+        }
+    }, 
+    {
+        "pk": 6, 
+        "model": "chickens.sampling", 
+        "fields": {
+            "study": 3, 
+            "animal": 6, 
+            "weight": 0.88
+        }
+    }, 
+    {
+        "pk": 7, 
+        "model": "chickens.sampling", 
+        "fields": {
+            "study": 3, 
+            "animal": 7, 
+            "weight": 0.96
+        }
+    }, 
+    {
+        "pk": 8, 
+        "model": "chickens.sampling", 
+        "fields": {
+            "study": 3, 
+            "animal": 8, 
+            "weight": 1.03
+        }
+    }, 
+    {
+        "pk": 9, 
+        "model": "chickens.sampling", 
+        "fields": {
+            "study": 3, 
+            "animal": 9, 
+            "weight": 0.89
+        }
+    }, 
+    {
+        "pk": 10, 
+        "model": "chickens.sampling", 
+        "fields": {
+            "study": 3, 
+            "animal": 10, 
+            "weight": 0.81
+        }
+    }, 
+    {
+        "pk": 11, 
+        "model": "chickens.sampling", 
+        "fields": {
+            "study": 3, 
+            "animal": 11, 
+            "weight": 1.13
+        }
+    }, 
+    {
+        "pk": 12, 
+        "model": "chickens.sampling", 
+        "fields": {
+            "study": 3, 
+            "animal": 12, 
+            "weight": 0.9
+        }
+    }, 
+    {
+        "pk": 13, 
+        "model": "chickens.sampling", 
+        "fields": {
+            "study": 3, 
+            "animal": 13, 
+            "weight": 0.98
+        }
+    }, 
+    {
+        "pk": 14, 
+        "model": "chickens.sampling", 
+        "fields": {
+            "study": 3, 
+            "animal": 14, 
+            "weight": 1.12
+        }
+    }, 
+    {
+        "pk": 15, 
+        "model": "chickens.sampling", 
+        "fields": {
+            "study": 3, 
+            "animal": 15, 
+            "weight": 1.12
+        }
+    }, 
+    {
+        "pk": 16, 
+        "model": "chickens.sampling", 
+        "fields": {
+            "study": 3, 
+            "animal": 16, 
+            "weight": 1.19
+        }
+    }, 
+    {
+        "pk": 17, 
+        "model": "chickens.sampling", 
+        "fields": {
+            "study": 3, 
+            "animal": 17, 
+            "weight": 1.04
+        }
+    }, 
+    {
+        "pk": 18, 
+        "model": "chickens.sampling", 
+        "fields": {
+            "study": 3, 
+            "animal": 18, 
+            "weight": 1.17
+        }
+    }, 
+    {
+        "pk": 19, 
+        "model": "chickens.sampling", 
+        "fields": {
+            "study": 3, 
+            "animal": 19, 
+            "weight": 0.92
+        }
+    }, 
+    {
+        "pk": 20, 
+        "model": "chickens.sampling", 
+        "fields": {
+            "study": 3, 
+            "animal": 20, 
+            "weight": 1.0
+        }
+    }, 
+    {
+        "pk": 21, 
+        "model": "chickens.sampling", 
+        "fields": {
+            "study": 3, 
+            "animal": 21, 
+            "weight": 0.85
+        }
+    }, 
+    {
+        "pk": 22, 
+        "model": "chickens.sampling", 
+        "fields": {
+            "study": 3, 
+            "animal": 22, 
+            "weight": 1.01
+        }
+    }, 
+    {
+        "pk": 23, 
+        "model": "chickens.sampling", 
+        "fields": {
+            "study": 3, 
+            "animal": 23, 
+            "weight": 0.92
+        }
+    }, 
+    {
+        "pk": 24, 
+        "model": "chickens.sampling", 
+        "fields": {
+            "study": 3, 
+            "animal": 24, 
+            "weight": 0.98
+        }
+    }, 
+    {
+        "pk": 25, 
+        "model": "chickens.sampling", 
+        "fields": {
+            "study": 3, 
+            "animal": 25, 
+            "weight": 0.73
+        }
+    }, 
+    {
+        "pk": 26, 
+        "model": "chickens.sampling", 
+        "fields": {
+            "study": 3, 
+            "animal": 26, 
+            "weight": 0.86
+        }
+    }, 
+    {
+        "pk": 27, 
+        "model": "chickens.sampling", 
+        "fields": {
+            "study": 3, 
+            "animal": 27, 
+            "weight": 0.93
+        }
+    }, 
+    {
+        "pk": 28, 
+        "model": "chickens.sampling", 
+        "fields": {
+            "study": 3, 
+            "animal": 28, 
+            "weight": 0.8
+        }
+    }, 
+    {
+        "pk": 29, 
+        "model": "chickens.sampling", 
+        "fields": {
+            "study": 3, 
+            "animal": 29, 
+            "weight": 1.06
+        }
+    }, 
+    {
+        "pk": 30, 
+        "model": "chickens.sampling", 
+        "fields": {
+            "study": 3, 
+            "animal": 30, 
+            "weight": 0.94
+        }
+    }, 
+    {
+        "pk": 31, 
+        "model": "chickens.sampling", 
+        "fields": {
+            "study": 3, 
+            "animal": 31, 
+            "weight": 0.75
+        }
+    }, 
+    {
+        "pk": 32, 
+        "model": "chickens.sampling", 
+        "fields": {
+            "study": 3, 
+            "animal": 32, 
+            "weight": 0.85
+        }
+    }, 
+    {
+        "pk": 33, 
+        "model": "chickens.sampling", 
+        "fields": {
+            "study": 3, 
+            "animal": 33, 
+            "weight": 0.81
+        }
+    }, 
+    {
+        "pk": 34, 
+        "model": "chickens.sampling", 
+        "fields": {
+            "study": 3, 
+            "animal": 34, 
+            "weight": 0.93
+        }
+    }, 
+    {
+        "pk": 35, 
+        "model": "chickens.sampling", 
+        "fields": {
+            "study": 3, 
+            "animal": 35, 
+            "weight": 1.0
+        }
+    }, 
+    {
+        "pk": 36, 
+        "model": "chickens.sampling", 
+        "fields": {
+            "study": 3, 
+            "animal": 36, 
+            "weight": 1.19
+        }
+    }, 
+    {
+        "pk": 37, 
+        "model": "chickens.sampling", 
+        "fields": {
+            "study": 3, 
+            "animal": 37, 
+            "weight": 1.03
+        }
+    }, 
+    {
+        "pk": 38, 
+        "model": "chickens.sampling", 
+        "fields": {
+            "study": 3, 
+            "animal": 38, 
+            "weight": 1.03
+        }
+    }, 
+    {
+        "pk": 39, 
+        "model": "chickens.sampling", 
+        "fields": {
+            "study": 3, 
+            "animal": 39, 
+            "weight": 0.81
+        }
+    }, 
+    {
+        "pk": 40, 
+        "model": "chickens.sampling", 
+        "fields": {
+            "study": 3, 
+            "animal": 40, 
+            "weight": 0.81
+        }
+    }, 
+    {
+        "pk": 41, 
+        "model": "chickens.sampling", 
+        "fields": {
+            "study": 3, 
+            "animal": 41, 
+            "weight": 0.88
+        }
+    }, 
+    {
+        "pk": 42, 
+        "model": "chickens.sampling", 
+        "fields": {
+            "study": 3, 
+            "animal": 42, 
+            "weight": 1.0
+        }
+    }, 
+    {
+        "pk": 43, 
+        "model": "chickens.sampling", 
+        "fields": {
+            "study": 3, 
+            "animal": 43, 
+            "weight": 1.32
+        }
+    }, 
+    {
+        "pk": 44, 
+        "model": "chickens.sampling", 
+        "fields": {
+            "study": 3, 
+            "animal": 44, 
+            "weight": 1.3
+        }
+    }, 
+    {
+        "pk": 45, 
+        "model": "chickens.sampling", 
+        "fields": {
+            "study": 3, 
+            "animal": 45, 
+            "weight": 1.1
+        }
+    }, 
+    {
+        "pk": 46, 
+        "model": "chickens.sampling", 
+        "fields": {
+            "study": 3, 
+            "animal": 46, 
+            "weight": 0.75
+        }
+    }, 
+    {
+        "pk": 47, 
+        "model": "chickens.sampling", 
+        "fields": {
+            "study": 3, 
+            "animal": 47, 
+            "weight": 1.29
+        }
+    }, 
+    {
+        "pk": 48, 
+        "model": "chickens.sampling", 
+        "fields": {
+            "study": 3, 
+            "animal": 48, 
+            "weight": 1.17
+        }
+    }, 
+    {
+        "pk": 49, 
+        "model": "chickens.sampling", 
+        "fields": {
+            "study": 3, 
+            "animal": 49, 
+            "weight": 1.16
+        }
+    }, 
+    {
+        "pk": 50, 
+        "model": "chickens.sampling", 
+        "fields": {
+            "study": 3, 
+            "animal": 50, 
+            "weight": 0.91
+        }
+    }, 
+    {
+        "pk": 51, 
+        "model": "chickens.sampling", 
+        "fields": {
+            "study": 3, 
+            "animal": 51, 
+            "weight": 1.38
+        }
+    }, 
+    {
+        "pk": 52, 
+        "model": "chickens.sampling", 
+        "fields": {
+            "study": 3, 
+            "animal": 52, 
+            "weight": 0.95
+        }
+    }, 
+    {
+        "pk": 53, 
+        "model": "chickens.sampling", 
+        "fields": {
+            "study": 3, 
+            "animal": 53, 
+            "weight": 1.03
+        }
+    }, 
+    {
+        "pk": 54, 
+        "model": "chickens.sampling", 
+        "fields": {
+            "study": 3, 
+            "animal": 54, 
+            "weight": 0.84
+        }
+    }, 
+    {
+        "pk": 55, 
+        "model": "chickens.sampling", 
+        "fields": {
+            "study": 3, 
+            "animal": 55, 
+            "weight": 0.68
+        }
+    }, 
+    {
+        "pk": 56, 
+        "model": "chickens.sampling", 
+        "fields": {
+            "study": 3, 
+            "animal": 56, 
+            "weight": 0.95
+        }
+    }, 
+    {
+        "pk": 57, 
+        "model": "chickens.sampling", 
+        "fields": {
+            "study": 3, 
+            "animal": 57, 
+            "weight": 1.24
+        }
+    }, 
+    {
+        "pk": 58, 
+        "model": "chickens.sampling", 
+        "fields": {
+            "study": 3, 
+            "animal": 58, 
+            "weight": 1.0
+        }
+    }, 
+    {
+        "pk": 59, 
+        "model": "chickens.sampling", 
+        "fields": {
+            "study": 3, 
+            "animal": 59, 
+            "weight": 0.89
+        }
+    }, 
+    {
+        "pk": 60, 
+        "model": "chickens.sampling", 
+        "fields": {
+            "study": 3, 
+            "animal": 60, 
+            "weight": 0.7
+        }
+    }, 
+    {
+        "pk": 61, 
+        "model": "chickens.sampling", 
+        "fields": {
+            "study": 3, 
+            "animal": 61, 
+            "weight": 1.31
+        }
+    }, 
+    {
+        "pk": 62, 
+        "model": "chickens.sampling", 
+        "fields": {
+            "study": 3, 
+            "animal": 62, 
+            "weight": 0.88
+        }
+    }, 
+    {
+        "pk": 63, 
+        "model": "chickens.sampling", 
+        "fields": {
+            "study": 3, 
+            "animal": 63, 
+            "weight": 1.31
+        }
+    }, 
+    {
+        "pk": 64, 
+        "model": "chickens.sampling", 
+        "fields": {
+            "study": 3, 
+            "animal": 64, 
+            "weight": 1.66
+        }
+    }, 
+    {
+        "pk": 65, 
+        "model": "chickens.sampling", 
+        "fields": {
+            "study": 3, 
+            "animal": 65, 
+            "weight": 1.85
+        }
+    }, 
+    {
+        "pk": 66, 
+        "model": "chickens.sampling", 
+        "fields": {
+            "study": 3, 
+            "animal": 66, 
+            "weight": 0.92
+        }
+    }, 
+    {
+        "pk": 67, 
+        "model": "chickens.sampling", 
+        "fields": {
+            "study": 3, 
+            "animal": 67, 
+            "weight": 1.26
+        }
+    }, 
+    {
+        "pk": 68, 
+        "model": "chickens.sampling", 
+        "fields": {
+            "study": 3, 
+            "animal": 68, 
+            "weight": 1.35
+        }
+    }, 
+    {
+        "pk": 69, 
+        "model": "chickens.sampling", 
+        "fields": {
+            "study": 3, 
+            "animal": 69, 
+            "weight": 1.12
+        }
+    }, 
+    {
+        "pk": 70, 
+        "model": "chickens.sampling", 
+        "fields": {
+            "study": 3, 
+            "animal": 70, 
+            "weight": 0.93
+        }
+    }, 
+    {
+        "pk": 71, 
+        "model": "chickens.sampling", 
+        "fields": {
+            "study": 3, 
+            "animal": 71, 
+            "weight": 1.58
+        }
+    }, 
+    {
+        "pk": 72, 
+        "model": "chickens.sampling", 
+        "fields": {
+            "study": 3, 
+            "animal": 72, 
+            "weight": 1.16
+        }
+    }, 
+    {
+        "pk": 73, 
+        "model": "chickens.sampling", 
+        "fields": {
+            "study": 3, 
+            "animal": 73, 
+            "weight": 1.58
+        }
+    }, 
+    {
+        "pk": 74, 
+        "model": "chickens.sampling", 
+        "fields": {
+            "study": 3, 
+            "animal": 74, 
+            "weight": 1.34
+        }
+    }, 
+    {
+        "pk": 75, 
+        "model": "chickens.sampling", 
+        "fields": {
+            "study": 3, 
+            "animal": 75, 
+            "weight": 1.29
+        }
+    }, 
+    {
+        "pk": 76, 
+        "model": "chickens.sampling", 
+        "fields": {
+            "study": 3, 
+            "animal": 76, 
+            "weight": 0.87
+        }
+    }, 
+    {
+        "pk": 77, 
+        "model": "chickens.sampling", 
+        "fields": {
+            "study": 3, 
+            "animal": 77, 
+            "weight": 0.87
+        }
+    }, 
+    {
+        "pk": 78, 
+        "model": "chickens.sampling", 
+        "fields": {
+            "study": 3, 
+            "animal": 78, 
+            "weight": 1.31
+        }
+    }, 
+    {
+        "pk": 79, 
+        "model": "chickens.sampling", 
+        "fields": {
+            "study": 3, 
+            "animal": 79, 
+            "weight": 1.09
+        }
+    }, 
+    {
+        "pk": 80, 
+        "model": "chickens.sampling", 
+        "fields": {
+            "study": 3, 
+            "animal": 80, 
+            "weight": 0.83
+        }
+    }, 
+    {
+        "pk": 81, 
+        "model": "chickens.sampling", 
+        "fields": {
+            "study": 3, 
+            "animal": 81, 
+            "weight": 0.88
+        }
+    }, 
+    {
+        "pk": 82, 
+        "model": "chickens.sampling", 
+        "fields": {
+            "study": 3, 
+            "animal": 82, 
+            "weight": 0.86
+        }
+    }, 
+    {
+        "pk": 83, 
+        "model": "chickens.sampling", 
+        "fields": {
+            "study": 3, 
+            "animal": 83, 
+            "weight": 1.08
+        }
+    }, 
+    {
+        "pk": 84, 
+        "model": "chickens.sampling", 
+        "fields": {
+            "study": 3, 
+            "animal": 84, 
+            "weight": 1.09
+        }
+    }, 
+    {
+        "pk": 85, 
+        "model": "chickens.sampling", 
+        "fields": {
+            "study": 3, 
+            "animal": 85, 
+            "weight": 1.16
+        }
+    }, 
+    {
+        "pk": 86, 
+        "model": "chickens.sampling", 
+        "fields": {
+            "study": 3, 
+            "animal": 86, 
+            "weight": 1.2
+        }
+    }, 
+    {
+        "pk": 87, 
+        "model": "chickens.sampling", 
+        "fields": {
+            "study": 3, 
+            "animal": 87, 
+            "weight": 0.93
+        }
+    }, 
+    {
+        "pk": 88, 
+        "model": "chickens.sampling", 
+        "fields": {
+            "study": 3, 
+            "animal": 88, 
+            "weight": 0.92
+        }
+    }, 
+    {
+        "pk": 89, 
+        "model": "chickens.sampling", 
+        "fields": {
+            "study": 3, 
+            "animal": 89, 
+            "weight": 0.87
+        }
+    }, 
+    {
+        "pk": 90, 
+        "model": "chickens.sampling", 
+        "fields": {
+            "study": 3, 
+            "animal": 90, 
+            "weight": 1.22
+        }
+    }, 
+    {
+        "pk": 91, 
+        "model": "chickens.sampling", 
+        "fields": {
+            "study": 3, 
+            "animal": 91, 
+            "weight": 1.15
+        }
+    }, 
+    {
+        "pk": 92, 
+        "model": "chickens.sampling", 
+        "fields": {
+            "study": 3, 
+            "animal": 92, 
+            "weight": 1.15
+        }
+    }, 
+    {
+        "pk": 93, 
+        "model": "chickens.sampling", 
+        "fields": {
+            "study": 3, 
+            "animal": 93, 
+            "weight": 1.1
+        }
+    }, 
+    {
+        "pk": 94, 
+        "model": "chickens.sampling", 
+        "fields": {
+            "study": 3, 
+            "animal": 94, 
+            "weight": 1.55
+        }
+    }, 
+    {
+        "pk": 95, 
+        "model": "chickens.sampling", 
+        "fields": {
+            "study": 3, 
+            "animal": 95, 
+            "weight": 1.06
+        }
+    }, 
+    {
+        "pk": 96, 
+        "model": "chickens.sampling", 
+        "fields": {
+            "study": 3, 
+            "animal": 96, 
+            "weight": 0.86
+        }
+    }, 
+    {
+        "pk": 97, 
+        "model": "chickens.sampling", 
+        "fields": {
+            "study": 3, 
+            "animal": 97, 
+            "weight": 1.48
+        }
+    }, 
+    {
+        "pk": 98, 
+        "model": "chickens.sampling", 
+        "fields": {
+            "study": 3, 
+            "animal": 98, 
+            "weight": 1.0
+        }
+    }, 
+    {
+        "pk": 99, 
+        "model": "chickens.sampling", 
+        "fields": {
+            "study": 3, 
+            "animal": 99, 
+            "weight": 1.04
+        }
+    }, 
+    {
+        "pk": 100, 
+        "model": "chickens.sampling", 
+        "fields": {
+            "study": 3, 
+            "animal": 100, 
+            "weight": 1.09
+        }
+    }, 
+    {
+        "pk": 101, 
+        "model": "chickens.sampling", 
+        "fields": {
+            "study": 3, 
+            "animal": 101, 
+            "weight": 1.05
+        }
+    }, 
+    {
+        "pk": 102, 
+        "model": "chickens.sampling", 
+        "fields": {
+            "study": 3, 
+            "animal": 102, 
+            "weight": 0.86
+        }
+    }, 
+    {
+        "pk": 103, 
+        "model": "chickens.sampling", 
+        "fields": {
+            "study": 3, 
+            "animal": 103, 
+            "weight": 1.28
+        }
+    }, 
+    {
+        "pk": 104, 
+        "model": "chickens.sampling", 
+        "fields": {
+            "study": 3, 
+            "animal": 104, 
+            "weight": 1.45
+        }
+    }, 
+    {
+        "pk": 105, 
+        "model": "chickens.sampling", 
+        "fields": {
+            "study": 3, 
+            "animal": 105, 
+            "weight": 1.17
+        }
+    }, 
+    {
+        "pk": 106, 
+        "model": "chickens.sampling", 
+        "fields": {
+            "study": 3, 
+            "animal": 106, 
+            "weight": 1.5
+        }
+    }, 
+    {
+        "pk": 107, 
+        "model": "chickens.sampling", 
+        "fields": {
+            "study": 3, 
+            "animal": 107, 
+            "weight": 1.69
+        }
+    }, 
+    {
+        "pk": 108, 
+        "model": "chickens.sampling", 
+        "fields": {
+            "study": 3, 
+            "animal": 108, 
+            "weight": 1.37
+        }
+    }, 
+    {
+        "pk": 109, 
+        "model": "chickens.sampling", 
+        "fields": {
+            "study": 3, 
+            "animal": 109, 
+            "weight": 0.86
+        }
+    }, 
+    {
+        "pk": 110, 
+        "model": "chickens.sampling", 
+        "fields": {
+            "study": 3, 
+            "animal": 110, 
+            "weight": 1.15
+        }
+    }, 
+    {
+        "pk": 111, 
+        "model": "chickens.sampling", 
+        "fields": {
+            "study": 3, 
+            "animal": 111, 
+            "weight": 0.98
+        }
+    }, 
+    {
+        "pk": 112, 
+        "model": "chickens.sampling", 
+        "fields": {
+            "study": 3, 
+            "animal": 112, 
+            "weight": 1.14
+        }
+    }, 
+    {
+        "pk": 113, 
+        "model": "chickens.sampling", 
+        "fields": {
+            "study": 3, 
+            "animal": 113, 
+            "weight": 0.88
+        }
+    }, 
+    {
+        "pk": 114, 
+        "model": "chickens.sampling", 
+        "fields": {
+            "study": 3, 
+            "animal": 114, 
+            "weight": 1.36
+        }
+    }, 
+    {
+        "pk": 115, 
+        "model": "chickens.sampling", 
+        "fields": {
+            "study": 3, 
+            "animal": 115, 
+            "weight": 0.98
+        }
+    }, 
+    {
+        "pk": 116, 
+        "model": "chickens.sampling", 
+        "fields": {
+            "study": 3, 
+            "animal": 116, 
+            "weight": 0.85
+        }
+    }, 
+    {
+        "pk": 117, 
+        "model": "chickens.sampling", 
+        "fields": {
+            "study": 3, 
+            "animal": 117, 
+            "weight": 0.91
+        }
+    }, 
+    {
+        "pk": 118, 
+        "model": "chickens.sampling", 
+        "fields": {
+            "study": 3, 
+            "animal": 118, 
+            "weight": 0.96
+        }
+    }, 
+    {
+        "pk": 119, 
+        "model": "chickens.sampling", 
+        "fields": {
+            "study": 3, 
+            "animal": 119, 
+            "weight": 1.68
+        }
+    }, 
+    {
+        "pk": 120, 
+        "model": "chickens.sampling", 
+        "fields": {
+            "study": 3, 
+            "animal": 120, 
+            "weight": 1.08
+        }
+    }, 
+    {
+        "pk": 121, 
+        "model": "chickens.sampling", 
+        "fields": {
+            "study": 3, 
+            "animal": 121, 
+            "weight": 0.93
+        }
+    }, 
+    {
+        "pk": 122, 
+        "model": "chickens.sampling", 
+        "fields": {
+            "study": 3, 
+            "animal": 122, 
+            "weight": 0.93
+        }
+    }
+]
