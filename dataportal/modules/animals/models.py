@@ -28,6 +28,13 @@ class Species(models.Model):
         on_delete=models.CASCADE,
         related_name='species'
     )
+    app = models.OneToOneField(
+        'contenttypes.ContentType',
+        blank=True,
+        null=True,
+        on_delete=models.DO_NOTHING,
+        related_name='species'
+    )
 
     class Meta:
         verbose_name = 'Species'
@@ -80,8 +87,8 @@ class Species(models.Model):
 
     @property
     def species_homepage(self):
-        #return reverse('{}-home'.format(self.common_name.lower()))
-        return reverse('sheep:animal-list')
+        app_label = self.app.app_label
+        return reverse('{}:animal-list'.format(app_label))
 
 
 class Image(models.Model):

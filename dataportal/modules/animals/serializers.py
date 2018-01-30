@@ -1,3 +1,8 @@
+import json
+
+from django.contrib.contenttypes.models import ContentType
+from django.core import serializers as sr
+
 from rest_framework import serializers
 from rest_framework.validators import UniqueValidator
 
@@ -43,7 +48,32 @@ class ImageSerializer(serializers.HyperlinkedModelSerializer):
         return value
 
 
+class AppRelatedField(serializers.RelatedField):
+    def display_value(self, instance):
+        return 'app_label: {}, model: {}'.format(
+            instance.app_label,
+            instance.model
+        )
+
+    def to_representation(self, value):
+        return json.dumps({
+            'app_label': value.app_label,
+            'model': value.model
+        })
+
+    def to_internal_value(self, data):
+        data = json.loads(data)
+        return ContentType.objects.get(
+            app_label=data['app_label'],
+            model=data['model']
+        )
+
+
 class SpeciesSerializer(serializers.HyperlinkedModelSerializer):
+    app = AppRelatedField(
+        queryset=ContentType.objects.all(),
+        allow_null=True
+    )
     image = ImageSerializer(required=True)
 
     class Meta:
@@ -51,7 +81,7 @@ class SpeciesSerializer(serializers.HyperlinkedModelSerializer):
         fields = (
             'url', 'id', 'common_name', 'slug',  'species', 'genus',
             'subfamily', 'family', 'order', 'class', 'phylum',
-            'ncbi_id', 'ncbi_taxonomy_url', 'image'
+            'ncbi_id', 'ncbi_taxonomy_url', 'app',  'image',
         )
         depth = 1
         read_only_fields = ('slug',)
@@ -82,6 +112,7 @@ class SpeciesSerializer(serializers.HyperlinkedModelSerializer):
         instance.class_name = validated_data.get('class_name', instance.class_name)
         instance.phylum = validated_data.get('phylum', instance.phylum)
         instance.ncbi_id = validated_data.get('ncbi_id', instance.ncbi_id)
+        instance.app = validated_data.get('app', instance.app)
         instance.save()
 
         image.page_url = image_data.get('page_url', image.page_url)
