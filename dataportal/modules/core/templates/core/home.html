@@ -5,7 +5,7 @@
     {% for sp in species %}
       <figure class="col-lg-3">
         <a href="{{ sp.species_homepage }}" class="thumbnail">
-          <img class="img-responsive" src="{{ sp.image.file_url }}" alt="{{ sp.common_name }}">
+          <img src="{{ sp.image.file_url }}" alt="{{ sp.common_name }}" style="height:16em; object-fit:cover;">
         </a>
         <caption><small>{{ sp.image.attribution|safe }}</small></caption>
       </figure>
