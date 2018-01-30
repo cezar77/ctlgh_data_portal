@@ -90,7 +90,7 @@ class Country(models.Model):
 
 
 class AdministrativeRouter(models.Model):
-    limit = models.Q(app_label='sheep', model='sampling')
+    limit = models.Q(app_label='sheep', model='sampling') | models.Q(app_label='chickens', model='farm')
 
     sampling_content_type = models.ForeignKey(
         'contenttypes.ContentType',
