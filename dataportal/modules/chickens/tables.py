@@ -30,7 +30,7 @@ class AnimalTable(tables.Table):
         model = Animal
         template = 'django_tables2/bootstrap.html'
         fields = ('id', 'animal_sex', 'sampling.weight', 'farm.village',
-            'farm.longitude', 'farm.latitude', 'altitude',
+            'farm.agroecology', 'farm.longitude', 'farm.latitude', 'altitude',
             'administrative_area'
         )
 

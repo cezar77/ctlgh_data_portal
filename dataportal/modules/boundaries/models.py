@@ -165,7 +165,7 @@ class FirstAdministrativeLevel(AdministrativeArea):
     class Meta:
         db_table = '{}_admlevel1'.format(BoundariesConfig.name)
         unique_together = (('id_0', 'id_1'),)
-        ordering = ('id_1',)
+        ordering = ('name_0', 'name_1',)
         verbose_name = '1st level administrative area'
         verbose_name_plural = '1st level administrative areas'
 
@@ -217,7 +217,7 @@ class SecondAdministrativeLevel(AdministrativeArea):
     class Meta:
         db_table = '{}_admlevel2'.format(BoundariesConfig.name)
         unique_together = (('id_0', 'id_1', 'id_2'),)
-        ordering = ('id_0', 'id_1', 'id_2',)
+        ordering = ('name_0', 'name_1', 'name_2',)
         verbose_name = '2nd level administrative area'
         verbose_name_plural = '2nd level administrative areas'
 
@@ -282,7 +282,7 @@ class ThirdAdministrativeLevel(AdministrativeArea):
     class Meta:
         db_table = '{}_admlevel3'.format(BoundariesConfig.name)
         unique_together = (('id_0', 'id_1', 'id_2', 'id_3'),)
-        ordering = ('id_0', 'id_1', 'id_2', 'id_3')
+        ordering = ('name_0', 'name_1', 'name_2', 'name_3')
         verbose_name = '3rd level administrative area'
         verbose_name_plural = '3rd level administrative areas'
 
@@ -368,7 +368,7 @@ class FourthAdministrativeLevel(AdministrativeArea):
     class Meta:
         db_table = '{}_admlevel4'.format(BoundariesConfig.name)
         unique_together = (('id_0', 'id_1', 'id_2', 'id_3', 'id_4'),)
-        ordering = ('id_0', 'id_1', 'id_2', 'id_3', 'id_4')
+        ordering = ('name_0', 'name_1', 'name_2', 'name_3', 'name_4')
         verbose_name = '4th level administrative area'
         verbose_name_plural = '4th level administrative areas'
 
@@ -477,7 +477,7 @@ class FifthAdministrativeLevel(AdministrativeArea):
     class Meta:
         db_table = '{}_admlevel5'.format(BoundariesConfig.name)
         unique_together = (('id_0', 'id_1', 'id_2', 'id_3', 'id_4', 'id_5'),)
-        ordering = ('id_0', 'id_1', 'id_2', 'id_3', 'id_4', 'id_5')
+        ordering = ('name_0', 'name_1', 'name_2', 'name_3', 'name_4', 'name_5')
         verbose_name = '5th level administrative area'
         verbose_name_plural = '5h level administrative areas'
 
