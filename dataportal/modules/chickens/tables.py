@@ -14,10 +14,25 @@ class AnimalTable(tables.Table):
         orderable=False
     )
     animal_sex = tables.Column()
+    administrative_area = tables.ManyToManyColumn(
+        verbose_name='Administrative Area',
+        accessor='farm.administrative_area',
+        orderable=True,
+        transform=lambda ar: ar.administrative_area
+    )
+    altitude = tables.Column(
+        verbose_name='Altitude',
+        accessor='farm.altitude_display',
+        order_by='farm.altitude'
+    )
 
     class Meta:
         model = Animal
         template = 'django_tables2/bootstrap.html'
+        fields = ('id', 'animal_sex', 'sampling.weight', 'farm.village',
+            'farm.longitude', 'farm.latitude', 'altitude',
+            'administrative_area'
+        )
 
     def render_animal_sex(self, value):
         html = '<i class="fa{fa}"></i>'

@@ -2,6 +2,7 @@ from django.contrib.gis.db import models
 from django.contrib.gis.geos import Point
 from django.contrib.postgres import fields as pg_fields
 from django.utils.functional import cached_property
+from django.utils.html import format_html
 from django.urls import reverse
 from django.contrib.contenttypes.fields import GenericRelation
 
@@ -84,6 +85,15 @@ class Farm(models.Model):
 
     #def get_absolute_url(self):
     #    return reverse('farm-detail', kwargs={'pk': str(self.pk)})
+    
+    @property
+    def altitude_display(self):
+        if self.altitude:
+            return format_html(
+                '{display}&nbsp;m&nbsp;a.s.l.',
+                display=self.altitude
+            )
+        return ''
 
 
 class Animal(models.Model):
