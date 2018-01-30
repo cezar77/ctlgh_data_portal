@@ -1,8 +1,14 @@
-from django.contrib import admin
+from django.contrib.gis import admin
 
-from .models import Farm, Animal, Relatedness
+from .models import Farm, Animal, Relatedness, Sampling
 
-# Register your models here.
-admin.site.register(Farm)
+
+class FarmAdmin(admin.GeoModelAdmin):
+    list_display = ['village', 'agroecology']
+    num_zoom = 6
+    modifiable = False
+
+admin.site.register(Farm, FarmAdmin)
 admin.site.register(Animal)
 admin.site.register(Relatedness)
+admin.site.register(Sampling)
