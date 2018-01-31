@@ -1,5 +1,5 @@
 {% extends 'base.html' %}
-{% load email_obfuscator %}
+{% load email_obfuscator lonlat %}
 
 {% block main %}
   <p>
@@ -26,7 +26,7 @@
     </tr>
     <tr>
       <th>Farm geolocation</th>
-      <td>{{ animal.farm.geolocation }}</td>
+      <td>{{ animal.farm.geolocation.x|longitude }} {{ animal.farm.geolocation.y|latitude }}</td>
     </tr>
     <tr>
       <th>Farm altitude</th>

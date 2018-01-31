@@ -10,8 +10,6 @@
             "altitude": [1788, 1789],
 			"locality": "Bonga",
             "population": 1,
-            "content_type": 20,
-            "object_id": 600,
             "study": 1
         }
     },
@@ -20,14 +18,12 @@
         "pk": 2,
         "fields": {
             "date": "2016-05-15",
-            "geolocation": "POINT(39.6908 10.1217)",
-            "longitude": 39.6908,
+            "geolocation": "POINT(39.6608 10.1217)",
+            "longitude": 39.6608,
             "latitude": 10.1217,
             "altitude": [3068, 3069],
             "locality": "Molale",
             "population": 2,
-            "content_type": 20,
-            "object_id": 123,
             "study": 1
         }
     },
@@ -36,14 +32,12 @@
         "pk": 3,
         "fields": {
             "date": "2016-05-16",
-            "geolocation": "POINT(37.8047 7.3528)",
-            "longitude": 37.8047,
+            "geolocation": "POINT(37.7864 7.3528)",
+            "longitude": 37.7864,
             "latitude": 7.3528,
             "altitude": [2324, 2325],
             "locality": "Doyogena",
             "population": 3,
-            "content_type": 20,
-            "object_id": 606,
             "study": 1
         }
     },
@@ -59,8 +53,6 @@
             "altitude": [2490, 2516],
             "locality": "Gafera",
             "population": 4,
-            "content_type": 20,
-            "object_id": 46,
             "study": 1
         }
     },
@@ -76,8 +68,6 @@
             "altitude": [1555, 1637],
             "population": 5,
             "locality": "Shubi Gemo",
-            "content_type": 20,
-            "object_id": 430,
             "study": 1
         }
     },
@@ -93,8 +83,6 @@
             "altitude": [1912, 1987],
             "locality": "Loya",
             "population": 6,
-            "content_type": 20,
-            "object_id": 628,
             "study": 1
         }
     },
@@ -110,8 +98,6 @@
             "altitude": [1186, 1405],
             "population": 7,
             "locality": "Gesses",
-            "content_type": 20,
-            "object_id": 187,
             "study": 1
         }
     },
@@ -127,8 +113,6 @@
             "altitude": [1304, 1305],
             "locality": "Kido",
             "population": 8,
-            "content_type": 20,
-            "object_id": 187,
             "study": 1
         }
     },
@@ -144,8 +128,6 @@
             "altitude": [1500, 1501],
             "locality": "Arabo",
             "population": 9,
-            "content_type": 20,
-            "object_id": 67,
             "study": 1
         }
     },
@@ -161,8 +143,6 @@
             "altitude": [2430, 2451],
             "locality": "Adane",
             "population": 10,
-            "content_type": 20,
-            "object_id": 67,
             "study": 1
         }
     },
@@ -178,8 +158,6 @@
             "altitude": [890, 891],
             "locality": "Kefis",
             "population": 11,
-            "content_type": 20,
-            "object_id": 31,
             "study": 1
         }
     },
@@ -195,8 +173,6 @@
             "altitude": [740, 741],
             "locality": "Segentu",
             "population": 12,
-            "content_type": 20,
-            "object_id": 31,
             "study": 1
         }
     },
@@ -211,8 +187,6 @@
             "latitude": 32.3194,
             "altitude": [6, 7],
             "population": 13,
-            "content_type": 15,
-            "object_id": 26,
             "study": 1
         }
     }

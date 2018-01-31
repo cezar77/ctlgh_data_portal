@@ -3,6 +3,7 @@ from django.utils.html import format_html
 import django_tables2 as tables
 from django_tables2 import A
 
+from dataportal.modules.core.templatetags import lonlat
 from .models import Animal
 
 
@@ -20,6 +21,14 @@ class AnimalTable(tables.Table):
         orderable=True,
         transform=lambda ar: ar.administrative_area
     )
+    longitude = tables.Column(
+        verbose_name='Longitude',
+        accessor='farm.longitude'
+    )
+    latitude = tables.Column(
+        verbose_name='Latitude',
+        accessor='farm.latitude'
+    )
     altitude = tables.Column(
         verbose_name='Altitude',
         accessor='farm.altitude_display',
@@ -30,7 +39,7 @@ class AnimalTable(tables.Table):
         model = Animal
         template = 'django_tables2/bootstrap.html'
         fields = ('id', 'animal_sex', 'sampling.weight', 'farm.village',
-            'farm.agroecology', 'farm.longitude', 'farm.latitude', 'altitude',
+            'farm.agroecology', 'longitude', 'latitude', 'altitude',
             'administrative_area'
         )
 
@@ -43,3 +52,9 @@ class AnimalTable(tables.Table):
         else:
             fa_class = ''
         return format_html(html, fa=fa_class)
+
+    def render_longitude(self, value):
+        return lonlat.longitude(value)
+
+    def render_latitude(self, value):
+        return lonlat.latitude(value)

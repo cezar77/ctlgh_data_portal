@@ -1,5 +1,5 @@
 {% extends 'base.html' %}
-{% load email_obfuscator %}
+{% load email_obfuscator lonlat %}
 
 {% block main %}
   <p>
@@ -30,7 +30,7 @@
     </tr>
     <tr>
       <th>Sampling geolocation</th>
-      <td>{{ animal.sampling.geolocation }}</td>
+      <td>{{ animal.sampling.geolocation.x|longitude }} {{ animal.sampling.geolocation.y|latitude }}</td>
     </tr>
     <tr>
       <th>Sampling altitude</th>
