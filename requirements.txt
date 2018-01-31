@@ -7,3 +7,4 @@ django-email-obfuscator==0.1.5
 wget==3.2
 requests==2.18.4
 beautifulsoup4==4.6.0
+django-crispy-forms==1.7.0
