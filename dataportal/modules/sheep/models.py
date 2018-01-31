@@ -116,4 +116,4 @@ class Animal(models.Model):
         )
 
     def get_absolute_url(self):
-        return reverse('animal-detail', kwargs={'pk': self.pk})
+        return reverse('sheep:animal-detail', kwargs={'pk': self.pk})
