@@ -94,24 +94,6 @@ class Sampling(models.Model):
             display = '{}-{}'.format(lower, upper)
         return format_html(masl, display=display)
 
-    @property
-    def longitude_display(self):
-        value = self.geolocation.x
-        result = '{} {}{}{}\'{}\'\''
-        if value > 0:
-            side = 'E'
-        elif value < 0:
-            side = 'W'
-        else:
-            side = ''
-        degree = int(value)
-        minute = int((value - degree) * 60)
-        second = round((((value - degree) * 60) - minute) * 60)
-        if second >= 60:
-            second = 0
-            minute += 1
-        return result.format(side, degree, u'\u00b0', minute, second)
-
     
 class Animal(models.Model):
     SEXES = (
