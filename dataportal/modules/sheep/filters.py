@@ -1,24 +1,7 @@
-from django.db.models import Q
-
 import django_filters as filters
 
-from dataportal.modules.boundaries.models import Country, AdministrativeRouter
-from .models import Sampling, Animal
-
-
-class SamplingFilter(filters.FilterSet):
-    date = filters.DateFromToRangeFilter(
-        widget=filters.widgets.RangeWidget(
-            attrs={'placeholder': 'YYYY-MM-DD'}
-        )
-    )
-    population__mean_litter_size = filters.RangeFilter()
-
-    class Meta:
-        model = Sampling
-        fields = ('date', 'site',
-            'population__mean_litter_size', 'population__tail_type',
-            'population__possible_related_breed')
+from dataportal.modules.boundaries.models import Country
+from .models import Animal
 
 
 class AnimalFilter(filters.FilterSet):

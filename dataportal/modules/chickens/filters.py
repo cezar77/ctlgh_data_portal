@@ -25,6 +25,16 @@ class AnimalFilter(filters.FilterSet):
         label='Agroecology',
         lookup_expr='icontains'
     )
+    farm__altitude = filters.RangeFilter(
+        label='Altitudinal range',
+        widget=filters.widgets.RangeWidget(
+            attrs={
+                'type': 'number',
+                'step': 1,
+                'style': 'width:5em;'
+            }
+        )
+    )
     country = filters.ModelChoiceFilter(
         name='country',
         label='Country',
@@ -35,7 +45,7 @@ class AnimalFilter(filters.FilterSet):
     class Meta:
         model = Animal
         fields = ('animal_sex', 'sampling__weight', 'farm__village',
-            'farm__agroecology', 'country')
+            'farm__agroecology', 'farm__altitude', 'country')
 
     def country_filter(self, queryset, name, value):
         qs1 = queryset.filter(farm__administrative_area__adm_areas1__country=value)
