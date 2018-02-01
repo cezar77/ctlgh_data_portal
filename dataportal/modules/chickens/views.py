@@ -6,25 +6,10 @@ from django_filters.views import FilterView
 from django_tables2.views import SingleTableView
 
 from dataportal.modules.animals.models import Species
-from .models import Farm, Animal
+from .models import Animal
 from .tables import AnimalTable
 from .filters import AnimalFilter
 
-
-class FarmList(ListView):
-    model = Farm
-
-
-class FarmDetail(DetailView):
-    model = Farm
-
-
-class FarmCreate(CreateView):
-    model = Farm
-    fields = ['latitude', 'longitude', 'altitude', 'village', 'soil_type',
-              'vegetation_type', 'agroecology', 'rainfall_pattern',
-              'water_source', 'coop_type', 'previous_illness_occurence',
-              'chicken_feed', 'other_animals']
 
 class AnimalList(FilterView, SingleTableView):
     model = Animal
