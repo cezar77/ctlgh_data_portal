@@ -1,0 +1,45 @@
+[
+    {
+        "model": "studies.study",
+        "pk": 1,
+        "fields": {
+            "name": "Ethiopian Sheep Genome Re-sequencing Project",
+            "slug": "ethiopian-sheep-genome",
+            "contact_person": 1
+        }
+    },
+    {
+        "model": "studies.study",
+        "pk": 2,
+        "fields": {
+            "name": "Libyan Sheep Genome Re-sequencing Project",
+            "slug": "libyan-sheep-genome",
+            "contact_person": 1
+        }
+    },
+    {
+        "model": "studies.study",
+        "pk": 3,
+        "fields": {
+            "name": "Nigerian chickens",
+            "slug": "nigerian-chickens",
+            "contact_person": 2
+        }
+    },
+    {
+        "model": "studies.person",
+        "pk": 1,
+        "fields": {
+            "name": "Emily Clark",
+            "email": "emily.clark@roslin.ed.ac.uk"
+        }
+    },
+    {
+        "model": "studies.person",
+        "pk": 2,
+        "fields": {
+            "name": "Jacqueline Smith",
+            "email": "jacqueline.smith@roslin.ed.ac.uk"
+        }
+    }
+]
