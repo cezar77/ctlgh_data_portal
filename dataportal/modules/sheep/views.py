@@ -4,17 +4,9 @@ from django_filters.views import FilterView
 from django_tables2.views import SingleTableView
 
 from dataportal.modules.animals.models import Species
-from .models import Population, Sampling, Animal
-from .tables import SamplingTable, AnimalTable
-from .filters import SamplingFilter, AnimalFilter
-
-
-class SamplingList(FilterView, SingleTableView):
-    model = Sampling
-    table_class = SamplingTable
-    template_name = 'sheep/sampling_list.html'
-
-    filterset_class = SamplingFilter
+from .models import Animal
+from .tables import AnimalTable
+from .filters import AnimalFilter
 
 
 class AnimalList(FilterView, SingleTableView):
