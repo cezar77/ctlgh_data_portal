@@ -1,0 +1,322 @@
+[
+    {
+        "model": "boundaries.administrativerouter",
+        "pk": 1,
+        "fields": {
+            "sampling_content_type": 20,
+            "sampling_object_id": 1,
+            "adm_content_type": 13,
+            "adm_object_id": 600
+        }
+    },
+    {
+        "model": "boundaries.administrativerouter",
+        "pk": 2,
+        "fields": {
+            "sampling_content_type": 20,
+            "sampling_object_id": 2,
+            "adm_content_type": 13,
+            "adm_object_id": 123
+        }
+    },
+    {
+        "model": "boundaries.administrativerouter",
+        "pk": 3,
+        "fields": {
+            "sampling_content_type": 20,
+            "sampling_object_id": 3,
+            "adm_content_type": 13,
+            "adm_object_id": 606
+        }
+    },
+    {
+        "model": "boundaries.administrativerouter",
+        "pk": 4,
+        "fields": {
+            "sampling_content_type": 20,
+            "sampling_object_id": 4,
+            "adm_content_type": 13,
+            "adm_object_id": 46
+        }
+    },
+    {
+        "model": "boundaries.administrativerouter",
+        "pk": 5,
+        "fields": {
+            "sampling_content_type": 20,
+            "sampling_object_id": 5,
+            "adm_content_type": 13,
+            "adm_object_id": 430
+        }
+    },
+    {
+        "model": "boundaries.administrativerouter",
+        "pk": 6,
+        "fields": {
+            "sampling_content_type": 20,
+            "sampling_object_id": 6,
+            "adm_content_type": 13,
+            "adm_object_id": 628
+        }
+    },
+    {
+        "model": "boundaries.administrativerouter",
+        "pk": 7,
+        "fields": {
+            "sampling_content_type": 20,
+            "sampling_object_id": 7,
+            "adm_content_type": 13,
+            "adm_object_id": 187
+        }
+    },
+    {
+        "model": "boundaries.administrativerouter",
+        "pk": 8,
+        "fields": {
+            "sampling_content_type": 20,
+            "sampling_object_id": 8,
+            "adm_content_type": 13,
+            "adm_object_id": 187
+        }
+    },
+    {
+        "model": "boundaries.administrativerouter",
+        "pk": 9,
+        "fields": {
+            "sampling_content_type": 20,
+            "sampling_object_id": 9,
+            "adm_content_type": 13,
+            "adm_object_id": 67
+        }
+    },
+    {
+        "model": "boundaries.administrativerouter",
+        "pk": 10,
+        "fields": {
+            "sampling_content_type": 20,
+            "sampling_object_id": 10,
+            "adm_content_type": 13,
+            "adm_object_id": 67
+        }
+    },
+    {
+        "model": "boundaries.administrativerouter",
+        "pk": 11,
+        "fields": {
+            "sampling_content_type": 20,
+            "sampling_object_id": 11,
+            "adm_content_type": 13,
+            "adm_object_id": 31
+        }
+    },
+    {
+        "model": "boundaries.administrativerouter",
+        "pk": 12,
+        "fields": {
+            "sampling_content_type": 20,
+            "sampling_object_id": 12,
+            "adm_content_type": 13,
+            "adm_object_id": 31
+        }
+    },
+    {
+        "model": "boundaries.administrativerouter",
+        "pk": 13,
+        "fields": {
+            "sampling_content_type": 20,
+            "sampling_object_id": 13,
+            "adm_content_type": 8,
+            "adm_object_id": 26
+        }
+    },
+    {
+        "model": "boundaries.administrativerouter",
+        "pk": 14,
+        "fields": {
+            "sampling_content_type": 23,
+            "sampling_object_id": 1,
+            "adm_content_type": 7,
+            "adm_object_id": 570
+        }
+    },
+    {
+        "model": "boundaries.administrativerouter",
+        "pk": 15,
+        "fields": {
+            "sampling_content_type": 23,
+            "sampling_object_id": 2,
+            "adm_content_type": 7,
+            "adm_object_id": 572
+        }
+    },
+    {
+        "model": "boundaries.administrativerouter",
+        "pk": 16,
+        "fields": {
+            "sampling_content_type": 23,
+            "sampling_object_id": 3,
+            "adm_content_type": 7,
+            "adm_object_id": 769
+        }
+    },
+    {
+        "model": "boundaries.administrativerouter",
+        "pk": 17,
+        "fields": {
+            "sampling_content_type": 23,
+            "sampling_object_id": 4,
+            "adm_content_type": 7,
+            "adm_object_id": 769
+        }
+    },
+    {
+        "model": "boundaries.administrativerouter",
+        "pk": 18,
+        "fields": {
+            "sampling_content_type": 23,
+            "sampling_object_id": 5,
+            "adm_content_type": 7,
+            "adm_object_id": 774
+        }
+    },
+    {
+        "model": "boundaries.administrativerouter",
+        "pk": 19,
+        "fields": {
+            "sampling_content_type": 23,
+            "sampling_object_id": 6,
+            "adm_content_type": 7,
+            "adm_object_id": 373
+        }
+    },
+    {
+        "model": "boundaries.administrativerouter",
+        "pk": 20,
+        "fields": {
+            "sampling_content_type": 23,
+            "sampling_object_id": 7,
+            "adm_content_type": 7,
+            "adm_object_id": 376
+        }
+    },
+    {
+        "model": "boundaries.administrativerouter",
+        "pk": 21,
+        "fields": {
+            "sampling_content_type": 23,
+            "sampling_object_id": 8,
+            "adm_content_type": 7,
+            "adm_object_id": 373
+        }
+    },
+    {
+        "model": "boundaries.administrativerouter",
+        "pk": 22,
+        "fields": {
+            "sampling_content_type": 23,
+            "sampling_object_id": 9,
+            "adm_content_type": 7,
+            "adm_object_id": 379
+        }
+    },
+    {
+        "model": "boundaries.administrativerouter",
+        "pk": 23,
+        "fields": {
+            "sampling_content_type": 23,
+            "sampling_object_id": 10,
+            "adm_content_type": 7,
+            "adm_object_id": 618
+        }
+    },
+    {
+        "model": "boundaries.administrativerouter",
+        "pk": 24,
+        "fields": {
+            "sampling_content_type": 23,
+            "sampling_object_id": 11,
+            "adm_content_type": 7,
+            "adm_object_id": 609
+        }
+    },
+    {
+        "model": "boundaries.administrativerouter",
+        "pk": 25,
+        "fields": {
+            "sampling_content_type": 23,
+            "sampling_object_id": 12,
+            "adm_content_type": 7,
+            "adm_object_id": 533
+        }
+    },
+    {
+        "model": "boundaries.administrativerouter",
+        "pk": 26,
+        "fields": {
+            "sampling_content_type": 23,
+            "sampling_object_id": 13,
+            "adm_content_type": 7,
+            "adm_object_id": 533
+        }
+    },
+    {
+        "model": "boundaries.administrativerouter",
+        "pk": 27,
+        "fields": {
+            "sampling_content_type": 23,
+            "sampling_object_id": 14,
+            "adm_content_type": 7,
+            "adm_object_id": 538
+        }
+    },
+    {
+        "model": "boundaries.administrativerouter",
+        "pk": 28,
+        "fields": {
+            "sampling_content_type": 23,
+            "sampling_object_id": 15,
+            "adm_content_type": 7,
+            "adm_object_id": 538
+        }
+    },
+    {
+        "model": "boundaries.administrativerouter",
+        "pk": 29,
+        "fields": {
+            "sampling_content_type": 23,
+            "sampling_object_id": 16,
+            "adm_content_type": 7,
+            "adm_object_id": 639
+        }
+    },
+    {
+        "model": "boundaries.administrativerouter",
+        "pk": 30,
+        "fields": {
+            "sampling_content_type": 23,
+            "sampling_object_id": 17,
+            "adm_content_type": 7,
+            "adm_object_id": 548
+        }
+    },
+    {
+        "model": "boundaries.administrativerouter",
+        "pk": 31,
+        "fields": {
+            "sampling_content_type": 23,
+            "sampling_object_id": 18,
+            "adm_content_type": 7,
+            "adm_object_id": 750
+        }
+    },
+    {
+        "model": "boundaries.administrativerouter",
+        "pk": 32,
+        "fields": {
+            "sampling_content_type": 23,
+            "sampling_object_id": 19,
+            "adm_content_type": 7,
+            "adm_object_id": 750
+        }
+    }
+]
