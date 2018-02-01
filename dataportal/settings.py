@@ -31,7 +31,7 @@ SECRET_KEY = credentials.get('SECRET_KEY')
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['localhost', '129.215.193.22']
+ALLOWED_HOSTS = ['localhost', '129.215.193.22', 'openstack-floating-193-022.ecdf.ed.ac.uk']
 
 
 # Application definition
