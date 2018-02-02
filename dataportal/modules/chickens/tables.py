@@ -42,6 +42,9 @@ class AnimalTable(tables.Table):
             'farm.agroecology', 'longitude', 'latitude', 'altitude',
             'administrative_area'
         )
+        attrs = {
+            'class': 'table table-responsive table-hover'
+        }
 
     def render_animal_sex(self, value):
         html = '<i class="fa{fa}"></i>'

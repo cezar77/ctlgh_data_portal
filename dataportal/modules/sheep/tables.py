@@ -3,17 +3,7 @@ from django.utils.html import format_html
 import django_tables2 as tables
 from django_tables2 import A
 
-from .models import Sampling, Animal
-
-
-class SamplingTable(tables.Table):
-    administrative_area = tables.Column(orderable=False)
-
-    class Meta:
-        model = Sampling
-        template = 'django_tables2/bootstrap.html'
-        fields = ('date', 'site', 'longitude', 'latitude', 'altitude',
-            'locality', 'population', 'administrative_area')
+from .models import Animal
 
 
 class AnimalTable(tables.Table):
@@ -47,6 +37,9 @@ class AnimalTable(tables.Table):
             'sampling.population.tail_shape',
             'sampling.site', 'sampling.locality', 'altitude'
         )
+        attrs = {
+            'class': 'table table-responsive table-hover'
+        }
 
     def render_animal_sex(self, value):
         html = '<i class="fa{fa}"></i>'
