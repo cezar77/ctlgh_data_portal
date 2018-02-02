@@ -29,6 +29,10 @@
       <td>{{ animal.sampling.date }}</td>
     </tr>
     <tr>
+      <th>Animal weight at sampling time</th>
+      <td>{{ animal.sampling.weight }} kg</td>
+    </tr>
+    <tr>
       <th>Farm geolocation</th>
       <td>{{ animal.farm.geolocation.x|longitude }} {{ animal.farm.geolocation.y|latitude }}</td>
     </tr>
@@ -37,7 +41,11 @@
       <td>{{ animal.farm.altitude }} m a.s.l.</td>
     </tr>
     <tr>
-      <th>Farm locality</th>
+      <th>Agroecology</th>
+      <td>{{ animal.farm.agroecology }}</td>
+    </tr>
+    <tr>
+      <th>Farm village</th>
       <td>{{ animal.farm.village }}</td>
     </tr>
     <tr>
