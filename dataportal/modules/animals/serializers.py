@@ -50,29 +50,25 @@ class ImageSerializer(serializers.HyperlinkedModelSerializer):
 
 class AppRelatedField(serializers.RelatedField):
     def display_value(self, instance):
-        return 'app_label: {}, model: {}'.format(
-            instance.app_label,
-            instance.model
-        )
+        return instance.natural_key()
 
     def to_representation(self, value):
-        return json.dumps({
-            'app_label': value.app_label,
-            'model': value.model
-        })
+        return json.dumps(value.natural_key())
 
     def to_internal_value(self, data):
         data = json.loads(data)
         return ContentType.objects.get(
-            app_label=data['app_label'],
-            model=data['model']
+            app_label=data[0],
+            model=data[1]
         )
 
 
 class SpeciesSerializer(serializers.HyperlinkedModelSerializer):
     app = AppRelatedField(
         queryset=ContentType.objects.all(),
-        allow_null=True
+        many=False,
+        allow_null=True,
+        required=False
     )
     image = ImageSerializer(required=True)
 
