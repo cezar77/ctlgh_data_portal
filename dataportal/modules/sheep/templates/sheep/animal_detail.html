@@ -1,6 +1,10 @@
 {% extends 'base.html' %}
 {% load email_obfuscator lonlat %}
 
+{% block title %}
+{{ block.super }} - Sample for {{ animal }}
+{% endblock %}
+
 {% block main %}
   <p>
     <a href="{% url 'sheep:animal-list' %}">Back to list</a>

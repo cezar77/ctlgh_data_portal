@@ -1,5 +1,10 @@
 {% extends 'base.html' %}
 {% load django_tables2 crispy_forms_tags %}
+
+{% block title %}
+{{ block.super }} - Samples for {{ species.common_name }}
+{% endblock %}
+
 {% block main %}
   <div class="well well-sm">
     <h3 class="text-center">Samples for {{ species }}</h3>
