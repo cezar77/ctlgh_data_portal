@@ -34,6 +34,7 @@ class AnimalTable(tables.Table):
         accessor='farm.altitude_display',
         order_by='farm.altitude'
     )
+    export_formats = ['tsv']
 
     class Meta:
         model = Animal
@@ -56,8 +57,14 @@ class AnimalTable(tables.Table):
             fa_class = ''
         return format_html(html, fa=fa_class)
 
+    def value_animal_sex(self, value):
+        return value
+
     def render_longitude(self, value):
         return lonlat.longitude(value)
 
     def render_latitude(self, value):
         return lonlat.latitude(value)
+
+    def value_altitude(self, record):
+        return record.farm.altitude
