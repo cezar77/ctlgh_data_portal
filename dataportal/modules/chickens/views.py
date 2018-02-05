@@ -1,6 +1,4 @@
-from django.views.generic.list import ListView
 from django.views.generic.detail import DetailView
-from django.views.generic.edit import CreateView
 
 from django_filters.views import FilterView
 from django_tables2.views import SingleTableView

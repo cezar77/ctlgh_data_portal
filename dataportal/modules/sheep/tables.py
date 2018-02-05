@@ -25,6 +25,7 @@ class AnimalTable(tables.Table):
         accessor='sampling.altitude_display',
         order_by='sampling.altitude'
     )
+    export_formats = ['tsv']
 
     class Meta:
         model = Animal
@@ -50,3 +51,9 @@ class AnimalTable(tables.Table):
         else:
             fa_class = ''
         return format_html(html, fa=fa_class)
+
+    def value_animal_sex(self, value):
+        return value
+
+    def value_altitude(self, value):
+        return value.replace('&nbsp;', ' ')
