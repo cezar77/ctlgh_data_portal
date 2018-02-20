@@ -235,6 +235,10 @@ class Sampling(models.Model):
         null=True,
         blank=True
     )
+    age = models.PositiveSmallIntegerField(
+        null=True,
+        blank=True
+    )
     animal = models.OneToOneField('Animal', related_name='sampling')
     study = models.ForeignKey(
         'studies.Study',

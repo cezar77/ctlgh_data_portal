@@ -68,3 +68,8 @@ class AnimalTable(tables.Table):
 
     def value_altitude(self, record):
         return record.farm.altitude
+
+    def order_administrative_area(self, queryset, is_descending):
+        return (queryset.order_by(
+            ('-' if is_descending else '') + 'farm__administrative_area'
+        ), True)
