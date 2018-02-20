@@ -10,7 +10,9 @@
     <a href="{% url 'chickens:animal-list' %}">Back to list</a>
   </p>
   <h3>{{ animal }}</h3>
+  {% if animal.farm.geolocation %}
   <div id="mapid" style="height:320px;"></div>
+  {% endif %}
   <table class="table table-striped table-hover">
     <tr>
       <th>Animal sex</th>
@@ -32,6 +34,7 @@
       <th>Animal weight at sampling time</th>
       <td>{{ animal.sampling.weight }} kg</td>
     </tr>
+    {% if animal.farm.geolocation %}
     <tr>
       <th>Farm geolocation</th>
       <td>{{ animal.farm.geolocation.x|longitude }} {{ animal.farm.geolocation.y|latitude }}</td>
@@ -40,6 +43,7 @@
       <th>Farm altitude</th>
       <td>{{ animal.farm.altitude }} m a.s.l.</td>
     </tr>
+    {% endif %}
     <tr>
       <th>Agroecology</th>
       <td>{{ animal.farm.agroecology }}</td>
