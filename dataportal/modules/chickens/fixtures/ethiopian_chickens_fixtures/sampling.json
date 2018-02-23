@@ -3,6 +3,7 @@
         "pk": 123, 
         "model": "chickens.sampling", 
         "fields": {
+            "date": "2016-09-21", 
             "study": 4, 
             "age": 8, 
             "animal": 123, 
@@ -13,6 +14,7 @@
         "pk": 124, 
         "model": "chickens.sampling", 
         "fields": {
+            "date": "2016-09-21", 
             "study": 4, 
             "age": null, 
             "animal": 124, 
@@ -23,6 +25,7 @@
         "pk": 125, 
         "model": "chickens.sampling", 
         "fields": {
+            "date": "2016-09-21", 
             "study": 4, 
             "age": null, 
             "animal": 125, 
@@ -33,6 +36,7 @@
         "pk": 126, 
         "model": "chickens.sampling", 
         "fields": {
+            "date": "2016-09-21", 
             "study": 4, 
             "age": 7, 
             "animal": 126, 
@@ -43,6 +47,7 @@
         "pk": 127, 
         "model": "chickens.sampling", 
         "fields": {
+            "date": "2016-09-21", 
             "study": 4, 
             "age": 7, 
             "animal": 127, 
@@ -53,6 +58,7 @@
         "pk": 128, 
         "model": "chickens.sampling", 
         "fields": {
+            "date": "2016-09-21", 
             "study": 4, 
             "age": 8, 
             "animal": 128, 
@@ -63,6 +69,7 @@
         "pk": 129, 
         "model": "chickens.sampling", 
         "fields": {
+            "date": "2016-09-21", 
             "study": 4, 
             "age": 8, 
             "animal": 129, 
@@ -73,6 +80,7 @@
         "pk": 130, 
         "model": "chickens.sampling", 
         "fields": {
+            "date": "2016-09-21", 
             "study": 4, 
             "age": 12, 
             "animal": 130, 
@@ -83,6 +91,7 @@
         "pk": 131, 
         "model": "chickens.sampling", 
         "fields": {
+            "date": "2016-09-21", 
             "study": 4, 
             "age": null, 
             "animal": 131, 
@@ -93,6 +102,7 @@
         "pk": 132, 
         "model": "chickens.sampling", 
         "fields": {
+            "date": "2016-09-21", 
             "study": 4, 
             "age": 12, 
             "animal": 132, 
@@ -103,6 +113,7 @@
         "pk": 133, 
         "model": "chickens.sampling", 
         "fields": {
+            "date": "2016-09-22", 
             "study": 4, 
             "age": 8, 
             "animal": 133, 
@@ -113,6 +124,7 @@
         "pk": 134, 
         "model": "chickens.sampling", 
         "fields": {
+            "date": "2016-09-22", 
             "study": 4, 
             "age": 24, 
             "animal": 134, 
@@ -123,6 +135,7 @@
         "pk": 135, 
         "model": "chickens.sampling", 
         "fields": {
+            "date": "2016-09-22", 
             "study": 4, 
             "age": 8, 
             "animal": 135, 
@@ -133,6 +146,7 @@
         "pk": 136, 
         "model": "chickens.sampling", 
         "fields": {
+            "date": "2016-09-22", 
             "study": 4, 
             "age": 8, 
             "animal": 136, 
@@ -143,6 +157,7 @@
         "pk": 137, 
         "model": "chickens.sampling", 
         "fields": {
+            "date": "2016-09-22", 
             "study": 4, 
             "age": 5, 
             "animal": 137, 
@@ -153,6 +168,7 @@
         "pk": 138, 
         "model": "chickens.sampling", 
         "fields": {
+            "date": "2016-09-22", 
             "study": 4, 
             "age": 12, 
             "animal": 138, 
@@ -163,6 +179,7 @@
         "pk": 139, 
         "model": "chickens.sampling", 
         "fields": {
+            "date": "2016-09-22", 
             "study": 4, 
             "age": null, 
             "animal": 139, 
@@ -173,6 +190,7 @@
         "pk": 140, 
         "model": "chickens.sampling", 
         "fields": {
+            "date": "2016-09-22", 
             "study": 4, 
             "age": 24, 
             "animal": 140, 
@@ -183,6 +201,7 @@
         "pk": 141, 
         "model": "chickens.sampling", 
         "fields": {
+            "date": "2016-09-22", 
             "study": 4, 
             "age": 24, 
             "animal": 141, 
@@ -193,6 +212,7 @@
         "pk": 142, 
         "model": "chickens.sampling", 
         "fields": {
+            "date": "2016-09-22", 
             "study": 4, 
             "age": 7, 
             "animal": 142, 
@@ -203,6 +223,7 @@
         "pk": 143, 
         "model": "chickens.sampling", 
         "fields": {
+            "date": "2016-05-22", 
             "study": 4, 
             "age": 5, 
             "animal": 143, 
@@ -213,6 +234,7 @@
         "pk": 144, 
         "model": "chickens.sampling", 
         "fields": {
+            "date": "2016-05-22", 
             "study": 4, 
             "age": 8, 
             "animal": 144, 
@@ -223,6 +245,7 @@
         "pk": 145, 
         "model": "chickens.sampling", 
         "fields": {
+            "date": "2016-05-22", 
             "study": 4, 
             "age": 4, 
             "animal": 145, 
@@ -233,6 +256,7 @@
         "pk": 146, 
         "model": "chickens.sampling", 
         "fields": {
+            "date": "2016-05-22", 
             "study": 4, 
             "age": 6, 
             "animal": 146, 
@@ -243,6 +267,7 @@
         "pk": 147, 
         "model": "chickens.sampling", 
         "fields": {
+            "date": "2016-05-22", 
             "study": 4, 
             "age": 5, 
             "animal": 147, 
@@ -253,6 +278,7 @@
         "pk": 148, 
         "model": "chickens.sampling", 
         "fields": {
+            "date": "2016-05-22", 
             "study": 4, 
             "age": 4, 
             "animal": 148, 
@@ -263,6 +289,7 @@
         "pk": 149, 
         "model": "chickens.sampling", 
         "fields": {
+            "date": "2016-05-22", 
             "study": 4, 
             "age": 6, 
             "animal": 149, 
@@ -273,6 +300,7 @@
         "pk": 150, 
         "model": "chickens.sampling", 
         "fields": {
+            "date": "2016-05-22", 
             "study": 4, 
             "age": 6, 
             "animal": 150, 
@@ -283,6 +311,7 @@
         "pk": 151, 
         "model": "chickens.sampling", 
         "fields": {
+            "date": "2016-05-22", 
             "study": 4, 
             "age": 6, 
             "animal": 151, 
@@ -293,6 +322,7 @@
         "pk": 152, 
         "model": "chickens.sampling", 
         "fields": {
+            "date": "2016-05-22", 
             "study": 4, 
             "age": 7, 
             "animal": 152, 
@@ -303,6 +333,7 @@
         "pk": 153, 
         "model": "chickens.sampling", 
         "fields": {
+            "date": "2016-05-21", 
             "study": 4, 
             "age": 12, 
             "animal": 153, 
@@ -313,6 +344,7 @@
         "pk": 154, 
         "model": "chickens.sampling", 
         "fields": {
+            "date": "2016-05-21", 
             "study": 4, 
             "age": 12, 
             "animal": 154, 
@@ -323,6 +355,7 @@
         "pk": 155, 
         "model": "chickens.sampling", 
         "fields": {
+            "date": "2016-05-21", 
             "study": 4, 
             "age": 6, 
             "animal": 155, 
@@ -333,6 +366,7 @@
         "pk": 156, 
         "model": "chickens.sampling", 
         "fields": {
+            "date": "2016-05-21", 
             "study": 4, 
             "age": 10, 
             "animal": 156, 
@@ -343,6 +377,7 @@
         "pk": 157, 
         "model": "chickens.sampling", 
         "fields": {
+            "date": "2016-05-21", 
             "study": 4, 
             "age": 12, 
             "animal": 157, 
@@ -353,6 +388,7 @@
         "pk": 158, 
         "model": "chickens.sampling", 
         "fields": {
+            "date": "2016-05-21", 
             "study": 4, 
             "age": 7, 
             "animal": 158, 
@@ -363,6 +399,7 @@
         "pk": 159, 
         "model": "chickens.sampling", 
         "fields": {
+            "date": "2016-05-21", 
             "study": 4, 
             "age": 7, 
             "animal": 159, 
@@ -373,6 +410,7 @@
         "pk": 160, 
         "model": "chickens.sampling", 
         "fields": {
+            "date": "2016-05-21", 
             "study": 4, 
             "age": 8, 
             "animal": 160, 
@@ -383,6 +421,7 @@
         "pk": 161, 
         "model": "chickens.sampling", 
         "fields": {
+            "date": "2016-05-21", 
             "study": 4, 
             "age": 14, 
             "animal": 161, 
@@ -393,6 +432,7 @@
         "pk": 162, 
         "model": "chickens.sampling", 
         "fields": {
+            "date": "2016-05-21", 
             "study": 4, 
             "age": 12, 
             "animal": 162, 
@@ -403,6 +443,7 @@
         "pk": 163, 
         "model": "chickens.sampling", 
         "fields": {
+            "date": "2016-05-21", 
             "study": 4, 
             "age": 6, 
             "animal": 163, 
@@ -413,6 +454,7 @@
         "pk": 164, 
         "model": "chickens.sampling", 
         "fields": {
+            "date": "2016-05-21", 
             "study": 4, 
             "age": 8, 
             "animal": 164, 
@@ -423,6 +465,7 @@
         "pk": 165, 
         "model": "chickens.sampling", 
         "fields": {
+            "date": "2016-05-21", 
             "study": 4, 
             "age": 10, 
             "animal": 165, 
@@ -433,6 +476,7 @@
         "pk": 166, 
         "model": "chickens.sampling", 
         "fields": {
+            "date": "2016-05-21", 
             "study": 4, 
             "age": 7, 
             "animal": 166, 
@@ -443,6 +487,7 @@
         "pk": 167, 
         "model": "chickens.sampling", 
         "fields": {
+            "date": "2016-05-21", 
             "study": 4, 
             "age": 8, 
             "animal": 167, 
@@ -453,6 +498,7 @@
         "pk": 168, 
         "model": "chickens.sampling", 
         "fields": {
+            "date": "2016-05-21", 
             "study": 4, 
             "age": 9, 
             "animal": 168, 
@@ -463,6 +509,7 @@
         "pk": 169, 
         "model": "chickens.sampling", 
         "fields": {
+            "date": "2016-05-21", 
             "study": 4, 
             "age": 5, 
             "animal": 169, 
@@ -473,6 +520,7 @@
         "pk": 170, 
         "model": "chickens.sampling", 
         "fields": {
+            "date": "2016-05-22", 
             "study": 4, 
             "age": 12, 
             "animal": 170, 
@@ -483,6 +531,7 @@
         "pk": 171, 
         "model": "chickens.sampling", 
         "fields": {
+            "date": "2016-05-22", 
             "study": 4, 
             "age": 12, 
             "animal": 171, 
@@ -493,6 +542,7 @@
         "pk": 172, 
         "model": "chickens.sampling", 
         "fields": {
+            "date": "2016-05-22", 
             "study": 4, 
             "age": 7, 
             "animal": 172, 
@@ -503,6 +553,7 @@
         "pk": 173, 
         "model": "chickens.sampling", 
         "fields": {
+            "date": "2016-05-22", 
             "study": 4, 
             "age": 8, 
             "animal": 173, 
@@ -513,6 +564,7 @@
         "pk": 174, 
         "model": "chickens.sampling", 
         "fields": {
+            "date": "2016-05-22", 
             "study": 4, 
             "age": 6, 
             "animal": 174, 
@@ -523,6 +575,7 @@
         "pk": 175, 
         "model": "chickens.sampling", 
         "fields": {
+            "date": "2016-05-22", 
             "study": 4, 
             "age": 12, 
             "animal": 175, 
@@ -533,6 +586,7 @@
         "pk": 176, 
         "model": "chickens.sampling", 
         "fields": {
+            "date": "2016-05-22", 
             "study": 4, 
             "age": 7, 
             "animal": 176, 
@@ -543,6 +597,7 @@
         "pk": 177, 
         "model": "chickens.sampling", 
         "fields": {
+            "date": "2016-05-22", 
             "study": 4, 
             "age": 5, 
             "animal": 177, 
@@ -553,6 +608,7 @@
         "pk": 178, 
         "model": "chickens.sampling", 
         "fields": {
+            "date": "2016-05-22", 
             "study": 4, 
             "age": 12, 
             "animal": 178, 
@@ -563,6 +619,7 @@
         "pk": 179, 
         "model": "chickens.sampling", 
         "fields": {
+            "date": "2016-05-22", 
             "study": 4, 
             "age": 13, 
             "animal": 179, 
@@ -573,6 +630,7 @@
         "pk": 180, 
         "model": "chickens.sampling", 
         "fields": {
+            "date": "2016-05-23", 
             "study": 4, 
             "age": 8, 
             "animal": 180, 
@@ -583,6 +641,7 @@
         "pk": 181, 
         "model": "chickens.sampling", 
         "fields": {
+            "date": "2016-05-23", 
             "study": 4, 
             "age": 8, 
             "animal": 181, 
@@ -593,6 +652,7 @@
         "pk": 182, 
         "model": "chickens.sampling", 
         "fields": {
+            "date": "2016-05-23", 
             "study": 4, 
             "age": 6, 
             "animal": 182, 
@@ -603,6 +663,7 @@
         "pk": 183, 
         "model": "chickens.sampling", 
         "fields": {
+            "date": "2016-05-23", 
             "study": 4, 
             "age": 5, 
             "animal": 183, 
@@ -613,6 +674,7 @@
         "pk": 184, 
         "model": "chickens.sampling", 
         "fields": {
+            "date": "2016-05-23", 
             "study": 4, 
             "age": 7, 
             "animal": 184, 
@@ -623,6 +685,7 @@
         "pk": 185, 
         "model": "chickens.sampling", 
         "fields": {
+            "date": "2016-05-23", 
             "study": 4, 
             "age": 11, 
             "animal": 185, 
@@ -633,6 +696,7 @@
         "pk": 186, 
         "model": "chickens.sampling", 
         "fields": {
+            "date": "2016-05-23", 
             "study": 4, 
             "age": 8, 
             "animal": 186, 
@@ -643,6 +707,7 @@
         "pk": 187, 
         "model": "chickens.sampling", 
         "fields": {
+            "date": "2016-05-23", 
             "study": 4, 
             "age": 8, 
             "animal": 187, 
@@ -653,6 +718,7 @@
         "pk": 188, 
         "model": "chickens.sampling", 
         "fields": {
+            "date": "2016-05-23", 
             "study": 4, 
             "age": 9, 
             "animal": 188, 
@@ -663,6 +729,7 @@
         "pk": 189, 
         "model": "chickens.sampling", 
         "fields": {
+            "date": "2016-05-23", 
             "study": 4, 
             "age": 6, 
             "animal": 189, 
@@ -673,6 +740,7 @@
         "pk": 190, 
         "model": "chickens.sampling", 
         "fields": {
+            "date": "2016-05-23", 
             "study": 4, 
             "age": 12, 
             "animal": 190, 
@@ -683,6 +751,7 @@
         "pk": 191, 
         "model": "chickens.sampling", 
         "fields": {
+            "date": "2016-05-23", 
             "study": 4, 
             "age": 9, 
             "animal": 191, 
@@ -693,6 +762,7 @@
         "pk": 192, 
         "model": "chickens.sampling", 
         "fields": {
+            "date": "2016-05-23", 
             "study": 4, 
             "age": 9, 
             "animal": 192, 
@@ -703,6 +773,7 @@
         "pk": 193, 
         "model": "chickens.sampling", 
         "fields": {
+            "date": "2016-05-23", 
             "study": 4, 
             "age": 9, 
             "animal": 193, 
@@ -713,6 +784,7 @@
         "pk": 194, 
         "model": "chickens.sampling", 
         "fields": {
+            "date": "2016-05-23", 
             "study": 4, 
             "age": 10, 
             "animal": 194, 
@@ -723,6 +795,7 @@
         "pk": 195, 
         "model": "chickens.sampling", 
         "fields": {
+            "date": "2016-05-23", 
             "study": 4, 
             "age": 9, 
             "animal": 195, 
@@ -733,6 +806,7 @@
         "pk": 196, 
         "model": "chickens.sampling", 
         "fields": {
+            "date": "2016-05-23", 
             "study": 4, 
             "age": 18, 
             "animal": 196, 
@@ -743,6 +817,7 @@
         "pk": 197, 
         "model": "chickens.sampling", 
         "fields": {
+            "date": "2016-05-23", 
             "study": 4, 
             "age": 12, 
             "animal": 197, 
@@ -753,6 +828,7 @@
         "pk": 198, 
         "model": "chickens.sampling", 
         "fields": {
+            "date": "2016-05-23", 
             "study": 4, 
             "age": 9, 
             "animal": 198, 
@@ -763,6 +839,7 @@
         "pk": 199, 
         "model": "chickens.sampling", 
         "fields": {
+            "date": "2016-05-23", 
             "study": 4, 
             "age": 12, 
             "animal": 199, 
@@ -773,6 +850,7 @@
         "pk": 200, 
         "model": "chickens.sampling", 
         "fields": {
+            "date": "2016-05-24", 
             "study": 4, 
             "age": 9, 
             "animal": 200, 
@@ -783,6 +861,7 @@
         "pk": 201, 
         "model": "chickens.sampling", 
         "fields": {
+            "date": "2016-05-24", 
             "study": 4, 
             "age": 8, 
             "animal": 201, 
@@ -793,6 +872,7 @@
         "pk": 202, 
         "model": "chickens.sampling", 
         "fields": {
+            "date": "2016-05-24", 
             "study": 4, 
             "age": 9, 
             "animal": 202, 
@@ -803,6 +883,7 @@
         "pk": 203, 
         "model": "chickens.sampling", 
         "fields": {
+            "date": "2016-05-24", 
             "study": 4, 
             "age": 15, 
             "animal": 203, 
@@ -813,6 +894,7 @@
         "pk": 204, 
         "model": "chickens.sampling", 
         "fields": {
+            "date": "2016-05-24", 
             "study": 4, 
             "age": 12, 
             "animal": 204, 
@@ -823,6 +905,7 @@
         "pk": 205, 
         "model": "chickens.sampling", 
         "fields": {
+            "date": "2016-05-24", 
             "study": 4, 
             "age": 12, 
             "animal": 205, 
@@ -833,6 +916,7 @@
         "pk": 206, 
         "model": "chickens.sampling", 
         "fields": {
+            "date": "2016-05-24", 
             "study": 4, 
             "age": 12, 
             "animal": 206, 
@@ -843,6 +927,7 @@
         "pk": 207, 
         "model": "chickens.sampling", 
         "fields": {
+            "date": "2016-05-24", 
             "study": 4, 
             "age": 8, 
             "animal": 207, 
@@ -853,6 +938,7 @@
         "pk": 208, 
         "model": "chickens.sampling", 
         "fields": {
+            "date": "2016-05-24", 
             "study": 4, 
             "age": 19, 
             "animal": 208, 
@@ -863,6 +949,7 @@
         "pk": 209, 
         "model": "chickens.sampling", 
         "fields": {
+            "date": "2016-05-24", 
             "study": 4, 
             "age": 18, 
             "animal": 209, 
@@ -873,6 +960,7 @@
         "pk": 210, 
         "model": "chickens.sampling", 
         "fields": {
+            "date": "2016-09-08", 
             "study": 4, 
             "age": 6, 
             "animal": 210, 
@@ -883,6 +971,7 @@
         "pk": 211, 
         "model": "chickens.sampling", 
         "fields": {
+            "date": "2016-09-08", 
             "study": 4, 
             "age": 5, 
             "animal": 211, 
@@ -893,6 +982,7 @@
         "pk": 212, 
         "model": "chickens.sampling", 
         "fields": {
+            "date": "2016-09-08", 
             "study": 4, 
             "age": 5, 
             "animal": 212, 
@@ -903,6 +993,7 @@
         "pk": 213, 
         "model": "chickens.sampling", 
         "fields": {
+            "date": "2016-09-08", 
             "study": 4, 
             "age": 12, 
             "animal": 213, 
@@ -913,6 +1004,7 @@
         "pk": 214, 
         "model": "chickens.sampling", 
         "fields": {
+            "date": "2016-09-08", 
             "study": 4, 
             "age": 6, 
             "animal": 214, 
@@ -923,6 +1015,7 @@
         "pk": 215, 
         "model": "chickens.sampling", 
         "fields": {
+            "date": "2016-09-08", 
             "study": 4, 
             "age": 8, 
             "animal": 215, 
@@ -933,6 +1026,7 @@
         "pk": 216, 
         "model": "chickens.sampling", 
         "fields": {
+            "date": "2016-09-08", 
             "study": 4, 
             "age": 8, 
             "animal": 216, 
@@ -943,6 +1037,7 @@
         "pk": 217, 
         "model": "chickens.sampling", 
         "fields": {
+            "date": "2016-09-08", 
             "study": 4, 
             "age": 14, 
             "animal": 217, 
@@ -953,6 +1048,7 @@
         "pk": 218, 
         "model": "chickens.sampling", 
         "fields": {
+            "date": "2016-09-08", 
             "study": 4, 
             "age": 8, 
             "animal": 218, 
@@ -963,6 +1059,7 @@
         "pk": 219, 
         "model": "chickens.sampling", 
         "fields": {
+            "date": "2016-09-08", 
             "study": 4, 
             "age": null, 
             "animal": 219, 
@@ -973,6 +1070,7 @@
         "pk": 220, 
         "model": "chickens.sampling", 
         "fields": {
+            "date": "2016-09-09", 
             "study": 4, 
             "age": 6, 
             "animal": 220, 
@@ -983,6 +1081,7 @@
         "pk": 221, 
         "model": "chickens.sampling", 
         "fields": {
+            "date": "2016-09-10", 
             "study": 4, 
             "age": 6, 
             "animal": 221, 
@@ -993,6 +1092,7 @@
         "pk": 222, 
         "model": "chickens.sampling", 
         "fields": {
+            "date": "2016-09-11", 
             "study": 4, 
             "age": 11, 
             "animal": 222, 
@@ -1003,6 +1103,7 @@
         "pk": 223, 
         "model": "chickens.sampling", 
         "fields": {
+            "date": "2016-09-12", 
             "study": 4, 
             "age": 8, 
             "animal": 223, 
@@ -1013,6 +1114,7 @@
         "pk": 224, 
         "model": "chickens.sampling", 
         "fields": {
+            "date": "2016-09-13", 
             "study": 4, 
             "age": 8, 
             "animal": 224, 
@@ -1023,6 +1125,7 @@
         "pk": 225, 
         "model": "chickens.sampling", 
         "fields": {
+            "date": "2016-09-14", 
             "study": 4, 
             "age": 8, 
             "animal": 225, 
@@ -1033,6 +1136,7 @@
         "pk": 226, 
         "model": "chickens.sampling", 
         "fields": {
+            "date": "2016-09-15", 
             "study": 4, 
             "age": null, 
             "animal": 226, 
@@ -1043,6 +1147,7 @@
         "pk": 227, 
         "model": "chickens.sampling", 
         "fields": {
+            "date": "2016-09-16", 
             "study": 4, 
             "age": 8, 
             "animal": 227, 
@@ -1053,6 +1158,7 @@
         "pk": 228, 
         "model": "chickens.sampling", 
         "fields": {
+            "date": "2016-09-17", 
             "study": 4, 
             "age": 12, 
             "animal": 228, 
@@ -1063,6 +1169,7 @@
         "pk": 229, 
         "model": "chickens.sampling", 
         "fields": {
+            "date": "2016-09-18", 
             "study": 4, 
             "age": 7, 
             "animal": 229, 
@@ -1073,6 +1180,7 @@
         "pk": 230, 
         "model": "chickens.sampling", 
         "fields": {
+            "date": "2016-09-19", 
             "study": 4, 
             "age": 12, 
             "animal": 230, 
@@ -1083,6 +1191,7 @@
         "pk": 231, 
         "model": "chickens.sampling", 
         "fields": {
+            "date": "2016-11-08", 
             "study": 4, 
             "age": 12, 
             "animal": 231, 
@@ -1093,6 +1202,7 @@
         "pk": 232, 
         "model": "chickens.sampling", 
         "fields": {
+            "date": "2016-11-08", 
             "study": 4, 
             "age": null, 
             "animal": 232, 
@@ -1103,6 +1213,7 @@
         "pk": 233, 
         "model": "chickens.sampling", 
         "fields": {
+            "date": "2016-11-08", 
             "study": 4, 
             "age": 12, 
             "animal": 233, 
@@ -1113,6 +1224,7 @@
         "pk": 234, 
         "model": "chickens.sampling", 
         "fields": {
+            "date": "2016-11-08", 
             "study": 4, 
             "age": 15, 
             "animal": 234, 
@@ -1123,6 +1235,7 @@
         "pk": 235, 
         "model": "chickens.sampling", 
         "fields": {
+            "date": "2016-11-08", 
             "study": 4, 
             "age": 12, 
             "animal": 235, 
@@ -1133,6 +1246,7 @@
         "pk": 236, 
         "model": "chickens.sampling", 
         "fields": {
+            "date": "2016-11-08", 
             "study": 4, 
             "age": 12, 
             "animal": 236, 
@@ -1143,6 +1257,7 @@
         "pk": 237, 
         "model": "chickens.sampling", 
         "fields": {
+            "date": "2016-11-08", 
             "study": 4, 
             "age": 12, 
             "animal": 237, 
@@ -1153,6 +1268,7 @@
         "pk": 238, 
         "model": "chickens.sampling", 
         "fields": {
+            "date": "2016-11-08", 
             "study": 4, 
             "age": 12, 
             "animal": 238, 
@@ -1163,6 +1279,7 @@
         "pk": 239, 
         "model": "chickens.sampling", 
         "fields": {
+            "date": "2016-11-08", 
             "study": 4, 
             "age": 9, 
             "animal": 239, 
@@ -1173,6 +1290,7 @@
         "pk": 240, 
         "model": "chickens.sampling", 
         "fields": {
+            "date": "2016-11-08", 
             "study": 4, 
             "age": 24, 
             "animal": 240, 
@@ -1183,6 +1301,7 @@
         "pk": 241, 
         "model": "chickens.sampling", 
         "fields": {
+            "date": "2016-12-08", 
             "study": 4, 
             "age": 12, 
             "animal": 241, 
@@ -1193,6 +1312,7 @@
         "pk": 242, 
         "model": "chickens.sampling", 
         "fields": {
+            "date": "2016-12-09", 
             "study": 4, 
             "age": 14, 
             "animal": 242, 
@@ -1203,6 +1323,7 @@
         "pk": 243, 
         "model": "chickens.sampling", 
         "fields": {
+            "date": "2016-12-10", 
             "study": 4, 
             "age": 8, 
             "animal": 243, 
@@ -1213,6 +1334,7 @@
         "pk": 244, 
         "model": "chickens.sampling", 
         "fields": {
+            "date": "2016-12-11", 
             "study": 4, 
             "age": 9, 
             "animal": 244, 
@@ -1223,6 +1345,7 @@
         "pk": 245, 
         "model": "chickens.sampling", 
         "fields": {
+            "date": "2016-12-12", 
             "study": 4, 
             "age": 9, 
             "animal": 245, 
@@ -1233,6 +1356,7 @@
         "pk": 246, 
         "model": "chickens.sampling", 
         "fields": {
+            "date": "2016-12-13", 
             "study": 4, 
             "age": 6, 
             "animal": 246, 
@@ -1243,6 +1367,7 @@
         "pk": 247, 
         "model": "chickens.sampling", 
         "fields": {
+            "date": "2016-12-14", 
             "study": 4, 
             "age": 12, 
             "animal": 247, 
@@ -1253,6 +1378,7 @@
         "pk": 248, 
         "model": "chickens.sampling", 
         "fields": {
+            "date": "2016-12-15", 
             "study": 4, 
             "age": 9, 
             "animal": 248, 
@@ -1263,6 +1389,7 @@
         "pk": 249, 
         "model": "chickens.sampling", 
         "fields": {
+            "date": "2016-12-16", 
             "study": 4, 
             "age": 7, 
             "animal": 249, 
@@ -1273,6 +1400,7 @@
         "pk": 250, 
         "model": "chickens.sampling", 
         "fields": {
+            "date": "2016-02-08", 
             "study": 4, 
             "age": 12, 
             "animal": 250, 
@@ -1283,6 +1411,7 @@
         "pk": 251, 
         "model": "chickens.sampling", 
         "fields": {
+            "date": "2016-02-08", 
             "study": 4, 
             "age": 4, 
             "animal": 251, 
@@ -1293,6 +1422,7 @@
         "pk": 252, 
         "model": "chickens.sampling", 
         "fields": {
+            "date": "2016-02-08", 
             "study": 4, 
             "age": 6, 
             "animal": 252, 
@@ -1303,6 +1433,7 @@
         "pk": 253, 
         "model": "chickens.sampling", 
         "fields": {
+            "date": "2016-02-08", 
             "study": 4, 
             "age": 7, 
             "animal": 253, 
@@ -1313,6 +1444,7 @@
         "pk": 254, 
         "model": "chickens.sampling", 
         "fields": {
+            "date": "2016-02-08", 
             "study": 4, 
             "age": 7, 
             "animal": 254, 
@@ -1323,6 +1455,7 @@
         "pk": 255, 
         "model": "chickens.sampling", 
         "fields": {
+            "date": "2016-02-08", 
             "study": 4, 
             "age": 9, 
             "animal": 255, 
@@ -1333,6 +1466,7 @@
         "pk": 256, 
         "model": "chickens.sampling", 
         "fields": {
+            "date": "2016-02-08", 
             "study": 4, 
             "age": null, 
             "animal": 256, 
@@ -1343,6 +1477,7 @@
         "pk": 257, 
         "model": "chickens.sampling", 
         "fields": {
+            "date": "2016-02-08", 
             "study": 4, 
             "age": 6, 
             "animal": 257, 
@@ -1353,6 +1488,7 @@
         "pk": 258, 
         "model": "chickens.sampling", 
         "fields": {
+            "date": "2016-02-08", 
             "study": 4, 
             "age": null, 
             "animal": 258, 
@@ -1363,6 +1499,7 @@
         "pk": 259, 
         "model": "chickens.sampling", 
         "fields": {
+            "date": "2016-02-08", 
             "study": 4, 
             "age": null, 
             "animal": 259, 
@@ -1373,6 +1510,7 @@
         "pk": 260, 
         "model": "chickens.sampling", 
         "fields": {
+            "date": "2016-02-08", 
             "study": 4, 
             "age": null, 
             "animal": 260, 
@@ -1383,6 +1521,7 @@
         "pk": 261, 
         "model": "chickens.sampling", 
         "fields": {
+            "date": "2016-02-08", 
             "study": 4, 
             "age": null, 
             "animal": 261, 
@@ -1393,6 +1532,7 @@
         "pk": 262, 
         "model": "chickens.sampling", 
         "fields": {
+            "date": "2016-02-08", 
             "study": 4, 
             "age": 12, 
             "animal": 262, 
@@ -1403,6 +1543,7 @@
         "pk": 263, 
         "model": "chickens.sampling", 
         "fields": {
+            "date": "2016-02-08", 
             "study": 4, 
             "age": 12, 
             "animal": 263, 
@@ -1413,6 +1554,7 @@
         "pk": 264, 
         "model": "chickens.sampling", 
         "fields": {
+            "date": "2016-02-08", 
             "study": 4, 
             "age": 7, 
             "animal": 264, 
@@ -1423,6 +1565,7 @@
         "pk": 265, 
         "model": "chickens.sampling", 
         "fields": {
+            "date": "2016-02-08", 
             "study": 4, 
             "age": null, 
             "animal": 265, 
@@ -1433,6 +1576,7 @@
         "pk": 266, 
         "model": "chickens.sampling", 
         "fields": {
+            "date": "2016-02-08", 
             "study": 4, 
             "age": 12, 
             "animal": 266, 
@@ -1443,6 +1587,7 @@
         "pk": 267, 
         "model": "chickens.sampling", 
         "fields": {
+            "date": "2016-02-08", 
             "study": 4, 
             "age": 9, 
             "animal": 267, 
@@ -1453,6 +1598,7 @@
         "pk": 268, 
         "model": "chickens.sampling", 
         "fields": {
+            "date": "2016-02-08", 
             "study": 4, 
             "age": null, 
             "animal": 268, 
@@ -1463,6 +1609,7 @@
         "pk": 269, 
         "model": "chickens.sampling", 
         "fields": {
+            "date": "2016-02-08", 
             "study": 4, 
             "age": 8, 
             "animal": 269, 
@@ -1473,6 +1620,7 @@
         "pk": 270, 
         "model": "chickens.sampling", 
         "fields": {
+            "date": "2016-06-14", 
             "study": 4, 
             "age": 5, 
             "animal": 270, 
@@ -1483,6 +1631,7 @@
         "pk": 271, 
         "model": "chickens.sampling", 
         "fields": {
+            "date": "2016-06-14", 
             "study": 4, 
             "age": 6, 
             "animal": 271, 
@@ -1493,6 +1642,7 @@
         "pk": 272, 
         "model": "chickens.sampling", 
         "fields": {
+            "date": "2016-06-14", 
             "study": 4, 
             "age": 9, 
             "animal": 272, 
@@ -1503,6 +1653,7 @@
         "pk": 273, 
         "model": "chickens.sampling", 
         "fields": {
+            "date": "2016-06-14", 
             "study": 4, 
             "age": 12, 
             "animal": 273, 
@@ -1513,6 +1664,7 @@
         "pk": 274, 
         "model": "chickens.sampling", 
         "fields": {
+            "date": "2016-06-14", 
             "study": 4, 
             "age": 5, 
             "animal": 274, 
@@ -1523,6 +1675,7 @@
         "pk": 275, 
         "model": "chickens.sampling", 
         "fields": {
+            "date": "2016-06-14", 
             "study": 4, 
             "age": 12, 
             "animal": 275, 
@@ -1533,6 +1686,7 @@
         "pk": 276, 
         "model": "chickens.sampling", 
         "fields": {
+            "date": "2016-06-14", 
             "study": 4, 
             "age": 5, 
             "animal": 276, 
@@ -1543,6 +1697,7 @@
         "pk": 277, 
         "model": "chickens.sampling", 
         "fields": {
+            "date": "2016-06-14", 
             "study": 4, 
             "age": 5, 
             "animal": 277, 
@@ -1553,6 +1708,7 @@
         "pk": 278, 
         "model": "chickens.sampling", 
         "fields": {
+            "date": "2016-06-14", 
             "study": 4, 
             "age": 6, 
             "animal": 278, 
@@ -1563,6 +1719,7 @@
         "pk": 279, 
         "model": "chickens.sampling", 
         "fields": {
+            "date": "2016-06-14", 
             "study": 4, 
             "age": 6, 
             "animal": 279, 
@@ -1573,6 +1730,7 @@
         "pk": 280, 
         "model": "chickens.sampling", 
         "fields": {
+            "date": "2016-06-14", 
             "study": 4, 
             "age": 7, 
             "animal": 280, 
@@ -1583,6 +1741,7 @@
         "pk": 281, 
         "model": "chickens.sampling", 
         "fields": {
+            "date": "2016-06-14", 
             "study": 4, 
             "age": 7, 
             "animal": 281, 
@@ -1593,6 +1752,7 @@
         "pk": 282, 
         "model": "chickens.sampling", 
         "fields": {
+            "date": "2016-06-14", 
             "study": 4, 
             "age": null, 
             "animal": 282, 
@@ -1603,6 +1763,7 @@
         "pk": 283, 
         "model": "chickens.sampling", 
         "fields": {
+            "date": "2016-06-14", 
             "study": 4, 
             "age": 6, 
             "animal": 283, 
@@ -1613,6 +1774,7 @@
         "pk": 284, 
         "model": "chickens.sampling", 
         "fields": {
+            "date": "2016-06-14", 
             "study": 4, 
             "age": 5, 
             "animal": 284, 
@@ -1623,6 +1785,7 @@
         "pk": 285, 
         "model": "chickens.sampling", 
         "fields": {
+            "date": "2016-06-14", 
             "study": 4, 
             "age": 5, 
             "animal": 285, 
@@ -1633,6 +1796,7 @@
         "pk": 286, 
         "model": "chickens.sampling", 
         "fields": {
+            "date": "2016-06-14", 
             "study": 4, 
             "age": 5, 
             "animal": 286, 
@@ -1643,6 +1807,7 @@
         "pk": 287, 
         "model": "chickens.sampling", 
         "fields": {
+            "date": "2016-06-14", 
             "study": 4, 
             "age": 7, 
             "animal": 287, 
@@ -1653,6 +1818,7 @@
         "pk": 288, 
         "model": "chickens.sampling", 
         "fields": {
+            "date": "2016-06-14", 
             "study": 4, 
             "age": 12, 
             "animal": 288, 
@@ -1663,6 +1829,7 @@
         "pk": 289, 
         "model": "chickens.sampling", 
         "fields": {
+            "date": "2016-06-14", 
             "study": 4, 
             "age": 7, 
             "animal": 289, 
@@ -1673,6 +1840,7 @@
         "pk": 290, 
         "model": "chickens.sampling", 
         "fields": {
+            "date": "2016-06-15", 
             "study": 4, 
             "age": 7, 
             "animal": 290, 
@@ -1683,6 +1851,7 @@
         "pk": 291, 
         "model": "chickens.sampling", 
         "fields": {
+            "date": "2016-06-15", 
             "study": 4, 
             "age": 12, 
             "animal": 291, 
@@ -1693,6 +1862,7 @@
         "pk": 292, 
         "model": "chickens.sampling", 
         "fields": {
+            "date": "2016-06-15", 
             "study": 4, 
             "age": 7, 
             "animal": 292, 
@@ -1703,6 +1873,7 @@
         "pk": 293, 
         "model": "chickens.sampling", 
         "fields": {
+            "date": "2016-06-15", 
             "study": 4, 
             "age": 8, 
             "animal": 293, 
@@ -1713,6 +1884,7 @@
         "pk": 294, 
         "model": "chickens.sampling", 
         "fields": {
+            "date": "2016-06-15", 
             "study": 4, 
             "age": 12, 
             "animal": 294, 
@@ -1723,6 +1895,7 @@
         "pk": 295, 
         "model": "chickens.sampling", 
         "fields": {
+            "date": "2016-06-15", 
             "study": 4, 
             "age": 7, 
             "animal": 295, 
@@ -1733,6 +1906,7 @@
         "pk": 296, 
         "model": "chickens.sampling", 
         "fields": {
+            "date": "2016-06-15", 
             "study": 4, 
             "age": 8, 
             "animal": 296, 
@@ -1743,6 +1917,7 @@
         "pk": 297, 
         "model": "chickens.sampling", 
         "fields": {
+            "date": "2016-06-15", 
             "study": 4, 
             "age": 7, 
             "animal": 297, 
@@ -1753,6 +1928,7 @@
         "pk": 298, 
         "model": "chickens.sampling", 
         "fields": {
+            "date": "2016-06-15", 
             "study": 4, 
             "age": 9, 
             "animal": 298, 
@@ -1763,6 +1939,7 @@
         "pk": 299, 
         "model": "chickens.sampling", 
         "fields": {
+            "date": "2016-06-15", 
             "study": 4, 
             "age": 8, 
             "animal": 299, 
@@ -1773,6 +1950,7 @@
         "pk": 300, 
         "model": "chickens.sampling", 
         "fields": {
+            "date": "2016-06-15", 
             "study": 4, 
             "age": 12, 
             "animal": 300, 
@@ -1783,6 +1961,7 @@
         "pk": 301, 
         "model": "chickens.sampling", 
         "fields": {
+            "date": "2016-06-15", 
             "study": 4, 
             "age": 18, 
             "animal": 301, 
@@ -1793,6 +1972,7 @@
         "pk": 302, 
         "model": "chickens.sampling", 
         "fields": {
+            "date": "2016-06-15", 
             "study": 4, 
             "age": 18, 
             "animal": 302, 
@@ -1803,6 +1983,7 @@
         "pk": 303, 
         "model": "chickens.sampling", 
         "fields": {
+            "date": "2016-06-15", 
             "study": 4, 
             "age": 12, 
             "animal": 303, 
@@ -1813,6 +1994,7 @@
         "pk": 304, 
         "model": "chickens.sampling", 
         "fields": {
+            "date": "2016-06-15", 
             "study": 4, 
             "age": 18, 
             "animal": 304, 
@@ -1823,6 +2005,7 @@
         "pk": 305, 
         "model": "chickens.sampling", 
         "fields": {
+            "date": "2016-06-15", 
             "study": 4, 
             "age": 12, 
             "animal": 305, 
@@ -1833,6 +2016,7 @@
         "pk": 306, 
         "model": "chickens.sampling", 
         "fields": {
+            "date": "2016-06-15", 
             "study": 4, 
             "age": 12, 
             "animal": 306, 
@@ -1843,6 +2027,7 @@
         "pk": 307, 
         "model": "chickens.sampling", 
         "fields": {
+            "date": "2016-06-15", 
             "study": 4, 
             "age": 12, 
             "animal": 307, 
@@ -1853,6 +2038,7 @@
         "pk": 308, 
         "model": "chickens.sampling", 
         "fields": {
+            "date": "2016-06-15", 
             "study": 4, 
             "age": 10, 
             "animal": 308, 
@@ -1863,6 +2049,7 @@
         "pk": 309, 
         "model": "chickens.sampling", 
         "fields": {
+            "date": "2016-06-15", 
             "study": 4, 
             "age": 10, 
             "animal": 309, 
@@ -1873,6 +2060,7 @@
         "pk": 310, 
         "model": "chickens.sampling", 
         "fields": {
+            "date": "2016-07-12", 
             "study": 4, 
             "age": 6, 
             "animal": 310, 
@@ -1883,6 +2071,7 @@
         "pk": 311, 
         "model": "chickens.sampling", 
         "fields": {
+            "date": "2016-07-12", 
             "study": 4, 
             "age": 8, 
             "animal": 311, 
@@ -1893,6 +2082,7 @@
         "pk": 312, 
         "model": "chickens.sampling", 
         "fields": {
+            "date": "2016-07-12", 
             "study": 4, 
             "age": 10, 
             "animal": 312, 
@@ -1903,6 +2093,7 @@
         "pk": 313, 
         "model": "chickens.sampling", 
         "fields": {
+            "date": "2016-07-12", 
             "study": 4, 
             "age": 6, 
             "animal": 313, 
@@ -1913,6 +2104,7 @@
         "pk": 314, 
         "model": "chickens.sampling", 
         "fields": {
+            "date": "2016-07-12", 
             "study": 4, 
             "age": 8, 
             "animal": 314, 
@@ -1923,6 +2115,7 @@
         "pk": 315, 
         "model": "chickens.sampling", 
         "fields": {
+            "date": "2016-07-12", 
             "study": 4, 
             "age": 12, 
             "animal": 315, 
@@ -1933,6 +2126,7 @@
         "pk": 316, 
         "model": "chickens.sampling", 
         "fields": {
+            "date": "2016-07-12", 
             "study": 4, 
             "age": 7, 
             "animal": 316, 
@@ -1943,6 +2137,7 @@
         "pk": 317, 
         "model": "chickens.sampling", 
         "fields": {
+            "date": "2016-07-12", 
             "study": 4, 
             "age": 6, 
             "animal": 317, 
@@ -1953,6 +2148,7 @@
         "pk": 318, 
         "model": "chickens.sampling", 
         "fields": {
+            "date": "2016-07-12", 
             "study": 4, 
             "age": 6, 
             "animal": 318, 
@@ -1963,6 +2159,7 @@
         "pk": 319, 
         "model": "chickens.sampling", 
         "fields": {
+            "date": "2016-07-12", 
             "study": 4, 
             "age": 8, 
             "animal": 319, 
@@ -1973,6 +2170,7 @@
         "pk": 320, 
         "model": "chickens.sampling", 
         "fields": {
+            "date": "2016-07-12", 
             "study": 4, 
             "age": 15, 
             "animal": 320, 
@@ -1983,6 +2181,7 @@
         "pk": 321, 
         "model": "chickens.sampling", 
         "fields": {
+            "date": "2016-07-12", 
             "study": 4, 
             "age": 7, 
             "animal": 321, 
@@ -1993,6 +2192,7 @@
         "pk": 322, 
         "model": "chickens.sampling", 
         "fields": {
+            "date": "2016-07-12", 
             "study": 4, 
             "age": 6, 
             "animal": 322, 
@@ -2003,6 +2203,7 @@
         "pk": 323, 
         "model": "chickens.sampling", 
         "fields": {
+            "date": "2016-07-12", 
             "study": 4, 
             "age": 9, 
             "animal": 323, 
@@ -2013,6 +2214,7 @@
         "pk": 324, 
         "model": "chickens.sampling", 
         "fields": {
+            "date": "2016-07-12", 
             "study": 4, 
             "age": 15, 
             "animal": 324, 
@@ -2023,6 +2225,7 @@
         "pk": 325, 
         "model": "chickens.sampling", 
         "fields": {
+            "date": "2016-07-12", 
             "study": 4, 
             "age": 9, 
             "animal": 325, 
@@ -2033,6 +2236,7 @@
         "pk": 326, 
         "model": "chickens.sampling", 
         "fields": {
+            "date": "2016-07-12", 
             "study": 4, 
             "age": 5, 
             "animal": 326, 
@@ -2043,6 +2247,7 @@
         "pk": 327, 
         "model": "chickens.sampling", 
         "fields": {
+            "date": "2016-07-12", 
             "study": 4, 
             "age": 12, 
             "animal": 327, 
@@ -2053,6 +2258,7 @@
         "pk": 328, 
         "model": "chickens.sampling", 
         "fields": {
+            "date": "2016-07-12", 
             "study": 4, 
             "age": 6, 
             "animal": 328, 
@@ -2063,6 +2269,7 @@
         "pk": 329, 
         "model": "chickens.sampling", 
         "fields": {
+            "date": "2016-07-12", 
             "study": 4, 
             "age": null, 
             "animal": 329, 
@@ -2073,6 +2280,7 @@
         "pk": 330, 
         "model": "chickens.sampling", 
         "fields": {
+            "date": "2016-07-14", 
             "study": 4, 
             "age": 10, 
             "animal": 330, 
@@ -2083,6 +2291,7 @@
         "pk": 331, 
         "model": "chickens.sampling", 
         "fields": {
+            "date": "2016-07-14", 
             "study": 4, 
             "age": 12, 
             "animal": 331, 
@@ -2093,6 +2302,7 @@
         "pk": 332, 
         "model": "chickens.sampling", 
         "fields": {
+            "date": "2016-07-14", 
             "study": 4, 
             "age": 12, 
             "animal": 332, 
@@ -2103,6 +2313,7 @@
         "pk": 333, 
         "model": "chickens.sampling", 
         "fields": {
+            "date": "2016-07-14", 
             "study": 4, 
             "age": 12, 
             "animal": 333, 
@@ -2113,6 +2324,7 @@
         "pk": 334, 
         "model": "chickens.sampling", 
         "fields": {
+            "date": "2016-07-14", 
             "study": 4, 
             "age": 12, 
             "animal": 334, 
@@ -2123,6 +2335,7 @@
         "pk": 335, 
         "model": "chickens.sampling", 
         "fields": {
+            "date": "2016-07-14", 
             "study": 4, 
             "age": 10, 
             "animal": 335, 
@@ -2133,6 +2346,7 @@
         "pk": 336, 
         "model": "chickens.sampling", 
         "fields": {
+            "date": "2016-07-14", 
             "study": 4, 
             "age": null, 
             "animal": 336, 
@@ -2143,6 +2357,7 @@
         "pk": 337, 
         "model": "chickens.sampling", 
         "fields": {
+            "date": "2016-07-14", 
             "study": 4, 
             "age": 12, 
             "animal": 337, 
@@ -2153,6 +2368,7 @@
         "pk": 338, 
         "model": "chickens.sampling", 
         "fields": {
+            "date": "2016-07-14", 
             "study": 4, 
             "age": 10, 
             "animal": 338, 
@@ -2163,6 +2379,7 @@
         "pk": 339, 
         "model": "chickens.sampling", 
         "fields": {
+            "date": "2016-07-14", 
             "study": 4, 
             "age": 12, 
             "animal": 339, 
@@ -2173,6 +2390,7 @@
         "pk": 340, 
         "model": "chickens.sampling", 
         "fields": {
+            "date": "2016-07-13", 
             "study": 4, 
             "age": 12, 
             "animal": 340, 
@@ -2183,6 +2401,7 @@
         "pk": 341, 
         "model": "chickens.sampling", 
         "fields": {
+            "date": "2016-07-13", 
             "study": 4, 
             "age": null, 
             "animal": 341, 
@@ -2193,6 +2412,7 @@
         "pk": 342, 
         "model": "chickens.sampling", 
         "fields": {
+            "date": "2016-07-13", 
             "study": 4, 
             "age": 8, 
             "animal": 342, 
@@ -2203,6 +2423,7 @@
         "pk": 343, 
         "model": "chickens.sampling", 
         "fields": {
+            "date": "2016-07-13", 
             "study": 4, 
             "age": null, 
             "animal": 343, 
@@ -2213,6 +2434,7 @@
         "pk": 344, 
         "model": "chickens.sampling", 
         "fields": {
+            "date": "2016-07-13", 
             "study": 4, 
             "age": null, 
             "animal": 344, 
@@ -2223,6 +2445,7 @@
         "pk": 345, 
         "model": "chickens.sampling", 
         "fields": {
+            "date": "2016-07-13", 
             "study": 4, 
             "age": null, 
             "animal": 345, 
@@ -2233,6 +2456,7 @@
         "pk": 346, 
         "model": "chickens.sampling", 
         "fields": {
+            "date": "2016-07-13", 
             "study": 4, 
             "age": null, 
             "animal": 346, 
@@ -2243,6 +2467,7 @@
         "pk": 347, 
         "model": "chickens.sampling", 
         "fields": {
+            "date": "2016-07-13", 
             "study": 4, 
             "age": 12, 
             "animal": 347, 
@@ -2253,6 +2478,7 @@
         "pk": 348, 
         "model": "chickens.sampling", 
         "fields": {
+            "date": "2016-07-13", 
             "study": 4, 
             "age": 10, 
             "animal": 348, 
@@ -2263,6 +2489,7 @@
         "pk": 349, 
         "model": "chickens.sampling", 
         "fields": {
+            "date": "2016-07-13", 
             "study": 4, 
             "age": 10, 
             "animal": 349, 
@@ -2273,6 +2500,7 @@
         "pk": 350, 
         "model": "chickens.sampling", 
         "fields": {
+            "date": "2016-12-29", 
             "study": 4, 
             "age": 23, 
             "animal": 350, 
@@ -2283,6 +2511,7 @@
         "pk": 351, 
         "model": "chickens.sampling", 
         "fields": {
+            "date": "2017-12-29", 
             "study": 4, 
             "age": 30, 
             "animal": 351, 
@@ -2293,6 +2522,7 @@
         "pk": 352, 
         "model": "chickens.sampling", 
         "fields": {
+            "date": "2016-12-29", 
             "study": 4, 
             "age": 25, 
             "animal": 352, 
@@ -2303,6 +2533,7 @@
         "pk": 353, 
         "model": "chickens.sampling", 
         "fields": {
+            "date": "2016-12-29", 
             "study": 4, 
             "age": 36, 
             "animal": 353, 
@@ -2313,6 +2544,7 @@
         "pk": 354, 
         "model": "chickens.sampling", 
         "fields": {
+            "date": "2016-12-29", 
             "study": 4, 
             "age": 26, 
             "animal": 354, 
@@ -2323,6 +2555,7 @@
         "pk": 355, 
         "model": "chickens.sampling", 
         "fields": {
+            "date": "2016-12-29", 
             "study": 4, 
             "age": 36, 
             "animal": 355, 
@@ -2333,6 +2566,7 @@
         "pk": 356, 
         "model": "chickens.sampling", 
         "fields": {
+            "date": "2016-12-29", 
             "study": 4, 
             "age": 27, 
             "animal": 356, 
@@ -2343,6 +2577,7 @@
         "pk": 357, 
         "model": "chickens.sampling", 
         "fields": {
+            "date": "2016-12-29", 
             "study": 4, 
             "age": 28, 
             "animal": 357, 
@@ -2353,6 +2588,7 @@
         "pk": 358, 
         "model": "chickens.sampling", 
         "fields": {
+            "date": "2016-12-29", 
             "study": 4, 
             "age": 26, 
             "animal": 358, 
@@ -2363,6 +2599,7 @@
         "pk": 359, 
         "model": "chickens.sampling", 
         "fields": {
+            "date": "2016-12-29", 
             "study": 4, 
             "age": 30, 
             "animal": 359, 
@@ -2373,6 +2610,7 @@
         "pk": 360, 
         "model": "chickens.sampling", 
         "fields": {
+            "date": "2016-12-29", 
             "study": 4, 
             "age": 26, 
             "animal": 360, 
@@ -2383,6 +2621,7 @@
         "pk": 361, 
         "model": "chickens.sampling", 
         "fields": {
+            "date": "2016-12-29", 
             "study": 4, 
             "age": 25, 
             "animal": 361, 
@@ -2393,6 +2632,7 @@
         "pk": 362, 
         "model": "chickens.sampling", 
         "fields": {
+            "date": "2016-12-29", 
             "study": 4, 
             "age": 26, 
             "animal": 362, 
@@ -2403,6 +2643,7 @@
         "pk": 363, 
         "model": "chickens.sampling", 
         "fields": {
+            "date": "2016-12-29", 
             "study": 4, 
             "age": 26, 
             "animal": 363, 
@@ -2413,6 +2654,7 @@
         "pk": 364, 
         "model": "chickens.sampling", 
         "fields": {
+            "date": "2016-12-29", 
             "study": 4, 
             "age": 27, 
             "animal": 364, 
@@ -2423,6 +2665,7 @@
         "pk": 365, 
         "model": "chickens.sampling", 
         "fields": {
+            "date": "2016-12-29", 
             "study": 4, 
             "age": 24, 
             "animal": 365, 
@@ -2433,6 +2676,7 @@
         "pk": 366, 
         "model": "chickens.sampling", 
         "fields": {
+            "date": "2016-12-29", 
             "study": 4, 
             "age": 28, 
             "animal": 366, 
@@ -2443,6 +2687,7 @@
         "pk": 367, 
         "model": "chickens.sampling", 
         "fields": {
+            "date": "2016-12-29", 
             "study": 4, 
             "age": 25, 
             "animal": 367, 
@@ -2453,6 +2698,7 @@
         "pk": 368, 
         "model": "chickens.sampling", 
         "fields": {
+            "date": "2016-12-29", 
             "study": 4, 
             "age": 26, 
             "animal": 368, 
@@ -2463,6 +2709,7 @@
         "pk": 369, 
         "model": "chickens.sampling", 
         "fields": {
+            "date": "2016-12-29", 
             "study": 4, 
             "age": 28, 
             "animal": 369, 
@@ -2473,6 +2720,7 @@
         "pk": 370, 
         "model": "chickens.sampling", 
         "fields": {
+            "date": "2016-12-29", 
             "study": 4, 
             "age": 25, 
             "animal": 370, 
@@ -2483,6 +2731,7 @@
         "pk": 371, 
         "model": "chickens.sampling", 
         "fields": {
+            "date": "2016-12-29", 
             "study": 4, 
             "age": 29, 
             "animal": 371, 
@@ -2493,6 +2742,7 @@
         "pk": 372, 
         "model": "chickens.sampling", 
         "fields": {
+            "date": "2016-12-29", 
             "study": 4, 
             "age": 30, 
             "animal": 372, 
@@ -2503,6 +2753,7 @@
         "pk": 373, 
         "model": "chickens.sampling", 
         "fields": {
+            "date": "2016-12-29", 
             "study": 4, 
             "age": 24, 
             "animal": 373, 
@@ -2513,6 +2764,7 @@
         "pk": 374, 
         "model": "chickens.sampling", 
         "fields": {
+            "date": "2017-12-29", 
             "study": 4, 
             "age": 24, 
             "animal": 374, 
