@@ -29,9 +29,9 @@ BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 SECRET_KEY = credentials.get('SECRET_KEY')
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = True
+DEBUG = False
 
-ALLOWED_HOSTS = ['localhost', '129.215.193.22', 'openstack-floating-193-022.ecdf.ed.ac.uk', 'data.ctlgh.org']
+ALLOWED_HOSTS = ['129.215.193.22', 'openstack-floating-193-022.ecdf.ed.ac.uk', 'data.ctlgh.org']
 
 
 # Application definition
@@ -154,3 +154,8 @@ REST_FRAMEWORK = {
 
 # Crispy forms
 CRISPY_TEMPLATE_PACK = 'bootstrap3'
+
+try:
+    from .local_settings import *
+except ImportError:
+    pass
