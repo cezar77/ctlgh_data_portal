@@ -3,9 +3,15 @@
         "model": "boundaries.administrativerouter",
         "pk": 1,
         "fields": {
-            "sampling_content_type": ["sheep", "sampling"],
+            "sampling_content_type": [
+                "sheep",
+                "sampling"
+            ],
             "sampling_object_id": 1,
-            "adm_content_type": ["boundaries", "thirdadministrativelevel"],
+            "adm_content_type": [
+                "boundaries",
+                "thirdadministrativelevel"
+            ],
             "adm_object_id": 600
         }
     },
@@ -13,9 +19,15 @@
         "model": "boundaries.administrativerouter",
         "pk": 2,
         "fields": {
-            "sampling_content_type": ["sheep", "sampling"],
+            "sampling_content_type": [
+                "sheep",
+                "sampling"
+            ],
             "sampling_object_id": 2,
-            "adm_content_type": ["boundaries", "thirdadministrativelevel"],
+            "adm_content_type": [
+                "boundaries",
+                "thirdadministrativelevel"
+            ],
             "adm_object_id": 123
         }
     },
@@ -23,9 +35,15 @@
         "model": "boundaries.administrativerouter",
         "pk": 3,
         "fields": {
-            "sampling_content_type": ["sheep", "sampling"],
+            "sampling_content_type": [
+                "sheep",
+                "sampling"
+            ],
             "sampling_object_id": 3,
-            "adm_content_type": ["boundaries", "thirdadministrativelevel"],
+            "adm_content_type": [
+                "boundaries",
+                "thirdadministrativelevel"
+            ],
             "adm_object_id": 606
         }
     },
@@ -33,9 +51,15 @@
         "model": "boundaries.administrativerouter",
         "pk": 4,
         "fields": {
-            "sampling_content_type": ["sheep", "sampling"],
+            "sampling_content_type": [
+                "sheep",
+                "sampling"
+            ],
             "sampling_object_id": 4,
-            "adm_content_type": ["boundaries", "thirdadministrativelevel"],
+            "adm_content_type": [
+                "boundaries",
+                "thirdadministrativelevel"
+            ],
             "adm_object_id": 46
         }
     },
@@ -43,9 +67,15 @@
         "model": "boundaries.administrativerouter",
         "pk": 5,
         "fields": {
-            "sampling_content_type": ["sheep", "sampling"],
+            "sampling_content_type": [
+                "sheep",
+                "sampling"
+            ],
             "sampling_object_id": 5,
-            "adm_content_type": ["boundaries", "thirdadministrativelevel"],
+            "adm_content_type": [
+                "boundaries",
+                "thirdadministrativelevel"
+            ],
             "adm_object_id": 430
         }
     },
@@ -53,9 +83,15 @@
         "model": "boundaries.administrativerouter",
         "pk": 6,
         "fields": {
-            "sampling_content_type": ["sheep", "sampling"],
+            "sampling_content_type": [
+                "sheep",
+                "sampling"
+            ],
             "sampling_object_id": 6,
-            "adm_content_type": ["boundaries", "thirdadministrativelevel"],
+            "adm_content_type": [
+                "boundaries",
+                "thirdadministrativelevel"
+            ],
             "adm_object_id": 628
         }
     },
@@ -63,9 +99,15 @@
         "model": "boundaries.administrativerouter",
         "pk": 7,
         "fields": {
-            "sampling_content_type": ["sheep", "sampling"],
+            "sampling_content_type": [
+                "sheep",
+                "sampling"
+            ],
             "sampling_object_id": 7,
-            "adm_content_type": ["boundaries", "thirdadministrativelevel"],
+            "adm_content_type": [
+                "boundaries",
+                "thirdadministrativelevel"
+            ],
             "adm_object_id": 187
         }
     },
@@ -73,9 +115,15 @@
         "model": "boundaries.administrativerouter",
         "pk": 8,
         "fields": {
-            "sampling_content_type": ["sheep", "sampling"],
+            "sampling_content_type": [
+                "sheep",
+                "sampling"
+            ],
             "sampling_object_id": 8,
-            "adm_content_type": ["boundaries", "thirdadministrativelevel"],
+            "adm_content_type": [
+                "boundaries",
+                "thirdadministrativelevel"
+            ],
             "adm_object_id": 187
         }
     },
@@ -83,9 +131,15 @@
         "model": "boundaries.administrativerouter",
         "pk": 9,
         "fields": {
-            "sampling_content_type": ["sheep", "sampling"],
+            "sampling_content_type": [
+                "sheep",
+                "sampling"
+            ],
             "sampling_object_id": 9,
-            "adm_content_type": ["boundaries", "thirdadministrativelevel"],
+            "adm_content_type": [
+                "boundaries",
+                "thirdadministrativelevel"
+            ],
             "adm_object_id": 67
         }
     },
@@ -93,9 +147,15 @@
         "model": "boundaries.administrativerouter",
         "pk": 10,
         "fields": {
-            "sampling_content_type": ["sheep", "sampling"],
+            "sampling_content_type": [
+                "sheep",
+                "sampling"
+            ],
             "sampling_object_id": 10,
-            "adm_content_type": ["boundaries", "thirdadministrativelevel"],
+            "adm_content_type": [
+                "boundaries",
+                "thirdadministrativelevel"
+            ],
             "adm_object_id": 67
         }
     },
@@ -103,9 +163,15 @@
         "model": "boundaries.administrativerouter",
         "pk": 11,
         "fields": {
-            "sampling_content_type": ["sheep", "sampling"],
+            "sampling_content_type": [
+                "sheep",
+                "sampling"
+            ],
             "sampling_object_id": 11,
-            "adm_content_type": ["boundaries", "thirdadministrativelevel"],
+            "adm_content_type": [
+                "boundaries",
+                "thirdadministrativelevel"
+            ],
             "adm_object_id": 31
         }
     },
@@ -113,9 +179,15 @@
         "model": "boundaries.administrativerouter",
         "pk": 12,
         "fields": {
-            "sampling_content_type": ["sheep", "sampling"],
+            "sampling_content_type": [
+                "sheep",
+                "sampling"
+            ],
             "sampling_object_id": 12,
-            "adm_content_type": ["boundaries", "thirdadministrativelevel"],
+            "adm_content_type": [
+                "boundaries",
+                "thirdadministrativelevel"
+            ],
             "adm_object_id": 31
         }
     },
@@ -123,10 +195,4352 @@
         "model": "boundaries.administrativerouter",
         "pk": 13,
         "fields": {
-            "sampling_content_type": ["sheep", "sampling"],
+            "sampling_content_type": [
+                "sheep",
+                "sampling"
+            ],
             "sampling_object_id": 13,
-            "adm_content_type": ["boundaries", "firstadministrativelevel"],
+            "adm_content_type": [
+                "boundaries",
+                "firstadministrativelevel"
+            ],
             "adm_object_id": 26
+        }
+    },
+    {
+        "model": "boundaries.administrativerouter",
+        "pk": 14,
+        "fields": {
+            "sampling_content_type": [
+                "chickens",
+                "farm"
+            ],
+            "sampling_object_id": 1,
+            "adm_content_type": [
+                "boundaries",
+                "secondadministrativelevel"
+            ],
+            "adm_object_id": 570
+        }
+    },
+    {
+        "model": "boundaries.administrativerouter",
+        "pk": 15,
+        "fields": {
+            "sampling_content_type": [
+                "chickens",
+                "farm"
+            ],
+            "sampling_object_id": 2,
+            "adm_content_type": [
+                "boundaries",
+                "secondadministrativelevel"
+            ],
+            "adm_object_id": 572
+        }
+    },
+    {
+        "model": "boundaries.administrativerouter",
+        "pk": 16,
+        "fields": {
+            "sampling_content_type": [
+                "chickens",
+                "farm"
+            ],
+            "sampling_object_id": 3,
+            "adm_content_type": [
+                "boundaries",
+                "secondadministrativelevel"
+            ],
+            "adm_object_id": 769
+        }
+    },
+    {
+        "model": "boundaries.administrativerouter",
+        "pk": 17,
+        "fields": {
+            "sampling_content_type": [
+                "chickens",
+                "farm"
+            ],
+            "sampling_object_id": 4,
+            "adm_content_type": [
+                "boundaries",
+                "secondadministrativelevel"
+            ],
+            "adm_object_id": 769
+        }
+    },
+    {
+        "model": "boundaries.administrativerouter",
+        "pk": 18,
+        "fields": {
+            "sampling_content_type": [
+                "chickens",
+                "farm"
+            ],
+            "sampling_object_id": 5,
+            "adm_content_type": [
+                "boundaries",
+                "secondadministrativelevel"
+            ],
+            "adm_object_id": 774
+        }
+    },
+    {
+        "model": "boundaries.administrativerouter",
+        "pk": 19,
+        "fields": {
+            "sampling_content_type": [
+                "chickens",
+                "farm"
+            ],
+            "sampling_object_id": 6,
+            "adm_content_type": [
+                "boundaries",
+                "secondadministrativelevel"
+            ],
+            "adm_object_id": 373
+        }
+    },
+    {
+        "model": "boundaries.administrativerouter",
+        "pk": 20,
+        "fields": {
+            "sampling_content_type": [
+                "chickens",
+                "farm"
+            ],
+            "sampling_object_id": 7,
+            "adm_content_type": [
+                "boundaries",
+                "secondadministrativelevel"
+            ],
+            "adm_object_id": 376
+        }
+    },
+    {
+        "model": "boundaries.administrativerouter",
+        "pk": 21,
+        "fields": {
+            "sampling_content_type": [
+                "chickens",
+                "farm"
+            ],
+            "sampling_object_id": 8,
+            "adm_content_type": [
+                "boundaries",
+                "secondadministrativelevel"
+            ],
+            "adm_object_id": 373
+        }
+    },
+    {
+        "model": "boundaries.administrativerouter",
+        "pk": 22,
+        "fields": {
+            "sampling_content_type": [
+                "chickens",
+                "farm"
+            ],
+            "sampling_object_id": 9,
+            "adm_content_type": [
+                "boundaries",
+                "secondadministrativelevel"
+            ],
+            "adm_object_id": 379
+        }
+    },
+    {
+        "model": "boundaries.administrativerouter",
+        "pk": 23,
+        "fields": {
+            "sampling_content_type": [
+                "chickens",
+                "farm"
+            ],
+            "sampling_object_id": 10,
+            "adm_content_type": [
+                "boundaries",
+                "secondadministrativelevel"
+            ],
+            "adm_object_id": 618
+        }
+    },
+    {
+        "model": "boundaries.administrativerouter",
+        "pk": 24,
+        "fields": {
+            "sampling_content_type": [
+                "chickens",
+                "farm"
+            ],
+            "sampling_object_id": 11,
+            "adm_content_type": [
+                "boundaries",
+                "secondadministrativelevel"
+            ],
+            "adm_object_id": 609
+        }
+    },
+    {
+        "model": "boundaries.administrativerouter",
+        "pk": 25,
+        "fields": {
+            "sampling_content_type": [
+                "chickens",
+                "farm"
+            ],
+            "sampling_object_id": 12,
+            "adm_content_type": [
+                "boundaries",
+                "secondadministrativelevel"
+            ],
+            "adm_object_id": 533
+        }
+    },
+    {
+        "model": "boundaries.administrativerouter",
+        "pk": 26,
+        "fields": {
+            "sampling_content_type": [
+                "chickens",
+                "farm"
+            ],
+            "sampling_object_id": 13,
+            "adm_content_type": [
+                "boundaries",
+                "secondadministrativelevel"
+            ],
+            "adm_object_id": 533
+        }
+    },
+    {
+        "model": "boundaries.administrativerouter",
+        "pk": 27,
+        "fields": {
+            "sampling_content_type": [
+                "chickens",
+                "farm"
+            ],
+            "sampling_object_id": 14,
+            "adm_content_type": [
+                "boundaries",
+                "secondadministrativelevel"
+            ],
+            "adm_object_id": 538
+        }
+    },
+    {
+        "model": "boundaries.administrativerouter",
+        "pk": 28,
+        "fields": {
+            "sampling_content_type": [
+                "chickens",
+                "farm"
+            ],
+            "sampling_object_id": 15,
+            "adm_content_type": [
+                "boundaries",
+                "secondadministrativelevel"
+            ],
+            "adm_object_id": 538
+        }
+    },
+    {
+        "model": "boundaries.administrativerouter",
+        "pk": 29,
+        "fields": {
+            "sampling_content_type": [
+                "chickens",
+                "farm"
+            ],
+            "sampling_object_id": 16,
+            "adm_content_type": [
+                "boundaries",
+                "secondadministrativelevel"
+            ],
+            "adm_object_id": 639
+        }
+    },
+    {
+        "model": "boundaries.administrativerouter",
+        "pk": 30,
+        "fields": {
+            "sampling_content_type": [
+                "chickens",
+                "farm"
+            ],
+            "sampling_object_id": 17,
+            "adm_content_type": [
+                "boundaries",
+                "secondadministrativelevel"
+            ],
+            "adm_object_id": 548
+        }
+    },
+    {
+        "model": "boundaries.administrativerouter",
+        "pk": 31,
+        "fields": {
+            "sampling_content_type": [
+                "chickens",
+                "farm"
+            ],
+            "sampling_object_id": 18,
+            "adm_content_type": [
+                "boundaries",
+                "secondadministrativelevel"
+            ],
+            "adm_object_id": 750
+        }
+    },
+    {
+        "model": "boundaries.administrativerouter",
+        "pk": 32,
+        "fields": {
+            "sampling_content_type": [
+                "chickens",
+                "farm"
+            ],
+            "sampling_object_id": 19,
+            "adm_content_type": [
+                "boundaries",
+                "secondadministrativelevel"
+            ],
+            "adm_object_id": 750
+        }
+    },
+    {
+        "model": "boundaries.administrativerouter", 
+        "pk": 33, 
+        "fields": {
+            "sampling_content_type": [
+                "chickens", 
+                "farm"
+            ], 
+            "sampling_object_id": 20, 
+            "adm_content_type": [
+                "boundaries", 
+                "thirdadministrativelevel"
+            ],
+            "adm_object_id": 31
+        }
+    }, 
+    {
+        "model": "boundaries.administrativerouter", 
+        "pk": 34, 
+        "fields": {
+            "sampling_content_type": [
+                "chickens", 
+                "farm"
+            ], 
+            "sampling_object_id": 21, 
+            "adm_content_type": [
+                "boundaries", 
+                "thirdadministrativelevel"
+            ],
+            "adm_object_id": 31
+        }
+    }, 
+    {
+        "model": "boundaries.administrativerouter", 
+        "pk": 35, 
+        "fields": {
+            "sampling_object_id": 22, 
+            "sampling_content_type": [
+                "chickens", 
+                "farm"
+            ], 
+            "adm_content_type": [
+                "boundaries", 
+                "thirdadministrativelevel"
+            ],
+            "adm_object_id": 31
+        }
+    }, 
+    {
+        "model": "boundaries.administrativerouter", 
+        "pk": 36, 
+        "fields": {
+            "sampling_content_type": [
+                "chickens", 
+                "farm"
+            ], 
+            "sampling_object_id": 23, 
+            "adm_content_type": [
+                "boundaries", 
+                "thirdadministrativelevel"
+            ],
+            "adm_object_id": 31
+        }
+    }, 
+    {
+        "model": "boundaries.administrativerouter", 
+        "pk": 37, 
+        "fields": {
+            "sampling_content_type": [
+                "chickens", 
+                "farm"
+            ], 
+            "sampling_object_id": 24, 
+            "adm_content_type": [
+                "boundaries", 
+                "thirdadministrativelevel"
+            ],
+            "adm_object_id": 31
+        }
+    }, 
+    {
+        "model": "boundaries.administrativerouter", 
+        "pk": 38, 
+        "fields": {
+            "sampling_content_type": [
+                "chickens", 
+                "farm"
+            ], 
+            "sampling_object_id": 25, 
+            "adm_content_type": [
+                "boundaries", 
+                "thirdadministrativelevel"
+            ],
+            "adm_object_id": 31
+        }
+    }, 
+    {
+        "model": "boundaries.administrativerouter", 
+        "pk": 39, 
+        "fields": {
+            "sampling_content_type": [
+                "chickens", 
+                "farm"
+            ], 
+            "sampling_object_id": 26, 
+            "adm_content_type": [
+                "boundaries", 
+                "thirdadministrativelevel"
+            ],
+            "adm_object_id": 31
+        }
+    }, 
+    {
+        "model": "boundaries.administrativerouter", 
+        "pk": 40, 
+        "fields": {
+            "sampling_content_type": [
+                "chickens", 
+                "farm"
+            ], 
+            "sampling_object_id": 27, 
+            "adm_content_type": [
+                "boundaries", 
+                "thirdadministrativelevel"
+            ],
+            "adm_object_id": 31
+        }
+    }, 
+    {
+        "model": "boundaries.administrativerouter", 
+        "pk": 41, 
+        "fields": {
+            "sampling_content_type": [
+                "chickens", 
+                "farm"
+            ], 
+            "sampling_object_id": 28, 
+            "adm_content_type": [
+                "boundaries", 
+                "thirdadministrativelevel"
+            ],
+            "adm_object_id": 31
+        }
+    }, 
+    {
+        "model": "boundaries.administrativerouter", 
+        "pk": 42, 
+        "fields": {
+            "sampling_content_type": [
+                "chickens", 
+                "farm"
+            ], 
+            "sampling_object_id": 29, 
+            "adm_content_type": [
+                "boundaries", 
+                "thirdadministrativelevel"
+            ],
+            "adm_object_id": 31
+        }
+    }, 
+    {
+        "model": "boundaries.administrativerouter", 
+        "pk": 43, 
+        "fields": {
+            "sampling_content_type": [
+                "chickens", 
+                "farm"
+            ], 
+            "sampling_object_id": 30, 
+            "adm_content_type": [
+                "boundaries", 
+                "thirdadministrativelevel"
+            ],
+            "adm_object_id": 31
+        }
+    }, 
+    {
+        "model": "boundaries.administrativerouter", 
+        "pk": 44, 
+        "fields": {
+            "sampling_content_type": [
+                "chickens", 
+                "farm"
+            ], 
+            "sampling_object_id": 31, 
+            "adm_content_type": [
+                "boundaries", 
+                "thirdadministrativelevel"
+            ],
+            "adm_object_id": 31
+        }
+    }, 
+    {
+        "model": "boundaries.administrativerouter", 
+        "pk": 45, 
+        "fields": {
+            "sampling_content_type": [
+                "chickens", 
+                "farm"
+            ], 
+            "sampling_object_id": 32, 
+            "adm_content_type": [
+                "boundaries", 
+                "thirdadministrativelevel"
+            ],
+            "adm_object_id": 31
+        }
+    }, 
+    {
+        "model": "boundaries.administrativerouter", 
+        "pk": 46, 
+        "fields": {
+            "sampling_content_type": [
+                "chickens", 
+                "farm"
+            ], 
+            "sampling_object_id": 33, 
+            "adm_content_type": [
+                "boundaries", 
+                "thirdadministrativelevel"
+            ],
+            "adm_object_id": 31
+        }
+    }, 
+    {
+        "model": "boundaries.administrativerouter", 
+        "pk": 47, 
+        "fields": {
+            "sampling_content_type": [
+                "chickens", 
+                "farm"
+            ], 
+            "sampling_object_id": 34, 
+            "adm_content_type": [
+                "boundaries", 
+                "thirdadministrativelevel"
+            ],
+            "adm_object_id": 31
+        }
+    }, 
+    {
+        "model": "boundaries.administrativerouter", 
+        "pk": 48, 
+        "fields": {
+            "sampling_content_type": [
+                "chickens", 
+                "farm"
+            ], 
+            "sampling_object_id": 35, 
+            "adm_content_type": [
+                "boundaries", 
+                "thirdadministrativelevel"
+            ],
+            "adm_object_id": 31
+        }
+    }, 
+    {
+        "model": "boundaries.administrativerouter", 
+        "pk": 49, 
+        "fields": {
+            "sampling_content_type": [
+                "chickens", 
+                "farm"
+            ], 
+            "sampling_object_id": 36, 
+            "adm_content_type": [
+                "boundaries", 
+                "thirdadministrativelevel"
+            ],
+            "adm_object_id": 31
+        }
+    }, 
+    {
+        "model": "boundaries.administrativerouter", 
+        "pk": 50, 
+        "fields": {
+            "sampling_content_type": [
+                "chickens", 
+                "farm"
+            ], 
+            "sampling_object_id": 37, 
+            "adm_content_type": [
+                "boundaries", 
+                "thirdadministrativelevel"
+            ],
+            "adm_object_id": 31
+        }
+    }, 
+    {
+        "model": "boundaries.administrativerouter", 
+        "pk": 51, 
+        "fields": {
+            "sampling_content_type": [
+                "chickens", 
+                "farm"
+            ], 
+            "sampling_object_id": 38, 
+            "adm_content_type": [
+                "boundaries", 
+                "thirdadministrativelevel"
+            ],
+            "adm_object_id": 31
+        }
+    }, 
+    {
+        "model": "boundaries.administrativerouter", 
+        "pk": 52, 
+        "fields": {
+            "sampling_content_type": [
+                "chickens", 
+                "farm"
+            ], 
+            "sampling_object_id": 39, 
+            "adm_content_type": [
+                "boundaries", 
+                "thirdadministrativelevel"
+            ],
+            "adm_object_id": 31
+        }
+    }, 
+    {
+        "model": "boundaries.administrativerouter", 
+        "pk": 53, 
+        "fields": {
+            "sampling_content_type": [
+                "chickens", 
+                "farm"
+            ], 
+            "sampling_object_id": 40, 
+            "adm_content_type": [
+                "boundaries", 
+                "thirdadministrativelevel"
+            ],
+            "adm_object_id": 46
+        }
+    }, 
+    {
+        "model": "boundaries.administrativerouter", 
+        "pk": 54, 
+        "fields": {
+            "sampling_content_type": [
+                "chickens", 
+                "farm"
+            ], 
+            "sampling_object_id": 41, 
+            "adm_content_type": [
+                "boundaries", 
+                "thirdadministrativelevel"
+            ],
+            "adm_object_id": 46
+        }
+    }, 
+    {
+        "model": "boundaries.administrativerouter", 
+        "pk": 55, 
+        "fields": {
+            "sampling_content_type": [
+                "chickens", 
+                "farm"
+            ], 
+            "sampling_object_id": 42, 
+            "adm_content_type": [
+                "boundaries", 
+                "thirdadministrativelevel"
+            ],
+            "adm_object_id": 46
+        }
+    }, 
+    {
+        "model": "boundaries.administrativerouter", 
+        "pk": 56, 
+        "fields": {
+            "sampling_content_type": [
+                "chickens", 
+                "farm"
+            ], 
+            "sampling_object_id": 43, 
+            "adm_content_type": [
+                "boundaries", 
+                "thirdadministrativelevel"
+            ],
+            "adm_object_id": 46
+        }
+    }, 
+    {
+        "model": "boundaries.administrativerouter", 
+        "pk": 57, 
+        "fields": {
+            "sampling_content_type": [
+                "chickens", 
+                "farm"
+            ], 
+            "sampling_object_id": 44, 
+            "adm_content_type": [
+                "boundaries", 
+                "thirdadministrativelevel"
+            ],
+            "adm_object_id": 46
+        }
+    }, 
+    {
+        "model": "boundaries.administrativerouter", 
+        "pk": 58, 
+        "fields": {
+            "sampling_content_type": [
+                "chickens", 
+                "farm"
+            ], 
+            "sampling_object_id": 45, 
+            "adm_content_type": [
+                "boundaries", 
+                "thirdadministrativelevel"
+            ],
+            "adm_object_id": 46
+        }
+    }, 
+    {
+        "model": "boundaries.administrativerouter", 
+        "pk": 59, 
+        "fields": {
+            "sampling_content_type": [
+                "chickens", 
+                "farm"
+            ], 
+            "sampling_object_id": 46, 
+            "adm_content_type": [
+                "boundaries", 
+                "thirdadministrativelevel"
+            ],
+            "adm_object_id": 46
+        }
+    }, 
+    {
+        "model": "boundaries.administrativerouter", 
+        "pk": 60, 
+        "fields": {
+            "sampling_content_type": [
+                "chickens", 
+                "farm"
+            ], 
+            "sampling_object_id": 47, 
+            "adm_content_type": [
+                "boundaries", 
+                "thirdadministrativelevel"
+            ],
+            "adm_object_id": 46
+        }
+    }, 
+    {
+        "model": "boundaries.administrativerouter", 
+        "pk": 61, 
+        "fields": {
+            "sampling_content_type": [
+                "chickens", 
+                "farm"
+            ], 
+            "sampling_object_id": 48, 
+            "adm_content_type": [
+                "boundaries", 
+                "thirdadministrativelevel"
+            ],
+            "adm_object_id": 46
+        }
+    }, 
+    {
+        "model": "boundaries.administrativerouter", 
+        "pk": 62, 
+        "fields": {
+            "sampling_content_type": [
+                "chickens", 
+                "farm"
+            ], 
+            "sampling_object_id": 49, 
+            "adm_content_type": [
+                "boundaries", 
+                "thirdadministrativelevel"
+            ],
+            "adm_object_id": 46
+        }
+    }, 
+    {
+        "model": "boundaries.administrativerouter", 
+        "pk": 63, 
+        "fields": {
+            "sampling_content_type": [
+                "chickens", 
+                "farm"
+            ], 
+            "sampling_object_id": 50, 
+            "adm_content_type": [
+                "boundaries", 
+                "thirdadministrativelevel"
+            ],
+            "adm_object_id": 46
+        }
+    }, 
+    {
+        "model": "boundaries.administrativerouter", 
+        "pk": 64, 
+        "fields": {
+            "sampling_content_type": [
+                "chickens", 
+                "farm"
+            ], 
+            "sampling_object_id": 51, 
+            "adm_content_type": [
+                "boundaries", 
+                "thirdadministrativelevel"
+            ],
+            "adm_object_id": 46
+        }
+    }, 
+    {
+        "model": "boundaries.administrativerouter", 
+        "pk": 65, 
+        "fields": {
+            "sampling_content_type": [
+                "chickens", 
+                "farm"
+            ], 
+            "sampling_object_id": 52, 
+            "adm_content_type": [
+                "boundaries", 
+                "thirdadministrativelevel"
+            ],
+            "adm_object_id": 46
+        }
+    }, 
+    {
+        "model": "boundaries.administrativerouter", 
+        "pk": 66, 
+        "fields": {
+            "sampling_content_type": [
+                "chickens", 
+                "farm"
+            ], 
+            "sampling_object_id": 53, 
+            "adm_content_type": [
+                "boundaries", 
+                "thirdadministrativelevel"
+            ],
+            "adm_object_id": 46
+        }
+    }, 
+    {
+        "model": "boundaries.administrativerouter", 
+        "pk": 67, 
+        "fields": {
+            "sampling_content_type": [
+                "chickens", 
+                "farm"
+            ], 
+            "sampling_object_id": 54, 
+            "adm_content_type": [
+                "boundaries", 
+                "thirdadministrativelevel"
+            ],
+            "adm_object_id": 46
+        }
+    }, 
+    {
+        "model": "boundaries.administrativerouter", 
+        "pk": 68, 
+        "fields": {
+            "sampling_content_type": [
+                "chickens", 
+                "farm"
+            ], 
+            "sampling_object_id": 55, 
+            "adm_content_type": [
+                "boundaries", 
+                "thirdadministrativelevel"
+            ],
+            "adm_object_id": 46
+        }
+    }, 
+    {
+        "model": "boundaries.administrativerouter", 
+        "pk": 69, 
+        "fields": {
+            "sampling_content_type": [
+                "chickens", 
+                "farm"
+            ], 
+            "sampling_object_id": 56, 
+            "adm_content_type": [
+                "boundaries", 
+                "thirdadministrativelevel"
+            ],
+            "adm_object_id": 46
+        }
+    }, 
+    {
+        "model": "boundaries.administrativerouter", 
+        "pk": 70, 
+        "fields": {
+            "sampling_content_type": [
+                "chickens", 
+                "farm"
+            ], 
+            "sampling_object_id": 57, 
+            "adm_content_type": [
+                "boundaries", 
+                "thirdadministrativelevel"
+            ],
+            "adm_object_id": 46
+        }
+    }, 
+    {
+        "model": "boundaries.administrativerouter", 
+        "pk": 71, 
+        "fields": {
+            "sampling_content_type": [
+                "chickens", 
+                "farm"
+            ], 
+            "sampling_object_id": 58, 
+            "adm_content_type": [
+                "boundaries", 
+                "thirdadministrativelevel"
+            ],
+            "adm_object_id": 44
+        }
+    }, 
+    {
+        "model": "boundaries.administrativerouter", 
+        "pk": 72, 
+        "fields": {
+            "sampling_content_type": [
+                "chickens", 
+                "farm"
+            ], 
+            "sampling_object_id": 59, 
+            "adm_content_type": [
+                "boundaries", 
+                "thirdadministrativelevel"
+            ],
+            "adm_object_id": 44
+        }
+    }, 
+    {
+        "model": "boundaries.administrativerouter", 
+        "pk": 73, 
+        "fields": {
+            "sampling_content_type": [
+                "chickens", 
+                "farm"
+            ], 
+            "sampling_object_id": 60, 
+            "adm_content_type": [
+                "boundaries", 
+                "thirdadministrativelevel"
+            ],
+            "adm_object_id": 44
+        }
+    }, 
+    {
+        "model": "boundaries.administrativerouter", 
+        "pk": 74, 
+        "fields": {
+            "sampling_content_type": [
+                "chickens", 
+                "farm"
+            ], 
+            "sampling_object_id": 61, 
+            "adm_content_type": [
+                "boundaries", 
+                "thirdadministrativelevel"
+            ],
+            "adm_object_id": 44
+        }
+    }, 
+    {
+        "model": "boundaries.administrativerouter", 
+        "pk": 75, 
+        "fields": {
+            "sampling_content_type": [
+                "chickens", 
+                "farm"
+            ], 
+            "sampling_object_id": 62, 
+            "adm_content_type": [
+                "boundaries", 
+                "thirdadministrativelevel"
+            ],
+            "adm_object_id": 44
+        }
+    }, 
+    {
+        "model": "boundaries.administrativerouter", 
+        "pk": 76, 
+        "fields": {
+            "sampling_content_type": [
+                "chickens", 
+                "farm"
+            ], 
+            "sampling_object_id": 63, 
+            "adm_content_type": [
+                "boundaries", 
+                "thirdadministrativelevel"
+            ],
+            "adm_object_id": 44
+        }
+    }, 
+    {
+        "model": "boundaries.administrativerouter", 
+        "pk": 77, 
+        "fields": {
+            "sampling_content_type": [
+                "chickens", 
+                "farm"
+            ], 
+            "sampling_object_id": 64, 
+            "adm_content_type": [
+                "boundaries", 
+                "thirdadministrativelevel"
+            ],
+            "adm_object_id": 44
+        }
+    }, 
+    {
+        "model": "boundaries.administrativerouter", 
+        "pk": 78, 
+        "fields": {
+            "sampling_content_type": [
+                "chickens", 
+                "farm"
+            ], 
+            "sampling_object_id": 65, 
+            "adm_content_type": [
+                "boundaries", 
+                "thirdadministrativelevel"
+            ],
+            "adm_object_id": 44
+        }
+    }, 
+    {
+        "model": "boundaries.administrativerouter", 
+        "pk": 79, 
+        "fields": {
+            "sampling_content_type": [
+                "chickens", 
+                "farm"
+            ], 
+            "sampling_object_id": 66, 
+            "adm_content_type": [
+                "boundaries", 
+                "thirdadministrativelevel"
+            ],
+            "adm_object_id": 44
+        }
+    }, 
+    {
+        "model": "boundaries.administrativerouter", 
+        "pk": 80, 
+        "fields": {
+            "sampling_content_type": [
+                "chickens", 
+                "farm"
+            ], 
+            "sampling_object_id": 67, 
+            "adm_content_type": [
+                "boundaries", 
+                "thirdadministrativelevel"
+            ],
+            "adm_object_id": 46
+        }
+    }, 
+    {
+        "model": "boundaries.administrativerouter", 
+        "pk": 81, 
+        "fields": {
+            "sampling_content_type": [
+                "chickens", 
+                "farm"
+            ], 
+            "sampling_object_id": 68, 
+            "adm_content_type": [
+                "boundaries", 
+                "thirdadministrativelevel"
+            ],
+            "adm_object_id": 46
+        }
+    }, 
+    {
+        "model": "boundaries.administrativerouter", 
+        "pk": 82, 
+        "fields": {
+            "sampling_content_type": [
+                "chickens", 
+                "farm"
+            ], 
+            "sampling_object_id": 69, 
+            "adm_content_type": [
+                "boundaries", 
+                "thirdadministrativelevel"
+            ],
+            "adm_object_id": 46
+        }
+    }, 
+    {
+        "model": "boundaries.administrativerouter", 
+        "pk": 83, 
+        "fields": {
+            "sampling_content_type": [
+                "chickens", 
+                "farm"
+            ], 
+            "sampling_object_id": 70, 
+            "adm_content_type": [
+                "boundaries", 
+                "thirdadministrativelevel"
+            ],
+            "adm_object_id": 46
+        }
+    }, 
+    {
+        "model": "boundaries.administrativerouter", 
+        "pk": 84, 
+        "fields": {
+            "sampling_content_type": [
+                "chickens", 
+                "farm"
+            ], 
+            "sampling_object_id": 71, 
+            "adm_content_type": [
+                "boundaries", 
+                "thirdadministrativelevel"
+            ],
+            "adm_object_id": 46
+        }
+    }, 
+    {
+        "model": "boundaries.administrativerouter", 
+        "pk": 85, 
+        "fields": {
+            "sampling_content_type": [
+                "chickens", 
+                "farm"
+            ], 
+            "sampling_object_id": 72, 
+            "adm_content_type": [
+                "boundaries", 
+                "thirdadministrativelevel"
+            ],
+            "adm_object_id": 46
+        }
+    }, 
+    {
+        "model": "boundaries.administrativerouter", 
+        "pk": 86, 
+        "fields": {
+            "sampling_content_type": [
+                "chickens", 
+                "farm"
+            ], 
+            "sampling_object_id": 73, 
+            "adm_content_type": [
+                "boundaries", 
+                "thirdadministrativelevel"
+            ],
+            "adm_object_id": 46
+        }
+    }, 
+    {
+        "model": "boundaries.administrativerouter", 
+        "pk": 87, 
+        "fields": {
+            "sampling_content_type": [
+                "chickens", 
+                "farm"
+            ], 
+            "sampling_object_id": 74, 
+            "adm_content_type": [
+                "boundaries", 
+                "thirdadministrativelevel"
+            ],
+            "adm_object_id": 46
+        }
+    }, 
+    {
+        "model": "boundaries.administrativerouter", 
+        "pk": 88, 
+        "fields": {
+            "sampling_content_type": [
+                "chickens", 
+                "farm"
+            ], 
+            "sampling_object_id": 75, 
+            "adm_content_type": [
+                "boundaries", 
+                "thirdadministrativelevel"
+            ],
+            "adm_object_id": 46
+        }
+    }, 
+    {
+        "model": "boundaries.administrativerouter", 
+        "pk": 89, 
+        "fields": {
+            "sampling_content_type": [
+                "chickens", 
+                "farm"
+            ], 
+            "sampling_object_id": 76, 
+            "adm_content_type": [
+                "boundaries", 
+                "thirdadministrativelevel"
+            ],
+            "adm_object_id": 46
+        }
+    }, 
+    {
+        "model": "boundaries.administrativerouter", 
+        "pk": 90, 
+        "fields": {
+            "sampling_content_type": [
+                "chickens", 
+                "farm"
+            ], 
+            "sampling_object_id": 77, 
+            "adm_content_type": [
+                "boundaries", 
+                "thirdadministrativelevel"
+            ],
+            "adm_object_id": 82
+        }
+    }, 
+    {
+        "model": "boundaries.administrativerouter", 
+        "pk": 91, 
+        "fields": {
+            "sampling_content_type": [
+                "chickens", 
+                "farm"
+            ], 
+            "sampling_object_id": 78, 
+            "adm_content_type": [
+                "boundaries", 
+                "thirdadministrativelevel"
+            ],
+            "adm_object_id": 82
+        }
+    }, 
+    {
+        "model": "boundaries.administrativerouter", 
+        "pk": 92, 
+        "fields": {
+            "sampling_content_type": [
+                "chickens", 
+                "farm"
+            ], 
+            "sampling_object_id": 79, 
+            "adm_content_type": [
+                "boundaries", 
+                "thirdadministrativelevel"
+            ],
+            "adm_object_id": 82
+        }
+    }, 
+    {
+        "model": "boundaries.administrativerouter", 
+        "pk": 93, 
+        "fields": {
+            "sampling_content_type": [
+                "chickens", 
+                "farm"
+            ], 
+            "sampling_object_id": 80, 
+            "adm_content_type": [
+                "boundaries", 
+                "thirdadministrativelevel"
+            ],
+            "adm_object_id": 82
+        }
+    }, 
+    {
+        "model": "boundaries.administrativerouter", 
+        "pk": 94, 
+        "fields": {
+            "sampling_content_type": [
+                "chickens", 
+                "farm"
+            ], 
+            "sampling_object_id": 81, 
+            "adm_content_type": [
+                "boundaries", 
+                "thirdadministrativelevel"
+            ],
+            "adm_object_id": 82
+        }
+    }, 
+    {
+        "model": "boundaries.administrativerouter", 
+        "pk": 95, 
+        "fields": {
+            "sampling_content_type": [
+                "chickens", 
+                "farm"
+            ], 
+            "sampling_object_id": 82, 
+            "adm_content_type": [
+                "boundaries", 
+                "thirdadministrativelevel"
+            ],
+            "adm_object_id": 82
+        }
+    }, 
+    {
+        "model": "boundaries.administrativerouter", 
+        "pk": 96, 
+        "fields": {
+            "sampling_content_type": [
+                "chickens", 
+                "farm"
+            ], 
+            "sampling_object_id": 83, 
+            "adm_content_type": [
+                "boundaries", 
+                "thirdadministrativelevel"
+            ],
+            "adm_object_id": 82
+        }
+    }, 
+    {
+        "model": "boundaries.administrativerouter", 
+        "pk": 97, 
+        "fields": {
+            "sampling_content_type": [
+                "chickens", 
+                "farm"
+            ], 
+            "sampling_object_id": 84, 
+            "adm_content_type": [
+                "boundaries", 
+                "thirdadministrativelevel"
+            ],
+            "adm_object_id": 82
+        }
+    }, 
+    {
+        "model": "boundaries.administrativerouter", 
+        "pk": 98, 
+        "fields": {
+            "sampling_content_type": [
+                "chickens", 
+                "farm"
+            ], 
+            "sampling_object_id": 85, 
+            "adm_content_type": [
+                "boundaries", 
+                "thirdadministrativelevel"
+            ],
+            "adm_object_id": 82
+        }
+    }, 
+    {
+        "model": "boundaries.administrativerouter", 
+        "pk": 99, 
+        "fields": {
+            "sampling_content_type": [
+                "chickens", 
+                "farm"
+            ], 
+            "sampling_object_id": 86, 
+            "adm_content_type": [
+                "boundaries", 
+                "thirdadministrativelevel"
+            ],
+            "adm_object_id": 82
+        }
+    }, 
+    {
+        "model": "boundaries.administrativerouter", 
+        "pk": 100, 
+        "fields": {
+            "sampling_content_type": [
+                "chickens", 
+                "farm"
+            ], 
+            "sampling_object_id": 87, 
+            "adm_content_type": [
+                "boundaries", 
+                "thirdadministrativelevel"
+            ],
+            "adm_object_id": 82
+        }
+    }, 
+    {
+        "model": "boundaries.administrativerouter", 
+        "pk": 101, 
+        "fields": {
+            "sampling_content_type": [
+                "chickens", 
+                "farm"
+            ], 
+            "sampling_object_id": 88, 
+            "adm_content_type": [
+                "boundaries", 
+                "thirdadministrativelevel"
+            ],
+            "adm_object_id": 82
+        }
+    }, 
+    {
+        "model": "boundaries.administrativerouter", 
+        "pk": 102, 
+        "fields": {
+            "sampling_content_type": [
+                "chickens", 
+                "farm"
+            ], 
+            "sampling_object_id": 89, 
+            "adm_content_type": [
+                "boundaries", 
+                "thirdadministrativelevel"
+            ],
+            "adm_object_id": 82
+        }
+    }, 
+    {
+        "model": "boundaries.administrativerouter", 
+        "pk": 103, 
+        "fields": {
+            "sampling_content_type": [
+                "chickens", 
+                "farm"
+            ], 
+            "sampling_object_id": 90, 
+            "adm_content_type": [
+                "boundaries", 
+                "thirdadministrativelevel"
+            ],
+            "adm_object_id": 82
+        }
+    }, 
+    {
+        "model": "boundaries.administrativerouter", 
+        "pk": 104, 
+        "fields": {
+            "sampling_content_type": [
+                "chickens", 
+                "farm"
+            ], 
+            "sampling_object_id": 91, 
+            "adm_content_type": [
+                "boundaries", 
+                "thirdadministrativelevel"
+            ],
+            "adm_object_id": 82
+        }
+    }, 
+    {
+        "model": "boundaries.administrativerouter", 
+        "pk": 105, 
+        "fields": {
+            "sampling_content_type": [
+                "chickens", 
+                "farm"
+            ], 
+            "sampling_object_id": 92, 
+            "adm_content_type": [
+                "boundaries", 
+                "thirdadministrativelevel"
+            ],
+            "adm_object_id": 82
+        }
+    }, 
+    {
+        "model": "boundaries.administrativerouter", 
+        "pk": 106, 
+        "fields": {
+            "sampling_content_type": [
+                "chickens", 
+                "farm"
+            ], 
+            "sampling_object_id": 93, 
+            "adm_content_type": [
+                "boundaries", 
+                "thirdadministrativelevel"
+            ],
+            "adm_object_id": 82
+        }
+    }, 
+    {
+        "model": "boundaries.administrativerouter", 
+        "pk": 107, 
+        "fields": {
+            "sampling_content_type": [
+                "chickens", 
+                "farm"
+            ], 
+            "sampling_object_id": 94, 
+            "adm_content_type": [
+                "boundaries", 
+                "thirdadministrativelevel"
+            ],
+            "adm_object_id": 82
+        }
+    }, 
+    {
+        "model": "boundaries.administrativerouter", 
+        "pk": 108, 
+        "fields": {
+            "sampling_content_type": [
+                "chickens", 
+                "farm"
+            ], 
+            "sampling_object_id": 95, 
+            "adm_content_type": [
+                "boundaries", 
+                "thirdadministrativelevel"
+            ],
+            "adm_object_id": 82
+        }
+    }, 
+    {
+        "model": "boundaries.administrativerouter", 
+        "pk": 109, 
+        "fields": {
+            "sampling_content_type": [
+                "chickens", 
+                "farm"
+            ], 
+            "sampling_object_id": 96, 
+            "adm_content_type": [
+                "boundaries", 
+                "thirdadministrativelevel"
+            ],
+            "adm_object_id": 82
+        }
+    }, 
+    {
+        "model": "boundaries.administrativerouter", 
+        "pk": 110, 
+        "fields": {
+            "sampling_content_type": [
+                "chickens", 
+                "farm"
+            ], 
+            "sampling_object_id": 97, 
+            "adm_content_type": [
+                "boundaries", 
+                "thirdadministrativelevel"
+            ],
+            "adm_object_id": 144
+        }
+    }, 
+    {
+        "model": "boundaries.administrativerouter", 
+        "pk": 111, 
+        "fields": {
+            "sampling_content_type": [
+                "chickens", 
+                "farm"
+            ], 
+            "sampling_object_id": 98, 
+            "adm_content_type": [
+                "boundaries", 
+                "thirdadministrativelevel"
+            ],
+            "adm_object_id": 144
+        }
+    }, 
+    {
+        "model": "boundaries.administrativerouter", 
+        "pk": 112, 
+        "fields": {
+            "sampling_content_type": [
+                "chickens", 
+                "farm"
+            ], 
+            "sampling_object_id": 99, 
+            "adm_content_type": [
+                "boundaries", 
+                "thirdadministrativelevel"
+            ],
+            "adm_object_id": 144
+        }
+    }, 
+    {
+        "model": "boundaries.administrativerouter", 
+        "pk": 113, 
+        "fields": {
+            "sampling_content_type": [
+                "chickens", 
+                "farm"
+            ], 
+            "sampling_object_id": 100, 
+            "adm_content_type": [
+                "boundaries", 
+                "thirdadministrativelevel"
+            ],
+            "adm_object_id": 144
+        }
+    }, 
+    {
+        "model": "boundaries.administrativerouter", 
+        "pk": 114, 
+        "fields": {
+            "sampling_content_type": [
+                "chickens", 
+                "farm"
+            ], 
+            "sampling_object_id": 101, 
+            "adm_content_type": [
+                "boundaries", 
+                "thirdadministrativelevel"
+            ],
+            "adm_object_id": 144
+        }
+    }, 
+    {
+        "model": "boundaries.administrativerouter", 
+        "pk": 115, 
+        "fields": {
+            "sampling_content_type": [
+                "chickens", 
+                "farm"
+            ], 
+            "sampling_object_id": 102, 
+            "adm_content_type": [
+                "boundaries", 
+                "thirdadministrativelevel"
+            ],
+            "adm_object_id": 144
+        }
+    }, 
+    {
+        "model": "boundaries.administrativerouter", 
+        "pk": 116, 
+        "fields": {
+            "sampling_content_type": [
+                "chickens", 
+                "farm"
+            ], 
+            "sampling_object_id": 103, 
+            "adm_content_type": [
+                "boundaries", 
+                "thirdadministrativelevel"
+            ],
+            "adm_object_id": 144
+        }
+    }, 
+    {
+        "model": "boundaries.administrativerouter", 
+        "pk": 117, 
+        "fields": {
+            "sampling_content_type": [
+                "chickens", 
+                "farm"
+            ], 
+            "sampling_object_id": 104, 
+            "adm_content_type": [
+                "boundaries", 
+                "thirdadministrativelevel"
+            ],
+            "adm_object_id": 144
+        }
+    }, 
+    {
+        "model": "boundaries.administrativerouter", 
+        "pk": 118, 
+        "fields": {
+            "sampling_content_type": [
+                "chickens", 
+                "farm"
+            ], 
+            "sampling_object_id": 105, 
+            "adm_content_type": [
+                "boundaries", 
+                "thirdadministrativelevel"
+            ],
+            "adm_object_id": 144
+        }
+    }, 
+    {
+        "model": "boundaries.administrativerouter", 
+        "pk": 119, 
+        "fields": {
+            "sampling_content_type": [
+                "chickens", 
+                "farm"
+            ], 
+            "sampling_object_id": 106, 
+            "adm_content_type": [
+                "boundaries", 
+                "thirdadministrativelevel"
+            ],
+            "adm_object_id": 144
+        }
+    }, 
+    {
+        "model": "boundaries.administrativerouter", 
+        "pk": 120, 
+        "fields": {
+            "sampling_content_type": [
+                "chickens", 
+                "farm"
+            ], 
+            "sampling_object_id": 107, 
+            "adm_content_type": [
+                "boundaries", 
+                "thirdadministrativelevel"
+            ],
+            "adm_object_id": 67
+        }
+    }, 
+    {
+        "model": "boundaries.administrativerouter", 
+        "pk": 121, 
+        "fields": {
+            "sampling_content_type": [
+                "chickens", 
+                "farm"
+            ], 
+            "sampling_object_id": 108, 
+            "adm_content_type": [
+                "boundaries", 
+                "thirdadministrativelevel"
+            ],
+            "adm_object_id": 67
+        }
+    }, 
+    {
+        "model": "boundaries.administrativerouter", 
+        "pk": 122, 
+        "fields": {
+            "sampling_content_type": [
+                "chickens", 
+                "farm"
+            ], 
+            "sampling_object_id": 109, 
+            "adm_content_type": [
+                "boundaries", 
+                "thirdadministrativelevel"
+            ],
+            "adm_object_id": 67
+        }
+    }, 
+    {
+        "model": "boundaries.administrativerouter", 
+        "pk": 123, 
+        "fields": {
+            "sampling_content_type": [
+                "chickens", 
+                "farm"
+            ], 
+            "sampling_object_id": 110, 
+            "adm_content_type": [
+                "boundaries", 
+                "thirdadministrativelevel"
+            ],
+            "adm_object_id": 67
+        }
+    }, 
+    {
+        "model": "boundaries.administrativerouter", 
+        "pk": 124, 
+        "fields": {
+            "sampling_content_type": [
+                "chickens", 
+                "farm"
+            ], 
+            "sampling_object_id": 111, 
+            "adm_content_type": [
+                "boundaries", 
+                "thirdadministrativelevel"
+            ],
+            "adm_object_id": 67
+        }
+    }, 
+    {
+        "model": "boundaries.administrativerouter", 
+        "pk": 125, 
+        "fields": {
+            "sampling_content_type": [
+                "chickens", 
+                "farm"
+            ], 
+            "sampling_object_id": 112, 
+            "adm_content_type": [
+                "boundaries", 
+                "thirdadministrativelevel"
+            ],
+            "adm_object_id": 67
+        }
+    }, 
+    {
+        "model": "boundaries.administrativerouter", 
+        "pk": 126, 
+        "fields": {
+            "sampling_content_type": [
+                "chickens", 
+                "farm"
+            ], 
+            "sampling_object_id": 113, 
+            "adm_content_type": [
+                "boundaries", 
+                "thirdadministrativelevel"
+            ],
+            "adm_object_id": 67
+        }
+    }, 
+    {
+        "model": "boundaries.administrativerouter", 
+        "pk": 127, 
+        "fields": {
+            "sampling_content_type": [
+                "chickens", 
+                "farm"
+            ], 
+            "sampling_object_id": 114, 
+            "adm_content_type": [
+                "boundaries", 
+                "thirdadministrativelevel"
+            ],
+            "adm_object_id": 67
+        }
+    }, 
+    {
+        "model": "boundaries.administrativerouter", 
+        "pk": 128, 
+        "fields": {
+            "sampling_content_type": [
+                "chickens", 
+                "farm"
+            ], 
+            "sampling_object_id": 115, 
+            "adm_content_type": [
+                "boundaries", 
+                "thirdadministrativelevel"
+            ],
+            "adm_object_id": 67
+        }
+    }, 
+    {
+        "model": "boundaries.administrativerouter", 
+        "pk": 129, 
+        "fields": {
+            "sampling_content_type": [
+                "chickens", 
+                "farm"
+            ], 
+            "sampling_object_id": 116, 
+            "adm_content_type": [
+                "boundaries", 
+                "thirdadministrativelevel"
+            ],
+            "adm_object_id": 67
+        }
+    }, 
+    {
+        "model": "boundaries.administrativerouter", 
+        "pk": 130, 
+        "fields": {
+            "sampling_content_type": [
+                "chickens", 
+                "farm"
+            ], 
+            "sampling_object_id": 117, 
+            "adm_content_type": [
+                "boundaries", 
+                "thirdadministrativelevel"
+            ],
+            "adm_object_id": 67
+        }
+    }, 
+    {
+        "model": "boundaries.administrativerouter", 
+        "pk": 131, 
+        "fields": {
+            "sampling_content_type": [
+                "chickens", 
+                "farm"
+            ], 
+            "sampling_object_id": 118, 
+            "adm_content_type": [
+                "boundaries", 
+                "thirdadministrativelevel"
+            ],
+            "adm_object_id": 67
+        }
+    }, 
+    {
+        "model": "boundaries.administrativerouter", 
+        "pk": 132, 
+        "fields": {
+            "sampling_content_type": [
+                "chickens", 
+                "farm"
+            ], 
+            "sampling_object_id": 119, 
+            "adm_content_type": [
+                "boundaries", 
+                "thirdadministrativelevel"
+            ],
+            "adm_object_id": 67
+        }
+    }, 
+    {
+        "model": "boundaries.administrativerouter", 
+        "pk": 133, 
+        "fields": {
+            "sampling_content_type": [
+                "chickens", 
+                "farm"
+            ], 
+            "sampling_object_id": 120, 
+            "adm_content_type": [
+                "boundaries", 
+                "thirdadministrativelevel"
+            ],
+            "adm_object_id": 67
+        }
+    }, 
+    {
+        "model": "boundaries.administrativerouter", 
+        "pk": 134, 
+        "fields": {
+            "sampling_content_type": [
+                "chickens", 
+                "farm"
+            ], 
+            "sampling_object_id": 121, 
+            "adm_content_type": [
+                "boundaries", 
+                "thirdadministrativelevel"
+            ],
+            "adm_object_id": 67
+        }
+    }, 
+    {
+        "model": "boundaries.administrativerouter", 
+        "pk": 135, 
+        "fields": {
+            "sampling_content_type": [
+                "chickens", 
+                "farm"
+            ], 
+            "sampling_object_id": 122, 
+            "adm_content_type": [
+                "boundaries", 
+                "thirdadministrativelevel"
+            ],
+            "adm_object_id": 67
+        }
+    }, 
+    {
+        "model": "boundaries.administrativerouter", 
+        "pk": 136, 
+        "fields": {
+            "sampling_content_type": [
+                "chickens", 
+                "farm"
+            ], 
+            "sampling_object_id": 123, 
+            "adm_content_type": [
+                "boundaries", 
+                "thirdadministrativelevel"
+            ],
+            "adm_object_id": 67
+        }
+    }, 
+    {
+        "model": "boundaries.administrativerouter", 
+        "pk": 137, 
+        "fields": {
+            "sampling_content_type": [
+                "chickens", 
+                "farm"
+            ], 
+            "sampling_object_id": 124, 
+            "adm_content_type": [
+                "boundaries", 
+                "thirdadministrativelevel"
+            ],
+            "adm_object_id": 67
+        }
+    }, 
+    {
+        "model": "boundaries.administrativerouter", 
+        "pk": 138, 
+        "fields": {
+            "sampling_content_type": [
+                "chickens", 
+                "farm"
+            ], 
+            "sampling_object_id": 125, 
+            "adm_content_type": [
+                "boundaries", 
+                "thirdadministrativelevel"
+            ],
+            "adm_object_id": 67
+        }
+    }, 
+    {
+        "model": "boundaries.administrativerouter", 
+        "pk": 139, 
+        "fields": {
+            "sampling_content_type": [
+                "chickens", 
+                "farm"
+            ], 
+            "sampling_object_id": 126, 
+            "adm_content_type": [
+                "boundaries", 
+                "thirdadministrativelevel"
+            ],
+            "adm_object_id": 67
+        }
+    }, 
+    {
+        "model": "boundaries.administrativerouter", 
+        "pk": 140, 
+        "fields": {
+            "sampling_content_type": [
+                "chickens", 
+                "farm"
+            ], 
+            "sampling_object_id": 127, 
+            "adm_content_type": [
+                "boundaries", 
+                "thirdadministrativelevel"
+            ],
+            "adm_object_id": 120
+        }
+    }, 
+    {
+        "model": "boundaries.administrativerouter", 
+        "pk": 141, 
+        "fields": {
+            "sampling_content_type": [
+                "chickens", 
+                "farm"
+            ], 
+            "sampling_object_id": 128, 
+            "adm_content_type": [
+                "boundaries", 
+                "thirdadministrativelevel"
+            ],
+            "adm_object_id": 120
+        }
+    }, 
+    {
+        "model": "boundaries.administrativerouter", 
+        "pk": 142, 
+        "fields": {
+            "sampling_content_type": [
+                "chickens", 
+                "farm"
+            ], 
+            "sampling_object_id": 129, 
+            "adm_content_type": [
+                "boundaries", 
+                "thirdadministrativelevel"
+            ],
+            "adm_object_id": 120
+        }
+    }, 
+    {
+        "model": "boundaries.administrativerouter", 
+        "pk": 143, 
+        "fields": {
+            "sampling_content_type": [
+                "chickens", 
+                "farm"
+            ], 
+            "sampling_object_id": 130, 
+            "adm_content_type": [
+                "boundaries", 
+                "thirdadministrativelevel"
+            ],
+            "adm_object_id": 120
+        }
+    }, 
+    {
+        "model": "boundaries.administrativerouter", 
+        "pk": 144, 
+        "fields": {
+            "sampling_content_type": [
+                "chickens", 
+                "farm"
+            ], 
+            "sampling_object_id": 131, 
+            "adm_content_type": [
+                "boundaries", 
+                "thirdadministrativelevel"
+            ],
+            "adm_object_id": 120
+        }
+    }, 
+    {
+        "model": "boundaries.administrativerouter", 
+        "pk": 145, 
+        "fields": {
+            "sampling_content_type": [
+                "chickens", 
+                "farm"
+            ], 
+            "sampling_object_id": 132, 
+            "adm_content_type": [
+                "boundaries", 
+                "thirdadministrativelevel"
+            ],
+            "adm_object_id": 120
+        }
+    }, 
+    {
+        "model": "boundaries.administrativerouter", 
+        "pk": 146, 
+        "fields": {
+            "sampling_content_type": [
+                "chickens", 
+                "farm"
+            ], 
+            "sampling_object_id": 133, 
+            "adm_content_type": [
+                "boundaries", 
+                "thirdadministrativelevel"
+            ],
+            "adm_object_id": 120
+        }
+    }, 
+    {
+        "model": "boundaries.administrativerouter", 
+        "pk": 147, 
+        "fields": {
+            "sampling_content_type": [
+                "chickens", 
+                "farm"
+            ], 
+            "sampling_object_id": 134, 
+            "adm_content_type": [
+                "boundaries", 
+                "thirdadministrativelevel"
+            ],
+            "adm_object_id": 120
+        }
+    }, 
+    {
+        "model": "boundaries.administrativerouter", 
+        "pk": 148, 
+        "fields": {
+            "sampling_content_type": [
+                "chickens", 
+                "farm"
+            ], 
+            "sampling_object_id": 135, 
+            "adm_content_type": [
+                "boundaries", 
+                "thirdadministrativelevel"
+            ],
+            "adm_object_id": 120
+        }
+    }, 
+    {
+        "model": "boundaries.administrativerouter", 
+        "pk": 149, 
+        "fields": {
+            "sampling_content_type": [
+                "chickens", 
+                "farm"
+            ], 
+            "sampling_object_id": 136, 
+            "adm_content_type": [
+                "boundaries", 
+                "thirdadministrativelevel"
+            ],
+            "adm_object_id": 120
+        }
+    }, 
+    {
+        "model": "boundaries.administrativerouter", 
+        "pk": 150, 
+        "fields": {
+            "sampling_content_type": [
+                "chickens", 
+                "farm"
+            ], 
+            "sampling_object_id": 137, 
+            "adm_content_type": [
+                "boundaries", 
+                "thirdadministrativelevel"
+            ],
+            "adm_object_id": 120
+        }
+    }, 
+    {
+        "model": "boundaries.administrativerouter", 
+        "pk": 151, 
+        "fields": {
+            "sampling_content_type": [
+                "chickens", 
+                "farm"
+            ], 
+            "sampling_object_id": 138, 
+            "adm_content_type": [
+                "boundaries", 
+                "thirdadministrativelevel"
+            ],
+            "adm_object_id": 120
+        }
+    }, 
+    {
+        "model": "boundaries.administrativerouter", 
+        "pk": 152, 
+        "fields": {
+            "sampling_content_type": [
+                "chickens", 
+                "farm"
+            ], 
+            "sampling_object_id": 139, 
+            "adm_content_type": [
+                "boundaries", 
+                "thirdadministrativelevel"
+            ],
+            "adm_object_id": 120
+        }
+    }, 
+    {
+        "model": "boundaries.administrativerouter", 
+        "pk": 153, 
+        "fields": {
+            "sampling_content_type": [
+                "chickens", 
+                "farm"
+            ], 
+            "sampling_object_id": 140, 
+            "adm_content_type": [
+                "boundaries", 
+                "thirdadministrativelevel"
+            ],
+            "adm_object_id": 120
+        }
+    }, 
+    {
+        "model": "boundaries.administrativerouter", 
+        "pk": 154, 
+        "fields": {
+            "sampling_content_type": [
+                "chickens", 
+                "farm"
+            ], 
+            "sampling_object_id": 141, 
+            "adm_content_type": [
+                "boundaries", 
+                "thirdadministrativelevel"
+            ],
+            "adm_object_id": 120
+        }
+    }, 
+    {
+        "model": "boundaries.administrativerouter", 
+        "pk": 155, 
+        "fields": {
+            "sampling_content_type": [
+                "chickens", 
+                "farm"
+            ], 
+            "sampling_object_id": 142, 
+            "adm_content_type": [
+                "boundaries", 
+                "thirdadministrativelevel"
+            ],
+            "adm_object_id": 120
+        }
+    }, 
+    {
+        "model": "boundaries.administrativerouter", 
+        "pk": 156, 
+        "fields": {
+            "sampling_content_type": [
+                "chickens", 
+                "farm"
+            ], 
+            "sampling_object_id": 143, 
+            "adm_content_type": [
+                "boundaries", 
+                "thirdadministrativelevel"
+            ],
+            "adm_object_id": 120
+        }
+    }, 
+    {
+        "model": "boundaries.administrativerouter", 
+        "pk": 157, 
+        "fields": {
+            "sampling_content_type": [
+                "chickens", 
+                "farm"
+            ], 
+            "sampling_object_id": 144, 
+            "adm_content_type": [
+                "boundaries", 
+                "thirdadministrativelevel"
+            ],
+            "adm_object_id": 120
+        }
+    }, 
+    {
+        "model": "boundaries.administrativerouter", 
+        "pk": 158, 
+        "fields": {
+            "sampling_content_type": [
+                "chickens", 
+                "farm"
+            ], 
+            "sampling_object_id": 145, 
+            "adm_content_type": [
+                "boundaries", 
+                "thirdadministrativelevel"
+            ],
+            "adm_object_id": 120
+        }
+    }, 
+    {
+        "model": "boundaries.administrativerouter", 
+        "pk": 159, 
+        "fields": {
+            "sampling_content_type": [
+                "chickens", 
+                "farm"
+            ], 
+            "sampling_object_id": 146, 
+            "adm_content_type": [
+                "boundaries", 
+                "thirdadministrativelevel"
+            ],
+            "adm_object_id": 120
+        }
+    }, 
+    {
+        "model": "boundaries.administrativerouter", 
+        "pk": 160, 
+        "fields": {
+            "sampling_content_type": [
+                "chickens", 
+                "farm"
+            ], 
+            "sampling_object_id": 147, 
+            "adm_content_type": [
+                "boundaries", 
+                "thirdadministrativelevel"
+            ],
+            "adm_object_id": 187
+        }
+    }, 
+    {
+        "model": "boundaries.administrativerouter", 
+        "pk": 161, 
+        "fields": {
+            "sampling_content_type": [
+                "chickens", 
+                "farm"
+            ], 
+            "sampling_object_id": 148, 
+            "adm_content_type": [
+                "boundaries", 
+                "thirdadministrativelevel"
+            ],
+            "adm_object_id": 187
+        }
+    }, 
+    {
+        "model": "boundaries.administrativerouter", 
+        "pk": 162, 
+        "fields": {
+            "sampling_content_type": [
+                "chickens", 
+                "farm"
+            ], 
+            "sampling_object_id": 149, 
+            "adm_content_type": [
+                "boundaries", 
+                "thirdadministrativelevel"
+            ],
+            "adm_object_id": 187
+        }
+    }, 
+    {
+        "model": "boundaries.administrativerouter", 
+        "pk": 163, 
+        "fields": {
+            "sampling_content_type": [
+                "chickens", 
+                "farm"
+            ], 
+            "sampling_object_id": 150, 
+            "adm_content_type": [
+                "boundaries", 
+                "thirdadministrativelevel"
+            ],
+            "adm_object_id": 187
+        }
+    }, 
+    {
+        "model": "boundaries.administrativerouter", 
+        "pk": 164, 
+        "fields": {
+            "sampling_content_type": [
+                "chickens", 
+                "farm"
+            ], 
+            "sampling_object_id": 151, 
+            "adm_content_type": [
+                "boundaries", 
+                "thirdadministrativelevel"
+            ],
+            "adm_object_id": 187
+        }
+    }, 
+    {
+        "model": "boundaries.administrativerouter", 
+        "pk": 165, 
+        "fields": {
+            "sampling_content_type": [
+                "chickens", 
+                "farm"
+            ], 
+            "sampling_object_id": 152, 
+            "adm_content_type": [
+                "boundaries", 
+                "thirdadministrativelevel"
+            ],
+            "adm_object_id": 187
+        }
+    }, 
+    {
+        "model": "boundaries.administrativerouter", 
+        "pk": 166, 
+        "fields": {
+            "sampling_content_type": [
+                "chickens", 
+                "farm"
+            ], 
+            "sampling_object_id": 153, 
+            "adm_content_type": [
+                "boundaries", 
+                "thirdadministrativelevel"
+            ],
+            "adm_object_id": 187
+        }
+    }, 
+    {
+        "model": "boundaries.administrativerouter", 
+        "pk": 167, 
+        "fields": {
+            "sampling_content_type": [
+                "chickens", 
+                "farm"
+            ], 
+            "sampling_object_id": 154, 
+            "adm_content_type": [
+                "boundaries", 
+                "thirdadministrativelevel"
+            ],
+            "adm_object_id": 187
+        }
+    }, 
+    {
+        "model": "boundaries.administrativerouter", 
+        "pk": 168, 
+        "fields": {
+            "sampling_content_type": [
+                "chickens", 
+                "farm"
+            ], 
+            "sampling_object_id": 155, 
+            "adm_content_type": [
+                "boundaries", 
+                "thirdadministrativelevel"
+            ],
+            "adm_object_id": 187
+        }
+    }, 
+    {
+        "model": "boundaries.administrativerouter", 
+        "pk": 169, 
+        "fields": {
+            "sampling_content_type": [
+                "chickens", 
+                "farm"
+            ], 
+            "sampling_object_id": 156, 
+            "adm_content_type": [
+                "boundaries", 
+                "thirdadministrativelevel"
+            ],
+            "adm_object_id": 187
+        }
+    }, 
+    {
+        "model": "boundaries.administrativerouter", 
+        "pk": 170, 
+        "fields": {
+            "sampling_content_type": [
+                "chickens", 
+                "farm"
+            ], 
+            "sampling_object_id": 157, 
+            "adm_content_type": [
+                "boundaries", 
+                "thirdadministrativelevel"
+            ],
+            "adm_object_id": 187
+        }
+    }, 
+    {
+        "model": "boundaries.administrativerouter", 
+        "pk": 171, 
+        "fields": {
+            "sampling_content_type": [
+                "chickens", 
+                "farm"
+            ], 
+            "sampling_object_id": 158, 
+            "adm_content_type": [
+                "boundaries", 
+                "thirdadministrativelevel"
+            ],
+            "adm_object_id": 187
+        }
+    }, 
+    {
+        "model": "boundaries.administrativerouter", 
+        "pk": 172, 
+        "fields": {
+            "sampling_content_type": [
+                "chickens", 
+                "farm"
+            ], 
+            "sampling_object_id": 159, 
+            "adm_content_type": [
+                "boundaries", 
+                "thirdadministrativelevel"
+            ],
+            "adm_object_id": 187
+        }
+    }, 
+    {
+        "model": "boundaries.administrativerouter", 
+        "pk": 173, 
+        "fields": {
+            "sampling_content_type": [
+                "chickens", 
+                "farm"
+            ], 
+            "sampling_object_id": 160, 
+            "adm_content_type": [
+                "boundaries", 
+                "thirdadministrativelevel"
+            ],
+            "adm_object_id": 187
+        }
+    }, 
+    {
+        "model": "boundaries.administrativerouter", 
+        "pk": 174, 
+        "fields": {
+            "sampling_content_type": [
+                "chickens", 
+                "farm"
+            ], 
+            "sampling_object_id": 161, 
+            "adm_content_type": [
+                "boundaries", 
+                "thirdadministrativelevel"
+            ],
+            "adm_object_id": 187
+        }
+    }, 
+    {
+        "model": "boundaries.administrativerouter", 
+        "pk": 175, 
+        "fields": {
+            "sampling_content_type": [
+                "chickens", 
+                "farm"
+            ], 
+            "sampling_object_id": 162, 
+            "adm_content_type": [
+                "boundaries", 
+                "thirdadministrativelevel"
+            ],
+            "adm_object_id": 187
+        }
+    }, 
+    {
+        "model": "boundaries.administrativerouter", 
+        "pk": 176, 
+        "fields": {
+            "sampling_content_type": [
+                "chickens", 
+                "farm"
+            ], 
+            "sampling_object_id": 163, 
+            "adm_content_type": [
+                "boundaries", 
+                "thirdadministrativelevel"
+            ],
+            "adm_object_id": 187
+        }
+    }, 
+    {
+        "model": "boundaries.administrativerouter", 
+        "pk": 177, 
+        "fields": {
+            "sampling_content_type": [
+                "chickens", 
+                "farm"
+            ], 
+            "sampling_object_id": 164, 
+            "adm_content_type": [
+                "boundaries", 
+                "thirdadministrativelevel"
+            ],
+            "adm_object_id": 187
+        }
+    }, 
+    {
+        "model": "boundaries.administrativerouter", 
+        "pk": 178, 
+        "fields": {
+            "sampling_content_type": [
+                "chickens", 
+                "farm"
+            ], 
+            "sampling_object_id": 165, 
+            "adm_content_type": [
+                "boundaries", 
+                "thirdadministrativelevel"
+            ],
+            "adm_object_id": 187
+        }
+    }, 
+    {
+        "model": "boundaries.administrativerouter", 
+        "pk": 179, 
+        "fields": {
+            "sampling_content_type": [
+                "chickens", 
+                "farm"
+            ], 
+            "sampling_object_id": 166, 
+            "adm_content_type": [
+                "boundaries", 
+                "thirdadministrativelevel"
+            ],
+            "adm_object_id": 187
+        }
+    }, 
+    {
+        "model": "boundaries.administrativerouter", 
+        "pk": 180, 
+        "fields": {
+            "sampling_content_type": [
+                "chickens", 
+                "farm"
+            ], 
+            "sampling_object_id": 167, 
+            "adm_content_type": [
+                "boundaries", 
+                "thirdadministrativelevel"
+            ],
+            "adm_object_id": 430
+        }
+    }, 
+    {
+        "model": "boundaries.administrativerouter", 
+        "pk": 181, 
+        "fields": {
+            "sampling_content_type": [
+                "chickens", 
+                "farm"
+            ], 
+            "sampling_object_id": 168, 
+            "adm_content_type": [
+                "boundaries", 
+                "thirdadministrativelevel"
+            ],
+            "adm_object_id": 430
+        }
+    }, 
+    {
+        "model": "boundaries.administrativerouter", 
+        "pk": 182, 
+        "fields": {
+            "sampling_content_type": [
+                "chickens", 
+                "farm"
+            ], 
+            "sampling_object_id": 169, 
+            "adm_content_type": [
+                "boundaries", 
+                "thirdadministrativelevel"
+            ],
+            "adm_object_id": 430
+        }
+    }, 
+    {
+        "model": "boundaries.administrativerouter", 
+        "pk": 183, 
+        "fields": {
+            "sampling_content_type": [
+                "chickens", 
+                "farm"
+            ], 
+            "sampling_object_id": 170, 
+            "adm_content_type": [
+                "boundaries", 
+                "thirdadministrativelevel"
+            ],
+            "adm_object_id": 430
+        }
+    }, 
+    {
+        "model": "boundaries.administrativerouter", 
+        "pk": 184, 
+        "fields": {
+            "sampling_content_type": [
+                "chickens", 
+                "farm"
+            ], 
+            "sampling_object_id": 171, 
+            "adm_content_type": [
+                "boundaries", 
+                "thirdadministrativelevel"
+            ],
+            "adm_object_id": 430
+        }
+    }, 
+    {
+        "model": "boundaries.administrativerouter", 
+        "pk": 185, 
+        "fields": {
+            "sampling_content_type": [
+                "chickens", 
+                "farm"
+            ], 
+            "sampling_object_id": 172, 
+            "adm_content_type": [
+                "boundaries", 
+                "thirdadministrativelevel"
+            ],
+            "adm_object_id": 430
+        }
+    }, 
+    {
+        "model": "boundaries.administrativerouter", 
+        "pk": 186, 
+        "fields": {
+            "sampling_content_type": [
+                "chickens", 
+                "farm"
+            ], 
+            "sampling_object_id": 173, 
+            "adm_content_type": [
+                "boundaries", 
+                "thirdadministrativelevel"
+            ],
+            "adm_object_id": 430
+        }
+    }, 
+    {
+        "model": "boundaries.administrativerouter", 
+        "pk": 187, 
+        "fields": {
+            "sampling_content_type": [
+                "chickens", 
+                "farm"
+            ], 
+            "sampling_object_id": 174, 
+            "adm_content_type": [
+                "boundaries", 
+                "thirdadministrativelevel"
+            ],
+            "adm_object_id": 430
+        }
+    }, 
+    {
+        "model": "boundaries.administrativerouter", 
+        "pk": 188, 
+        "fields": {
+            "sampling_content_type": [
+                "chickens", 
+                "farm"
+            ], 
+            "sampling_object_id": 175, 
+            "adm_content_type": [
+                "boundaries", 
+                "thirdadministrativelevel"
+            ],
+            "adm_object_id": 430
+        }
+    }, 
+    {
+        "model": "boundaries.administrativerouter", 
+        "pk": 189, 
+        "fields": {
+            "sampling_content_type": [
+                "chickens", 
+                "farm"
+            ], 
+            "sampling_object_id": 176, 
+            "adm_content_type": [
+                "boundaries", 
+                "thirdadministrativelevel"
+            ],
+            "adm_object_id": 430
+        }
+    }, 
+    {
+        "model": "boundaries.administrativerouter", 
+        "pk": 190, 
+        "fields": {
+            "sampling_content_type": [
+                "chickens", 
+                "farm"
+            ], 
+            "sampling_object_id": 177, 
+            "adm_content_type": [
+                "boundaries", 
+                "thirdadministrativelevel"
+            ],
+            "adm_object_id": 430
+        }
+    }, 
+    {
+        "model": "boundaries.administrativerouter", 
+        "pk": 191, 
+        "fields": {
+            "sampling_content_type": [
+                "chickens", 
+                "farm"
+            ], 
+            "sampling_object_id": 178, 
+            "adm_content_type": [
+                "boundaries", 
+                "thirdadministrativelevel"
+            ],
+            "adm_object_id": 430
+        }
+    }, 
+    {
+        "model": "boundaries.administrativerouter", 
+        "pk": 192, 
+        "fields": {
+            "sampling_content_type": [
+                "chickens", 
+                "farm"
+            ], 
+            "sampling_object_id": 179, 
+            "adm_content_type": [
+                "boundaries", 
+                "thirdadministrativelevel"
+            ],
+            "adm_object_id": 430
+        }
+    }, 
+    {
+        "model": "boundaries.administrativerouter", 
+        "pk": 193, 
+        "fields": {
+            "sampling_content_type": [
+                "chickens", 
+                "farm"
+            ], 
+            "sampling_object_id": 180, 
+            "adm_content_type": [
+                "boundaries", 
+                "thirdadministrativelevel"
+            ],
+            "adm_object_id": 430
+        }
+    }, 
+    {
+        "model": "boundaries.administrativerouter", 
+        "pk": 194, 
+        "fields": {
+            "sampling_content_type": [
+                "chickens", 
+                "farm"
+            ], 
+            "sampling_object_id": 181, 
+            "adm_content_type": [
+                "boundaries", 
+                "thirdadministrativelevel"
+            ],
+            "adm_object_id": 430
+        }
+    }, 
+    {
+        "model": "boundaries.administrativerouter", 
+        "pk": 195, 
+        "fields": {
+            "sampling_content_type": [
+                "chickens", 
+                "farm"
+            ], 
+            "sampling_object_id": 182, 
+            "adm_content_type": [
+                "boundaries", 
+                "thirdadministrativelevel"
+            ],
+            "adm_object_id": 430
+        }
+    }, 
+    {
+        "model": "boundaries.administrativerouter", 
+        "pk": 196, 
+        "fields": {
+            "sampling_content_type": [
+                "chickens", 
+                "farm"
+            ], 
+            "sampling_object_id": 183, 
+            "adm_content_type": [
+                "boundaries", 
+                "thirdadministrativelevel"
+            ],
+            "adm_object_id": 430
+        }
+    }, 
+    {
+        "model": "boundaries.administrativerouter", 
+        "pk": 197, 
+        "fields": {
+            "sampling_content_type": [
+                "chickens", 
+                "farm"
+            ], 
+            "sampling_object_id": 184, 
+            "adm_content_type": [
+                "boundaries", 
+                "thirdadministrativelevel"
+            ],
+            "adm_object_id": 430
+        }
+    }, 
+    {
+        "model": "boundaries.administrativerouter", 
+        "pk": 198, 
+        "fields": {
+            "sampling_content_type": [
+                "chickens", 
+                "farm"
+            ], 
+            "sampling_object_id": 185, 
+            "adm_content_type": [
+                "boundaries", 
+                "thirdadministrativelevel"
+            ],
+            "adm_object_id": 430
+        }
+    }, 
+    {
+        "model": "boundaries.administrativerouter", 
+        "pk": 199, 
+        "fields": {
+            "sampling_content_type": [
+                "chickens", 
+                "farm"
+            ], 
+            "sampling_object_id": 186, 
+            "adm_content_type": [
+                "boundaries", 
+                "thirdadministrativelevel"
+            ],
+            "adm_object_id": 430
+        }
+    }, 
+    {
+        "model": "boundaries.administrativerouter", 
+        "pk": 200, 
+        "fields": {
+            "sampling_content_type": [
+                "chickens", 
+                "farm"
+            ], 
+            "sampling_object_id": 187, 
+            "adm_content_type": [
+                "boundaries", 
+                "thirdadministrativelevel"
+            ],
+            "adm_object_id": 628
+        }
+    }, 
+    {
+        "model": "boundaries.administrativerouter", 
+        "pk": 201, 
+        "fields": {
+            "sampling_content_type": [
+                "chickens", 
+                "farm"
+            ], 
+            "sampling_object_id": 188, 
+            "adm_content_type": [
+                "boundaries", 
+                "thirdadministrativelevel"
+            ],
+            "adm_object_id": 628
+        }
+    }, 
+    {
+        "model": "boundaries.administrativerouter", 
+        "pk": 202, 
+        "fields": {
+            "sampling_content_type": [
+                "chickens", 
+                "farm"
+            ], 
+            "sampling_object_id": 189, 
+            "adm_content_type": [
+                "boundaries", 
+                "thirdadministrativelevel"
+            ],
+            "adm_object_id": 628
+        }
+    }, 
+    {
+        "model": "boundaries.administrativerouter", 
+        "pk": 203, 
+        "fields": {
+            "sampling_content_type": [
+                "chickens", 
+                "farm"
+            ], 
+            "sampling_object_id": 190, 
+            "adm_content_type": [
+                "boundaries", 
+                "thirdadministrativelevel"
+            ],
+            "adm_object_id": 628
+        }
+    }, 
+    {
+        "model": "boundaries.administrativerouter", 
+        "pk": 204, 
+        "fields": {
+            "sampling_content_type": [
+                "chickens", 
+                "farm"
+            ], 
+            "sampling_object_id": 191, 
+            "adm_content_type": [
+                "boundaries", 
+                "thirdadministrativelevel"
+            ],
+            "adm_object_id": 628
+        }
+    }, 
+    {
+        "model": "boundaries.administrativerouter", 
+        "pk": 205, 
+        "fields": {
+            "sampling_content_type": [
+                "chickens", 
+                "farm"
+            ], 
+            "sampling_object_id": 192, 
+            "adm_content_type": [
+                "boundaries", 
+                "thirdadministrativelevel"
+            ],
+            "adm_object_id": 628
+        }
+    }, 
+    {
+        "model": "boundaries.administrativerouter", 
+        "pk": 206, 
+        "fields": {
+            "sampling_content_type": [
+                "chickens", 
+                "farm"
+            ], 
+            "sampling_object_id": 193, 
+            "adm_content_type": [
+                "boundaries", 
+                "thirdadministrativelevel"
+            ],
+            "adm_object_id": 628
+        }
+    }, 
+    {
+        "model": "boundaries.administrativerouter", 
+        "pk": 207, 
+        "fields": {
+            "sampling_content_type": [
+                "chickens", 
+                "farm"
+            ], 
+            "sampling_object_id": 194, 
+            "adm_content_type": [
+                "boundaries", 
+                "thirdadministrativelevel"
+            ],
+            "adm_object_id": 628
+        }
+    }, 
+    {
+        "model": "boundaries.administrativerouter", 
+        "pk": 208, 
+        "fields": {
+            "sampling_content_type": [
+                "chickens", 
+                "farm"
+            ], 
+            "sampling_object_id": 195, 
+            "adm_content_type": [
+                "boundaries", 
+                "thirdadministrativelevel"
+            ],
+            "adm_object_id": 628
+        }
+    }, 
+    {
+        "model": "boundaries.administrativerouter", 
+        "pk": 209, 
+        "fields": {
+            "sampling_content_type": [
+                "chickens", 
+                "farm"
+            ], 
+            "sampling_object_id": 196, 
+            "adm_content_type": [
+                "boundaries", 
+                "thirdadministrativelevel"
+            ],
+            "adm_object_id": 628
+        }
+    }, 
+    {
+        "model": "boundaries.administrativerouter", 
+        "pk": 210, 
+        "fields": {
+            "sampling_content_type": [
+                "chickens", 
+                "farm"
+            ], 
+            "sampling_object_id": 197, 
+            "adm_content_type": [
+                "boundaries", 
+                "thirdadministrativelevel"
+            ],
+            "adm_object_id": 628
+        }
+    }, 
+    {
+        "model": "boundaries.administrativerouter", 
+        "pk": 211, 
+        "fields": {
+            "sampling_content_type": [
+                "chickens", 
+                "farm"
+            ], 
+            "sampling_object_id": 198, 
+            "adm_content_type": [
+                "boundaries", 
+                "thirdadministrativelevel"
+            ],
+            "adm_object_id": 628
+        }
+    }, 
+    {
+        "model": "boundaries.administrativerouter", 
+        "pk": 212, 
+        "fields": {
+            "sampling_content_type": [
+                "chickens", 
+                "farm"
+            ], 
+            "sampling_object_id": 199, 
+            "adm_content_type": [
+                "boundaries", 
+                "thirdadministrativelevel"
+            ],
+            "adm_object_id": 628
+        }
+    }, 
+    {
+        "model": "boundaries.administrativerouter", 
+        "pk": 213, 
+        "fields": {
+            "sampling_content_type": [
+                "chickens", 
+                "farm"
+            ], 
+            "sampling_object_id": 200, 
+            "adm_content_type": [
+                "boundaries", 
+                "thirdadministrativelevel"
+            ],
+            "adm_object_id": 628
+        }
+    }, 
+    {
+        "model": "boundaries.administrativerouter", 
+        "pk": 214, 
+        "fields": {
+            "sampling_content_type": [
+                "chickens", 
+                "farm"
+            ], 
+            "sampling_object_id": 201, 
+            "adm_content_type": [
+                "boundaries", 
+                "thirdadministrativelevel"
+            ],
+            "adm_object_id": 628
+        }
+    }, 
+    {
+        "model": "boundaries.administrativerouter", 
+        "pk": 215, 
+        "fields": {
+            "sampling_content_type": [
+                "chickens", 
+                "farm"
+            ], 
+            "sampling_object_id": 202, 
+            "adm_content_type": [
+                "boundaries", 
+                "thirdadministrativelevel"
+            ],
+            "adm_object_id": 628
+        }
+    }, 
+    {
+        "model": "boundaries.administrativerouter", 
+        "pk": 216, 
+        "fields": {
+            "sampling_content_type": [
+                "chickens", 
+                "farm"
+            ], 
+            "sampling_object_id": 203, 
+            "adm_content_type": [
+                "boundaries", 
+                "thirdadministrativelevel"
+            ],
+            "adm_object_id": 628
+        }
+    }, 
+    {
+        "model": "boundaries.administrativerouter", 
+        "pk": 217, 
+        "fields": {
+            "sampling_content_type": [
+                "chickens", 
+                "farm"
+            ], 
+            "sampling_object_id": 204, 
+            "adm_content_type": [
+                "boundaries", 
+                "thirdadministrativelevel"
+            ],
+            "adm_object_id": 628
+        }
+    }, 
+    {
+        "model": "boundaries.administrativerouter", 
+        "pk": 218, 
+        "fields": {
+            "sampling_content_type": [
+                "chickens", 
+                "farm"
+            ], 
+            "sampling_object_id": 205, 
+            "adm_content_type": [
+                "boundaries", 
+                "thirdadministrativelevel"
+            ],
+            "adm_object_id": 628
+        }
+    }, 
+    {
+        "model": "boundaries.administrativerouter", 
+        "pk": 219, 
+        "fields": {
+            "sampling_content_type": [
+                "chickens", 
+                "farm"
+            ], 
+            "sampling_object_id": 206, 
+            "adm_content_type": [
+                "boundaries", 
+                "thirdadministrativelevel"
+            ],
+            "adm_object_id": 628
+        }
+    }, 
+    {
+        "model": "boundaries.administrativerouter", 
+        "pk": 220, 
+        "fields": {
+            "sampling_content_type": [
+                "chickens", 
+                "farm"
+            ], 
+            "sampling_object_id": 207, 
+            "adm_content_type": [
+                "boundaries", 
+                "thirdadministrativelevel"
+            ],
+            "adm_object_id": 664
+        }
+    }, 
+    {
+        "model": "boundaries.administrativerouter", 
+        "pk": 221, 
+        "fields": {
+            "sampling_content_type": [
+                "chickens", 
+                "farm"
+            ], 
+            "sampling_object_id": 208, 
+            "adm_content_type": [
+                "boundaries", 
+                "thirdadministrativelevel"
+            ],
+            "adm_object_id": 664
+        }
+    }, 
+    {
+        "model": "boundaries.administrativerouter", 
+        "pk": 222, 
+        "fields": {
+            "sampling_content_type": [
+                "chickens", 
+                "farm"
+            ], 
+            "sampling_object_id": 209, 
+            "adm_content_type": [
+                "boundaries", 
+                "thirdadministrativelevel"
+            ],
+            "adm_object_id": 664
+        }
+    }, 
+    {
+        "model": "boundaries.administrativerouter", 
+        "pk": 223, 
+        "fields": {
+            "sampling_content_type": [
+                "chickens", 
+                "farm"
+            ], 
+            "sampling_object_id": 210, 
+            "adm_content_type": [
+                "boundaries", 
+                "thirdadministrativelevel"
+            ],
+            "adm_object_id": 664
+        }
+    }, 
+    {
+        "model": "boundaries.administrativerouter", 
+        "pk": 224, 
+        "fields": {
+            "sampling_content_type": [
+                "chickens", 
+                "farm"
+            ], 
+            "sampling_object_id": 211, 
+            "adm_content_type": [
+                "boundaries", 
+                "thirdadministrativelevel"
+            ],
+            "adm_object_id": 664
+        }
+    }, 
+    {
+        "model": "boundaries.administrativerouter", 
+        "pk": 225, 
+        "fields": {
+            "sampling_content_type": [
+                "chickens", 
+                "farm"
+            ], 
+            "sampling_object_id": 212, 
+            "adm_content_type": [
+                "boundaries", 
+                "thirdadministrativelevel"
+            ],
+            "adm_object_id": 664
+        }
+    }, 
+    {
+        "model": "boundaries.administrativerouter", 
+        "pk": 226, 
+        "fields": {
+            "sampling_content_type": [
+                "chickens", 
+                "farm"
+            ], 
+            "sampling_object_id": 213, 
+            "adm_content_type": [
+                "boundaries", 
+                "thirdadministrativelevel"
+            ],
+            "adm_object_id": 664
+        }
+    }, 
+    {
+        "model": "boundaries.administrativerouter", 
+        "pk": 227, 
+        "fields": {
+            "sampling_content_type": [
+                "chickens", 
+                "farm"
+            ], 
+            "sampling_object_id": 214, 
+            "adm_content_type": [
+                "boundaries", 
+                "thirdadministrativelevel"
+            ],
+            "adm_object_id": 664
+        }
+    }, 
+    {
+        "model": "boundaries.administrativerouter", 
+        "pk": 228, 
+        "fields": {
+            "sampling_content_type": [
+                "chickens", 
+                "farm"
+            ], 
+            "sampling_object_id": 215, 
+            "adm_content_type": [
+                "boundaries", 
+                "thirdadministrativelevel"
+            ],
+            "adm_object_id": 664
+        }
+    }, 
+    {
+        "model": "boundaries.administrativerouter", 
+        "pk": 229, 
+        "fields": {
+            "sampling_content_type": [
+                "chickens", 
+                "farm"
+            ], 
+            "sampling_object_id": 216, 
+            "adm_content_type": [
+                "boundaries", 
+                "thirdadministrativelevel"
+            ],
+            "adm_object_id": 664
+        }
+    }, 
+    {
+        "model": "boundaries.administrativerouter", 
+        "pk": 230, 
+        "fields": {
+            "sampling_content_type": [
+                "chickens", 
+                "farm"
+            ], 
+            "sampling_object_id": 217, 
+            "adm_content_type": [
+                "boundaries", 
+                "thirdadministrativelevel"
+            ],
+            "adm_object_id": 664
+        }
+    }, 
+    {
+        "model": "boundaries.administrativerouter", 
+        "pk": 231, 
+        "fields": {
+            "sampling_content_type": [
+                "chickens", 
+                "farm"
+            ], 
+            "sampling_object_id": 218, 
+            "adm_content_type": [
+                "boundaries", 
+                "thirdadministrativelevel"
+            ],
+            "adm_object_id": 664
+        }
+    }, 
+    {
+        "model": "boundaries.administrativerouter", 
+        "pk": 232, 
+        "fields": {
+            "sampling_content_type": [
+                "chickens", 
+                "farm"
+            ], 
+            "sampling_object_id": 219, 
+            "adm_content_type": [
+                "boundaries", 
+                "thirdadministrativelevel"
+            ],
+            "adm_object_id": 664
+        }
+    }, 
+    {
+        "model": "boundaries.administrativerouter", 
+        "pk": 233, 
+        "fields": {
+            "sampling_content_type": [
+                "chickens", 
+                "farm"
+            ], 
+            "sampling_object_id": 220, 
+            "adm_content_type": [
+                "boundaries", 
+                "thirdadministrativelevel"
+            ],
+            "adm_object_id": 664
+        }
+    }, 
+    {
+        "model": "boundaries.administrativerouter", 
+        "pk": 234, 
+        "fields": {
+            "sampling_content_type": [
+                "chickens", 
+                "farm"
+            ], 
+            "sampling_object_id": 221, 
+            "adm_content_type": [
+                "boundaries", 
+                "thirdadministrativelevel"
+            ],
+            "adm_object_id": 664
+        }
+    }, 
+    {
+        "model": "boundaries.administrativerouter", 
+        "pk": 235, 
+        "fields": {
+            "sampling_content_type": [
+                "chickens", 
+                "farm"
+            ], 
+            "sampling_object_id": 222, 
+            "adm_content_type": [
+                "boundaries", 
+                "thirdadministrativelevel"
+            ],
+            "adm_object_id": 664
+        }
+    }, 
+    {
+        "model": "boundaries.administrativerouter", 
+        "pk": 236, 
+        "fields": {
+            "sampling_content_type": [
+                "chickens", 
+                "farm"
+            ], 
+            "sampling_object_id": 223, 
+            "adm_content_type": [
+                "boundaries", 
+                "thirdadministrativelevel"
+            ],
+            "adm_object_id": 664
+        }
+    }, 
+    {
+        "model": "boundaries.administrativerouter", 
+        "pk": 237, 
+        "fields": {
+            "sampling_content_type": [
+                "chickens", 
+                "farm"
+            ], 
+            "sampling_object_id": 224, 
+            "adm_content_type": [
+                "boundaries", 
+                "thirdadministrativelevel"
+            ],
+            "adm_object_id": 664
+        }
+    }, 
+    {
+        "model": "boundaries.administrativerouter", 
+        "pk": 238, 
+        "fields": {
+            "sampling_content_type": [
+                "chickens", 
+                "farm"
+            ], 
+            "sampling_object_id": 225, 
+            "adm_content_type": [
+                "boundaries", 
+                "thirdadministrativelevel"
+            ],
+            "adm_object_id": 664
+        }
+    }, 
+    {
+        "model": "boundaries.administrativerouter", 
+        "pk": 239, 
+        "fields": {
+            "sampling_content_type": [
+                "chickens", 
+                "farm"
+            ], 
+            "sampling_object_id": 226, 
+            "adm_content_type": [
+                "boundaries", 
+                "thirdadministrativelevel"
+            ],
+            "adm_object_id": 664
+        }
+    }, 
+    {
+        "model": "boundaries.administrativerouter", 
+        "pk": 240, 
+        "fields": {
+            "sampling_content_type": [
+                "chickens", 
+                "farm"
+            ], 
+            "sampling_object_id": 227, 
+            "adm_content_type": [
+                "boundaries", 
+                "thirdadministrativelevel"
+            ],
+            "adm_object_id": 670
+        }
+    }, 
+    {
+        "model": "boundaries.administrativerouter", 
+        "pk": 241, 
+        "fields": {
+            "sampling_content_type": [
+                "chickens", 
+                "farm"
+            ], 
+            "sampling_object_id": 228, 
+            "adm_content_type": [
+                "boundaries", 
+                "thirdadministrativelevel"
+            ],
+            "adm_object_id": 670
+        }
+    }, 
+    {
+        "model": "boundaries.administrativerouter", 
+        "pk": 242, 
+        "fields": {
+            "sampling_content_type": [
+                "chickens", 
+                "farm"
+            ], 
+            "sampling_object_id": 229, 
+            "adm_content_type": [
+                "boundaries", 
+                "thirdadministrativelevel"
+            ],
+            "adm_object_id": 670
+        }
+    }, 
+    {
+        "model": "boundaries.administrativerouter", 
+        "pk": 243, 
+        "fields": {
+            "sampling_content_type": [
+                "chickens", 
+                "farm"
+            ], 
+            "sampling_object_id": 230, 
+            "adm_content_type": [
+                "boundaries", 
+                "thirdadministrativelevel"
+            ],
+            "adm_object_id": 670
+        }
+    }, 
+    {
+        "model": "boundaries.administrativerouter", 
+        "pk": 244, 
+        "fields": {
+            "sampling_content_type": [
+                "chickens", 
+                "farm"
+            ], 
+            "sampling_object_id": 231, 
+            "adm_content_type": [
+                "boundaries", 
+                "thirdadministrativelevel"
+            ],
+            "adm_object_id": 670
+        }
+    }, 
+    {
+        "model": "boundaries.administrativerouter", 
+        "pk": 245, 
+        "fields": {
+            "sampling_content_type": [
+                "chickens", 
+                "farm"
+            ], 
+            "sampling_object_id": 232, 
+            "adm_content_type": [
+                "boundaries", 
+                "thirdadministrativelevel"
+            ],
+            "adm_object_id": 670
+        }
+    }, 
+    {
+        "model": "boundaries.administrativerouter", 
+        "pk": 246, 
+        "fields": {
+            "sampling_content_type": [
+                "chickens", 
+                "farm"
+            ], 
+            "sampling_object_id": 233, 
+            "adm_content_type": [
+                "boundaries", 
+                "thirdadministrativelevel"
+            ],
+            "adm_object_id": 670
+        }
+    }, 
+    {
+        "model": "boundaries.administrativerouter", 
+        "pk": 247, 
+        "fields": {
+            "sampling_content_type": [
+                "chickens", 
+                "farm"
+            ], 
+            "sampling_object_id": 234, 
+            "adm_content_type": [
+                "boundaries", 
+                "thirdadministrativelevel"
+            ],
+            "adm_object_id": 670
+        }
+    }, 
+    {
+        "model": "boundaries.administrativerouter", 
+        "pk": 248, 
+        "fields": {
+            "sampling_content_type": [
+                "chickens", 
+                "farm"
+            ], 
+            "sampling_object_id": 235, 
+            "adm_content_type": [
+                "boundaries", 
+                "thirdadministrativelevel"
+            ],
+            "adm_object_id": 670
+        }
+    }, 
+    {
+        "model": "boundaries.administrativerouter", 
+        "pk": 249, 
+        "fields": {
+            "sampling_content_type": [
+                "chickens", 
+                "farm"
+            ], 
+            "sampling_object_id": 236, 
+            "adm_content_type": [
+                "boundaries", 
+                "thirdadministrativelevel"
+            ],
+            "adm_object_id": 670
+        }
+    }, 
+    {
+        "model": "boundaries.administrativerouter", 
+        "pk": 250, 
+        "fields": {
+            "sampling_content_type": [
+                "chickens", 
+                "farm"
+            ], 
+            "sampling_object_id": 237, 
+            "adm_content_type": [
+                "boundaries", 
+                "thirdadministrativelevel"
+            ],
+            "adm_object_id": 670
+        }
+    }, 
+    {
+        "model": "boundaries.administrativerouter", 
+        "pk": 251, 
+        "fields": {
+            "sampling_content_type": [
+                "chickens", 
+                "farm"
+            ], 
+            "sampling_object_id": 238, 
+            "adm_content_type": [
+                "boundaries", 
+                "thirdadministrativelevel"
+            ],
+            "adm_object_id": 670
+        }
+    }, 
+    {
+        "model": "boundaries.administrativerouter", 
+        "pk": 252, 
+        "fields": {
+            "sampling_content_type": [
+                "chickens", 
+                "farm"
+            ], 
+            "sampling_object_id": 239, 
+            "adm_content_type": [
+                "boundaries", 
+                "thirdadministrativelevel"
+            ],
+            "adm_object_id": 670
+        }
+    }, 
+    {
+        "model": "boundaries.administrativerouter", 
+        "pk": 253, 
+        "fields": {
+            "sampling_content_type": [
+                "chickens", 
+                "farm"
+            ], 
+            "sampling_object_id": 240, 
+            "adm_content_type": [
+                "boundaries", 
+                "thirdadministrativelevel"
+            ],
+            "adm_object_id": 670
+        }
+    }, 
+    {
+        "model": "boundaries.administrativerouter", 
+        "pk": 254, 
+        "fields": {
+            "sampling_content_type": [
+                "chickens", 
+                "farm"
+            ], 
+            "sampling_object_id": 241, 
+            "adm_content_type": [
+                "boundaries", 
+                "thirdadministrativelevel"
+            ],
+            "adm_object_id": 670
+        }
+    }, 
+    {
+        "model": "boundaries.administrativerouter", 
+        "pk": 255, 
+        "fields": {
+            "sampling_content_type": [
+                "chickens", 
+                "farm"
+            ], 
+            "sampling_object_id": 242, 
+            "adm_content_type": [
+                "boundaries", 
+                "thirdadministrativelevel"
+            ],
+            "adm_object_id": 670
+        }
+    }, 
+    {
+        "model": "boundaries.administrativerouter", 
+        "pk": 256, 
+        "fields": {
+            "sampling_content_type": [
+                "chickens", 
+                "farm"
+            ], 
+            "sampling_object_id": 243, 
+            "adm_content_type": [
+                "boundaries", 
+                "thirdadministrativelevel"
+            ],
+            "adm_object_id": 670
+        }
+    }, 
+    {
+        "model": "boundaries.administrativerouter", 
+        "pk": 257, 
+        "fields": {
+            "sampling_content_type": [
+                "chickens", 
+                "farm"
+            ], 
+            "sampling_object_id": 244, 
+            "adm_content_type": [
+                "boundaries", 
+                "thirdadministrativelevel"
+            ],
+            "adm_object_id": 670
+        }
+    }, 
+    {
+        "model": "boundaries.administrativerouter", 
+        "pk": 258, 
+        "fields": {
+            "sampling_content_type": [
+                "chickens", 
+                "farm"
+            ], 
+            "sampling_object_id": 245, 
+            "adm_content_type": [
+                "boundaries", 
+                "thirdadministrativelevel"
+            ],
+            "adm_object_id": 670
+        }
+    }, 
+    {
+        "model": "boundaries.administrativerouter", 
+        "pk": 259, 
+        "fields": {
+            "sampling_content_type": [
+                "chickens", 
+                "farm"
+            ], 
+            "sampling_object_id": 246, 
+            "adm_content_type": [
+                "boundaries", 
+                "thirdadministrativelevel"
+            ],
+            "adm_object_id": 670
+        }
+    }, 
+    {
+        "model": "boundaries.administrativerouter", 
+        "pk": 260, 
+        "fields": {
+            "sampling_content_type": [
+                "chickens", 
+                "farm"
+            ], 
+            "sampling_object_id": 247, 
+            "adm_content_type": [
+                "boundaries", 
+                "thirdadministrativelevel"
+            ],
+            "adm_object_id": 660
+        }
+    }, 
+    {
+        "model": "boundaries.administrativerouter", 
+        "pk": 261, 
+        "fields": {
+            "sampling_content_type": [
+                "chickens", 
+                "farm"
+            ], 
+            "sampling_object_id": 248, 
+            "adm_content_type": [
+                "boundaries", 
+                "thirdadministrativelevel"
+            ],
+            "adm_object_id": 660
+        }
+    }, 
+    {
+        "model": "boundaries.administrativerouter", 
+        "pk": 262, 
+        "fields": {
+            "sampling_content_type": [
+                "chickens", 
+                "farm"
+            ], 
+            "sampling_object_id": 249, 
+            "adm_content_type": [
+                "boundaries", 
+                "thirdadministrativelevel"
+            ],
+            "adm_object_id": 660
+        }
+    }, 
+    {
+        "model": "boundaries.administrativerouter", 
+        "pk": 263, 
+        "fields": {
+            "sampling_content_type": [
+                "chickens", 
+                "farm"
+            ], 
+            "sampling_object_id": 250, 
+            "adm_content_type": [
+                "boundaries", 
+                "thirdadministrativelevel"
+            ],
+            "adm_object_id": 660
+        }
+    }, 
+    {
+        "model": "boundaries.administrativerouter", 
+        "pk": 264, 
+        "fields": {
+            "sampling_content_type": [
+                "chickens", 
+                "farm"
+            ], 
+            "sampling_object_id": 251, 
+            "adm_content_type": [
+                "boundaries", 
+                "thirdadministrativelevel"
+            ],
+            "adm_object_id": 660
+        }
+    }, 
+    {
+        "model": "boundaries.administrativerouter", 
+        "pk": 265, 
+        "fields": {
+            "sampling_content_type": [
+                "chickens", 
+                "farm"
+            ], 
+            "sampling_object_id": 252, 
+            "adm_content_type": [
+                "boundaries", 
+                "thirdadministrativelevel"
+            ],
+            "adm_object_id": 660
+        }
+    }, 
+    {
+        "model": "boundaries.administrativerouter", 
+        "pk": 266, 
+        "fields": {
+            "sampling_content_type": [
+                "chickens", 
+                "farm"
+            ], 
+            "sampling_object_id": 253, 
+            "adm_content_type": [
+                "boundaries", 
+                "thirdadministrativelevel"
+            ],
+            "adm_object_id": 660
+        }
+    }, 
+    {
+        "model": "boundaries.administrativerouter", 
+        "pk": 267, 
+        "fields": {
+            "sampling_content_type": [
+                "chickens", 
+                "farm"
+            ], 
+            "sampling_object_id": 254, 
+            "adm_content_type": [
+                "boundaries", 
+                "thirdadministrativelevel"
+            ],
+            "adm_object_id": 660
+        }
+    }, 
+    {
+        "model": "boundaries.administrativerouter", 
+        "pk": 268, 
+        "fields": {
+            "sampling_content_type": [
+                "chickens", 
+                "farm"
+            ], 
+            "sampling_object_id": 255, 
+            "adm_content_type": [
+                "boundaries", 
+                "thirdadministrativelevel"
+            ],
+            "adm_object_id": 660
+        }
+    }, 
+    {
+        "model": "boundaries.administrativerouter", 
+        "pk": 269, 
+        "fields": {
+            "sampling_content_type": [
+                "chickens", 
+                "farm"
+            ], 
+            "sampling_object_id": 256, 
+            "adm_content_type": [
+                "boundaries", 
+                "thirdadministrativelevel"
+            ],
+            "adm_object_id": 660
+        }
+    }, 
+    {
+        "model": "boundaries.administrativerouter", 
+        "pk": 270, 
+        "fields": {
+            "sampling_content_type": [
+                "chickens", 
+                "farm"
+            ], 
+            "sampling_object_id": 257, 
+            "adm_content_type": [
+                "boundaries", 
+                "thirdadministrativelevel"
+            ],
+            "adm_object_id": 660
+        }
+    }, 
+    {
+        "model": "boundaries.administrativerouter", 
+        "pk": 271, 
+        "fields": {
+            "sampling_content_type": [
+                "chickens", 
+                "farm"
+            ], 
+            "sampling_object_id": 258, 
+            "adm_content_type": [
+                "boundaries", 
+                "thirdadministrativelevel"
+            ],
+            "adm_object_id": 660
+        }
+    }, 
+    {
+        "model": "boundaries.administrativerouter", 
+        "pk": 272, 
+        "fields": {
+            "sampling_content_type": [
+                "chickens", 
+                "farm"
+            ], 
+            "sampling_object_id": 259, 
+            "adm_content_type": [
+                "boundaries", 
+                "thirdadministrativelevel"
+            ],
+            "adm_object_id": 660
+        }
+    }, 
+    {
+        "model": "boundaries.administrativerouter", 
+        "pk": 273, 
+        "fields": {
+            "sampling_content_type": [
+                "chickens", 
+                "farm"
+            ], 
+            "sampling_object_id": 260, 
+            "adm_content_type": [
+                "boundaries", 
+                "thirdadministrativelevel"
+            ],
+            "adm_object_id": 660
+        }
+    }, 
+    {
+        "model": "boundaries.administrativerouter", 
+        "pk": 274, 
+        "fields": {
+            "sampling_content_type": [
+                "chickens", 
+                "farm"
+            ], 
+            "sampling_object_id": 261, 
+            "adm_content_type": [
+                "boundaries", 
+                "thirdadministrativelevel"
+            ],
+            "adm_object_id": 660
+        }
+    }, 
+    {
+        "model": "boundaries.administrativerouter", 
+        "pk": 275, 
+        "fields": {
+            "sampling_content_type": [
+                "chickens", 
+                "farm"
+            ], 
+            "sampling_object_id": 262, 
+            "adm_content_type": [
+                "boundaries", 
+                "thirdadministrativelevel"
+            ],
+            "adm_object_id": 660
+        }
+    }, 
+    {
+        "model": "boundaries.administrativerouter", 
+        "pk": 276, 
+        "fields": {
+            "sampling_content_type": [
+                "chickens", 
+                "farm"
+            ], 
+            "sampling_object_id": 263, 
+            "adm_content_type": [
+                "boundaries", 
+                "thirdadministrativelevel"
+            ],
+            "adm_object_id": 660
+        }
+    }, 
+    {
+        "model": "boundaries.administrativerouter", 
+        "pk": 277, 
+        "fields": {
+            "sampling_content_type": [
+                "chickens", 
+                "farm"
+            ], 
+            "sampling_object_id": 264, 
+            "adm_content_type": [
+                "boundaries", 
+                "thirdadministrativelevel"
+            ],
+            "adm_object_id": 660
+        }
+    }, 
+    {
+        "model": "boundaries.administrativerouter", 
+        "pk": 278, 
+        "fields": {
+            "sampling_content_type": [
+                "chickens", 
+                "farm"
+            ], 
+            "sampling_object_id": 265, 
+            "adm_content_type": [
+                "boundaries", 
+                "thirdadministrativelevel"
+            ],
+            "adm_object_id": 660
+        }
+    }, 
+    {
+        "model": "boundaries.administrativerouter", 
+        "pk": 279, 
+        "fields": {
+            "sampling_content_type": [
+                "chickens", 
+                "farm"
+            ], 
+            "sampling_object_id": 266, 
+            "adm_content_type": [
+                "boundaries", 
+                "thirdadministrativelevel"
+            ],
+            "adm_object_id": 660
+        }
+    }, 
+    {
+        "model": "boundaries.administrativerouter", 
+        "pk": 280, 
+        "fields": {
+            "sampling_content_type": [
+                "chickens", 
+                "farm"
+            ], 
+            "sampling_object_id": 267, 
+            "adm_content_type": [
+                "boundaries", 
+                "thirdadministrativelevel"
+            ],
+            "adm_object_id": 660
+        }
+    }, 
+    {
+        "model": "boundaries.administrativerouter", 
+        "pk": 281, 
+        "fields": {
+            "sampling_content_type": [
+                "chickens", 
+                "farm"
+            ], 
+            "sampling_object_id": 268, 
+            "adm_content_type": [
+                "boundaries", 
+                "thirdadministrativelevel"
+            ],
+            "adm_object_id": 660
+        }
+    }, 
+    {
+        "model": "boundaries.administrativerouter", 
+        "pk": 282, 
+        "fields": {
+            "sampling_content_type": [
+                "chickens", 
+                "farm"
+            ], 
+            "sampling_object_id": 269, 
+            "adm_content_type": [
+                "boundaries", 
+                "thirdadministrativelevel"
+            ],
+            "adm_object_id": 660
+        }
+    }, 
+    {
+        "model": "boundaries.administrativerouter", 
+        "pk": 283, 
+        "fields": {
+            "sampling_content_type": [
+                "chickens", 
+                "farm"
+            ], 
+            "sampling_object_id": 270, 
+            "adm_content_type": [
+                "boundaries", 
+                "thirdadministrativelevel"
+            ],
+            "adm_object_id": 660
+        }
+    }, 
+    {
+        "model": "boundaries.administrativerouter", 
+        "pk": 284, 
+        "fields": {
+            "sampling_content_type": [
+                "chickens", 
+                "farm"
+            ], 
+            "sampling_object_id": 271, 
+            "adm_content_type": [
+                "boundaries", 
+                "thirdadministrativelevel"
+            ],
+            "adm_object_id": 660
         }
     }
 ]

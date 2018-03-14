@@ -226,5 +226,3029 @@
             "village": "Dakan-Karu", 
             "latitude": 9.72861
         }
+    },
+    {
+        "pk": 20, 
+        "model": "chickens.farm", 
+        "fields": {
+            "geolocation": "POINT(39.95167 9.53889)", 
+            "agroecology": "Hot to warm moist lowlands", 
+            "altitude": 1061, 
+            "longitude": 39.95167, 
+            "village": "Kefis", 
+            "latitude": 9.53889
+        }
+    }, 
+    {
+        "pk": 21, 
+        "model": "chickens.farm", 
+        "fields": {
+            "geolocation": "POINT(39.94556 9.54306)", 
+            "agroecology": "Hot to warm moist lowlands", 
+            "altitude": 1078, 
+            "longitude": 39.94556, 
+            "village": "Kefis", 
+            "latitude": 9.54306
+        }
+    }, 
+    {
+        "pk": 22, 
+        "model": "chickens.farm", 
+        "fields": {
+            "geolocation": "POINT(39.96083 9.54556)", 
+            "agroecology": "Hot to warm moist lowlands", 
+            "altitude": 1022, 
+            "longitude": 39.96083, 
+            "village": "Kefis", 
+            "latitude": 9.54556
+        }
+    }, 
+    {
+        "pk": 23, 
+        "model": "chickens.farm", 
+        "fields": {
+            "geolocation": "POINT(40.0875 9.44667)", 
+            "agroecology": "Hot to warm moist lowlands", 
+            "altitude": 751, 
+            "longitude": 40.0875, 
+            "village": "Kefis", 
+            "latitude": 9.44667
+        }
+    }, 
+    {
+        "pk": 24, 
+        "model": "chickens.farm", 
+        "fields": {
+            "geolocation": null, 
+            "agroecology": "Hot to warm moist lowlands", 
+            "altitude": null, 
+            "longitude": null, 
+            "village": "Kefis", 
+            "latitude": null
+        }
+    }, 
+    {
+        "pk": 25, 
+        "model": "chickens.farm", 
+        "fields": {
+            "geolocation": "POINT(39.95861 9.53917)", 
+            "agroecology": "Hot to warm moist lowlands", 
+            "altitude": 1033, 
+            "longitude": 39.95861, 
+            "village": "Kefis", 
+            "latitude": 9.53917
+        }
+    }, 
+    {
+        "pk": 26, 
+        "model": "chickens.farm", 
+        "fields": {
+            "geolocation": null, 
+            "agroecology": "Hot to warm moist lowlands", 
+            "altitude": null, 
+            "longitude": null, 
+            "village": "Kefis", 
+            "latitude": null
+        }
+    }, 
+    {
+        "pk": 27, 
+        "model": "chickens.farm", 
+        "fields": {
+            "geolocation": "POINT(40.02111 9.51222)", 
+            "agroecology": "Hot to warm moist lowlands", 
+            "altitude": 900, 
+            "longitude": 40.02111, 
+            "village": "Kefis", 
+            "latitude": 9.51222
+        }
+    }, 
+    {
+        "pk": 28, 
+        "model": "chickens.farm", 
+        "fields": {
+            "geolocation": null, 
+            "agroecology": "Hot to warm moist lowlands", 
+            "altitude": null, 
+            "longitude": null, 
+            "village": "Kefis", 
+            "latitude": null
+        }
+    }, 
+    {
+        "pk": 29, 
+        "model": "chickens.farm", 
+        "fields": {
+            "geolocation": null, 
+            "agroecology": "Hot to warm moist lowlands", 
+            "altitude": null, 
+            "longitude": null, 
+            "village": "Kefis", 
+            "latitude": null
+        }
+    }, 
+    {
+        "pk": 30, 
+        "model": "chickens.farm", 
+        "fields": {
+            "geolocation": "POINT(40.09472 9.40306)", 
+            "agroecology": "Hot to warm arid lowland plains", 
+            "altitude": 737, 
+            "longitude": 40.09472, 
+            "village": "Hugub", 
+            "latitude": 9.40306
+        }
+    }, 
+    {
+        "pk": 31, 
+        "model": "chickens.farm", 
+        "fields": {
+            "geolocation": null, 
+            "agroecology": "Hot to warm arid lowland plains", 
+            "altitude": null, 
+            "longitude": null, 
+            "village": "Hugub", 
+            "latitude": null
+        }
+    }, 
+    {
+        "pk": 32, 
+        "model": "chickens.farm", 
+        "fields": {
+            "geolocation": null, 
+            "agroecology": "Hot to warm arid lowland plains", 
+            "altitude": null, 
+            "longitude": null, 
+            "village": "Hugub", 
+            "latitude": null
+        }
+    }, 
+    {
+        "pk": 33, 
+        "model": "chickens.farm", 
+        "fields": {
+            "geolocation": null, 
+            "agroecology": "Hot to warm arid lowland plains", 
+            "altitude": null, 
+            "longitude": null, 
+            "village": "Hugub", 
+            "latitude": null
+        }
+    }, 
+    {
+        "pk": 34, 
+        "model": "chickens.farm", 
+        "fields": {
+            "geolocation": "POINT(40.05889 9.27917)", 
+            "agroecology": "Hot to warm arid lowland plains", 
+            "altitude": 740, 
+            "longitude": 40.05889, 
+            "village": "Hugub", 
+            "latitude": 9.27917
+        }
+    }, 
+    {
+        "pk": 35, 
+        "model": "chickens.farm", 
+        "fields": {
+            "geolocation": "POINT(40.09472 9.40306)", 
+            "agroecology": "Hot to warm arid lowland plains", 
+            "altitude": 737, 
+            "longitude": 40.09472, 
+            "village": "Hugub", 
+            "latitude": 9.40306
+        }
+    }, 
+    {
+        "pk": 36, 
+        "model": "chickens.farm", 
+        "fields": {
+            "geolocation": "POINT(40.09444 9.43139)", 
+            "agroecology": "Hot to warm arid lowland plains", 
+            "altitude": 729, 
+            "longitude": 40.09444, 
+            "village": "Hugub", 
+            "latitude": 9.43139
+        }
+    }, 
+    {
+        "pk": 37, 
+        "model": "chickens.farm", 
+        "fields": {
+            "geolocation": null, 
+            "agroecology": "Hot to warm arid lowland plains", 
+            "altitude": null, 
+            "longitude": null, 
+            "village": "Hugub", 
+            "latitude": null
+        }
+    }, 
+    {
+        "pk": 38, 
+        "model": "chickens.farm", 
+        "fields": {
+            "geolocation": null, 
+            "agroecology": "Hot to warm arid lowland plains", 
+            "altitude": null, 
+            "longitude": null, 
+            "village": "Hugub", 
+            "latitude": null
+        }
+    }, 
+    {
+        "pk": 39, 
+        "model": "chickens.farm", 
+        "fields": {
+            "geolocation": null, 
+            "agroecology": "Hot to warm arid lowland plains", 
+            "altitude": null, 
+            "longitude": null, 
+            "village": "Hugub", 
+            "latitude": null
+        }
+    }, 
+    {
+        "pk": 40, 
+        "model": "chickens.farm", 
+        "fields": {
+            "geolocation": "POINT(36.73917 11.09444)", 
+            "agroecology": "Tepid to cool moist mid highlands", 
+            "altitude": 2515, 
+            "longitude": 36.73917, 
+            "village": "Gafera", 
+            "latitude": 11.09444
+        }
+    }, 
+    {
+        "pk": 41, 
+        "model": "chickens.farm", 
+        "fields": {
+            "geolocation": null, 
+            "agroecology": "Tepid to cool moist mid highlands", 
+            "altitude": null, 
+            "longitude": null, 
+            "village": "Gafera", 
+            "latitude": null
+        }
+    }, 
+    {
+        "pk": 42, 
+        "model": "chickens.farm", 
+        "fields": {
+            "geolocation": null, 
+            "agroecology": "Tepid to cool moist mid highlands", 
+            "altitude": null, 
+            "longitude": null, 
+            "village": "Gafera", 
+            "latitude": null
+        }
+    }, 
+    {
+        "pk": 43, 
+        "model": "chickens.farm", 
+        "fields": {
+            "geolocation": null, 
+            "agroecology": "Tepid to cool moist mid highlands", 
+            "altitude": null, 
+            "longitude": null, 
+            "village": "Gafera", 
+            "latitude": null
+        }
+    }, 
+    {
+        "pk": 44, 
+        "model": "chickens.farm", 
+        "fields": {
+            "geolocation": null, 
+            "agroecology": "Tepid to cool moist mid highlands", 
+            "altitude": null, 
+            "longitude": null, 
+            "village": "Gafera", 
+            "latitude": null
+        }
+    }, 
+    {
+        "pk": 45, 
+        "model": "chickens.farm", 
+        "fields": {
+            "geolocation": null, 
+            "agroecology": "Tepid to cool moist mid highlands", 
+            "altitude": null, 
+            "longitude": null, 
+            "village": "Gafera", 
+            "latitude": null
+        }
+    }, 
+    {
+        "pk": 46, 
+        "model": "chickens.farm", 
+        "fields": {
+            "geolocation": "POINT(36.90583 11.06111)", 
+            "agroecology": "Tepid to cool moist mid highlands", 
+            "altitude": 2516, 
+            "longitude": 36.90583, 
+            "village": "Gafera", 
+            "latitude": 11.06111
+        }
+    }, 
+    {
+        "pk": 47, 
+        "model": "chickens.farm", 
+        "fields": {
+            "geolocation": null, 
+            "agroecology": "Tepid to cool moist mid highlands", 
+            "altitude": null, 
+            "longitude": null, 
+            "village": "Gafera", 
+            "latitude": null
+        }
+    }, 
+    {
+        "pk": 48, 
+        "model": "chickens.farm", 
+        "fields": {
+            "geolocation": null, 
+            "agroecology": "Tepid to cool moist mid highlands", 
+            "altitude": null, 
+            "longitude": null, 
+            "village": "Gafera", 
+            "latitude": null
+        }
+    }, 
+    {
+        "pk": 49, 
+        "model": "chickens.farm", 
+        "fields": {
+            "geolocation": null, 
+            "agroecology": "Tepid to cool moist mid highlands", 
+            "altitude": null, 
+            "longitude": null, 
+            "village": "Gafera", 
+            "latitude": null
+        }
+    }, 
+    {
+        "pk": 50, 
+        "model": "chickens.farm", 
+        "fields": {
+            "geolocation": "POINT(37.50056 11.56083)", 
+            "agroecology": "Tepid to cool moist mid highlands", 
+            "altitude": 2511, 
+            "longitude": 37.50056, 
+            "village": "Batambie", 
+            "latitude": 11.56083
+        }
+    }, 
+    {
+        "pk": 51, 
+        "model": "chickens.farm", 
+        "fields": {
+            "geolocation": null, 
+            "agroecology": "Tepid to cool moist mid highlands", 
+            "altitude": null, 
+            "longitude": null, 
+            "village": "Batambie", 
+            "latitude": null
+        }
+    }, 
+    {
+        "pk": 52, 
+        "model": "chickens.farm", 
+        "fields": {
+            "geolocation": null, 
+            "agroecology": "Tepid to cool moist mid highlands", 
+            "altitude": null, 
+            "longitude": null, 
+            "village": "Batambie", 
+            "latitude": null
+        }
+    }, 
+    {
+        "pk": 53, 
+        "model": "chickens.farm", 
+        "fields": {
+            "geolocation": null, 
+            "agroecology": "Tepid to cool moist mid highlands", 
+            "altitude": null, 
+            "longitude": null, 
+            "village": "Batambie", 
+            "latitude": null
+        }
+    }, 
+    {
+        "pk": 54, 
+        "model": "chickens.farm", 
+        "fields": {
+            "geolocation": null, 
+            "agroecology": "Tepid to cool moist mid highlands", 
+            "altitude": null, 
+            "longitude": null, 
+            "village": "Batambie", 
+            "latitude": null
+        }
+    }, 
+    {
+        "pk": 55, 
+        "model": "chickens.farm", 
+        "fields": {
+            "geolocation": null, 
+            "agroecology": "Tepid to cool moist mid highlands", 
+            "altitude": null, 
+            "longitude": null, 
+            "village": "Batambie", 
+            "latitude": null
+        }
+    }, 
+    {
+        "pk": 56, 
+        "model": "chickens.farm", 
+        "fields": {
+            "geolocation": null, 
+            "agroecology": "Tepid to cool moist mid highlands", 
+            "altitude": null, 
+            "longitude": null, 
+            "village": "Batambie", 
+            "latitude": null
+        }
+    }, 
+    {
+        "pk": 57, 
+        "model": "chickens.farm", 
+        "fields": {
+            "geolocation": null, 
+            "agroecology": "Tepid to cool moist mid highlands", 
+            "altitude": null, 
+            "longitude": null, 
+            "village": "Batambie", 
+            "latitude": null
+        }
+    }, 
+    {
+        "pk": 58, 
+        "model": "chickens.farm", 
+        "fields": {
+            "geolocation": null, 
+            "agroecology": "Tepid to cool moist mid highlands", 
+            "altitude": null, 
+            "longitude": null, 
+            "village": "Surta", 
+            "latitude": null
+        }
+    }, 
+    {
+        "pk": 59, 
+        "model": "chickens.farm", 
+        "fields": {
+            "geolocation": null, 
+            "agroecology": "Tepid to cool moist mid highlands", 
+            "altitude": null, 
+            "longitude": null, 
+            "village": "Surta", 
+            "latitude": null
+        }
+    }, 
+    {
+        "pk": 60, 
+        "model": "chickens.farm", 
+        "fields": {
+            "geolocation": null, 
+            "agroecology": "Tepid to cool moist mid highlands", 
+            "altitude": null, 
+            "longitude": null, 
+            "village": "Surta", 
+            "latitude": null
+        }
+    }, 
+    {
+        "pk": 61, 
+        "model": "chickens.farm", 
+        "fields": {
+            "geolocation": "POINT(37.08306 10.98528)", 
+            "agroecology": "Tepid to cool moist mid highlands", 
+            "altitude": 2528, 
+            "longitude": 37.08306, 
+            "village": "Surta", 
+            "latitude": 10.98528
+        }
+    }, 
+    {
+        "pk": 62, 
+        "model": "chickens.farm", 
+        "fields": {
+            "geolocation": "POINT(37.08333 10.98556)", 
+            "agroecology": "Tepid to cool moist mid highlands", 
+            "altitude": 2529, 
+            "longitude": 37.08333, 
+            "village": "Surta", 
+            "latitude": 10.98556
+        }
+    }, 
+    {
+        "pk": 63, 
+        "model": "chickens.farm", 
+        "fields": {
+            "geolocation": null, 
+            "agroecology": "Tepid to cool moist mid highlands", 
+            "altitude": 2541, 
+            "longitude": null, 
+            "village": "Surta", 
+            "latitude": null
+        }
+    }, 
+    {
+        "pk": 64, 
+        "model": "chickens.farm", 
+        "fields": {
+            "geolocation": null, 
+            "agroecology": "Tepid to cool moist mid highlands", 
+            "altitude": null, 
+            "longitude": null, 
+            "village": "Surta", 
+            "latitude": null
+        }
+    }, 
+    {
+        "pk": 65, 
+        "model": "chickens.farm", 
+        "fields": {
+            "geolocation": null, 
+            "agroecology": "Tepid to cool moist mid highlands", 
+            "altitude": null, 
+            "longitude": null, 
+            "village": "Surta", 
+            "latitude": null
+        }
+    }, 
+    {
+        "pk": 66, 
+        "model": "chickens.farm", 
+        "fields": {
+            "geolocation": "POINT(37.07889 10.98972)", 
+            "agroecology": "Tepid to cool moist mid highlands", 
+            "altitude": 2529, 
+            "longitude": 37.07889, 
+            "village": "Surta", 
+            "latitude": 10.98972
+        }
+    }, 
+    {
+        "pk": 67, 
+        "model": "chickens.farm", 
+        "fields": {
+            "geolocation": null, 
+            "agroecology": "Tepid to cool moist mid highlands", 
+            "altitude": null, 
+            "longitude": null, 
+            "village": "Amesha Shinkuri", 
+            "latitude": null
+        }
+    }, 
+    {
+        "pk": 68, 
+        "model": "chickens.farm", 
+        "fields": {
+            "geolocation": "POINT(36.87 11.07194)", 
+            "agroecology": "Tepid to cool moist mid highlands", 
+            "altitude": 2454, 
+            "longitude": 36.87, 
+            "village": "Amesha Shinkuri", 
+            "latitude": 11.07194
+        }
+    }, 
+    {
+        "pk": 69, 
+        "model": "chickens.farm", 
+        "fields": {
+            "geolocation": null, 
+            "agroecology": "Tepid to cool moist mid highlands", 
+            "altitude": null, 
+            "longitude": null, 
+            "village": "Amesha Shinkuri", 
+            "latitude": null
+        }
+    }, 
+    {
+        "pk": 70, 
+        "model": "chickens.farm", 
+        "fields": {
+            "geolocation": "POINT(36.87 11.07333)", 
+            "agroecology": "Tepid to cool moist mid highlands", 
+            "altitude": 2455, 
+            "longitude": 36.87, 
+            "village": "Amesha Shinkuri", 
+            "latitude": 11.07333
+        }
+    }, 
+    {
+        "pk": 71, 
+        "model": "chickens.farm", 
+        "fields": {
+            "geolocation": "POINT(36.87 11.07194)", 
+            "agroecology": "Tepid to cool moist mid highlands", 
+            "altitude": 2454, 
+            "longitude": 36.87, 
+            "village": "Amesha Shinkuri", 
+            "latitude": 11.07194
+        }
+    }, 
+    {
+        "pk": 72, 
+        "model": "chickens.farm", 
+        "fields": {
+            "geolocation": "POINT(36.875 11.07306)", 
+            "agroecology": "Tepid to cool moist mid highlands", 
+            "altitude": 2477, 
+            "longitude": 36.875, 
+            "village": "Amesha Shinkuri", 
+            "latitude": 11.07306
+        }
+    }, 
+    {
+        "pk": 73, 
+        "model": "chickens.farm", 
+        "fields": {
+            "geolocation": "POINT(36.87111 11.07111)", 
+            "agroecology": "Tepid to cool moist mid highlands", 
+            "altitude": 2458, 
+            "longitude": 36.87111, 
+            "village": "Amesha Shinkuri", 
+            "latitude": 11.07111
+        }
+    }, 
+    {
+        "pk": 74, 
+        "model": "chickens.farm", 
+        "fields": {
+            "geolocation": "POINT(36.87361 10.07639)", 
+            "agroecology": "Tepid to cool moist mid highlands", 
+            "altitude": 2464, 
+            "longitude": 36.87361, 
+            "village": "Amesha Shinkuri", 
+            "latitude": 10.07639
+        }
+    }, 
+    {
+        "pk": 75, 
+        "model": "chickens.farm", 
+        "fields": {
+            "geolocation": null, 
+            "agroecology": "Tepid to cool moist mid highlands", 
+            "altitude": null, 
+            "longitude": null, 
+            "village": "Amesha Shinkuri", 
+            "latitude": null
+        }
+    }, 
+    {
+        "pk": 76, 
+        "model": "chickens.farm", 
+        "fields": {
+            "geolocation": null, 
+            "agroecology": "Tepid to cool moist mid highlands", 
+            "altitude": null, 
+            "longitude": null, 
+            "village": "Amesha Shinkuri", 
+            "latitude": null
+        }
+    }, 
+    {
+        "pk": 77, 
+        "model": "chickens.farm", 
+        "fields": {
+            "geolocation": "POINT(36.89222 11.48861)", 
+            "agroecology": "Tepid to cool sub-humid mid highlands", 
+            "altitude": 2035, 
+            "longitude": 36.89222, 
+            "village": "Ashuda", 
+            "latitude": 11.48861
+        }
+    }, 
+    {
+        "pk": 78, 
+        "model": "chickens.farm", 
+        "fields": {
+            "geolocation": null, 
+            "agroecology": "Tepid to cool sub-humid mid highlands", 
+            "altitude": null, 
+            "longitude": null, 
+            "village": "Ashuda", 
+            "latitude": null
+        }
+    }, 
+    {
+        "pk": 79, 
+        "model": "chickens.farm", 
+        "fields": {
+            "geolocation": "POINT(36.89083 11.49)", 
+            "agroecology": "Tepid to cool sub-humid mid highlands", 
+            "altitude": 2028, 
+            "longitude": 36.89083, 
+            "village": "Ashuda", 
+            "latitude": 11.49
+        }
+    }, 
+    {
+        "pk": 80, 
+        "model": "chickens.farm", 
+        "fields": {
+            "geolocation": null, 
+            "agroecology": "Tepid to cool sub-humid mid highlands", 
+            "altitude": null, 
+            "longitude": null, 
+            "village": "Ashuda", 
+            "latitude": null
+        }
+    }, 
+    {
+        "pk": 81, 
+        "model": "chickens.farm", 
+        "fields": {
+            "geolocation": null, 
+            "agroecology": "Tepid to cool sub-humid mid highlands", 
+            "altitude": null, 
+            "longitude": null, 
+            "village": "Ashuda", 
+            "latitude": null
+        }
+    }, 
+    {
+        "pk": 82, 
+        "model": "chickens.farm", 
+        "fields": {
+            "geolocation": null, 
+            "agroecology": "Tepid to cool sub-humid mid highlands", 
+            "altitude": null, 
+            "longitude": null, 
+            "village": "Ashuda", 
+            "latitude": null
+        }
+    }, 
+    {
+        "pk": 83, 
+        "model": "chickens.farm", 
+        "fields": {
+            "geolocation": null, 
+            "agroecology": "Tepid to cool sub-humid mid highlands", 
+            "altitude": null, 
+            "longitude": null, 
+            "village": "Ashuda", 
+            "latitude": null
+        }
+    }, 
+    {
+        "pk": 84, 
+        "model": "chickens.farm", 
+        "fields": {
+            "geolocation": "POINT(36.88944 11.48694)", 
+            "agroecology": "Tepid to cool sub-humid mid highlands", 
+            "altitude": null, 
+            "longitude": 36.88944, 
+            "village": "Ashuda", 
+            "latitude": 11.48694
+        }
+    }, 
+    {
+        "pk": 85, 
+        "model": "chickens.farm", 
+        "fields": {
+            "geolocation": "POINT(36.84694 11.47639)", 
+            "agroecology": "Tepid to cool sub-humid mid highlands", 
+            "altitude": null, 
+            "longitude": 36.84694, 
+            "village": "Ashuda", 
+            "latitude": 11.47639
+        }
+    }, 
+    {
+        "pk": 86, 
+        "model": "chickens.farm", 
+        "fields": {
+            "geolocation": null, 
+            "agroecology": "Tepid to cool sub-humid mid highlands", 
+            "altitude": null, 
+            "longitude": null, 
+            "village": "Ashuda", 
+            "latitude": null
+        }
+    }, 
+    {
+        "pk": 87, 
+        "model": "chickens.farm", 
+        "fields": {
+            "geolocation": "POINT(36.84917 11.38667)", 
+            "agroecology": "Tepid to cool sub-humid mid highlands", 
+            "altitude": null, 
+            "longitude": 36.84917, 
+            "village": "Dikuli", 
+            "latitude": 11.38667
+        }
+    }, 
+    {
+        "pk": 88, 
+        "model": "chickens.farm", 
+        "fields": {
+            "geolocation": null, 
+            "agroecology": "Tepid to cool sub-humid mid highlands", 
+            "altitude": null, 
+            "longitude": null, 
+            "village": "Dikuli", 
+            "latitude": null
+        }
+    }, 
+    {
+        "pk": 89, 
+        "model": "chickens.farm", 
+        "fields": {
+            "geolocation": "POINT(36.84833 11.38667)", 
+            "agroecology": "Tepid to cool sub-humid mid highlands", 
+            "altitude": null, 
+            "longitude": 36.84833, 
+            "village": "Dikuli", 
+            "latitude": 11.38667
+        }
+    }, 
+    {
+        "pk": 90, 
+        "model": "chickens.farm", 
+        "fields": {
+            "geolocation": "POINT(36.86556 11.38639)", 
+            "agroecology": "Tepid to cool sub-humid mid highlands", 
+            "altitude": 2093, 
+            "longitude": 36.86556, 
+            "village": "Dikuli", 
+            "latitude": 11.38639
+        }
+    }, 
+    {
+        "pk": 91, 
+        "model": "chickens.farm", 
+        "fields": {
+            "geolocation": null, 
+            "agroecology": "Tepid to cool sub-humid mid highlands", 
+            "altitude": null, 
+            "longitude": null, 
+            "village": "Dikuli", 
+            "latitude": null
+        }
+    }, 
+    {
+        "pk": 92, 
+        "model": "chickens.farm", 
+        "fields": {
+            "geolocation": "POINT(36.84861 11.38667)", 
+            "agroecology": "Tepid to cool sub-humid mid highlands", 
+            "altitude": 2098, 
+            "longitude": 36.84861, 
+            "village": "Dikuli", 
+            "latitude": 11.38667
+        }
+    }, 
+    {
+        "pk": 93, 
+        "model": "chickens.farm", 
+        "fields": {
+            "geolocation": "POINT(36.84889 11.38667)", 
+            "agroecology": "Tepid to cool sub-humid mid highlands", 
+            "altitude": 2113, 
+            "longitude": 36.84889, 
+            "village": "Dikuli", 
+            "latitude": 11.38667
+        }
+    }, 
+    {
+        "pk": 94, 
+        "model": "chickens.farm", 
+        "fields": {
+            "geolocation": null, 
+            "agroecology": "Tepid to cool sub-humid mid highlands", 
+            "altitude": null, 
+            "longitude": null, 
+            "village": "Dikuli", 
+            "latitude": null
+        }
+    }, 
+    {
+        "pk": 95, 
+        "model": "chickens.farm", 
+        "fields": {
+            "geolocation": "POINT(36.84889 11.38667)", 
+            "agroecology": "Tepid to cool sub-humid mid highlands", 
+            "altitude": 2113, 
+            "longitude": 36.84889, 
+            "village": "Dikuli", 
+            "latitude": 11.38667
+        }
+    }, 
+    {
+        "pk": 96, 
+        "model": "chickens.farm", 
+        "fields": {
+            "geolocation": null, 
+            "agroecology": "Tepid to cool sub-humid mid highlands", 
+            "altitude": null, 
+            "longitude": null, 
+            "village": "Dikuli", 
+            "latitude": null
+        }
+    }, 
+    {
+        "pk": 97, 
+        "model": "chickens.farm", 
+        "fields": {
+            "geolocation": null, 
+            "agroecology": "Tepid to cool sub-humid mid highlands", 
+            "altitude": null, 
+            "longitude": null, 
+            "village": "Tsion Teguaz", 
+            "latitude": null
+        }
+    }, 
+    {
+        "pk": 98, 
+        "model": "chickens.farm", 
+        "fields": {
+            "geolocation": null, 
+            "agroecology": "Tepid to cool sub-humid mid highlands", 
+            "altitude": null, 
+            "longitude": null, 
+            "village": "Tsion Teguaz", 
+            "latitude": null
+        }
+    }, 
+    {
+        "pk": 99, 
+        "model": "chickens.farm", 
+        "fields": {
+            "geolocation": null, 
+            "agroecology": "Tepid to cool sub-humid mid highlands", 
+            "altitude": null, 
+            "longitude": null, 
+            "village": "Tsion Teguaz", 
+            "latitude": null
+        }
+    }, 
+    {
+        "pk": 100, 
+        "model": "chickens.farm", 
+        "fields": {
+            "geolocation": null, 
+            "agroecology": "Tepid to cool sub-humid mid highlands", 
+            "altitude": null, 
+            "longitude": null, 
+            "village": "Tsion Teguaz", 
+            "latitude": null
+        }
+    }, 
+    {
+        "pk": 101, 
+        "model": "chickens.farm", 
+        "fields": {
+            "geolocation": "POINT(37.55528 12.37194)", 
+            "agroecology": "Tepid to cool sub-humid mid highlands", 
+            "altitude": 1931, 
+            "longitude": 37.55528, 
+            "village": "Tsion Teguaz", 
+            "latitude": 12.37194
+        }
+    }, 
+    {
+        "pk": 102, 
+        "model": "chickens.farm", 
+        "fields": {
+            "geolocation": "POINT(37.55083 12.37083)", 
+            "agroecology": "Tepid to cool sub-humid mid highlands", 
+            "altitude": 1922, 
+            "longitude": 37.55083, 
+            "village": "Tsion Teguaz", 
+            "latitude": 12.37083
+        }
+    }, 
+    {
+        "pk": 103, 
+        "model": "chickens.farm", 
+        "fields": {
+            "geolocation": null, 
+            "agroecology": "Tepid to cool sub-humid mid highlands", 
+            "altitude": null, 
+            "longitude": null, 
+            "village": "Tsion Teguaz", 
+            "latitude": null
+        }
+    }, 
+    {
+        "pk": 104, 
+        "model": "chickens.farm", 
+        "fields": {
+            "geolocation": null, 
+            "agroecology": "Tepid to cool sub-humid mid highlands", 
+            "altitude": null, 
+            "longitude": null, 
+            "village": "Tsion Teguaz", 
+            "latitude": null
+        }
+    }, 
+    {
+        "pk": 105, 
+        "model": "chickens.farm", 
+        "fields": {
+            "geolocation": null, 
+            "agroecology": "Tepid to cool sub-humid mid highlands", 
+            "altitude": null, 
+            "longitude": null, 
+            "village": "Tsion Teguaz", 
+            "latitude": null
+        }
+    }, 
+    {
+        "pk": 106, 
+        "model": "chickens.farm", 
+        "fields": {
+            "geolocation": null, 
+            "agroecology": "Tepid to cool sub-humid mid highlands", 
+            "altitude": null, 
+            "longitude": null, 
+            "village": "Tsion Teguaz", 
+            "latitude": null
+        }
+    }, 
+    {
+        "pk": 107, 
+        "model": "chickens.farm", 
+        "fields": {
+            "geolocation": null, 
+            "agroecology": "Tepid to cool moist mid highlands", 
+            "altitude": null, 
+            "longitude": null, 
+            "village": "Arabo", 
+            "latitude": null
+        }
+    }, 
+    {
+        "pk": 108, 
+        "model": "chickens.farm", 
+        "fields": {
+            "geolocation": null, 
+            "agroecology": "Tepid to cool moist mid highlands", 
+            "altitude": null, 
+            "longitude": null, 
+            "village": "Arabo", 
+            "latitude": null
+        }
+    }, 
+    {
+        "pk": 109, 
+        "model": "chickens.farm", 
+        "fields": {
+            "geolocation": null, 
+            "agroecology": "Tepid to cool moist mid highlands", 
+            "altitude": null, 
+            "longitude": null, 
+            "village": "Arabo", 
+            "latitude": null
+        }
+    }, 
+    {
+        "pk": 110, 
+        "model": "chickens.farm", 
+        "fields": {
+            "geolocation": "POINT(39.90694 11.15111)", 
+            "agroecology": "Tepid to cool moist mid highlands", 
+            "altitude": 1501, 
+            "longitude": 39.90694, 
+            "village": "Arabo", 
+            "latitude": 11.15111
+        }
+    }, 
+    {
+        "pk": 111, 
+        "model": "chickens.farm", 
+        "fields": {
+            "geolocation": null, 
+            "agroecology": "Tepid to cool moist mid highlands", 
+            "altitude": null, 
+            "longitude": null, 
+            "village": "Arabo", 
+            "latitude": null
+        }
+    }, 
+    {
+        "pk": 112, 
+        "model": "chickens.farm", 
+        "fields": {
+            "geolocation": null, 
+            "agroecology": "Tepid to cool moist mid highlands", 
+            "altitude": null, 
+            "longitude": null, 
+            "village": "Arabo", 
+            "latitude": null
+        }
+    }, 
+    {
+        "pk": 113, 
+        "model": "chickens.farm", 
+        "fields": {
+            "geolocation": null, 
+            "agroecology": "Tepid to cool moist mid highlands", 
+            "altitude": null, 
+            "longitude": null, 
+            "village": "Arabo", 
+            "latitude": null
+        }
+    }, 
+    {
+        "pk": 114, 
+        "model": "chickens.farm", 
+        "fields": {
+            "geolocation": "POINT(39.98944 11.15361)", 
+            "agroecology": "Tepid to cool moist mid highlands", 
+            "altitude": 1521, 
+            "longitude": 39.98944, 
+            "village": "Arabo", 
+            "latitude": 11.15361
+        }
+    }, 
+    {
+        "pk": 115, 
+        "model": "chickens.farm", 
+        "fields": {
+            "geolocation": "POINT(39.90583 11.15306)", 
+            "agroecology": "Tepid to cool moist mid highlands", 
+            "altitude": 1512, 
+            "longitude": 39.90583, 
+            "village": "Arabo", 
+            "latitude": 11.15306
+        }
+    }, 
+    {
+        "pk": 116, 
+        "model": "chickens.farm", 
+        "fields": {
+            "geolocation": null, 
+            "agroecology": "Tepid to cool moist mid highlands", 
+            "altitude": null, 
+            "longitude": null, 
+            "village": "Arabo", 
+            "latitude": null
+        }
+    }, 
+    {
+        "pk": 117, 
+        "model": "chickens.farm", 
+        "fields": {
+            "geolocation": "POINT(39.83333 11.23778)", 
+            "agroecology": "Hot to warm moist lowlands", 
+            "altitude": 2455, 
+            "longitude": 39.83333, 
+            "village": "0-25 Adane", 
+            "latitude": 11.23778
+        }
+    }, 
+    {
+        "pk": 118, 
+        "model": "chickens.farm", 
+        "fields": {
+            "geolocation": "POINT(39.83167 11.23861)", 
+            "agroecology": "Hot to warm moist lowlands", 
+            "altitude": 2432, 
+            "longitude": 39.83167, 
+            "village": "0-25 Adane", 
+            "latitude": 11.23861
+        }
+    }, 
+    {
+        "pk": 119, 
+        "model": "chickens.farm", 
+        "fields": {
+            "geolocation": null, 
+            "agroecology": "Hot to warm moist lowlands", 
+            "altitude": null, 
+            "longitude": null, 
+            "village": "0-25 Adane", 
+            "latitude": null
+        }
+    }, 
+    {
+        "pk": 120, 
+        "model": "chickens.farm", 
+        "fields": {
+            "geolocation": null, 
+            "agroecology": "Hot to warm moist lowlands", 
+            "altitude": null, 
+            "longitude": null, 
+            "village": "0-25 Adane", 
+            "latitude": null
+        }
+    }, 
+    {
+        "pk": 121, 
+        "model": "chickens.farm", 
+        "fields": {
+            "geolocation": null, 
+            "agroecology": "Hot to warm moist lowlands", 
+            "altitude": null, 
+            "longitude": null, 
+            "village": "0-25 Adane", 
+            "latitude": null
+        }
+    }, 
+    {
+        "pk": 122, 
+        "model": "chickens.farm", 
+        "fields": {
+            "geolocation": null, 
+            "agroecology": "Hot to warm moist lowlands", 
+            "altitude": null, 
+            "longitude": null, 
+            "village": "0-25 Adane", 
+            "latitude": null
+        }
+    }, 
+    {
+        "pk": 123, 
+        "model": "chickens.farm", 
+        "fields": {
+            "geolocation": null, 
+            "agroecology": "Hot to warm moist lowlands", 
+            "altitude": null, 
+            "longitude": null, 
+            "village": "0-25 Adane", 
+            "latitude": null
+        }
+    }, 
+    {
+        "pk": 124, 
+        "model": "chickens.farm", 
+        "fields": {
+            "geolocation": null, 
+            "agroecology": "Hot to warm moist lowlands", 
+            "altitude": null, 
+            "longitude": null, 
+            "village": "0-25 Adane", 
+            "latitude": null
+        }
+    }, 
+    {
+        "pk": 125, 
+        "model": "chickens.farm", 
+        "fields": {
+            "geolocation": null, 
+            "agroecology": "Hot to warm moist lowlands", 
+            "altitude": null, 
+            "longitude": null, 
+            "village": "0-25 Adane", 
+            "latitude": null
+        }
+    }, 
+    {
+        "pk": 126, 
+        "model": "chickens.farm", 
+        "fields": {
+            "geolocation": null, 
+            "agroecology": "Hot to warm moist lowlands", 
+            "altitude": null, 
+            "longitude": null, 
+            "village": "0-25 Adane", 
+            "latitude": null
+        }
+    }, 
+    {
+        "pk": 127, 
+        "model": "chickens.farm", 
+        "fields": {
+            "geolocation": "POINT(39.6525 10.32083)", 
+            "agroecology": "Tepid to cool moist mid highlands", 
+            "altitude": 3060, 
+            "longitude": 39.6525, 
+            "village": "Negasi Amba/07/", 
+            "latitude": 10.32083
+        }
+    }, 
+    {
+        "pk": 128, 
+        "model": "chickens.farm", 
+        "fields": {
+            "geolocation": null, 
+            "agroecology": "Tepid to cool moist mid highlands", 
+            "altitude": null, 
+            "longitude": null, 
+            "village": "Negasi Amba/07/", 
+            "latitude": null
+        }
+    }, 
+    {
+        "pk": 129, 
+        "model": "chickens.farm", 
+        "fields": {
+            "geolocation": "POINT(39.61528 10.30944)", 
+            "agroecology": "Tepid to cool moist mid highlands", 
+            "altitude": 3007, 
+            "longitude": 39.61528, 
+            "village": "Negasi Amba/07/", 
+            "latitude": 10.30944
+        }
+    }, 
+    {
+        "pk": 130, 
+        "model": "chickens.farm", 
+        "fields": {
+            "geolocation": "POINT(39.61528 10.30944)", 
+            "agroecology": "Tepid to cool moist mid highlands", 
+            "altitude": 3007, 
+            "longitude": 39.61528, 
+            "village": "Negasi Amba/07/", 
+            "latitude": 10.30944
+        }
+    }, 
+    {
+        "pk": 131, 
+        "model": "chickens.farm", 
+        "fields": {
+            "geolocation": "POINT(39.61528 10.30944)", 
+            "agroecology": "Tepid to cool moist mid highlands", 
+            "altitude": 3007, 
+            "longitude": 39.61528, 
+            "village": "Negasi Amba/07/", 
+            "latitude": 10.30944
+        }
+    }, 
+    {
+        "pk": 132, 
+        "model": "chickens.farm", 
+        "fields": {
+            "geolocation": null, 
+            "agroecology": "Tepid to cool moist mid highlands", 
+            "altitude": null, 
+            "longitude": null, 
+            "village": "Negasi Amba/07/", 
+            "latitude": null
+        }
+    }, 
+    {
+        "pk": 133, 
+        "model": "chickens.farm", 
+        "fields": {
+            "geolocation": "POINT(39.62389 10.31278)", 
+            "agroecology": "Tepid to cool moist mid highlands", 
+            "altitude": 3024, 
+            "longitude": 39.62389, 
+            "village": "Negasi Amba/07/", 
+            "latitude": 10.31278
+        }
+    }, 
+    {
+        "pk": 134, 
+        "model": "chickens.farm", 
+        "fields": {
+            "geolocation": null, 
+            "agroecology": "Tepid to cool moist mid highlands", 
+            "altitude": null, 
+            "longitude": null, 
+            "village": "Negasi Amba/07/", 
+            "latitude": null
+        }
+    }, 
+    {
+        "pk": 135, 
+        "model": "chickens.farm", 
+        "fields": {
+            "geolocation": "POINT(39.61528 10.30917)", 
+            "agroecology": "Tepid to cool moist mid highlands", 
+            "altitude": 3002, 
+            "longitude": 39.61528, 
+            "village": "Negasi Amba/07/", 
+            "latitude": 10.30917
+        }
+    }, 
+    {
+        "pk": 136, 
+        "model": "chickens.farm", 
+        "fields": {
+            "geolocation": "POINT(39.61083 10.30833)", 
+            "agroecology": "Tepid to cool moist mid highlands", 
+            "altitude": 2995, 
+            "longitude": 39.61083, 
+            "village": "Negasi Amba/07/", 
+            "latitude": 10.30833
+        }
+    }, 
+    {
+        "pk": 137, 
+        "model": "chickens.farm", 
+        "fields": {
+            "geolocation": "POINT(39.7775 10.33194)", 
+            "agroecology": "Cold to very cold  moist sub-afroalpine to afroalpine", 
+            "altitude": 3295, 
+            "longitude": 39.7775, 
+            "village": "Alfa Midir/05/", 
+            "latitude": 10.33194
+        }
+    }, 
+    {
+        "pk": 138, 
+        "model": "chickens.farm", 
+        "fields": {
+            "geolocation": "POINT(39.80694 10.32611)", 
+            "agroecology": "Cold to very cold  moist sub-afroalpine to afroalpine", 
+            "altitude": 3377, 
+            "longitude": 39.80694, 
+            "village": "Alfa Midir/05/", 
+            "latitude": 10.32611
+        }
+    }, 
+    {
+        "pk": 139, 
+        "model": "chickens.farm", 
+        "fields": {
+            "geolocation": "POINT(39.80278 10.3225)", 
+            "agroecology": "Cold to very cold  moist sub-afroalpine to afroalpine", 
+            "altitude": 3404, 
+            "longitude": 39.80278, 
+            "village": "Alfa Midir/05/", 
+            "latitude": 10.3225
+        }
+    }, 
+    {
+        "pk": 140, 
+        "model": "chickens.farm", 
+        "fields": {
+            "geolocation": "POINT(39.80167 10.25972)", 
+            "agroecology": "Cold to very cold  moist sub-afroalpine to afroalpine", 
+            "altitude": 3392, 
+            "longitude": 39.80167, 
+            "village": "Alfa Midir/05/", 
+            "latitude": 10.25972
+        }
+    }, 
+    {
+        "pk": 141, 
+        "model": "chickens.farm", 
+        "fields": {
+            "geolocation": "POINT(39.8 10.30806)", 
+            "agroecology": "Cold to very cold  moist sub-afroalpine to afroalpine", 
+            "altitude": 3418, 
+            "longitude": 39.8, 
+            "village": "Alfa Midir/05/", 
+            "latitude": 10.30806
+        }
+    }, 
+    {
+        "pk": 142, 
+        "model": "chickens.farm", 
+        "fields": {
+            "geolocation": "POINT(39.8 10.30833)", 
+            "agroecology": "Cold to very cold  moist sub-afroalpine to afroalpine", 
+            "altitude": 3419, 
+            "longitude": 39.8, 
+            "village": "Alfa Midir/05/", 
+            "latitude": 10.30833
+        }
+    }, 
+    {
+        "pk": 143, 
+        "model": "chickens.farm", 
+        "fields": {
+            "geolocation": null, 
+            "agroecology": "Cold to very cold  moist sub-afroalpine to afroalpine", 
+            "altitude": null, 
+            "longitude": null, 
+            "village": "Alfa Midir/05/", 
+            "latitude": null
+        }
+    }, 
+    {
+        "pk": 144, 
+        "model": "chickens.farm", 
+        "fields": {
+            "geolocation": null, 
+            "agroecology": "Cold to very cold  moist sub-afroalpine to afroalpine", 
+            "altitude": null, 
+            "longitude": null, 
+            "village": "Alfa Midir/05/", 
+            "latitude": null
+        }
+    }, 
+    {
+        "pk": 145, 
+        "model": "chickens.farm", 
+        "fields": {
+            "geolocation": null, 
+            "agroecology": "Cold to very cold  moist sub-afroalpine to afroalpine", 
+            "altitude": null, 
+            "longitude": null, 
+            "village": "Alfa Midir/05/", 
+            "latitude": null
+        }
+    }, 
+    {
+        "pk": 146, 
+        "model": "chickens.farm", 
+        "fields": {
+            "geolocation": null, 
+            "agroecology": "Cold to very cold  moist sub-afroalpine to afroalpine", 
+            "altitude": null, 
+            "longitude": null, 
+            "village": "Alfa Midir/05/", 
+            "latitude": null
+        }
+    }, 
+    {
+        "pk": 147, 
+        "model": "chickens.farm", 
+        "fields": {
+            "geolocation": "POINT(10.71403 36.19102)", 
+            "agroecology": "Hot to warm sub-humid lowlands", 
+            "altitude": 1304, 
+            "longitude": 10.71403, 
+            "village": "Kido", 
+            "latitude": 36.19102
+        }
+    }, 
+    {
+        "pk": 148, 
+        "model": "chickens.farm", 
+        "fields": {
+            "geolocation": null, 
+            "agroecology": "Hot to warm sub-humid lowlands", 
+            "altitude": null, 
+            "longitude": null, 
+            "village": "Kido", 
+            "latitude": null
+        }
+    }, 
+    {
+        "pk": 149, 
+        "model": "chickens.farm", 
+        "fields": {
+            "geolocation": null, 
+            "agroecology": "Hot to warm sub-humid lowlands", 
+            "altitude": null, 
+            "longitude": null, 
+            "village": "Kido", 
+            "latitude": null
+        }
+    }, 
+    {
+        "pk": 150, 
+        "model": "chickens.farm", 
+        "fields": {
+            "geolocation": null, 
+            "agroecology": "Hot to warm sub-humid lowlands", 
+            "altitude": null, 
+            "longitude": null, 
+            "village": "Kido", 
+            "latitude": null
+        }
+    }, 
+    {
+        "pk": 151, 
+        "model": "chickens.farm", 
+        "fields": {
+            "geolocation": null, 
+            "agroecology": "Hot to warm sub-humid lowlands", 
+            "altitude": null, 
+            "longitude": null, 
+            "village": "Kido", 
+            "latitude": null
+        }
+    }, 
+    {
+        "pk": 152, 
+        "model": "chickens.farm", 
+        "fields": {
+            "geolocation": null, 
+            "agroecology": "Hot to warm sub-humid lowlands", 
+            "altitude": null, 
+            "longitude": null, 
+            "village": "Kido", 
+            "latitude": null
+        }
+    }, 
+    {
+        "pk": 153, 
+        "model": "chickens.farm", 
+        "fields": {
+            "geolocation": null, 
+            "agroecology": "Hot to warm sub-humid lowlands", 
+            "altitude": null, 
+            "longitude": null, 
+            "village": "Kido", 
+            "latitude": null
+        }
+    }, 
+    {
+        "pk": 154, 
+        "model": "chickens.farm", 
+        "fields": {
+            "geolocation": null, 
+            "agroecology": "Hot to warm sub-humid lowlands", 
+            "altitude": null, 
+            "longitude": null, 
+            "village": "Kido", 
+            "latitude": null
+        }
+    }, 
+    {
+        "pk": 155, 
+        "model": "chickens.farm", 
+        "fields": {
+            "geolocation": null, 
+            "agroecology": "Hot to warm sub-humid lowlands", 
+            "altitude": null, 
+            "longitude": null, 
+            "village": "Kido", 
+            "latitude": null
+        }
+    }, 
+    {
+        "pk": 156, 
+        "model": "chickens.farm", 
+        "fields": {
+            "geolocation": null, 
+            "agroecology": "Hot to warm sub-humid lowlands", 
+            "altitude": null, 
+            "longitude": null, 
+            "village": "Kido", 
+            "latitude": null
+        }
+    }, 
+    {
+        "pk": 157, 
+        "model": "chickens.farm", 
+        "fields": {
+            "geolocation": "POINT(36.22139 10.8525)", 
+            "agroecology": "Hot to warm sub-humid lowlands", 
+            "altitude": 1192, 
+            "longitude": 36.22139, 
+            "village": "Gesses", 
+            "latitude": 10.8525
+        }
+    }, 
+    {
+        "pk": 158, 
+        "model": "chickens.farm", 
+        "fields": {
+            "geolocation": "POINT(36.23694 10.84472)", 
+            "agroecology": "Hot to warm sub-humid lowlands", 
+            "altitude": 1422, 
+            "longitude": 36.23694, 
+            "village": "Gesses", 
+            "latitude": 10.84472
+        }
+    }, 
+    {
+        "pk": 159, 
+        "model": "chickens.farm", 
+        "fields": {
+            "geolocation": "POINT(36.22056 10.8675)", 
+            "agroecology": "Hot to warm sub-humid lowlands", 
+            "altitude": 1190, 
+            "longitude": 36.22056, 
+            "village": "Gesses", 
+            "latitude": 10.8675
+        }
+    }, 
+    {
+        "pk": 160, 
+        "model": "chickens.farm", 
+        "fields": {
+            "geolocation": "POINT(36.23667 10.84222)", 
+            "agroecology": "Hot to warm sub-humid lowlands", 
+            "altitude": 1404, 
+            "longitude": 36.23667, 
+            "village": "Gesses", 
+            "latitude": 10.84222
+        }
+    }, 
+    {
+        "pk": 161, 
+        "model": "chickens.farm", 
+        "fields": {
+            "geolocation": "POINT(36.23694 10.84472)", 
+            "agroecology": "Hot to warm sub-humid lowlands", 
+            "altitude": 1415, 
+            "longitude": 36.23694, 
+            "village": "Gesses", 
+            "latitude": 10.84472
+        }
+    }, 
+    {
+        "pk": 162, 
+        "model": "chickens.farm", 
+        "fields": {
+            "geolocation": "POINT(36.23556 10.84417)", 
+            "agroecology": "Hot to warm sub-humid lowlands", 
+            "altitude": 1396, 
+            "longitude": 36.23556, 
+            "village": "Gesses", 
+            "latitude": 10.84417
+        }
+    }, 
+    {
+        "pk": 163, 
+        "model": "chickens.farm", 
+        "fields": {
+            "geolocation": "POINT(36.22278 10.86833)", 
+            "agroecology": "Hot to warm sub-humid lowlands", 
+            "altitude": 1187, 
+            "longitude": 36.22278, 
+            "village": "Gesses", 
+            "latitude": 10.86833
+        }
+    }, 
+    {
+        "pk": 164, 
+        "model": "chickens.farm", 
+        "fields": {
+            "geolocation": "POINT(36.23667 10.84222)", 
+            "agroecology": "Hot to warm sub-humid lowlands", 
+            "altitude": 1404, 
+            "longitude": 36.23667, 
+            "village": "Gesses", 
+            "latitude": 10.84222
+        }
+    }, 
+    {
+        "pk": 165, 
+        "model": "chickens.farm", 
+        "fields": {
+            "geolocation": null, 
+            "agroecology": "Hot to warm sub-humid lowlands", 
+            "altitude": null, 
+            "longitude": null, 
+            "village": "Gesses", 
+            "latitude": null
+        }
+    }, 
+    {
+        "pk": 166, 
+        "model": "chickens.farm", 
+        "fields": {
+            "geolocation": "POINT(36.22139 10.86611)", 
+            "agroecology": "Hot to warm sub-humid lowlands", 
+            "altitude": 1192, 
+            "longitude": 36.22139, 
+            "village": "Gesses", 
+            "latitude": 10.86611
+        }
+    }, 
+    {
+        "pk": 167, 
+        "model": "chickens.farm", 
+        "fields": {
+            "geolocation": null, 
+            "agroecology": "Tepid to cool sub-humid mid highlands", 
+            "altitude": null, 
+            "longitude": null, 
+            "village": "Bekele Girissa", 
+            "latitude": null
+        }
+    }, 
+    {
+        "pk": 168, 
+        "model": "chickens.farm", 
+        "fields": {
+            "geolocation": null, 
+            "agroecology": "Tepid to cool sub-humid mid highlands", 
+            "altitude": null, 
+            "longitude": null, 
+            "village": "Bekele Girissa", 
+            "latitude": null
+        }
+    }, 
+    {
+        "pk": 169, 
+        "model": "chickens.farm", 
+        "fields": {
+            "geolocation": null, 
+            "agroecology": "Tepid to cool sub-humid mid highlands", 
+            "altitude": null, 
+            "longitude": null, 
+            "village": "Bekele Girissa", 
+            "latitude": null
+        }
+    }, 
+    {
+        "pk": 170, 
+        "model": "chickens.farm", 
+        "fields": {
+            "geolocation": null, 
+            "agroecology": "Tepid to cool sub-humid mid highlands", 
+            "altitude": null, 
+            "longitude": null, 
+            "village": "Bekele Girissa", 
+            "latitude": null
+        }
+    }, 
+    {
+        "pk": 171, 
+        "model": "chickens.farm", 
+        "fields": {
+            "geolocation": "POINT(38.805 8.1275)", 
+            "agroecology": "Tepid to cool sub-humid mid highlands", 
+            "altitude": 1643, 
+            "longitude": 38.805, 
+            "village": "Bekele Girissa", 
+            "latitude": 8.1275
+        }
+    }, 
+    {
+        "pk": 172, 
+        "model": "chickens.farm", 
+        "fields": {
+            "geolocation": null, 
+            "agroecology": "Tepid to cool sub-humid mid highlands", 
+            "altitude": null, 
+            "longitude": null, 
+            "village": "Bekele Girissa", 
+            "latitude": null
+        }
+    }, 
+    {
+        "pk": 173, 
+        "model": "chickens.farm", 
+        "fields": {
+            "geolocation": null, 
+            "agroecology": "Tepid to cool sub-humid mid highlands", 
+            "altitude": null, 
+            "longitude": null, 
+            "village": "Bekele Girissa", 
+            "latitude": null
+        }
+    }, 
+    {
+        "pk": 174, 
+        "model": "chickens.farm", 
+        "fields": {
+            "geolocation": null, 
+            "agroecology": "Tepid to cool sub-humid mid highlands", 
+            "altitude": null, 
+            "longitude": null, 
+            "village": "Bekele Girissa", 
+            "latitude": null
+        }
+    }, 
+    {
+        "pk": 175, 
+        "model": "chickens.farm", 
+        "fields": {
+            "geolocation": null, 
+            "agroecology": "Tepid to cool sub-humid mid highlands", 
+            "altitude": null, 
+            "longitude": null, 
+            "village": "Bekele Girissa", 
+            "latitude": null
+        }
+    }, 
+    {
+        "pk": 176, 
+        "model": "chickens.farm", 
+        "fields": {
+            "geolocation": null, 
+            "agroecology": "Tepid to cool sub-humid mid highlands", 
+            "altitude": null, 
+            "longitude": null, 
+            "village": "Bekele Girissa", 
+            "latitude": null
+        }
+    }, 
+    {
+        "pk": 177, 
+        "model": "chickens.farm", 
+        "fields": {
+            "geolocation": "POINT(38.86167 8.14389)", 
+            "agroecology": "Tepid to cool sub-humid mid highlands", 
+            "altitude": 1555, 
+            "longitude": 38.86167, 
+            "village": "Shubi Gemo", 
+            "latitude": 8.14389
+        }
+    }, 
+    {
+        "pk": 178, 
+        "model": "chickens.farm", 
+        "fields": {
+            "geolocation": null, 
+            "agroecology": "Tepid to cool sub-humid mid highlands", 
+            "altitude": null, 
+            "longitude": null, 
+            "village": "Shubi Gemo", 
+            "latitude": null
+        }
+    }, 
+    {
+        "pk": 179, 
+        "model": "chickens.farm", 
+        "fields": {
+            "geolocation": null, 
+            "agroecology": "Tepid to cool sub-humid mid highlands", 
+            "altitude": null, 
+            "longitude": null, 
+            "village": "Shubi Gemo", 
+            "latitude": null
+        }
+    }, 
+    {
+        "pk": 180, 
+        "model": "chickens.farm", 
+        "fields": {
+            "geolocation": null, 
+            "agroecology": "Tepid to cool sub-humid mid highlands", 
+            "altitude": null, 
+            "longitude": null, 
+            "village": "Shubi Gemo", 
+            "latitude": null
+        }
+    }, 
+    {
+        "pk": 181, 
+        "model": "chickens.farm", 
+        "fields": {
+            "geolocation": null, 
+            "agroecology": "Tepid to cool sub-humid mid highlands", 
+            "altitude": null, 
+            "longitude": null, 
+            "village": "Shubi Gemo", 
+            "latitude": null
+        }
+    }, 
+    {
+        "pk": 182, 
+        "model": "chickens.farm", 
+        "fields": {
+            "geolocation": null, 
+            "agroecology": "Tepid to cool sub-humid mid highlands", 
+            "altitude": null, 
+            "longitude": null, 
+            "village": "Shubi Gemo", 
+            "latitude": null
+        }
+    }, 
+    {
+        "pk": 183, 
+        "model": "chickens.farm", 
+        "fields": {
+            "geolocation": "POINT(38.86167 8.14361)", 
+            "agroecology": "Tepid to cool sub-humid mid highlands", 
+            "altitude": null, 
+            "longitude": 38.86167, 
+            "village": "Shubi Gemo", 
+            "latitude": 8.14361
+        }
+    }, 
+    {
+        "pk": 184, 
+        "model": "chickens.farm", 
+        "fields": {
+            "geolocation": null, 
+            "agroecology": "Tepid to cool sub-humid mid highlands", 
+            "altitude": null, 
+            "longitude": null, 
+            "village": "Shubi Gemo", 
+            "latitude": null
+        }
+    }, 
+    {
+        "pk": 185, 
+        "model": "chickens.farm", 
+        "fields": {
+            "geolocation": null, 
+            "agroecology": "Tepid to cool sub-humid mid highlands", 
+            "altitude": null, 
+            "longitude": null, 
+            "village": "Shubi Gemo", 
+            "latitude": null
+        }
+    }, 
+    {
+        "pk": 186, 
+        "model": "chickens.farm", 
+        "fields": {
+            "geolocation": "POINT(38.86194 8.14444)", 
+            "agroecology": "Tepid to cool sub-humid mid highlands", 
+            "altitude": 1637, 
+            "longitude": 38.86194, 
+            "village": "Shubi Gemo", 
+            "latitude": 8.14444
+        }
+    }, 
+    {
+        "pk": 187, 
+        "model": "chickens.farm", 
+        "fields": {
+            "geolocation": "POINT(38.41417 6.49639)", 
+            "agroecology": "Hot to warm sub-humid lolands", 
+            "altitude": 1913, 
+            "longitude": 38.41417, 
+            "village": "Loya", 
+            "latitude": 6.49639
+        }
+    }, 
+    {
+        "pk": 188, 
+        "model": "chickens.farm", 
+        "fields": {
+            "geolocation": null, 
+            "agroecology": "Hot to warm sub-humid lolands", 
+            "altitude": null, 
+            "longitude": null, 
+            "village": "Loya", 
+            "latitude": null
+        }
+    }, 
+    {
+        "pk": 189, 
+        "model": "chickens.farm", 
+        "fields": {
+            "geolocation": null, 
+            "agroecology": "Hot to warm sub-humid lolands", 
+            "altitude": null, 
+            "longitude": null, 
+            "village": "Loya", 
+            "latitude": null
+        }
+    }, 
+    {
+        "pk": 190, 
+        "model": "chickens.farm", 
+        "fields": {
+            "geolocation": null, 
+            "agroecology": "Hot to warm sub-humid lolands", 
+            "altitude": null, 
+            "longitude": null, 
+            "village": "Loya", 
+            "latitude": null
+        }
+    }, 
+    {
+        "pk": 191, 
+        "model": "chickens.farm", 
+        "fields": {
+            "geolocation": null, 
+            "agroecology": "Hot to warm sub-humid lolands", 
+            "altitude": null, 
+            "longitude": null, 
+            "village": "Loya", 
+            "latitude": null
+        }
+    }, 
+    {
+        "pk": 192, 
+        "model": "chickens.farm", 
+        "fields": {
+            "geolocation": null, 
+            "agroecology": "Hot to warm sub-humid lolands", 
+            "altitude": null, 
+            "longitude": null, 
+            "village": "Loya", 
+            "latitude": null
+        }
+    }, 
+    {
+        "pk": 193, 
+        "model": "chickens.farm", 
+        "fields": {
+            "geolocation": null, 
+            "agroecology": "Hot to warm sub-humid lolands", 
+            "altitude": null, 
+            "longitude": null, 
+            "village": "Loya", 
+            "latitude": null
+        }
+    }, 
+    {
+        "pk": 194, 
+        "model": "chickens.farm", 
+        "fields": {
+            "geolocation": "POINT(38.49722 6.49722)", 
+            "agroecology": "Hot to warm sub-humid lolands", 
+            "altitude": 1896, 
+            "longitude": 38.49722, 
+            "village": "Loya", 
+            "latitude": 6.49722
+        }
+    }, 
+    {
+        "pk": 195, 
+        "model": "chickens.farm", 
+        "fields": {
+            "geolocation": null, 
+            "agroecology": "Hot to warm sub-humid lolands", 
+            "altitude": null, 
+            "longitude": null, 
+            "village": "Loya", 
+            "latitude": null
+        }
+    }, 
+    {
+        "pk": 196, 
+        "model": "chickens.farm", 
+        "fields": {
+            "geolocation": null, 
+            "agroecology": "Hot to warm sub-humid lolands", 
+            "altitude": null, 
+            "longitude": null, 
+            "village": "Loya", 
+            "latitude": null
+        }
+    }, 
+    {
+        "pk": 197, 
+        "model": "chickens.farm", 
+        "fields": {
+            "geolocation": "POINT(38.32944 6.47556)", 
+            "agroecology": "Hot to warm sub-humid lolands", 
+            "altitude": 1728, 
+            "longitude": 38.32944, 
+            "village": "Kumato", 
+            "latitude": 6.47556
+        }
+    }, 
+    {
+        "pk": 198, 
+        "model": "chickens.farm", 
+        "fields": {
+            "geolocation": null, 
+            "agroecology": "Hot to warm sub-humid lolands", 
+            "altitude": null, 
+            "longitude": null, 
+            "village": "Kumato", 
+            "latitude": null
+        }
+    }, 
+    {
+        "pk": 199, 
+        "model": "chickens.farm", 
+        "fields": {
+            "geolocation": null, 
+            "agroecology": "Hot to warm sub-humid lolands", 
+            "altitude": null, 
+            "longitude": null, 
+            "village": "Kumato", 
+            "latitude": null
+        }
+    }, 
+    {
+        "pk": 200, 
+        "model": "chickens.farm", 
+        "fields": {
+            "geolocation": null, 
+            "agroecology": "Hot to warm sub-humid lolands", 
+            "altitude": null, 
+            "longitude": null, 
+            "village": "Kumato", 
+            "latitude": null
+        }
+    }, 
+    {
+        "pk": 201, 
+        "model": "chickens.farm", 
+        "fields": {
+            "geolocation": null, 
+            "agroecology": "Hot to warm sub-humid lolands", 
+            "altitude": null, 
+            "longitude": null, 
+            "village": "Kumato", 
+            "latitude": null
+        }
+    }, 
+    {
+        "pk": 202, 
+        "model": "chickens.farm", 
+        "fields": {
+            "geolocation": "POINT(35.15611 6.47444)", 
+            "agroecology": "Hot to warm sub-humid lolands", 
+            "altitude": 1701, 
+            "longitude": 35.15611, 
+            "village": "Kumato", 
+            "latitude": 6.47444
+        }
+    }, 
+    {
+        "pk": 203, 
+        "model": "chickens.farm", 
+        "fields": {
+            "geolocation": null, 
+            "agroecology": "Hot to warm sub-humid lolands", 
+            "altitude": null, 
+            "longitude": null, 
+            "village": "Kumato", 
+            "latitude": null
+        }
+    }, 
+    {
+        "pk": 204, 
+        "model": "chickens.farm", 
+        "fields": {
+            "geolocation": null, 
+            "agroecology": "Hot to warm sub-humid lolands", 
+            "altitude": null, 
+            "longitude": null, 
+            "village": "Kumato", 
+            "latitude": null
+        }
+    }, 
+    {
+        "pk": 205, 
+        "model": "chickens.farm", 
+        "fields": {
+            "geolocation": "POINT(38.32111 6.47333)", 
+            "agroecology": "Hot to warm sub-humid lolands", 
+            "altitude": 1673, 
+            "longitude": 38.32111, 
+            "village": "Kumato", 
+            "latitude": 6.47333
+        }
+    }, 
+    {
+        "pk": 206, 
+        "model": "chickens.farm", 
+        "fields": {
+            "geolocation": "POINT(38.32111 6.47333)", 
+            "agroecology": "Hot to warm sub-humid lolands", 
+            "altitude": 1673, 
+            "longitude": 38.32111, 
+            "village": "Kumato", 
+            "latitude": 6.47333
+        }
+    }, 
+    {
+        "pk": 207, 
+        "model": "chickens.farm", 
+        "fields": {
+            "geolocation": null, 
+            "agroecology": "Tepid to cool sub-moist mid-highlands", 
+            "altitude": null, 
+            "longitude": null, 
+            "village": "Metkilimat", 
+            "latitude": null
+        }
+    }, 
+    {
+        "pk": 208, 
+        "model": "chickens.farm", 
+        "fields": {
+            "geolocation": null, 
+            "agroecology": "Tepid to cool sub-moist mid-highlands", 
+            "altitude": null, 
+            "longitude": null, 
+            "village": "Metkilimat", 
+            "latitude": null
+        }
+    }, 
+    {
+        "pk": 209, 
+        "model": "chickens.farm", 
+        "fields": {
+            "geolocation": null, 
+            "agroecology": "Tepid to cool sub-moist mid-highlands", 
+            "altitude": null, 
+            "longitude": null, 
+            "village": "Metkilimat", 
+            "latitude": null
+        }
+    }, 
+    {
+        "pk": 210, 
+        "model": "chickens.farm", 
+        "fields": {
+            "geolocation": null, 
+            "agroecology": "Tepid to cool sub-moist mid-highlands", 
+            "altitude": null, 
+            "longitude": null, 
+            "village": "Metkilimat", 
+            "latitude": null
+        }
+    }, 
+    {
+        "pk": 211, 
+        "model": "chickens.farm", 
+        "fields": {
+            "geolocation": "POINT(39.17833 13.22944)", 
+            "agroecology": "Tepid to cool sub-moist mid-highlands", 
+            "altitude": 1751, 
+            "longitude": 39.17833, 
+            "village": "Metkilimat", 
+            "latitude": 13.22944
+        }
+    }, 
+    {
+        "pk": 212, 
+        "model": "chickens.farm", 
+        "fields": {
+            "geolocation": null, 
+            "agroecology": "Tepid to cool sub-moist mid-highlands", 
+            "altitude": null, 
+            "longitude": null, 
+            "village": "Metkilimat", 
+            "latitude": null
+        }
+    }, 
+    {
+        "pk": 213, 
+        "model": "chickens.farm", 
+        "fields": {
+            "geolocation": null, 
+            "agroecology": "Tepid to cool sub-moist mid-highlands", 
+            "altitude": null, 
+            "longitude": null, 
+            "village": "Metkilimat", 
+            "latitude": null
+        }
+    }, 
+    {
+        "pk": 214, 
+        "model": "chickens.farm", 
+        "fields": {
+            "geolocation": "POINT(39.16806 13.22972)", 
+            "agroecology": "Tepid to cool sub-moist mid-highlands", 
+            "altitude": 1783, 
+            "longitude": 39.16806, 
+            "village": "Metkilimat", 
+            "latitude": 13.22972
+        }
+    }, 
+    {
+        "pk": 215, 
+        "model": "chickens.farm", 
+        "fields": {
+            "geolocation": null, 
+            "agroecology": "Tepid to cool sub-moist mid-highlands", 
+            "altitude": null, 
+            "longitude": null, 
+            "village": "Metkilimat", 
+            "latitude": null
+        }
+    }, 
+    {
+        "pk": 216, 
+        "model": "chickens.farm", 
+        "fields": {
+            "geolocation": "POINT(39.17889 13.22778)", 
+            "agroecology": "Tepid to cool sub-moist mid-highlands", 
+            "altitude": 1770, 
+            "longitude": 39.17889, 
+            "village": "Metkilimat", 
+            "latitude": 13.22778
+        }
+    }, 
+    {
+        "pk": 217, 
+        "model": "chickens.farm", 
+        "fields": {
+            "geolocation": "POINT(39.17 13.3225)", 
+            "agroecology": "Tepid to cool sub-moist mid-highlands", 
+            "altitude": 2050, 
+            "longitude": 39.17, 
+            "village": "Gijet", 
+            "latitude": 13.3225
+        }
+    }, 
+    {
+        "pk": 218, 
+        "model": "chickens.farm", 
+        "fields": {
+            "geolocation": null, 
+            "agroecology": "Tepid to cool sub-moist mid-highlands", 
+            "altitude": null, 
+            "longitude": null, 
+            "village": "Gijet", 
+            "latitude": null
+        }
+    }, 
+    {
+        "pk": 219, 
+        "model": "chickens.farm", 
+        "fields": {
+            "geolocation": null, 
+            "agroecology": "Tepid to cool sub-moist mid-highlands", 
+            "altitude": null, 
+            "longitude": null, 
+            "village": "Gijet", 
+            "latitude": null
+        }
+    }, 
+    {
+        "pk": 220, 
+        "model": "chickens.farm", 
+        "fields": {
+            "geolocation": null, 
+            "agroecology": "Tepid to cool sub-moist mid-highlands", 
+            "altitude": null, 
+            "longitude": null, 
+            "village": "Gijet", 
+            "latitude": null
+        }
+    }, 
+    {
+        "pk": 221, 
+        "model": "chickens.farm", 
+        "fields": {
+            "geolocation": null, 
+            "agroecology": "Tepid to cool sub-moist mid-highlands", 
+            "altitude": null, 
+            "longitude": null, 
+            "village": "Gijet", 
+            "latitude": null
+        }
+    }, 
+    {
+        "pk": 222, 
+        "model": "chickens.farm", 
+        "fields": {
+            "geolocation": null, 
+            "agroecology": "Tepid to cool sub-moist mid-highlands", 
+            "altitude": null, 
+            "longitude": null, 
+            "village": "Gijet", 
+            "latitude": null
+        }
+    }, 
+    {
+        "pk": 223, 
+        "model": "chickens.farm", 
+        "fields": {
+            "geolocation": "POINT(39.17472 13.32722)", 
+            "agroecology": "Tepid to cool sub-moist mid-highlands", 
+            "altitude": 2082, 
+            "longitude": 39.17472, 
+            "village": "Gijet", 
+            "latitude": 13.32722
+        }
+    }, 
+    {
+        "pk": 224, 
+        "model": "chickens.farm", 
+        "fields": {
+            "geolocation": null, 
+            "agroecology": "Tepid to cool sub-moist mid-highlands", 
+            "altitude": null, 
+            "longitude": null, 
+            "village": "Gijet", 
+            "latitude": null
+        }
+    }, 
+    {
+        "pk": 225, 
+        "model": "chickens.farm", 
+        "fields": {
+            "geolocation": "POINT(38.40583 6.49806)", 
+            "agroecology": "Tepid to cool sub-moist mid-highlands", 
+            "altitude": 1880, 
+            "longitude": 38.40583, 
+            "village": "Gijet", 
+            "latitude": 6.49806
+        }
+    }, 
+    {
+        "pk": 226, 
+        "model": "chickens.farm", 
+        "fields": {
+            "geolocation": null, 
+            "agroecology": "Tepid to cool sub-moist mid-highlands", 
+            "altitude": null, 
+            "longitude": null, 
+            "village": "Gijet", 
+            "latitude": null
+        }
+    }, 
+    {
+        "pk": 227, 
+        "model": "chickens.farm", 
+        "fields": {
+            "geolocation": null, 
+            "agroecology": "Tepid to cool sub-moist mid-highlands", 
+            "altitude": null, 
+            "longitude": null, 
+            "village": "Mihquan", 
+            "latitude": null
+        }
+    }, 
+    {
+        "pk": 228, 
+        "model": "chickens.farm", 
+        "fields": {
+            "geolocation": null, 
+            "agroecology": "Tepid to cool sub-moist mid-highlands", 
+            "altitude": null, 
+            "longitude": null, 
+            "village": "Mihquan", 
+            "latitude": null
+        }
+    }, 
+    {
+        "pk": 229, 
+        "model": "chickens.farm", 
+        "fields": {
+            "geolocation": null, 
+            "agroecology": "Tepid to cool sub-moist mid-highlands", 
+            "altitude": null, 
+            "longitude": null, 
+            "village": "Mihquan", 
+            "latitude": null
+        }
+    }, 
+    {
+        "pk": 230, 
+        "model": "chickens.farm", 
+        "fields": {
+            "geolocation": null, 
+            "agroecology": "Tepid to cool sub-moist mid-highlands", 
+            "altitude": null, 
+            "longitude": null, 
+            "village": "Mihquan", 
+            "latitude": null
+        }
+    }, 
+    {
+        "pk": 231, 
+        "model": "chickens.farm", 
+        "fields": {
+            "geolocation": null, 
+            "agroecology": "Tepid to cool sub-moist mid-highlands", 
+            "altitude": null, 
+            "longitude": null, 
+            "village": "Mihquan", 
+            "latitude": null
+        }
+    }, 
+    {
+        "pk": 232, 
+        "model": "chickens.farm", 
+        "fields": {
+            "geolocation": null, 
+            "agroecology": "Tepid to cool sub-moist mid-highlands", 
+            "altitude": null, 
+            "longitude": null, 
+            "village": "Mihquan", 
+            "latitude": null
+        }
+    }, 
+    {
+        "pk": 233, 
+        "model": "chickens.farm", 
+        "fields": {
+            "geolocation": null, 
+            "agroecology": "Tepid to cool sub-moist mid-highlands", 
+            "altitude": null, 
+            "longitude": null, 
+            "village": "Mihquan", 
+            "latitude": null
+        }
+    }, 
+    {
+        "pk": 234, 
+        "model": "chickens.farm", 
+        "fields": {
+            "geolocation": "POINT(38.78556 14.45444)", 
+            "agroecology": "Tepid to cool sub-moist mid-highlands", 
+            "altitude": 1316, 
+            "longitude": 38.78556, 
+            "village": "Mihquan", 
+            "latitude": 14.45444
+        }
+    }, 
+    {
+        "pk": 235, 
+        "model": "chickens.farm", 
+        "fields": {
+            "geolocation": null, 
+            "agroecology": "Tepid to cool sub-moist mid-highlands", 
+            "altitude": null, 
+            "longitude": null, 
+            "village": "Mihquan", 
+            "latitude": null
+        }
+    }, 
+    {
+        "pk": 236, 
+        "model": "chickens.farm", 
+        "fields": {
+            "geolocation": null, 
+            "agroecology": "Tepid to cool sub-moist mid-highlands", 
+            "altitude": null, 
+            "longitude": null, 
+            "village": "Mihquan", 
+            "latitude": null
+        }
+    }, 
+    {
+        "pk": 237, 
+        "model": "chickens.farm", 
+        "fields": {
+            "geolocation": null, 
+            "agroecology": "Tepid to cool sub-moist mid-highlands", 
+            "altitude": null, 
+            "longitude": null, 
+            "village": "Hadush Adi", 
+            "latitude": null
+        }
+    }, 
+    {
+        "pk": 238, 
+        "model": "chickens.farm", 
+        "fields": {
+            "geolocation": null, 
+            "agroecology": "Tepid to cool sub-moist mid-highlands", 
+            "altitude": null, 
+            "longitude": null, 
+            "village": "Hadush Adi", 
+            "latitude": null
+        }
+    }, 
+    {
+        "pk": 239, 
+        "model": "chickens.farm", 
+        "fields": {
+            "geolocation": "POINT(38.82778 14.35361)", 
+            "agroecology": "Tepid to cool sub-moist mid-highlands", 
+            "altitude": null, 
+            "longitude": 38.82778, 
+            "village": "Hadush Adi", 
+            "latitude": 14.35361
+        }
+    }, 
+    {
+        "pk": 240, 
+        "model": "chickens.farm", 
+        "fields": {
+            "geolocation": "POINT(38.82917 14.3525)", 
+            "agroecology": "Tepid to cool sub-moist mid-highlands", 
+            "altitude": 1494, 
+            "longitude": 38.82917, 
+            "village": "Hadush Adi", 
+            "latitude": 14.3525
+        }
+    }, 
+    {
+        "pk": 241, 
+        "model": "chickens.farm", 
+        "fields": {
+            "geolocation": "POINT(38.82917 14.3525)", 
+            "agroecology": "Tepid to cool sub-moist mid-highlands", 
+            "altitude": 1494, 
+            "longitude": 38.82917, 
+            "village": "Hadush Adi", 
+            "latitude": 14.3525
+        }
+    }, 
+    {
+        "pk": 242, 
+        "model": "chickens.farm", 
+        "fields": {
+            "geolocation": "POINT(38.82778 14.35361)", 
+            "agroecology": "Tepid to cool sub-moist mid-highlands", 
+            "altitude": 1499, 
+            "longitude": 38.82778, 
+            "village": "Hadush Adi", 
+            "latitude": 14.35361
+        }
+    }, 
+    {
+        "pk": 243, 
+        "model": "chickens.farm", 
+        "fields": {
+            "geolocation": null, 
+            "agroecology": "Tepid to cool sub-moist mid-highlands", 
+            "altitude": null, 
+            "longitude": null, 
+            "village": "Hadush Adi", 
+            "latitude": 14.23917
+        }
+    }, 
+    {
+        "pk": 244, 
+        "model": "chickens.farm", 
+        "fields": {
+            "geolocation": "POINT(38.82583 14.34972)", 
+            "agroecology": "Tepid to cool sub-moist mid-highlands", 
+            "altitude": 1490, 
+            "longitude": 38.82583, 
+            "village": "Hadush Adi", 
+            "latitude": 14.34972
+        }
+    }, 
+    {
+        "pk": 245, 
+        "model": "chickens.farm", 
+        "fields": {
+            "geolocation": null, 
+            "agroecology": "Tepid to cool sub-moist mid-highlands", 
+            "altitude": null, 
+            "longitude": null, 
+            "village": "Hadush Adi", 
+            "latitude": null
+        }
+    }, 
+    {
+        "pk": 246, 
+        "model": "chickens.farm", 
+        "fields": {
+            "geolocation": "POINT(38.82583 14.34972)", 
+            "agroecology": "Tepid to cool sub-moist mid-highlands", 
+            "altitude": 1490, 
+            "longitude": 38.82583, 
+            "village": "Hadush Adi", 
+            "latitude": 14.34972
+        }
+    }, 
+    {
+        "pk": 247, 
+        "model": "chickens.farm", 
+        "fields": {
+            "geolocation": null, 
+            "agroecology": "Tepid to cool sub-moist mid-highlands", 
+            "altitude": null, 
+            "longitude": null, 
+            "village": "Meseret", 
+            "latitude": null
+        }
+    }, 
+    {
+        "pk": 248, 
+        "model": "chickens.farm", 
+        "fields": {
+            "geolocation": "POINT(39.56861 13.34556)", 
+            "agroecology": "Tepid to cool sub-moist mid-highlands", 
+            "altitude": 2280, 
+            "longitude": 39.56861, 
+            "village": "Meseret", 
+            "latitude": 13.34556
+        }
+    }, 
+    {
+        "pk": 249, 
+        "model": "chickens.farm", 
+        "fields": {
+            "geolocation": null, 
+            "agroecology": "Tepid to cool sub-moist mid-highlands", 
+            "altitude": null, 
+            "longitude": null, 
+            "village": "Meseret", 
+            "latitude": null
+        }
+    }, 
+    {
+        "pk": 250, 
+        "model": "chickens.farm", 
+        "fields": {
+            "geolocation": null, 
+            "agroecology": "Tepid to cool sub-moist mid-highlands", 
+            "altitude": null, 
+            "longitude": null, 
+            "village": "Meseret", 
+            "latitude": null
+        }
+    }, 
+    {
+        "pk": 251, 
+        "model": "chickens.farm", 
+        "fields": {
+            "geolocation": null, 
+            "agroecology": "Tepid to cool sub-moist mid-highlands", 
+            "altitude": null, 
+            "longitude": null, 
+            "village": "Meseret", 
+            "latitude": null
+        }
+    }, 
+    {
+        "pk": 252, 
+        "model": "chickens.farm", 
+        "fields": {
+            "geolocation": "POINT(39.56889 13.345)", 
+            "agroecology": "Tepid to cool sub-moist mid-highlands", 
+            "altitude": 2291, 
+            "longitude": 39.56889, 
+            "village": "Meseret", 
+            "latitude": 13.345
+        }
+    }, 
+    {
+        "pk": 253, 
+        "model": "chickens.farm", 
+        "fields": {
+            "geolocation": null, 
+            "agroecology": "Tepid to cool sub-moist mid-highlands", 
+            "altitude": null, 
+            "longitude": null, 
+            "village": "Meseret", 
+            "latitude": null
+        }
+    }, 
+    {
+        "pk": 254, 
+        "model": "chickens.farm", 
+        "fields": {
+            "geolocation": "POINT(39.56972 13.34556)", 
+            "agroecology": "Tepid to cool sub-moist mid-highlands", 
+            "altitude": 2296, 
+            "longitude": 39.56972, 
+            "village": "Meseret", 
+            "latitude": 13.34556
+        }
+    }, 
+    {
+        "pk": 255, 
+        "model": "chickens.farm", 
+        "fields": {
+            "geolocation": "POINT(39.56806 13.34389)", 
+            "agroecology": "Tepid to cool sub-moist mid-highlands", 
+            "altitude": 2281, 
+            "longitude": 39.56806, 
+            "village": "Meseret", 
+            "latitude": 13.34389
+        }
+    }, 
+    {
+        "pk": 256, 
+        "model": "chickens.farm", 
+        "fields": {
+            "geolocation": "POINT(39.56917 13.34583)", 
+            "agroecology": "Tepid to cool sub-moist mid-highlands", 
+            "altitude": 2299, 
+            "longitude": 39.56917, 
+            "village": "Meseret", 
+            "latitude": 13.34583
+        }
+    }, 
+    {
+        "pk": 257, 
+        "model": "chickens.farm", 
+        "fields": {
+            "geolocation": null, 
+            "agroecology": "Tepid to cool sub-moist mid-highlands", 
+            "altitude": null, 
+            "longitude": null, 
+            "village": "Meseret", 
+            "latitude": null
+        }
+    }, 
+    {
+        "pk": 258, 
+        "model": "chickens.farm", 
+        "fields": {
+            "geolocation": "POINT(39.56694 13.33917)", 
+            "agroecology": "Tepid to cool sub-moist mid-highlands", 
+            "altitude": 2276, 
+            "longitude": 39.56694, 
+            "village": "Meseret", 
+            "latitude": 13.33917
+        }
+    }, 
+    {
+        "pk": 259, 
+        "model": "chickens.farm", 
+        "fields": {
+            "geolocation": null, 
+            "agroecology": "Tepid to cool sub-moist mid-highlands", 
+            "altitude": null, 
+            "longitude": null, 
+            "village": "Meseret", 
+            "latitude": null
+        }
+    }, 
+    {
+        "pk": 260, 
+        "model": "chickens.farm", 
+        "fields": {
+            "geolocation": null, 
+            "agroecology": "Tepid to cool sub-moist mid-highlands", 
+            "altitude": null, 
+            "longitude": null, 
+            "village": "Meseret", 
+            "latitude": null
+        }
+    }, 
+    {
+        "pk": 261, 
+        "model": "chickens.farm", 
+        "fields": {
+            "geolocation": null, 
+            "agroecology": "Tepid to cool sub-moist mid-highlands", 
+            "altitude": null, 
+            "longitude": null, 
+            "village": "Meseret", 
+            "latitude": null
+        }
+    }, 
+    {
+        "pk": 262, 
+        "model": "chickens.farm", 
+        "fields": {
+            "geolocation": null, 
+            "agroecology": "Tepid to cool sub-moist mid-highlands", 
+            "altitude": null, 
+            "longitude": null, 
+            "village": "Meseret", 
+            "latitude": null
+        }
+    }, 
+    {
+        "pk": 263, 
+        "model": "chickens.farm", 
+        "fields": {
+            "geolocation": "POINT(39.56972 13.34556)", 
+            "agroecology": "Tepid to cool sub-moist mid-highlands", 
+            "altitude": 2296, 
+            "longitude": 39.56972, 
+            "village": "Meseret", 
+            "latitude": 13.34556
+        }
+    }, 
+    {
+        "pk": 264, 
+        "model": "chickens.farm", 
+        "fields": {
+            "geolocation": null, 
+            "agroecology": "Tepid to cool sub-moist mid-highlands", 
+            "altitude": null, 
+            "longitude": null, 
+            "village": "Meseret", 
+            "latitude": null
+        }
+    }, 
+    {
+        "pk": 265, 
+        "model": "chickens.farm", 
+        "fields": {
+            "geolocation": null, 
+            "agroecology": "Tepid to cool sub-moist mid-highlands", 
+            "altitude": null, 
+            "longitude": null, 
+            "village": "Meseret", 
+            "latitude": null
+        }
+    }, 
+    {
+        "pk": 266, 
+        "model": "chickens.farm", 
+        "fields": {
+            "geolocation": "POINT(39.56639 13.34056)", 
+            "agroecology": "Tepid to cool sub-moist mid-highlands", 
+            "altitude": 2263, 
+            "longitude": 39.56639, 
+            "village": "Meseret", 
+            "latitude": 13.34056
+        }
+    }, 
+    {
+        "pk": 267, 
+        "model": "chickens.farm", 
+        "fields": {
+            "geolocation": null, 
+            "agroecology": "Tepid to cool sub-moist mid-highlands", 
+            "altitude": null, 
+            "longitude": null, 
+            "village": "Meseret", 
+            "latitude": null
+        }
+    }, 
+    {
+        "pk": 268, 
+        "model": "chickens.farm", 
+        "fields": {
+            "geolocation": null, 
+            "agroecology": "Tepid to cool sub-moist mid-highlands", 
+            "altitude": null, 
+            "longitude": null, 
+            "village": "Meseret", 
+            "latitude": null
+        }
+    }, 
+    {
+        "pk": 269, 
+        "model": "chickens.farm", 
+        "fields": {
+            "geolocation": null, 
+            "agroecology": "Tepid to cool sub-moist mid-highlands", 
+            "altitude": null, 
+            "longitude": null, 
+            "village": "Meseret", 
+            "latitude": null
+        }
+    }, 
+    {
+        "pk": 270, 
+        "model": "chickens.farm", 
+        "fields": {
+            "geolocation": null, 
+            "agroecology": "Tepid to cool sub-moist mid-highlands", 
+            "altitude": null, 
+            "longitude": null, 
+            "village": "Meseret", 
+            "latitude": null
+        }
+    }, 
+    {
+        "pk": 271, 
+        "model": "chickens.farm", 
+        "fields": {
+            "geolocation": "POINT(39.56778 13.34306)", 
+            "agroecology": "Tepid to cool sub-moist mid-highlands", 
+            "altitude": 2275, 
+            "longitude": 39.56778, 
+            "village": "Meseret", 
+            "latitude": 13.34306
+        }
     }
 ]
