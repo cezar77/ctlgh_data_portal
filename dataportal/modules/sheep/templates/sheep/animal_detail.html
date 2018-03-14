@@ -69,7 +69,7 @@
       <td>{{ animal.sampling.study.contact_person|obfuscate }}</td>
     </tr>
   </table>
-  <input type="hidden" id="boundary" value="{{ animal.sampling.administrative_area.all.0.administrative_area.geom.geojson }}">
+  <input type="hidden" id="boundary" value="{{ animal.sampling.administrative_area.all.0.administrative_area.adm_1.geom.geojson }}">
   <input type="hidden" id="country" value="{{ animal.sampling.administrative_area.all.0.administrative_area.country.geom.geojson }}">
   <input type="hidden" id="point" value="{{ animal.sampling.geolocation.geojson }}">
 {% endblock %}
