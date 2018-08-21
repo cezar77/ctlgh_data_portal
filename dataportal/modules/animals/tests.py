@@ -146,7 +146,7 @@ class SpeciesViewSetTestCase(TestCase):
         )
         cls.user = User.objects.create_user('Test', 'test@example.com', 'testpass') 
 
-    def test_create_endpoint(self):
+    def test_create_species(self):
         """
         Test create
         """
@@ -174,7 +174,7 @@ class SpeciesViewSetTestCase(TestCase):
         self.assertEqual(response.status_code, 201)
         self.assertEqual(response.data['slug'], species.slug)
 
-    def test_list_endpoint(self):
+    def test_list_species(self):
         """
         Test list
         """
@@ -185,7 +185,7 @@ class SpeciesViewSetTestCase(TestCase):
         self.assertEqual(response.data[0]['slug'], self.chicken.slug)
         self.assertEqual(response.data[1]['slug'], self.sheep.slug)
 
-    def test_retrieve_endpoint(self):
+    def test_retrieve_species(self):
         """
         Test retrieve
         """
@@ -194,7 +194,7 @@ class SpeciesViewSetTestCase(TestCase):
         self.assertEqual(response.status_code, 200)
         self.assertEqual(response.data['common_name'], self.chicken.common_name)
 
-    def test_update_endpoint(self):
+    def test_update_species(self):
         """
         Test update
         """
@@ -222,7 +222,7 @@ class SpeciesViewSetTestCase(TestCase):
         self.assertEqual(response.data['common_name'], species.common_name)
         self.assertEqual(response.data['subfamily'], species.subfamily)
 
-    def test_delete_endpoint(self):
+    def test_delete_species(self):
         """
         Test delete
         """
