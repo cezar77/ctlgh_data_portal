@@ -1,0 +1,16 @@
+[
+    {
+        "pk": 273,
+        "model": "chickens.farm",
+        "fields": {
+            "village": "Arginjona"
+        }
+    },
+    {
+        "pk": 274,
+        "model": "chickens.farm",
+        "fields": {
+            "village": "Dehina Mariam"
+        }
+    }
+]

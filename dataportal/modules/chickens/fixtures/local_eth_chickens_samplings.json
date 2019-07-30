@@ -1,0 +1,330 @@
+[
+    {
+        "pk": 414, 
+        "model": "chickens.sampling", 
+        "fields": {
+            "study": 4, 
+            "animal": 414
+        }
+    }, 
+    {
+        "pk": 415, 
+        "model": "chickens.sampling", 
+        "fields": {
+            "study": 4, 
+            "animal": 415
+        }
+    }, 
+    {
+        "pk": 416, 
+        "model": "chickens.sampling", 
+        "fields": {
+            "study": 4, 
+            "animal": 416
+        }
+    }, 
+    {
+        "pk": 417, 
+        "model": "chickens.sampling", 
+        "fields": {
+            "study": 4, 
+            "animal": 417
+        }
+    }, 
+    {
+        "pk": 418, 
+        "model": "chickens.sampling", 
+        "fields": {
+            "study": 4, 
+            "animal": 418
+        }
+    }, 
+    {
+        "pk": 419, 
+        "model": "chickens.sampling", 
+        "fields": {
+            "study": 4, 
+            "animal": 419
+        }
+    }, 
+    {
+        "pk": 420, 
+        "model": "chickens.sampling", 
+        "fields": {
+            "study": 4, 
+            "animal": 420
+        }
+    }, 
+    {
+        "pk": 421, 
+        "model": "chickens.sampling", 
+        "fields": {
+            "study": 4, 
+            "animal": 421
+        }
+    }, 
+    {
+        "pk": 422, 
+        "model": "chickens.sampling", 
+        "fields": {
+            "study": 4, 
+            "animal": 422
+        }
+    }, 
+    {
+        "pk": 423, 
+        "model": "chickens.sampling", 
+        "fields": {
+            "study": 4, 
+            "animal": 423
+        }
+    }, 
+    {
+        "pk": 424, 
+        "model": "chickens.sampling", 
+        "fields": {
+            "study": 4, 
+            "animal": 424
+        }
+    }, 
+    {
+        "pk": 425, 
+        "model": "chickens.sampling", 
+        "fields": {
+            "study": 4, 
+            "animal": 425
+        }
+    }, 
+    {
+        "pk": 426, 
+        "model": "chickens.sampling", 
+        "fields": {
+            "study": 4, 
+            "animal": 426
+        }
+    }, 
+    {
+        "pk": 427, 
+        "model": "chickens.sampling", 
+        "fields": {
+            "study": 4, 
+            "animal": 427
+        }
+    }, 
+    {
+        "pk": 428, 
+        "model": "chickens.sampling", 
+        "fields": {
+            "study": 4, 
+            "animal": 428
+        }
+    }, 
+    {
+        "pk": 429, 
+        "model": "chickens.sampling", 
+        "fields": {
+            "study": 4, 
+            "animal": 429
+        }
+    }, 
+    {
+        "pk": 430, 
+        "model": "chickens.sampling", 
+        "fields": {
+            "study": 4, 
+            "animal": 430
+        }
+    }, 
+    {
+        "pk": 431, 
+        "model": "chickens.sampling", 
+        "fields": {
+            "study": 4, 
+            "animal": 431
+        }
+    }, 
+    {
+        "pk": 432, 
+        "model": "chickens.sampling", 
+        "fields": {
+            "study": 4, 
+            "animal": 432
+        }
+    }, 
+    {
+        "pk": 433, 
+        "model": "chickens.sampling", 
+        "fields": {
+            "study": 4, 
+            "animal": 433
+        }
+    }, 
+    {
+        "pk": 434, 
+        "model": "chickens.sampling", 
+        "fields": {
+            "study": 4, 
+            "animal": 434
+        }
+    }, 
+    {
+        "pk": 435, 
+        "model": "chickens.sampling", 
+        "fields": {
+            "study": 4, 
+            "animal": 435
+        }
+    }, 
+    {
+        "pk": 436, 
+        "model": "chickens.sampling", 
+        "fields": {
+            "study": 4, 
+            "animal": 436
+        }
+    }, 
+    {
+        "pk": 437, 
+        "model": "chickens.sampling", 
+        "fields": {
+            "study": 4, 
+            "animal": 437
+        }
+    }, 
+    {
+        "pk": 438, 
+        "model": "chickens.sampling", 
+        "fields": {
+            "study": 4, 
+            "animal": 438
+        }
+    }, 
+    {
+        "pk": 439, 
+        "model": "chickens.sampling", 
+        "fields": {
+            "study": 4, 
+            "animal": 439
+        }
+    }, 
+    {
+        "pk": 440, 
+        "model": "chickens.sampling", 
+        "fields": {
+            "study": 4, 
+            "animal": 440
+        }
+    }, 
+    {
+        "pk": 441, 
+        "model": "chickens.sampling", 
+        "fields": {
+            "study": 4, 
+            "animal": 441
+        }
+    }, 
+    {
+        "pk": 442, 
+        "model": "chickens.sampling", 
+        "fields": {
+            "study": 4, 
+            "animal": 442
+        }
+    }, 
+    {
+        "pk": 443, 
+        "model": "chickens.sampling", 
+        "fields": {
+            "study": 4, 
+            "animal": 443
+        }
+    }, 
+    {
+        "pk": 444, 
+        "model": "chickens.sampling", 
+        "fields": {
+            "study": 4, 
+            "animal": 444
+        }
+    }, 
+    {
+        "pk": 445, 
+        "model": "chickens.sampling", 
+        "fields": {
+            "study": 4, 
+            "animal": 445
+        }
+    }, 
+    {
+        "pk": 446, 
+        "model": "chickens.sampling", 
+        "fields": {
+            "study": 4, 
+            "animal": 446
+        }
+    }, 
+    {
+        "pk": 447, 
+        "model": "chickens.sampling", 
+        "fields": {
+            "study": 4, 
+            "animal": 447
+        }
+    }, 
+    {
+        "pk": 448, 
+        "model": "chickens.sampling", 
+        "fields": {
+            "study": 4, 
+            "animal": 448
+        }
+    }, 
+    {
+        "pk": 449, 
+        "model": "chickens.sampling", 
+        "fields": {
+            "study": 4, 
+            "animal": 449
+        }
+    }, 
+    {
+        "pk": 450, 
+        "model": "chickens.sampling", 
+        "fields": {
+            "study": 4, 
+            "animal": 450
+        }
+    }, 
+    {
+        "pk": 451, 
+        "model": "chickens.sampling", 
+        "fields": {
+            "study": 4, 
+            "animal": 451
+        }
+    }, 
+    {
+        "pk": 452, 
+        "model": "chickens.sampling", 
+        "fields": {
+            "study": 4, 
+            "animal": 452
+        }
+    }, 
+    {
+        "pk": 453, 
+        "model": "chickens.sampling", 
+        "fields": {
+            "study": 4, 
+            "animal": 453
+        }
+    }, 
+    {
+        "pk": 454, 
+        "model": "chickens.sampling", 
+        "fields": {
+            "study": 4, 
+            "animal": 454
+        }
+    }
+]

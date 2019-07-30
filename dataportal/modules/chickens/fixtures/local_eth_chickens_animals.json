@@ -1,0 +1,412 @@
+[
+    {
+        "pk": 414, 
+        "model": "chickens.animal", 
+        "fields": {
+            "farm": 273, 
+            "animal_id": "B-61", 
+            "tag": "ADA-113", 
+            "species": 1
+        }
+    }, 
+    {
+        "pk": 415, 
+        "model": "chickens.animal", 
+        "fields": {
+            "farm": 273, 
+            "animal_id": "B-62", 
+            "tag": "ADA-104", 
+            "species": 1
+        }
+    }, 
+    {
+        "pk": 416, 
+        "model": "chickens.animal", 
+        "fields": {
+            "farm": 273, 
+            "animal_id": "B-63", 
+            "tag": "ADA-085", 
+            "species": 1
+        }
+    }, 
+    {
+        "pk": 417, 
+        "model": "chickens.animal", 
+        "fields": {
+            "farm": 273, 
+            "animal_id": "B-64", 
+            "tag": "ADA-154", 
+            "species": 1
+        }
+    }, 
+    {
+        "pk": 418, 
+        "model": "chickens.animal", 
+        "fields": {
+            "farm": 273, 
+            "animal_id": "B-65", 
+            "tag": "ADA-129", 
+            "species": 1
+        }
+    }, 
+    {
+        "pk": 419, 
+        "model": "chickens.animal", 
+        "fields": {
+            "farm": 273, 
+            "animal_id": "B-66", 
+            "tag": "ADA-143", 
+            "species": 1
+        }
+    }, 
+    {
+        "pk": 420, 
+        "model": "chickens.animal", 
+        "fields": {
+            "farm": 273, 
+            "animal_id": "B-67", 
+            "tag": "ADA-152", 
+            "species": 1
+        }
+    }, 
+    {
+        "pk": 421, 
+        "model": "chickens.animal", 
+        "fields": {
+            "farm": 273, 
+            "animal_id": "B-68", 
+            "tag": "ADA-046", 
+            "species": 1
+        }
+    }, 
+    {
+        "pk": 422, 
+        "model": "chickens.animal", 
+        "fields": {
+            "farm": 273, 
+            "animal_id": "B-69", 
+            "tag": "ADA-139", 
+            "species": 1
+        }
+    }, 
+    {
+        "pk": 423, 
+        "model": "chickens.animal", 
+        "fields": {
+            "farm": 273, 
+            "animal_id": "B-70", 
+            "tag": "ADA-132", 
+            "species": 1
+        }
+    }, 
+    {
+        "pk": 424, 
+        "model": "chickens.animal", 
+        "fields": {
+            "farm": 273, 
+            "animal_id": "B-71", 
+            "tag": "ADA-115", 
+            "species": 1
+        }
+    }, 
+    {
+        "pk": 425, 
+        "model": "chickens.animal", 
+        "fields": {
+            "farm": 273, 
+            "animal_id": "B-72", 
+            "tag": "ADA-120", 
+            "species": 1
+        }
+    }, 
+    {
+        "pk": 426, 
+        "model": "chickens.animal", 
+        "fields": {
+            "farm": 273, 
+            "animal_id": "B-73", 
+            "tag": "ADA-111", 
+            "species": 1
+        }
+    }, 
+    {
+        "pk": 427, 
+        "model": "chickens.animal", 
+        "fields": {
+            "farm": 273, 
+            "animal_id": "B-74", 
+            "tag": "ADA-173", 
+            "species": 1
+        }
+    }, 
+    {
+        "pk": 428, 
+        "model": "chickens.animal", 
+        "fields": {
+            "farm": 273, 
+            "animal_id": "B-75", 
+            "tag": "ADA-042", 
+            "species": 1
+        }
+    }, 
+    {
+        "pk": 429, 
+        "model": "chickens.animal", 
+        "fields": {
+            "farm": 273, 
+            "animal_id": "B-76", 
+            "tag": "ADA-176", 
+            "species": 1
+        }
+    }, 
+    {
+        "pk": 430, 
+        "model": "chickens.animal", 
+        "fields": {
+            "farm": 273, 
+            "animal_id": "B-77", 
+            "tag": "ADA-141", 
+            "species": 1
+        }
+    }, 
+    {
+        "pk": 431, 
+        "model": "chickens.animal", 
+        "fields": {
+            "farm": 273, 
+            "animal_id": "B-78", 
+            "tag": "ADA-165", 
+            "species": 1
+        }
+    }, 
+    {
+        "pk": 432, 
+        "model": "chickens.animal", 
+        "fields": {
+            "farm": 273, 
+            "animal_id": "B-79", 
+            "tag": "ADA-015", 
+            "species": 1
+        }
+    }, 
+    {
+        "pk": 433, 
+        "model": "chickens.animal", 
+        "fields": {
+            "farm": 273, 
+            "animal_id": "B-80", 
+            "tag": "ADA-069", 
+            "species": 1
+        }
+    }, 
+    {
+        "pk": 434, 
+        "model": "chickens.animal", 
+        "fields": {
+            "farm": 274, 
+            "animal_id": "B-100", 
+            "tag": "115CC", 
+            "species": 1
+        }
+    }, 
+    {
+        "pk": 435, 
+        "model": "chickens.animal", 
+        "fields": {
+            "farm": 274, 
+            "animal_id": "B-101", 
+            "tag": "55CC", 
+            "species": 1
+        }
+    }, 
+    {
+        "pk": 436, 
+        "model": "chickens.animal", 
+        "fields": {
+            "farm": 274, 
+            "animal_id": "B-81", 
+            "tag": "69CC", 
+            "species": 1
+        }
+    }, 
+    {
+        "pk": 437, 
+        "model": "chickens.animal", 
+        "fields": {
+            "farm": 274, 
+            "animal_id": "B-82", 
+            "tag": "154CC", 
+            "species": 1
+        }
+    }, 
+    {
+        "pk": 438, 
+        "model": "chickens.animal", 
+        "fields": {
+            "farm": 274, 
+            "animal_id": "B-83", 
+            "tag": "85CC", 
+            "species": 1
+        }
+    }, 
+    {
+        "pk": 439, 
+        "model": "chickens.animal", 
+        "fields": {
+            "farm": 274, 
+            "animal_id": "B-84", 
+            "tag": "176CC", 
+            "species": 1
+        }
+    }, 
+    {
+        "pk": 440, 
+        "model": "chickens.animal", 
+        "fields": {
+            "farm": 274, 
+            "animal_id": "B-85", 
+            "tag": "144CC", 
+            "species": 1
+        }
+    }, 
+    {
+        "pk": 441, 
+        "model": "chickens.animal", 
+        "fields": {
+            "farm": 274, 
+            "animal_id": "B-86", 
+            "tag": "173CC", 
+            "species": 1
+        }
+    }, 
+    {
+        "pk": 442, 
+        "model": "chickens.animal", 
+        "fields": {
+            "farm": 274, 
+            "animal_id": "B-87", 
+            "tag": "143CC", 
+            "species": 1
+        }
+    }, 
+    {
+        "pk": 443, 
+        "model": "chickens.animal", 
+        "fields": {
+            "farm": 274, 
+            "animal_id": "B-88", 
+            "tag": "58CC", 
+            "species": 1
+        }
+    }, 
+    {
+        "pk": 444, 
+        "model": "chickens.animal", 
+        "fields": {
+            "farm": 274, 
+            "animal_id": "B-89", 
+            "tag": "113CC", 
+            "species": 1
+        }
+    }, 
+    {
+        "pk": 445, 
+        "model": "chickens.animal", 
+        "fields": {
+            "farm": 274, 
+            "animal_id": "B-90", 
+            "tag": "72CC", 
+            "species": 1
+        }
+    }, 
+    {
+        "pk": 446, 
+        "model": "chickens.animal", 
+        "fields": {
+            "farm": 274, 
+            "animal_id": "B-91", 
+            "tag": "15CC", 
+            "species": 1
+        }
+    }, 
+    {
+        "pk": 447, 
+        "model": "chickens.animal", 
+        "fields": {
+            "farm": 274, 
+            "animal_id": "B-92", 
+            "tag": "152CC", 
+            "species": 1
+        }
+    }, 
+    {
+        "pk": 448, 
+        "model": "chickens.animal", 
+        "fields": {
+            "farm": 274, 
+            "animal_id": "B-93", 
+            "tag": "120CC", 
+            "species": 1
+        }
+    }, 
+    {
+        "pk": 449, 
+        "model": "chickens.animal", 
+        "fields": {
+            "farm": 274, 
+            "animal_id": "B-94", 
+            "tag": "111CC", 
+            "species": 1
+        }
+    }, 
+    {
+        "pk": 450, 
+        "model": "chickens.animal", 
+        "fields": {
+            "farm": 274, 
+            "animal_id": "B-95", 
+            "tag": "46CC", 
+            "species": 1
+        }
+    }, 
+    {
+        "pk": 451, 
+        "model": "chickens.animal", 
+        "fields": {
+            "farm": 274, 
+            "animal_id": "B-96", 
+            "tag": "104CC", 
+            "species": 1
+        }
+    }, 
+    {
+        "pk": 452, 
+        "model": "chickens.animal", 
+        "fields": {
+            "farm": 274, 
+            "animal_id": "B-97", 
+            "tag": "132CC", 
+            "species": 1
+        }
+    }, 
+    {
+        "pk": 453, 
+        "model": "chickens.animal", 
+        "fields": {
+            "farm": 274, 
+            "animal_id": "B-98", 
+            "tag": "170CC", 
+            "species": 1
+        }
+    }, 
+    {
+        "pk": 454, 
+        "model": "chickens.animal", 
+        "fields": {
+            "farm": 274, 
+            "animal_id": "B-99", 
+            "tag": "112CC", 
+            "species": 1
+        }
+    }
+]
