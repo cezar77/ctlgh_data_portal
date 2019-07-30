@@ -31,6 +31,7 @@ class Farm(models.Model):
         ('DW', 'Deep well pump water'),
     )
 
+    name = models.CharField(max_length=200, blank=True)
     latitude = models.DecimalField(
         max_digits=7,
         decimal_places=5,
@@ -121,6 +122,7 @@ class Animal(models.Model):
         choices=ORIGINS,
         blank=True
     )
+    breed = models.CharField(max_length=100, blank=True)
     phenotypical_characteristics = pg_fields.JSONField(null=True, blank=True)
     vaccination = models.CharField(max_length=100, blank=True)
     treatment = models.CharField(max_length=100, blank=True)

@@ -1,0 +1,18 @@
+[
+    {
+        "model": "boundaries.administrativerouter",
+        "pk": 285,
+        "fields": {
+            "sampling_content_type": [
+                "chickens",
+                "farm"
+            ],
+            "sampling_object_id": 272,
+            "adm_content_type": [
+                "boundaries",
+                "thirdadministrativelevel"
+            ],
+            "adm_object_id": 424
+        }
+    }
+]

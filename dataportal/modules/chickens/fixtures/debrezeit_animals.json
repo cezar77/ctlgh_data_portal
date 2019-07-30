@@ -1,0 +1,431 @@
+[
+    {
+        "pk": 375, 
+        "model": "chickens.animal", 
+        "fields": {
+            "farm": 272, 
+            "animal_id": "B-1", 
+            "breed": "Horro(2)", 
+            "species": 1, 
+            "animal_sex": "F"
+        }
+    }, 
+    {
+        "pk": 376, 
+        "model": "chickens.animal", 
+        "fields": {
+            "farm": 272, 
+            "animal_id": "B-10", 
+            "breed": "Horro(2)", 
+            "species": 1, 
+            "animal_sex": "F"
+        }
+    }, 
+    {
+        "pk": 377, 
+        "model": "chickens.animal", 
+        "fields": {
+            "farm": 272, 
+            "animal_id": "B-11", 
+            "breed": "Kuroiler", 
+            "species": 1, 
+            "animal_sex": "F"
+        }
+    }, 
+    {
+        "pk": 378, 
+        "model": "chickens.animal", 
+        "fields": {
+            "farm": 272, 
+            "animal_id": "B-12", 
+            "breed": "Kuroiler", 
+            "species": 1, 
+            "animal_sex": "F"
+        }
+    }, 
+    {
+        "pk": 379, 
+        "model": "chickens.animal", 
+        "fields": {
+            "farm": 272, 
+            "animal_id": "B-13", 
+            "breed": "Kuroiler", 
+            "species": 1, 
+            "animal_sex": "F"
+        }
+    }, 
+    {
+        "pk": 380, 
+        "model": "chickens.animal", 
+        "fields": {
+            "farm": 272, 
+            "animal_id": "B-14", 
+            "breed": "Kuroiler", 
+            "species": 1, 
+            "animal_sex": "F"
+        }
+    }, 
+    {
+        "pk": 381, 
+        "model": "chickens.animal", 
+        "fields": {
+            "farm": 272, 
+            "animal_id": "B-15", 
+            "breed": "Kuroiler", 
+            "species": 1, 
+            "animal_sex": "F"
+        }
+    }, 
+    {
+        "pk": 382, 
+        "model": "chickens.animal", 
+        "fields": {
+            "farm": 272, 
+            "animal_id": "B-16", 
+            "breed": "Kuroiler", 
+            "species": 1, 
+            "animal_sex": "F"
+        }
+    }, 
+    {
+        "pk": 383, 
+        "model": "chickens.animal", 
+        "fields": {
+            "farm": 272, 
+            "animal_id": "B-17", 
+            "breed": "Kuroiler", 
+            "species": 1, 
+            "animal_sex": "F"
+        }
+    }, 
+    {
+        "pk": 384, 
+        "model": "chickens.animal", 
+        "fields": {
+            "farm": 272, 
+            "animal_id": "B-18", 
+            "breed": "Kuroiler", 
+            "species": 1, 
+            "animal_sex": "F"
+        }
+    }, 
+    {
+        "pk": 385, 
+        "model": "chickens.animal", 
+        "fields": {
+            "farm": 272, 
+            "animal_id": "B-19", 
+            "breed": "Kuroiler", 
+            "species": 1, 
+            "animal_sex": "F"
+        }
+    }, 
+    {
+        "pk": 386, 
+        "model": "chickens.animal", 
+        "fields": {
+            "farm": 272, 
+            "animal_id": "B-2", 
+            "breed": "Horro(2)", 
+            "species": 1, 
+            "animal_sex": "F"
+        }
+    }, 
+    {
+        "pk": 387, 
+        "model": "chickens.animal", 
+        "fields": {
+            "farm": 272, 
+            "animal_id": "B-20", 
+            "breed": "Kuroiler", 
+            "species": 1, 
+            "animal_sex": "F"
+        }
+    }, 
+    {
+        "pk": 388, 
+        "model": "chickens.animal", 
+        "fields": {
+            "farm": 272, 
+            "animal_id": "B-21", 
+            "breed": "Koekoek", 
+            "species": 1, 
+            "animal_sex": "F"
+        }
+    }, 
+    {
+        "pk": 389, 
+        "model": "chickens.animal", 
+        "fields": {
+            "farm": 272, 
+            "animal_id": "B-22", 
+            "breed": "Koekoek", 
+            "species": 1, 
+            "animal_sex": "F"
+        }
+    }, 
+    {
+        "pk": 390, 
+        "model": "chickens.animal", 
+        "fields": {
+            "farm": 272, 
+            "animal_id": "B-23", 
+            "breed": "Koekoek", 
+            "species": 1, 
+            "animal_sex": "F"
+        }
+    }, 
+    {
+        "pk": 391, 
+        "model": "chickens.animal", 
+        "fields": {
+            "farm": 272, 
+            "animal_id": "B-24", 
+            "breed": "Koekoek", 
+            "species": 1, 
+            "animal_sex": "F"
+        }
+    }, 
+    {
+        "pk": 392, 
+        "model": "chickens.animal", 
+        "fields": {
+            "farm": 272, 
+            "animal_id": "B-25", 
+            "breed": "Koekoek", 
+            "species": 1, 
+            "animal_sex": "F"
+        }
+    }, 
+    {
+        "pk": 393, 
+        "model": "chickens.animal", 
+        "fields": {
+            "farm": 272, 
+            "animal_id": "B-26", 
+            "breed": "Koekoek", 
+            "species": 1, 
+            "animal_sex": "F"
+        }
+    }, 
+    {
+        "pk": 394, 
+        "model": "chickens.animal", 
+        "fields": {
+            "farm": 272, 
+            "animal_id": "B-27", 
+            "breed": "Koekoek", 
+            "species": 1, 
+            "animal_sex": "F"
+        }
+    }, 
+    {
+        "pk": 395, 
+        "model": "chickens.animal", 
+        "fields": {
+            "farm": 272, 
+            "animal_id": "B-28", 
+            "breed": "Koekoek", 
+            "species": 1, 
+            "animal_sex": "F"
+        }
+    }, 
+    {
+        "pk": 396, 
+        "model": "chickens.animal", 
+        "fields": {
+            "farm": 272, 
+            "animal_id": "B-29", 
+            "breed": "Koekoek", 
+            "species": 1, 
+            "animal_sex": "F"
+        }
+    }, 
+    {
+        "pk": 397, 
+        "model": "chickens.animal", 
+        "fields": {
+            "farm": 272, 
+            "animal_id": "B-3", 
+            "breed": "Horro(2)", 
+            "species": 1, 
+            "animal_sex": "F"
+        }
+    }, 
+    {
+        "pk": 398, 
+        "model": "chickens.animal", 
+        "fields": {
+            "farm": 272, 
+            "animal_id": "B-30", 
+            "breed": "Koekoek", 
+            "species": 1, 
+            "animal_sex": "F"
+        }
+    }, 
+    {
+        "pk": 399, 
+        "model": "chickens.animal", 
+        "fields": {
+            "farm": 272, 
+            "animal_id": "B-31", 
+            "breed": "Sasso-R", 
+            "species": 1, 
+            "animal_sex": "F"
+        }
+    }, 
+    {
+        "pk": 400, 
+        "model": "chickens.animal", 
+        "fields": {
+            "farm": 272, 
+            "animal_id": "B-32", 
+            "breed": "Sasso-R", 
+            "species": 1, 
+            "animal_sex": "F"
+        }
+    }, 
+    {
+        "pk": 401, 
+        "model": "chickens.animal", 
+        "fields": {
+            "farm": 272, 
+            "animal_id": "B-33", 
+            "breed": "Sasso-R", 
+            "species": 1, 
+            "animal_sex": "F"
+        }
+    }, 
+    {
+        "pk": 402, 
+        "model": "chickens.animal", 
+        "fields": {
+            "farm": 272, 
+            "animal_id": "B-34", 
+            "breed": "Sasso-R", 
+            "species": 1, 
+            "animal_sex": "F"
+        }
+    }, 
+    {
+        "pk": 403, 
+        "model": "chickens.animal", 
+        "fields": {
+            "farm": 272, 
+            "animal_id": "B-35", 
+            "breed": "Sasso-R", 
+            "species": 1, 
+            "animal_sex": "F"
+        }
+    }, 
+    {
+        "pk": 404, 
+        "model": "chickens.animal", 
+        "fields": {
+            "farm": 272, 
+            "animal_id": "B-36", 
+            "breed": "Sasso-R", 
+            "species": 1, 
+            "animal_sex": "F"
+        }
+    }, 
+    {
+        "pk": 405, 
+        "model": "chickens.animal", 
+        "fields": {
+            "farm": 272, 
+            "animal_id": "B-37", 
+            "breed": "Sasso-R", 
+            "species": 1, 
+            "animal_sex": "F"
+        }
+    }, 
+    {
+        "pk": 406, 
+        "model": "chickens.animal", 
+        "fields": {
+            "farm": 272, 
+            "animal_id": "B-38", 
+            "breed": "Sasso-R", 
+            "species": 1, 
+            "animal_sex": "F"
+        }
+    }, 
+    {
+        "pk": 407, 
+        "model": "chickens.animal", 
+        "fields": {
+            "farm": 272, 
+            "animal_id": "B-39", 
+            "breed": "Sasso-R", 
+            "species": 1, 
+            "animal_sex": "F"
+        }
+    }, 
+    {
+        "pk": 408, 
+        "model": "chickens.animal", 
+        "fields": {
+            "farm": 272, 
+            "animal_id": "B-4", 
+            "breed": "Horro(2)", 
+            "species": 1, 
+            "animal_sex": "F"
+        }
+    }, 
+    {
+        "pk": 409, 
+        "model": "chickens.animal", 
+        "fields": {
+            "farm": 272, 
+            "animal_id": "B-5", 
+            "breed": "Horro(2)", 
+            "species": 1, 
+            "animal_sex": "F"
+        }
+    }, 
+    {
+        "pk": 410, 
+        "model": "chickens.animal", 
+        "fields": {
+            "farm": 272, 
+            "animal_id": "B-6", 
+            "breed": "Horro(2)", 
+            "species": 1, 
+            "animal_sex": "F"
+        }
+    }, 
+    {
+        "pk": 411, 
+        "model": "chickens.animal", 
+        "fields": {
+            "farm": 272, 
+            "animal_id": "B-7", 
+            "breed": "Horro(2)", 
+            "species": 1, 
+            "animal_sex": "F"
+        }
+    }, 
+    {
+        "pk": 412, 
+        "model": "chickens.animal", 
+        "fields": {
+            "farm": 272, 
+            "animal_id": "B-8", 
+            "breed": "Horro(2)", 
+            "species": 1, 
+            "animal_sex": "F"
+        }
+    }, 
+    {
+        "pk": 413, 
+        "model": "chickens.animal", 
+        "fields": {
+            "farm": 272, 
+            "animal_id": "B-9", 
+            "breed": "Horro(2)", 
+            "species": 1, 
+            "animal_sex": "F"
+        }
+    }
+]

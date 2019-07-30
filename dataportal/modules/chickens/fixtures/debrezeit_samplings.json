@@ -1,0 +1,353 @@
+[
+    {
+        "pk": 375, 
+        "model": "chickens.sampling", 
+        "fields": {
+            "date": "2017-10-24", 
+            "study": 4, 
+            "animal": 375
+        }
+    }, 
+    {
+        "pk": 376, 
+        "model": "chickens.sampling", 
+        "fields": {
+            "date": "2017-10-24", 
+            "study": 4, 
+            "animal": 376
+        }
+    }, 
+    {
+        "pk": 377, 
+        "model": "chickens.sampling", 
+        "fields": {
+            "date": "2017-10-24", 
+            "study": 4, 
+            "animal": 377
+        }
+    }, 
+    {
+        "pk": 378, 
+        "model": "chickens.sampling", 
+        "fields": {
+            "date": "2017-10-24", 
+            "study": 4, 
+            "animal": 378
+        }
+    }, 
+    {
+        "pk": 379, 
+        "model": "chickens.sampling", 
+        "fields": {
+            "date": "2017-10-24", 
+            "study": 4, 
+            "animal": 379
+        }
+    }, 
+    {
+        "pk": 380, 
+        "model": "chickens.sampling", 
+        "fields": {
+            "date": "2017-10-24", 
+            "study": 4, 
+            "animal": 380
+        }
+    }, 
+    {
+        "pk": 381, 
+        "model": "chickens.sampling", 
+        "fields": {
+            "date": "2017-10-24", 
+            "study": 4, 
+            "animal": 381
+        }
+    }, 
+    {
+        "pk": 382, 
+        "model": "chickens.sampling", 
+        "fields": {
+            "date": "2017-10-24", 
+            "study": 4, 
+            "animal": 382
+        }
+    }, 
+    {
+        "pk": 383, 
+        "model": "chickens.sampling", 
+        "fields": {
+            "date": "2017-10-24", 
+            "study": 4, 
+            "animal": 383
+        }
+    }, 
+    {
+        "pk": 384, 
+        "model": "chickens.sampling", 
+        "fields": {
+            "date": "2017-10-24", 
+            "study": 4, 
+            "animal": 384
+        }
+    }, 
+    {
+        "pk": 385, 
+        "model": "chickens.sampling", 
+        "fields": {
+            "date": "2017-10-24", 
+            "study": 4, 
+            "animal": 385
+        }
+    }, 
+    {
+        "pk": 386, 
+        "model": "chickens.sampling", 
+        "fields": {
+            "date": "2017-10-24", 
+            "study": 4, 
+            "animal": 386
+        }
+    }, 
+    {
+        "pk": 387, 
+        "model": "chickens.sampling", 
+        "fields": {
+            "date": "2017-10-24", 
+            "study": 4, 
+            "animal": 387
+        }
+    }, 
+    {
+        "pk": 388, 
+        "model": "chickens.sampling", 
+        "fields": {
+            "date": "2017-10-23", 
+            "study": 4, 
+            "animal": 388
+        }
+    }, 
+    {
+        "pk": 389, 
+        "model": "chickens.sampling", 
+        "fields": {
+            "date": "2017-10-23", 
+            "study": 4, 
+            "animal": 389
+        }
+    }, 
+    {
+        "pk": 390, 
+        "model": "chickens.sampling", 
+        "fields": {
+            "date": "2017-10-23", 
+            "study": 4, 
+            "animal": 390
+        }
+    }, 
+    {
+        "pk": 391, 
+        "model": "chickens.sampling", 
+        "fields": {
+            "date": "2017-10-23", 
+            "study": 4, 
+            "animal": 391
+        }
+    }, 
+    {
+        "pk": 392, 
+        "model": "chickens.sampling", 
+        "fields": {
+            "date": "2017-10-23", 
+            "study": 4, 
+            "animal": 392
+        }
+    }, 
+    {
+        "pk": 393, 
+        "model": "chickens.sampling", 
+        "fields": {
+            "date": "2017-10-23", 
+            "study": 4, 
+            "animal": 393
+        }
+    }, 
+    {
+        "pk": 394, 
+        "model": "chickens.sampling", 
+        "fields": {
+            "date": "2017-10-23", 
+            "study": 4, 
+            "animal": 394
+        }
+    }, 
+    {
+        "pk": 395, 
+        "model": "chickens.sampling", 
+        "fields": {
+            "date": "2017-10-23", 
+            "study": 4, 
+            "animal": 395
+        }
+    }, 
+    {
+        "pk": 396, 
+        "model": "chickens.sampling", 
+        "fields": {
+            "date": "2017-10-23", 
+            "study": 4, 
+            "animal": 396
+        }
+    }, 
+    {
+        "pk": 397, 
+        "model": "chickens.sampling", 
+        "fields": {
+            "date": "2017-10-24", 
+            "study": 4, 
+            "animal": 397
+        }
+    }, 
+    {
+        "pk": 398, 
+        "model": "chickens.sampling", 
+        "fields": {
+            "date": "2017-10-23", 
+            "study": 4, 
+            "animal": 398
+        }
+    }, 
+    {
+        "pk": 399, 
+        "model": "chickens.sampling", 
+        "fields": {
+            "date": "2017-10-23", 
+            "study": 4, 
+            "animal": 399
+        }
+    }, 
+    {
+        "pk": 400, 
+        "model": "chickens.sampling", 
+        "fields": {
+            "date": "2017-10-23", 
+            "study": 4, 
+            "animal": 400
+        }
+    }, 
+    {
+        "pk": 401, 
+        "model": "chickens.sampling", 
+        "fields": {
+            "date": "2017-10-23", 
+            "study": 4, 
+            "animal": 401
+        }
+    }, 
+    {
+        "pk": 402, 
+        "model": "chickens.sampling", 
+        "fields": {
+            "date": "2017-10-23", 
+            "study": 4, 
+            "animal": 402
+        }
+    }, 
+    {
+        "pk": 403, 
+        "model": "chickens.sampling", 
+        "fields": {
+            "date": "2017-10-23", 
+            "study": 4, 
+            "animal": 403
+        }
+    }, 
+    {
+        "pk": 404, 
+        "model": "chickens.sampling", 
+        "fields": {
+            "date": "2017-10-23", 
+            "study": 4, 
+            "animal": 404
+        }
+    }, 
+    {
+        "pk": 405, 
+        "model": "chickens.sampling", 
+        "fields": {
+            "date": "2017-10-23", 
+            "study": 4, 
+            "animal": 405
+        }
+    }, 
+    {
+        "pk": 406, 
+        "model": "chickens.sampling", 
+        "fields": {
+            "date": "2017-10-23", 
+            "study": 4, 
+            "animal": 406
+        }
+    }, 
+    {
+        "pk": 407, 
+        "model": "chickens.sampling", 
+        "fields": {
+            "date": "2017-10-23", 
+            "study": 4, 
+            "animal": 407
+        }
+    }, 
+    {
+        "pk": 408, 
+        "model": "chickens.sampling", 
+        "fields": {
+            "date": "2017-10-24", 
+            "study": 4, 
+            "animal": 408
+        }
+    }, 
+    {
+        "pk": 409, 
+        "model": "chickens.sampling", 
+        "fields": {
+            "date": "2017-10-24", 
+            "study": 4, 
+            "animal": 409
+        }
+    }, 
+    {
+        "pk": 410, 
+        "model": "chickens.sampling", 
+        "fields": {
+            "date": "2017-10-24", 
+            "study": 4, 
+            "animal": 410
+        }
+    }, 
+    {
+        "pk": 411, 
+        "model": "chickens.sampling", 
+        "fields": {
+            "date": "2017-10-24", 
+            "study": 4, 
+            "animal": 411
+        }
+    }, 
+    {
+        "pk": 412, 
+        "model": "chickens.sampling", 
+        "fields": {
+            "date": "2017-10-24", 
+            "study": 4, 
+            "animal": 412
+        }
+    }, 
+    {
+        "pk": 413, 
+        "model": "chickens.sampling", 
+        "fields": {
+            "date": "2017-10-24", 
+            "study": 4, 
+            "animal": 413
+        }
+    }
+]

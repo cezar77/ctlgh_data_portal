@@ -22,6 +22,12 @@
       <th>Species</th>
       <td>{{ animal.species }}</td>
     </tr>
+    {% if animal.breed %}
+      <tr>
+        <th>Breed</th>
+        <td>{{ animal.breed }}</td>
+      </tr>
+    {% endif %}
     <tr>
       <th>NCBI taxonomy</th>
       <td>{{ animal.species.ncbi_taxonomy_html }}</td>
@@ -30,19 +36,23 @@
       <th>Sampling date</th>
       <td>{{ animal.sampling.date }}</td>
     </tr>
-    <tr>
-      <th>Animal weight at sampling time</th>
-      <td>{{ animal.sampling.weight }} kg</td>
-    </tr>
+    {% if animal.sampling.weight %}
+      <tr>
+        <th>Animal weight at sampling time</th>
+        <td>{{ animal.sampling.weight }} kg</td>
+      </tr>
+    {% endif %}
     {% if animal.farm.geolocation %}
     <tr>
       <th>Farm geolocation</th>
       <td>{{ animal.farm.geolocation.x|longitude }} {{ animal.farm.geolocation.y|latitude }}</td>
     </tr>
-    <tr>
-      <th>Farm altitude</th>
-      <td>{{ animal.farm.altitude }} m a.s.l.</td>
-    </tr>
+    {% if animal.farm.altitude %}
+      <tr>
+        <th>Farm altitude</th>
+        <td>{{ animal.farm.altitude }} m a.s.l.</td>
+      </tr>
+    {% endif %}
     {% endif %}
     <tr>
       <th>Agroecology</th>

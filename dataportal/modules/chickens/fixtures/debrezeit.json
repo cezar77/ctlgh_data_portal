@@ -1,0 +1,13 @@
+[
+    {
+        "pk": 272,
+        "model": "chickens.farm",
+        "fields": {
+            "name": "Debrezeit EIAR Poultry farm",
+            "geolocation": "POINT(38.96667 8.73333)",
+            "longitude": 38.96667,
+            "latitude": 8.73333,
+            "village": "Debrezeit"
+        }
+    }
+]
