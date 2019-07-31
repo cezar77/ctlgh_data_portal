@@ -1,0 +1,24 @@
+[
+    {
+        "pk": 275,
+        "model": "chickens.farm",
+        "fields": {
+            "name": "Funaab Station",
+            "geolocation": "POINT(3.43417 7.22444)",
+            "longitude": 3.43417,
+            "latitude": 7.22444,
+            "altitude": 134
+        }
+    },
+    {
+        "pk": 276,
+        "model": "chickens.farm",
+        "fields": {
+            "name": "Fol-Hope Station",
+            "geolocation": "POINT(3.97056 7.34028)",
+            "longitude": 3.97056,
+            "latitude": 7.34028,
+            "altitude": 5
+        }
+    }
+]

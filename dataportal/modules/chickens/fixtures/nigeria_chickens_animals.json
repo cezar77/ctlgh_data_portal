@@ -1,0 +1,442 @@
+[
+    {
+        "pk": 455, 
+        "model": "chickens.animal", 
+        "fields": {
+            "farm": 275, 
+            "animal_id": "N1", 
+            "tag": "Y0202", 
+            "species": 1
+        }
+    }, 
+    {
+        "pk": 456, 
+        "model": "chickens.animal", 
+        "fields": {
+            "farm": 275, 
+            "animal_id": "N2", 
+            "tag": "Y0220", 
+            "species": 1
+        }
+    }, 
+    {
+        "pk": 457, 
+        "model": "chickens.animal", 
+        "fields": {
+            "farm": 275, 
+            "animal_id": "N3", 
+            "tag": "Y0215", 
+            "species": 1
+        }
+    }, 
+    {
+        "pk": 458, 
+        "model": "chickens.animal", 
+        "fields": {
+            "farm": 276, 
+            "animal_id": "N4", 
+            "tag": "Y0354", 
+            "species": 1
+        }
+    }, 
+    {
+        "pk": 459, 
+        "model": "chickens.animal", 
+        "fields": {
+            "farm": 276, 
+            "animal_id": "N5", 
+            "tag": "Y0384", 
+            "species": 1
+        }
+    }, 
+    {
+        "pk": 460, 
+        "model": "chickens.animal", 
+        "fields": {
+            "farm": 276, 
+            "animal_id": "N6", 
+            "tag": "Y0370", 
+            "species": 1
+        }
+    }, 
+    {
+        "pk": 461, 
+        "model": "chickens.animal", 
+        "fields": {
+            "farm": 276, 
+            "animal_id": "N7", 
+            "tag": "Y0064", 
+            "species": 1
+        }
+    }, 
+    {
+        "pk": 462, 
+        "model": "chickens.animal", 
+        "fields": {
+            "farm": 276, 
+            "animal_id": "N8", 
+            "tag": "Y0374", 
+            "species": 1
+        }
+    }, 
+    {
+        "pk": 463, 
+        "model": "chickens.animal", 
+        "fields": {
+            "farm": 276, 
+            "animal_id": "N9", 
+            "tag": "Y0082", 
+            "species": 1
+        }
+    }, 
+    {
+        "pk": 464, 
+        "model": "chickens.animal", 
+        "fields": {
+            "farm": 275, 
+            "animal_id": "N11", 
+            "tag": "Y0126", 
+            "species": 1
+        }
+    }, 
+    {
+        "pk": 465, 
+        "model": "chickens.animal", 
+        "fields": {
+            "farm": 275, 
+            "animal_id": "N12", 
+            "tag": "Y0030", 
+            "species": 1
+        }
+    }, 
+    {
+        "pk": 466, 
+        "model": "chickens.animal", 
+        "fields": {
+            "farm": 275, 
+            "animal_id": "N13", 
+            "tag": "Y0166", 
+            "species": 1
+        }
+    }, 
+    {
+        "pk": 467, 
+        "model": "chickens.animal", 
+        "fields": {
+            "farm": 276, 
+            "animal_id": "N14", 
+            "tag": "Y0958", 
+            "species": 1
+        }
+    }, 
+    {
+        "pk": 468, 
+        "model": "chickens.animal", 
+        "fields": {
+            "farm": 276, 
+            "animal_id": "N15", 
+            "tag": "Y0362", 
+            "species": 1
+        }
+    }, 
+    {
+        "pk": 469, 
+        "model": "chickens.animal", 
+        "fields": {
+            "farm": 276, 
+            "animal_id": "N16", 
+            "tag": "Y0034", 
+            "species": 1
+        }
+    }, 
+    {
+        "pk": 470, 
+        "model": "chickens.animal", 
+        "fields": {
+            "farm": 276, 
+            "animal_id": "N17", 
+            "tag": "Y0054", 
+            "species": 1
+        }
+    }, 
+    {
+        "pk": 471, 
+        "model": "chickens.animal", 
+        "fields": {
+            "farm": 276, 
+            "animal_id": "N18", 
+            "tag": "Y0991", 
+            "species": 1
+        }
+    }, 
+    {
+        "pk": 472, 
+        "model": "chickens.animal", 
+        "fields": {
+            "farm": 275, 
+            "animal_id": "N19", 
+            "tag": "Y0128", 
+            "species": 1
+        }
+    }, 
+    {
+        "pk": 473, 
+        "model": "chickens.animal", 
+        "fields": {
+            "farm": 275, 
+            "animal_id": "N20", 
+            "tag": "Y0097", 
+            "species": 1
+        }
+    }, 
+    {
+        "pk": 474, 
+        "model": "chickens.animal", 
+        "fields": {
+            "farm": 275, 
+            "animal_id": "N21", 
+            "tag": "Y0478", 
+            "species": 1
+        }
+    }, 
+    {
+        "pk": 475, 
+        "model": "chickens.animal", 
+        "fields": {
+            "farm": 275, 
+            "animal_id": "N22", 
+            "tag": "Y0464", 
+            "species": 1
+        }
+    }, 
+    {
+        "pk": 476, 
+        "model": "chickens.animal", 
+        "fields": {
+            "farm": 275, 
+            "animal_id": "N23", 
+            "tag": "Y0445", 
+            "species": 1
+        }
+    }, 
+    {
+        "pk": 477, 
+        "model": "chickens.animal", 
+        "fields": {
+            "farm": 276, 
+            "animal_id": "N24", 
+            "tag": "Y0240", 
+            "species": 1
+        }
+    }, 
+    {
+        "pk": 478, 
+        "model": "chickens.animal", 
+        "fields": {
+            "farm": 276, 
+            "animal_id": "N25", 
+            "tag": "Y0347", 
+            "species": 1
+        }
+    }, 
+    {
+        "pk": 479, 
+        "model": "chickens.animal", 
+        "fields": {
+            "farm": 276, 
+            "animal_id": "N26", 
+            "tag": "Y0369", 
+            "species": 1
+        }
+    }, 
+    {
+        "pk": 480, 
+        "model": "chickens.animal", 
+        "fields": {
+            "farm": 276, 
+            "animal_id": "N27", 
+            "tag": "Y0358", 
+            "species": 1
+        }
+    }, 
+    {
+        "pk": 481, 
+        "model": "chickens.animal", 
+        "fields": {
+            "farm": 276, 
+            "animal_id": "N28", 
+            "tag": "Y0237", 
+            "species": 1
+        }
+    }, 
+    {
+        "pk": 482, 
+        "model": "chickens.animal", 
+        "fields": {
+            "farm": 275, 
+            "animal_id": "N31", 
+            "tag": "Y0974", 
+            "species": 1
+        }
+    }, 
+    {
+        "pk": 483, 
+        "model": "chickens.animal", 
+        "fields": {
+            "farm": 275, 
+            "animal_id": "N32", 
+            "tag": "Y0966", 
+            "species": 1
+        }
+    }, 
+    {
+        "pk": 484, 
+        "model": "chickens.animal", 
+        "fields": {
+            "farm": 275, 
+            "animal_id": "N33", 
+            "tag": "Y0909", 
+            "species": 1
+        }
+    }, 
+    {
+        "pk": 485, 
+        "model": "chickens.animal", 
+        "fields": {
+            "farm": 276, 
+            "animal_id": "N34", 
+            "tag": "Y0549", 
+            "species": 1
+        }
+    }, 
+    {
+        "pk": 486, 
+        "model": "chickens.animal", 
+        "fields": {
+            "farm": 276, 
+            "animal_id": "N35", 
+            "tag": "Y0541", 
+            "species": 1
+        }
+    }, 
+    {
+        "pk": 487, 
+        "model": "chickens.animal", 
+        "fields": {
+            "farm": 276, 
+            "animal_id": "N36", 
+            "tag": "Y0516", 
+            "species": 1
+        }
+    }, 
+    {
+        "pk": 488, 
+        "model": "chickens.animal", 
+        "fields": {
+            "farm": 276, 
+            "animal_id": "N37", 
+            "tag": "Y0936", 
+            "species": 1
+        }
+    }, 
+    {
+        "pk": 489, 
+        "model": "chickens.animal", 
+        "fields": {
+            "farm": 276, 
+            "animal_id": "N38", 
+            "tag": "Y0545", 
+            "species": 1
+        }
+    }, 
+    {
+        "pk": 490, 
+        "model": "chickens.animal", 
+        "fields": {
+            "farm": 275, 
+            "animal_id": "N41", 
+            "tag": "Y0640", 
+            "species": 1
+        }
+    }, 
+    {
+        "pk": 491, 
+        "model": "chickens.animal", 
+        "fields": {
+            "farm": 275, 
+            "animal_id": "N42", 
+            "tag": "Y0770", 
+            "species": 1
+        }
+    }, 
+    {
+        "pk": 492, 
+        "model": "chickens.animal", 
+        "fields": {
+            "farm": 275, 
+            "animal_id": "N43", 
+            "tag": "Y0647", 
+            "species": 1
+        }
+    }, 
+    {
+        "pk": 493, 
+        "model": "chickens.animal", 
+        "fields": {
+            "farm": 276, 
+            "animal_id": "N44", 
+            "tag": "Y0896", 
+            "species": 1
+        }
+    }, 
+    {
+        "pk": 494, 
+        "model": "chickens.animal", 
+        "fields": {
+            "farm": 276, 
+            "animal_id": "N45", 
+            "tag": "Y0812", 
+            "species": 1
+        }
+    }, 
+    {
+        "pk": 495, 
+        "model": "chickens.animal", 
+        "fields": {
+            "farm": 276, 
+            "animal_id": "N46", 
+            "tag": "Y0798", 
+            "species": 1
+        }
+    }, 
+    {
+        "pk": 496, 
+        "model": "chickens.animal", 
+        "fields": {
+            "farm": 276, 
+            "animal_id": "N47", 
+            "tag": "Y0881", 
+            "species": 1
+        }
+    }, 
+    {
+        "pk": 497, 
+        "model": "chickens.animal", 
+        "fields": {
+            "farm": 276, 
+            "animal_id": "N48", 
+            "tag": "Y0834", 
+            "species": 1
+        }
+    }, 
+    {
+        "pk": 498, 
+        "model": "chickens.animal", 
+        "fields": {
+            "farm": 275, 
+            "animal_id": "N49", 
+            "tag": "Y0723", 
+            "species": 1
+        }
+    }
+]

@@ -1,0 +1,34 @@
+[
+    {
+        "model": "boundaries.administrativerouter",
+        "pk": 288,
+        "fields": {
+            "sampling_content_type": [
+                "chickens",
+                "farm"
+            ],
+            "sampling_object_id": 275,
+            "adm_content_type": [
+                "boundaries",
+                "secondadministrativelevel"
+            ],
+            "adm_object_id": 1617
+        }
+    },
+    {
+        "model": "boundaries.administrativerouter",
+        "pk": 289,
+        "fields": {
+            "sampling_content_type": [
+                "chickens",
+                "farm"
+            ],
+            "sampling_object_id": 276,
+            "adm_content_type": [
+                "boundaries",
+                "secondadministrativelevel"
+            ],
+            "adm_object_id": 1695
+        }
+    }
+]
