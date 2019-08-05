@@ -123,6 +123,7 @@ class Animal(models.Model):
         blank=True
     )
     breed = models.CharField(max_length=100, blank=True)
+    ecotype = models.CharField(max_length=100, blank=True)
     phenotypical_characteristics = pg_fields.JSONField(null=True, blank=True)
     vaccination = models.CharField(max_length=100, blank=True)
     treatment = models.CharField(max_length=100, blank=True)
