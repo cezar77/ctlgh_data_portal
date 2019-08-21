@@ -38,7 +38,6 @@ class AnimalTable(tables.Table):
 
     class Meta:
         model = Animal
-        template = 'django_tables2/bootstrap.html'
         fields = ('id', 'animal_sex', 'sampling.weight', 'farm.village',
             'farm.agroecology', 'longitude', 'latitude', 'altitude',
             'administrative_area'
