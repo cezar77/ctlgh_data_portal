@@ -50,6 +50,7 @@ INSTALLED_APPS = [
     'django_filters',
     'crispy_forms',
     'email_obfuscator',
+    'cacheops',
     # custom apps
     'dataportal.modules.core',
     'dataportal.modules.boundaries',
@@ -57,6 +58,8 @@ INSTALLED_APPS = [
     'dataportal.modules.animals',
     'dataportal.modules.sheep',
     'dataportal.modules.chickens',
+    'ideal',
+    'ideal.helper'
 ]
 
 MIDDLEWARE = [
@@ -101,9 +104,21 @@ DATABASES = {
         'PASSWORD': credentials.get('DB_PASSWORD'),
         'HOST': credentials.get('DB_HOST'),
         'PORT': credentials.get('DB_PORT')
+    },
+    'remote': {
+        'ENGINE': 'django.db.backends.mysql',
+        'NAME': credentials.get('IDEAL_NAME'),
+        'USER': credentials.get('IDEAL_USER'),
+        'PASSWORD': credentials.get('IDEAL_PASSWORD'),
+        'HOST': credentials.get('IDEAL_HOST'),
+        'PORT': credentials.get('IDEAL_PORT'),
+        'OPTIONS': {
+            'init_command': "SET GLOBAL sql_mode=(SELECT REPLACE(@@sql_mode,'ONLY_FULL_GROUP_BY',''));"
+        }
     }
 }
 
+DATABASE_ROUTERS = ['ideal.routers.IdealRouter', 'ideal.helper.routers.IdealHelperRouter']
 
 # Password validation
 # https://docs.djangoproject.com/en/1.11/ref/settings/#auth-password-validators
@@ -154,6 +169,22 @@ REST_FRAMEWORK = {
 
 # Crispy forms
 CRISPY_TEMPLATE_PACK = 'bootstrap3'
+
+DJANGO_TABLES2_TEMPLATE = 'core/bootstrap-responsive.html'
+
+# Cacheops
+CACHEOPS_REDIS = {
+    'host': 'localhost',
+    'port': 6379,
+    'db': 1
+}
+
+CACHEOPS = {
+    'ideal.*': {'ops': 'all', 'timeout': 24*60*60, 'local_get': True},
+}
+
+CACHEOPS_FAKE = False
+CACHEOPS_DEGRADE_ON_FAILURE = True
 
 try:
     from .local_settings import *
