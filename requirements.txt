@@ -9,3 +9,6 @@ requests==2.18.4
 beautifulsoup4==4.6.0
 django-crispy-forms==1.7.0
 tablib==0.12.1
+mysqlclient==1.4.4
+django-cacheops==4.0.5
+redis==3.3.8
