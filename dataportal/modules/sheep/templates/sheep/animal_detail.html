@@ -61,6 +61,10 @@
       <td>{{ animal.sampling.population.get_tail_shape_display }}</td>
     </tr>
     <tr>
+        <th>Sample name (access to NCBI)</th>
+        <td><a href="{{ animal.accession_url }}">{{ animal.sample_name }}</a></td>
+    </tr>
+    <tr>
       <th>Study</th>
       <td>{{ animal.sampling.study }}</td>
     </tr>
