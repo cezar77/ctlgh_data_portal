@@ -106,6 +106,8 @@ class Animal(models.Model):
         choices=SEXES,
         blank=True
     )
+    sample_name = models.CharField(max_length=100, blank=True)
+    accession_url = models.URLField(blank=True)
     sampling = models.ForeignKey('Sampling', related_name='animals')
     species = models.ForeignKey('animals.Species', related_name='sheep')
 
