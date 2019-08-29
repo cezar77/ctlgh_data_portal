@@ -1,0 +1,1184 @@
+[
+    {
+        "accession": "SAMN11022543",
+        "sample_title": "CAMSHP_GAR32",
+        "sample_name": "CMCAMU000000000001",
+        "url": "https://www.ncbi.nlm.nih.gov/biosample/11022543"
+    },
+    {
+        "accession": "SAMN11022544",
+        "sample_title": "CAMSHP_SIB1-7",
+        "sample_name": "CMCAMU000000000002",
+        "url": "https://www.ncbi.nlm.nih.gov/biosample/11022544"
+    },
+    {
+        "accession": "SAMN11022545",
+        "sample_title": "CAMSHP_Mbo15",
+        "sample_name": "CMCAMU000000000003",
+        "url": "https://www.ncbi.nlm.nih.gov/biosample/11022545"
+    },
+    {
+        "accession": "SAMN11022546",
+        "sample_title": "CAMSHP_NGO16",
+        "sample_name": "CMCAMU000000000004",
+        "url": "https://www.ncbi.nlm.nih.gov/biosample/11022546"
+    },
+    {
+        "accession": "SAMN11022547",
+        "sample_title": "CAMSHP_DOU1-6",
+        "sample_name": "CMCAMU000000000005",
+        "url": "https://www.ncbi.nlm.nih.gov/biosample/11022547"
+    },
+    {
+        "accession": "SAMN11022548",
+        "sample_title": "CAMSHP_Baf108",
+        "sample_name": "CMCAMU000000000006",
+        "url": "https://www.ncbi.nlm.nih.gov/biosample/11022548"
+    },
+    {
+        "accession": "SAMN11022549",
+        "sample_title": "CAMSHP_YOK20",
+        "sample_name": "CMCAMU000000000007",
+        "url": "https://www.ncbi.nlm.nih.gov/biosample/11022549"
+    },
+    {
+        "accession": "SAMN11022550",
+        "sample_title": "CAMSHP_DOU1-3",
+        "sample_name": "CMCAMU000000000008",
+        "url": "https://www.ncbi.nlm.nih.gov/biosample/11022550"
+    },
+    {
+        "accession": "SAMN11022551",
+        "sample_title": "CAMSHP_SIB1-4",
+        "sample_name": "CMCAMU000000000009",
+        "url": "https://www.ncbi.nlm.nih.gov/biosample/11022551"
+    },
+    {
+        "accession": "SAMN11022552",
+        "sample_title": "CAMSHP_DIM2-8",
+        "sample_name": "CMCAMU000000000010",
+        "url": "https://www.ncbi.nlm.nih.gov/biosample/11022552"
+    },
+    {
+        "accession": "SAMN11022553",
+        "sample_title": "CAMSHP_YOK28",
+        "sample_name": "CMCAMU000000000011",
+        "url": "https://www.ncbi.nlm.nih.gov/biosample/11022553"
+    },
+    {
+        "accession": "SAMN11022554",
+        "sample_title": "CAMSHP_DOU1-8",
+        "sample_name": "CMCAMU000000000012",
+        "url": "https://www.ncbi.nlm.nih.gov/biosample/11022554"
+    },
+    {
+        "accession": "SAMN11022555",
+        "sample_title": "CAMSHP_SIB1-3",
+        "sample_name": "CMCAMU000000000013",
+        "url": "https://www.ncbi.nlm.nih.gov/biosample/11022555"
+    },
+    {
+        "accession": "SAMN11022556",
+        "sample_title": "CAMSHP_GAR36",
+        "sample_name": "CMCAMU000000000014",
+        "url": "https://www.ncbi.nlm.nih.gov/biosample/11022556"
+    },
+    {
+        "accession": "SAMN11022557",
+        "sample_title": "CAMSHP_DIM1-3",
+        "sample_name": "CMCAMU000000000015",
+        "url": "https://www.ncbi.nlm.nih.gov/biosample/11022557"
+    },
+    {
+        "accession": "SAMN11022558",
+        "sample_title": "CAMSHP_NGO17",
+        "sample_name": "CMCAMU000000000016",
+        "url": "https://www.ncbi.nlm.nih.gov/biosample/11022558"
+    },
+    {
+        "accession": "SAMN11022559",
+        "sample_title": "CAMSHP_YOK23",
+        "sample_name": "CMCAMU000000000017",
+        "url": "https://www.ncbi.nlm.nih.gov/biosample/11022559"
+    },
+    {
+        "accession": "SAMN11022560",
+        "sample_title": "CAMSHP_BER40",
+        "sample_name": "CMCAMU000000000018",
+        "url": "https://www.ncbi.nlm.nih.gov/biosample/11022560"
+    },
+    {
+        "accession": "SAMN11022561",
+        "sample_title": "CAMSHP_Mba26",
+        "sample_name": "CMCAMU000000000019",
+        "url": "https://www.ncbi.nlm.nih.gov/biosample/11022561"
+    },
+    {
+        "accession": "SAMN11022562",
+        "sample_title": "CAMSHP_YOK30",
+        "sample_name": "CMCAMU000000000020",
+        "url": "https://www.ncbi.nlm.nih.gov/biosample/11022562"
+    },
+    {
+        "accession": "SAMN11022563",
+        "sample_title": "CAMSHP_NGO18",
+        "sample_name": "CMCAMU000000000021",
+        "url": "https://www.ncbi.nlm.nih.gov/biosample/11022563"
+    },
+    {
+        "accession": "SAMN11022564",
+        "sample_title": "CAMSHP_Mam1",
+        "sample_name": "CMCAMU000000000022",
+        "url": "https://www.ncbi.nlm.nih.gov/biosample/11022564"
+    },
+    {
+        "accession": "SAMN11022565",
+        "sample_title": "CAMSHP_Mba25",
+        "sample_name": "CMCAMU000000000023",
+        "url": "https://www.ncbi.nlm.nih.gov/biosample/11022565"
+    },
+    {
+        "accession": "SAMN11022566",
+        "sample_title": "CAMSHP_AYO14",
+        "sample_name": "CMCAMU000000000024",
+        "url": "https://www.ncbi.nlm.nih.gov/biosample/11022566"
+    },
+    {
+        "accession": "SAMN11022567",
+        "sample_title": "CAMSHP_DOU1-1",
+        "sample_name": "CMCAMU000000000025",
+        "url": "https://www.ncbi.nlm.nih.gov/biosample/11022567"
+    },
+    {
+        "accession": "SAMN11022568",
+        "sample_title": "CAMSHP_BAF104",
+        "sample_name": "CMCAMU000000000026",
+        "url": "https://www.ncbi.nlm.nih.gov/biosample/11022568"
+    },
+    {
+        "accession": "SAMN11022569",
+        "sample_title": "CAMSHP_BAF103",
+        "sample_name": "CMCAMU000000000027",
+        "url": "https://www.ncbi.nlm.nih.gov/biosample/11022569"
+    },
+    {
+        "accession": "SAMN11022570",
+        "sample_title": "CAMSHP_YOK6",
+        "sample_name": "CMCAMU000000000028",
+        "url": "https://www.ncbi.nlm.nih.gov/biosample/11022570"
+    },
+    {
+        "accession": "SAMN11022571",
+        "sample_title": "CAMSHP_YOK2",
+        "sample_name": "CMCAMU000000000029",
+        "url": "https://www.ncbi.nlm.nih.gov/biosample/11022571"
+    },
+    {
+        "accession": "SAMN11022572",
+        "sample_title": "CAMSHP_OMB102",
+        "sample_name": "CMCAMU000000000030",
+        "url": "https://www.ncbi.nlm.nih.gov/biosample/11022572"
+    },
+    {
+        "accession": "SAMN11022573",
+        "sample_title": "CAMSHP_PAR19",
+        "sample_name": "CMCAMU000000000031",
+        "url": "https://www.ncbi.nlm.nih.gov/biosample/11022573"
+    },
+    {
+        "accession": "SAMN11022574",
+        "sample_title": "CAMSHP_BER43",
+        "sample_name": "CMCAMU000000000032",
+        "url": "https://www.ncbi.nlm.nih.gov/biosample/11022574"
+    },
+    {
+        "accession": "SAMN11022575",
+        "sample_title": "CAMSHP_Mba14",
+        "sample_name": "CMCAMU000000000033",
+        "url": "https://www.ncbi.nlm.nih.gov/biosample/11022575"
+    },
+    {
+        "accession": "SAMN11022576",
+        "sample_title": "CAMSHP_Mb214",
+        "sample_name": "CMCAMU000000000034",
+        "url": "https://www.ncbi.nlm.nih.gov/biosample/11022576"
+    },
+    {
+        "accession": "SAMN11022577",
+        "sample_title": "CAMSHP_AYO15",
+        "sample_name": "CMCAMU000000000035",
+        "url": "https://www.ncbi.nlm.nih.gov/biosample/11022577"
+    },
+    {
+        "accession": "SAMN11022578",
+        "sample_title": "CAMSHP_Mba23",
+        "sample_name": "CMCAMU000000000036",
+        "url": "https://www.ncbi.nlm.nih.gov/biosample/11022578"
+    },
+    {
+        "accession": "SAMN11022579",
+        "sample_title": "CAMSHP_YOK22",
+        "sample_name": "CMCAMU000000000037",
+        "url": "https://www.ncbi.nlm.nih.gov/biosample/11022579"
+    },
+    {
+        "accession": "SAMN11022580",
+        "sample_title": "CAMSHP_YOK11",
+        "sample_name": "CMCAMU000000000038",
+        "url": "https://www.ncbi.nlm.nih.gov/biosample/11022580"
+    },
+    {
+        "accession": "SAMN11022581",
+        "sample_title": "CAMSHP_YOK1",
+        "sample_name": "CMCAMU000000000039",
+        "url": "https://www.ncbi.nlm.nih.gov/biosample/11022581"
+    },
+    {
+        "accession": "SAMN11022582",
+        "sample_title": "CAMSHP_Mba2-1",
+        "sample_name": "CMCAMU000000000040",
+        "url": "https://www.ncbi.nlm.nih.gov/biosample/11022582"
+    },
+    {
+        "accession": "SAMN11022583",
+        "sample_title": "CAMSHP_BER38",
+        "sample_name": "CMCAMU000000000041",
+        "url": "https://www.ncbi.nlm.nih.gov/biosample/11022583"
+    },
+    {
+        "accession": "SAMN11022584",
+        "sample_title": "CAMSHP_YOK13",
+        "sample_name": "CMCAMU000000000042",
+        "url": "https://www.ncbi.nlm.nih.gov/biosample/11022584"
+    },
+    {
+        "accession": "SAMN11022585",
+        "sample_title": "CAMSHP_Mba272",
+        "sample_name": "CMCAMU000000000043",
+        "url": "https://www.ncbi.nlm.nih.gov/biosample/11022585"
+    },
+    {
+        "accession": "SAMN11022586",
+        "sample_title": "CAMSHP_YOK10",
+        "sample_name": "CMCAMU000000000044",
+        "url": "https://www.ncbi.nlm.nih.gov/biosample/11022586"
+    },
+    {
+        "accession": "SAMN11022587",
+        "sample_title": "CAMSHP_DIM2-3",
+        "sample_name": "CMCAMU000000000045",
+        "url": "https://www.ncbi.nlm.nih.gov/biosample/11022587"
+    },
+    {
+        "accession": "SAMN11022588",
+        "sample_title": "CAMSHP_BER39",
+        "sample_name": "CMCAMU000000000046",
+        "url": "https://www.ncbi.nlm.nih.gov/biosample/11022588"
+    },
+    {
+        "accession": "SAMN11022589",
+        "sample_title": "CAMSHP_SIB1-6",
+        "sample_name": "CMCAMU000000000047",
+        "url": "https://www.ncbi.nlm.nih.gov/biosample/11022589"
+    },
+    {
+        "accession": "SAMN11022590",
+        "sample_title": "CAMSHP_DIM2-1",
+        "sample_name": "CMCAMU000000000048",
+        "url": "https://www.ncbi.nlm.nih.gov/biosample/11022590"
+    },
+    {
+        "accession": "SAMN11022591",
+        "sample_title": "LBR2859",
+        "sample_name": "LYBRBU000000000001",
+        "url": "https://www.ncbi.nlm.nih.gov/biosample/11022591"
+    },
+    {
+        "accession": "SAMN11022592",
+        "sample_title": "LBR2856",
+        "sample_name": "LYBRBU000000000002",
+        "url": "https://www.ncbi.nlm.nih.gov/biosample/11022592"
+    },
+    {
+        "accession": "SAMN11022593",
+        "sample_title": "LBR2890",
+        "sample_name": "LYBRBU000000000003",
+        "url": "https://www.ncbi.nlm.nih.gov/biosample/11022593"
+    },
+    {
+        "accession": "SAMN11022594",
+        "sample_title": "LBRD105",
+        "sample_name": "LYBRBU000000000004",
+        "url": "https://www.ncbi.nlm.nih.gov/biosample/11022594"
+    },
+    {
+        "accession": "SAMN11022595",
+        "sample_title": "LBRD132",
+        "sample_name": "LYBRBU000000000005",
+        "url": "https://www.ncbi.nlm.nih.gov/biosample/11022595"
+    },
+    {
+        "accession": "SAMN11022596",
+        "sample_title": "LBRD133",
+        "sample_name": "LYBRBU000000000006",
+        "url": "https://www.ncbi.nlm.nih.gov/biosample/11022596"
+    },
+    {
+        "accession": "SAMN11022597",
+        "sample_title": "LBRD136",
+        "sample_name": "LYBRBU000000000007",
+        "url": "https://www.ncbi.nlm.nih.gov/biosample/11022597"
+    },
+    {
+        "accession": "SAMN11022598",
+        "sample_title": "LBRD140",
+        "sample_name": "LYBRBU000000000008",
+        "url": "https://www.ncbi.nlm.nih.gov/biosample/11022598"
+    },
+    {
+        "accession": "SAMN11022599",
+        "sample_title": "LBRD147",
+        "sample_name": "LYBRBU000000000009",
+        "url": "https://www.ncbi.nlm.nih.gov/biosample/11022599"
+    },
+    {
+        "accession": "SAMN11022600",
+        "sample_title": "LBRD154",
+        "sample_name": "LYBRBU000000000010",
+        "url": "https://www.ncbi.nlm.nih.gov/biosample/11022600"
+    },
+    {
+        "accession": "SAMN11022601",
+        "sample_title": "LBRD165",
+        "sample_name": "LYBRBU000000000011",
+        "url": "https://www.ncbi.nlm.nih.gov/biosample/11022601"
+    },
+    {
+        "accession": "SAMN11022602",
+        "sample_title": "LBRD172",
+        "sample_name": "LYBRBU000000000012",
+        "url": "https://www.ncbi.nlm.nih.gov/biosample/11022602"
+    },
+    {
+        "accession": "SAMN11022603",
+        "sample_title": "NDJ-001",
+        "sample_name": "NGDJKU000000000001",
+        "url": "https://www.ncbi.nlm.nih.gov/biosample/11022603"
+    },
+    {
+        "accession": "SAMN11022604",
+        "sample_title": "NDJ-002",
+        "sample_name": "NGDJKU000000000002",
+        "url": "https://www.ncbi.nlm.nih.gov/biosample/11022604"
+    },
+    {
+        "accession": "SAMN11022605",
+        "sample_title": "NDJ-003",
+        "sample_name": "NGDJKU000000000003",
+        "url": "https://www.ncbi.nlm.nih.gov/biosample/11022605"
+    },
+    {
+        "accession": "SAMN11022606",
+        "sample_title": "NDJ-004",
+        "sample_name": "NGDJKU000000000004",
+        "url": "https://www.ncbi.nlm.nih.gov/biosample/11022606"
+    },
+    {
+        "accession": "SAMN11022607",
+        "sample_title": "NDJ-005",
+        "sample_name": "NGDJKU000000000005",
+        "url": "https://www.ncbi.nlm.nih.gov/biosample/11022607"
+    },
+    {
+        "accession": "SAMN11022608",
+        "sample_title": "NDJ-006",
+        "sample_name": "NGDJKU000000000006",
+        "url": "https://www.ncbi.nlm.nih.gov/biosample/11022608"
+    },
+    {
+        "accession": "SAMN11022609",
+        "sample_title": "NDJ-007",
+        "sample_name": "NGDJKU000000000007",
+        "url": "https://www.ncbi.nlm.nih.gov/biosample/11022609"
+    },
+    {
+        "accession": "SAMN11022610",
+        "sample_title": "NDJ-008",
+        "sample_name": "NGDJKU000000000008",
+        "url": "https://www.ncbi.nlm.nih.gov/biosample/11022610"
+    },
+    {
+        "accession": "SAMN11022611",
+        "sample_title": "NDJ-009",
+        "sample_name": "NGDJKU000000000009",
+        "url": "https://www.ncbi.nlm.nih.gov/biosample/11022611"
+    },
+    {
+        "accession": "SAMN11022612",
+        "sample_title": "NDJ-010",
+        "sample_name": "NGDJKU000000000010",
+        "url": "https://www.ncbi.nlm.nih.gov/biosample/11022612"
+    },
+    {
+        "accession": "SAMN11022613",
+        "sample_title": "GDJ-002",
+        "sample_name": "GHDJKU000000000011",
+        "url": "https://www.ncbi.nlm.nih.gov/biosample/11022613"
+    },
+    {
+        "accession": "SAMN11022614",
+        "sample_title": "GDJ-003",
+        "sample_name": "GHDJKU000000000012",
+        "url": "https://www.ncbi.nlm.nih.gov/biosample/11022614"
+    },
+    {
+        "accession": "SAMN11022615",
+        "sample_title": "GDJ-004",
+        "sample_name": "GHDJKU000000000013",
+        "url": "https://www.ncbi.nlm.nih.gov/biosample/11022615"
+    },
+    {
+        "accession": "SAMN11022616",
+        "sample_title": "GDJ-005",
+        "sample_name": "GHDJKU000000000014",
+        "url": "https://www.ncbi.nlm.nih.gov/biosample/11022616"
+    },
+    {
+        "accession": "SAMN11022617",
+        "sample_title": "GDJ-006",
+        "sample_name": "GHDJKU000000000015",
+        "url": "https://www.ncbi.nlm.nih.gov/biosample/11022617"
+    },
+    {
+        "accession": "SAMN11022618",
+        "sample_title": "GDJ-007",
+        "sample_name": "GHDJKU000000000016",
+        "url": "https://www.ncbi.nlm.nih.gov/biosample/11022618"
+    },
+    {
+        "accession": "SAMN11022619",
+        "sample_title": "GDJ-008",
+        "sample_name": "GHDJKU000000000017",
+        "url": "https://www.ncbi.nlm.nih.gov/biosample/11022619"
+    },
+    {
+        "accession": "SAMN11022620",
+        "sample_title": "GDJ-009",
+        "sample_name": "GHDJKU000000000018",
+        "url": "https://www.ncbi.nlm.nih.gov/biosample/11022620"
+    },
+    {
+        "accession": "SAMN11022621",
+        "sample_title": "GDJ-010",
+        "sample_name": "GHDJKU000000000019",
+        "url": "https://www.ncbi.nlm.nih.gov/biosample/11022621"
+    },
+    {
+        "accession": "SAMN11022622",
+        "sample_title": "BQ2602",
+        "sample_name": "ETBNGU000000000001",
+        "url": "https://www.ncbi.nlm.nih.gov/biosample/11022622"
+    },
+    {
+        "accession": "SAMN11022623",
+        "sample_title": "BQ2610",
+        "sample_name": "ETBNGU000000000002",
+        "url": "https://www.ncbi.nlm.nih.gov/biosample/11022623"
+    },
+    {
+        "accession": "SAMN11022624",
+        "sample_title": "BQ2611",
+        "sample_name": "ETBNGU000000000003",
+        "url": "https://www.ncbi.nlm.nih.gov/biosample/11022624"
+    },
+    {
+        "accession": "SAMN11022625",
+        "sample_title": "BQ2619",
+        "sample_name": "ETBNGU000000000004",
+        "url": "https://www.ncbi.nlm.nih.gov/biosample/11022625"
+    },
+    {
+        "accession": "SAMN11022626",
+        "sample_title": "BO2620",
+        "sample_name": "ETBNGU000000000005",
+        "url": "https://www.ncbi.nlm.nih.gov/biosample/11022626"
+    },
+    {
+        "accession": "SAMN11022627",
+        "sample_title": "BQ2626",
+        "sample_name": "ETBNGU000000000006",
+        "url": "https://www.ncbi.nlm.nih.gov/biosample/11022627"
+    },
+    {
+        "accession": "SAMN11022628",
+        "sample_title": "BQ2643",
+        "sample_name": "ETBNGU000000000007",
+        "url": "https://www.ncbi.nlm.nih.gov/biosample/11022628"
+    },
+    {
+        "accession": "SAMN11022629",
+        "sample_title": "BO2660",
+        "sample_name": "ETBNGU000000000008",
+        "url": "https://www.ncbi.nlm.nih.gov/biosample/11022629"
+    },
+    {
+        "accession": "SAMN11022630",
+        "sample_title": "BO2661",
+        "sample_name": "ETBNGU000000000009",
+        "url": "https://www.ncbi.nlm.nih.gov/biosample/11022630"
+    },
+    {
+        "accession": "SAMN11022631",
+        "sample_title": "BO2668",
+        "sample_name": "ETBNGU000000000010",
+        "url": "https://www.ncbi.nlm.nih.gov/biosample/11022631"
+    },
+    {
+        "accession": "SAMN11022632",
+        "sample_title": "WA1319",
+        "sample_name": "ETGFRU000000000011",
+        "url": "https://www.ncbi.nlm.nih.gov/biosample/11022632"
+    },
+    {
+        "accession": "SAMN11022633",
+        "sample_title": "WA1322",
+        "sample_name": "ETGFRU000000000012",
+        "url": "https://www.ncbi.nlm.nih.gov/biosample/11022633"
+    },
+    {
+        "accession": "SAMN11022634",
+        "sample_title": "WA1324",
+        "sample_name": "ETGFRU000000000013",
+        "url": "https://www.ncbi.nlm.nih.gov/biosample/11022634"
+    },
+    {
+        "accession": "SAMN11022635",
+        "sample_title": "WA1325",
+        "sample_name": "ETGFRU000000000014",
+        "url": "https://www.ncbi.nlm.nih.gov/biosample/11022635"
+    },
+    {
+        "accession": "SAMN11022636",
+        "sample_title": "WA1327",
+        "sample_name": "ETGFRU000000000015",
+        "url": "https://www.ncbi.nlm.nih.gov/biosample/11022636"
+    },
+    {
+        "accession": "SAMN11022637",
+        "sample_title": "WA1332",
+        "sample_name": "ETGFRU000000000016",
+        "url": "https://www.ncbi.nlm.nih.gov/biosample/11022637"
+    },
+    {
+        "accession": "SAMN11022638",
+        "sample_title": "WA1333",
+        "sample_name": "ETGFRU000000000017",
+        "url": "https://www.ncbi.nlm.nih.gov/biosample/11022638"
+    },
+    {
+        "accession": "SAMN11022639",
+        "sample_title": "WA1339",
+        "sample_name": "ETGFRU000000000018",
+        "url": "https://www.ncbi.nlm.nih.gov/biosample/11022639"
+    },
+    {
+        "accession": "SAMN11022640",
+        "sample_title": "WA1341",
+        "sample_name": "ETGFRU000000000019",
+        "url": "https://www.ncbi.nlm.nih.gov/biosample/11022640"
+    },
+    {
+        "accession": "SAMN11022641",
+        "sample_title": "WA1343",
+        "sample_name": "ETGFRU000000000020",
+        "url": "https://www.ncbi.nlm.nih.gov/biosample/11022641"
+    },
+    {
+        "accession": "SAMN11022642",
+        "sample_title": "MZ2601",
+        "sample_name": "ETMENU000000000021",
+        "url": "https://www.ncbi.nlm.nih.gov/biosample/11022642"
+    },
+    {
+        "accession": "SAMN11022643",
+        "sample_title": "MZ2617",
+        "sample_name": "ETMENU000000000022",
+        "url": "https://www.ncbi.nlm.nih.gov/biosample/11022643"
+    },
+    {
+        "accession": "SAMN11022644",
+        "sample_title": "MZ2622",
+        "sample_name": "ETMENU000000000023",
+        "url": "https://www.ncbi.nlm.nih.gov/biosample/11022644"
+    },
+    {
+        "accession": "SAMN11022645",
+        "sample_title": "MZ2628",
+        "sample_name": "ETMENU000000000024",
+        "url": "https://www.ncbi.nlm.nih.gov/biosample/11022645"
+    },
+    {
+        "accession": "SAMN11022646",
+        "sample_title": "MZ2630",
+        "sample_name": "ETMENU000000000025",
+        "url": "https://www.ncbi.nlm.nih.gov/biosample/11022646"
+    },
+    {
+        "accession": "SAMN11022647",
+        "sample_title": "MZ2631",
+        "sample_name": "ETMENU000000000026",
+        "url": "https://www.ncbi.nlm.nih.gov/biosample/11022647"
+    },
+    {
+        "accession": "SAMN11022648",
+        "sample_title": "MZ2633",
+        "sample_name": "ETMENU000000000027",
+        "url": "https://www.ncbi.nlm.nih.gov/biosample/11022648"
+    },
+    {
+        "accession": "SAMN11022649",
+        "sample_title": "MZ2644",
+        "sample_name": "ETMENU000000000028",
+        "url": "https://www.ncbi.nlm.nih.gov/biosample/11022649"
+    },
+    {
+        "accession": "SAMN11022650",
+        "sample_title": "MZ2646",
+        "sample_name": "ETMENU000000000029",
+        "url": "https://www.ncbi.nlm.nih.gov/biosample/11022650"
+    },
+    {
+        "accession": "SAMN11022651",
+        "sample_title": "MZ2649",
+        "sample_name": "ETMENU000000000030",
+        "url": "https://www.ncbi.nlm.nih.gov/biosample/11022651"
+    },
+    {
+        "accession": "SAMN11022652",
+        "sample_title": "DH2651",
+        "sample_name": "ETDYGU000000000031",
+        "url": "https://www.ncbi.nlm.nih.gov/biosample/11022652"
+    },
+    {
+        "accession": "SAMN11022653",
+        "sample_title": "DA2653",
+        "sample_name": "ETDYGU000000000032",
+        "url": "https://www.ncbi.nlm.nih.gov/biosample/11022653"
+    },
+    {
+        "accession": "SAMN11022654",
+        "sample_title": "DA2655",
+        "sample_name": "ETDYGU000000000033",
+        "url": "https://www.ncbi.nlm.nih.gov/biosample/11022654"
+    },
+    {
+        "accession": "SAMN11022655",
+        "sample_title": "DA2657",
+        "sample_name": "ETDYGU000000000034",
+        "url": "https://www.ncbi.nlm.nih.gov/biosample/11022655"
+    },
+    {
+        "accession": "SAMN11022656",
+        "sample_title": "DH2667",
+        "sample_name": "ETDYGU000000000035",
+        "url": "https://www.ncbi.nlm.nih.gov/biosample/11022656"
+    },
+    {
+        "accession": "SAMN11022657",
+        "sample_title": "DH2679",
+        "sample_name": "ETDYGU000000000036",
+        "url": "https://www.ncbi.nlm.nih.gov/biosample/11022657"
+    },
+    {
+        "accession": "SAMN11022658",
+        "sample_title": "DH2688",
+        "sample_name": "ETDYGU000000000037",
+        "url": "https://www.ncbi.nlm.nih.gov/biosample/11022658"
+    },
+    {
+        "accession": "SAMN11022659",
+        "sample_title": "DA2689",
+        "sample_name": "ETDYGU000000000038",
+        "url": "https://www.ncbi.nlm.nih.gov/biosample/11022659"
+    },
+    {
+        "accession": "SAMN11022660",
+        "sample_title": "DA2692",
+        "sample_name": "ETDYGU000000000039",
+        "url": "https://www.ncbi.nlm.nih.gov/biosample/11022660"
+    },
+    {
+        "accession": "SAMN11022661",
+        "sample_title": "DH2693",
+        "sample_name": "ETDYGU000000000040",
+        "url": "https://www.ncbi.nlm.nih.gov/biosample/11022661"
+    },
+    {
+        "accession": "SAMN11022662",
+        "sample_title": "LA1304",
+        "sample_name": "ETLYAU000000000041",
+        "url": "https://www.ncbi.nlm.nih.gov/biosample/11022662"
+    },
+    {
+        "accession": "SAMN11022663",
+        "sample_title": "LA1305",
+        "sample_name": "ETLYAU000000000042",
+        "url": "https://www.ncbi.nlm.nih.gov/biosample/11022663"
+    },
+    {
+        "accession": "SAMN11022664",
+        "sample_title": "LA1307",
+        "sample_name": "ETLYAU000000000043",
+        "url": "https://www.ncbi.nlm.nih.gov/biosample/11022664"
+    },
+    {
+        "accession": "SAMN11022665",
+        "sample_title": "LA1310",
+        "sample_name": "ETLYAU000000000044",
+        "url": "https://www.ncbi.nlm.nih.gov/biosample/11022665"
+    },
+    {
+        "accession": "SAMN11022666",
+        "sample_title": "LA1311",
+        "sample_name": "ETLYAU000000000045",
+        "url": "https://www.ncbi.nlm.nih.gov/biosample/11022666"
+    },
+    {
+        "accession": "SAMN11022667",
+        "sample_title": "LA1314",
+        "sample_name": "ETLYAU000000000046",
+        "url": "https://www.ncbi.nlm.nih.gov/biosample/11022667"
+    },
+    {
+        "accession": "SAMN11022668",
+        "sample_title": "LA1344",
+        "sample_name": "ETLYAU000000000047",
+        "url": "https://www.ncbi.nlm.nih.gov/biosample/11022668"
+    },
+    {
+        "accession": "SAMN11022669",
+        "sample_title": "LA2821",
+        "sample_name": "ETLYAU000000000048",
+        "url": "https://www.ncbi.nlm.nih.gov/biosample/11022669"
+    },
+    {
+        "accession": "SAMN11022670",
+        "sample_title": "LA2817",
+        "sample_name": "ETLYAU000000000049",
+        "url": "https://www.ncbi.nlm.nih.gov/biosample/11022670"
+    },
+    {
+        "accession": "SAMN11022671",
+        "sample_title": "LA2822",
+        "sample_name": "ETLYAU000000000050",
+        "url": "https://www.ncbi.nlm.nih.gov/biosample/11022671"
+    },
+    {
+        "accession": "SAMN11022672",
+        "sample_title": "KO2768",
+        "sample_name": "ETKDOU000000000051",
+        "url": "https://www.ncbi.nlm.nih.gov/biosample/11022672"
+    },
+    {
+        "accession": "SAMN11022673",
+        "sample_title": "KO2765",
+        "sample_name": "ETKDOU000000000052",
+        "url": "https://www.ncbi.nlm.nih.gov/biosample/11022673"
+    },
+    {
+        "accession": "SAMN11022674",
+        "sample_title": "KO2766",
+        "sample_name": "ETKDOU000000000053",
+        "url": "https://www.ncbi.nlm.nih.gov/biosample/11022674"
+    },
+    {
+        "accession": "SAMN11022675",
+        "sample_title": "KO2767",
+        "sample_name": "ETKDOU000000000054",
+        "url": "https://www.ncbi.nlm.nih.gov/biosample/11022675"
+    },
+    {
+        "accession": "SAMN11022676",
+        "sample_title": "KO2771",
+        "sample_name": "ETKDOU000000000055",
+        "url": "https://www.ncbi.nlm.nih.gov/biosample/11022676"
+    },
+    {
+        "accession": "SAMN11022677",
+        "sample_title": "KO2773",
+        "sample_name": "ETKDOU000000000056",
+        "url": "https://www.ncbi.nlm.nih.gov/biosample/11022677"
+    },
+    {
+        "accession": "SAMN11022678",
+        "sample_title": "KO2774",
+        "sample_name": "ETKDOU000000000057",
+        "url": "https://www.ncbi.nlm.nih.gov/biosample/11022678"
+    },
+    {
+        "accession": "SAMN11022679",
+        "sample_title": "KO2775",
+        "sample_name": "ETKDOU000000000058",
+        "url": "https://www.ncbi.nlm.nih.gov/biosample/11022679"
+    },
+    {
+        "accession": "SAMN11022680",
+        "sample_title": "KO2789",
+        "sample_name": "ETKDOU000000000059",
+        "url": "https://www.ncbi.nlm.nih.gov/biosample/11022680"
+    },
+    {
+        "accession": "SAMN11022681",
+        "sample_title": "KO2791",
+        "sample_name": "ETKDOU000000000060",
+        "url": "https://www.ncbi.nlm.nih.gov/biosample/11022681"
+    },
+    {
+        "accession": "SAMN11022682",
+        "sample_title": "GGD2795",
+        "sample_name": "ETGSSU000000000061",
+        "url": "https://www.ncbi.nlm.nih.gov/biosample/11022682"
+    },
+    {
+        "accession": "SAMN11022683",
+        "sample_title": "GGD2796",
+        "sample_name": "ETGSSU000000000062",
+        "url": "https://www.ncbi.nlm.nih.gov/biosample/11022683"
+    },
+    {
+        "accession": "SAMN11022684",
+        "sample_title": "GGD2799",
+        "sample_name": "ETGSSU000000000063",
+        "url": "https://www.ncbi.nlm.nih.gov/biosample/11022684"
+    },
+    {
+        "accession": "SAMN11022685",
+        "sample_title": "GGD2770",
+        "sample_name": "ETGSSU000000000064",
+        "url": "https://www.ncbi.nlm.nih.gov/biosample/11022685"
+    },
+    {
+        "accession": "SAMN11022686",
+        "sample_title": "GGD2797",
+        "sample_name": "ETGSSU000000000065",
+        "url": "https://www.ncbi.nlm.nih.gov/biosample/11022686"
+    },
+    {
+        "accession": "SAMN11022687",
+        "sample_title": "GGD2781",
+        "sample_name": "ETGSSU000000000066",
+        "url": "https://www.ncbi.nlm.nih.gov/biosample/11022687"
+    },
+    {
+        "accession": "SAMN11022688",
+        "sample_title": "GGD2777",
+        "sample_name": "ETGSSU000000000067",
+        "url": "https://www.ncbi.nlm.nih.gov/biosample/11022688"
+    },
+    {
+        "accession": "SAMN11022689",
+        "sample_title": "GGD2780",
+        "sample_name": "ETGSSU000000000068",
+        "url": "https://www.ncbi.nlm.nih.gov/biosample/11022689"
+    },
+    {
+        "accession": "SAMN11022690",
+        "sample_title": "GGD2772",
+        "sample_name": "ETGSSU000000000069",
+        "url": "https://www.ncbi.nlm.nih.gov/biosample/11022690"
+    },
+    {
+        "accession": "SAMN11022691",
+        "sample_title": "GGD2794",
+        "sample_name": "ETGSSU000000000070",
+        "url": "https://www.ncbi.nlm.nih.gov/biosample/11022691"
+    },
+    {
+        "accession": "SAMN11022692",
+        "sample_title": "SHG2831",
+        "sample_name": "ETSBGU000000000071",
+        "url": "https://www.ncbi.nlm.nih.gov/biosample/11022692"
+    },
+    {
+        "accession": "SAMN11022693",
+        "sample_title": "SHG2825",
+        "sample_name": "ETSBGU000000000072",
+        "url": "https://www.ncbi.nlm.nih.gov/biosample/11022693"
+    },
+    {
+        "accession": "SAMN11022694",
+        "sample_title": "SHG2830",
+        "sample_name": "ETSBGU000000000073",
+        "url": "https://www.ncbi.nlm.nih.gov/biosample/11022694"
+    },
+    {
+        "accession": "SAMN11022695",
+        "sample_title": "SHG2818",
+        "sample_name": "ETSBGU000000000074",
+        "url": "https://www.ncbi.nlm.nih.gov/biosample/11022695"
+    },
+    {
+        "accession": "SAMN11022696",
+        "sample_title": "SHG2838",
+        "sample_name": "ETSBGU000000000075",
+        "url": "https://www.ncbi.nlm.nih.gov/biosample/11022696"
+    },
+    {
+        "accession": "SAMN11022697",
+        "sample_title": "SHG2832",
+        "sample_name": "ETSBGU000000000076",
+        "url": "https://www.ncbi.nlm.nih.gov/biosample/11022697"
+    },
+    {
+        "accession": "SAMN11022698",
+        "sample_title": "SHG2843",
+        "sample_name": "ETSBGU000000000077",
+        "url": "https://www.ncbi.nlm.nih.gov/biosample/11022698"
+    },
+    {
+        "accession": "SAMN11022699",
+        "sample_title": "SHG2840",
+        "sample_name": "ETSBGU000000000078",
+        "url": "https://www.ncbi.nlm.nih.gov/biosample/11022699"
+    },
+    {
+        "accession": "SAMN11022700",
+        "sample_title": "SHG2826",
+        "sample_name": "ETSMGU000000000079",
+        "url": "https://www.ncbi.nlm.nih.gov/biosample/11022700"
+    },
+    {
+        "accession": "SAMN11022701",
+        "sample_title": "SHG2807",
+        "sample_name": "ETSMGU000000000080",
+        "url": "https://www.ncbi.nlm.nih.gov/biosample/11022701"
+    },
+    {
+        "accession": "SAMN11022702",
+        "sample_title": "FKD2704",
+        "sample_name": "ETKEFU000000000081",
+        "url": "https://www.ncbi.nlm.nih.gov/biosample/11022702"
+    },
+    {
+        "accession": "SAMN11022703",
+        "sample_title": "FKD2798",
+        "sample_name": "ETKEFU000000000082",
+        "url": "https://www.ncbi.nlm.nih.gov/biosample/11022703"
+    },
+    {
+        "accession": "SAMN11022704",
+        "sample_title": "FKD2710",
+        "sample_name": "ETKEFU000000000083",
+        "url": "https://www.ncbi.nlm.nih.gov/biosample/11022704"
+    },
+    {
+        "accession": "SAMN11022705",
+        "sample_title": "FKD2769",
+        "sample_name": "ETKEFU000000000084",
+        "url": "https://www.ncbi.nlm.nih.gov/biosample/11022705"
+    },
+    {
+        "accession": "SAMN11022706",
+        "sample_title": "FKD2790",
+        "sample_name": "ETKEFU000000000085",
+        "url": "https://www.ncbi.nlm.nih.gov/biosample/11022706"
+    },
+    {
+        "accession": "SAMN11022707",
+        "sample_title": "FKD2800",
+        "sample_name": "ETKEFU000000000086",
+        "url": "https://www.ncbi.nlm.nih.gov/biosample/11022707"
+    },
+    {
+        "accession": "SAMN11022708",
+        "sample_title": "FKD2746",
+        "sample_name": "ETKEFU000000000087",
+        "url": "https://www.ncbi.nlm.nih.gov/biosample/11022708"
+    },
+    {
+        "accession": "SAMN11022709",
+        "sample_title": "FKD2759",
+        "sample_name": "ETKEFU000000000088",
+        "url": "https://www.ncbi.nlm.nih.gov/biosample/11022709"
+    },
+    {
+        "accession": "SAMN11022710",
+        "sample_title": "FKD2712",
+        "sample_name": "ETKEFU000000000089",
+        "url": "https://www.ncbi.nlm.nih.gov/biosample/11022710"
+    },
+    {
+        "accession": "SAMN11022711",
+        "sample_title": "FKD2702",
+        "sample_name": "ETKEFU000000000090",
+        "url": "https://www.ncbi.nlm.nih.gov/biosample/11022711"
+    },
+    {
+        "accession": "SAMN11022712",
+        "sample_title": "FKD2757",
+        "sample_name": "ETKEFU000000000091",
+        "url": "https://www.ncbi.nlm.nih.gov/biosample/11022712"
+    },
+    {
+        "accession": "SAMN11022713",
+        "sample_title": "FKD2749",
+        "sample_name": "ETKEFU000000000092",
+        "url": "https://www.ncbi.nlm.nih.gov/biosample/11022713"
+    },
+    {
+        "accession": "SAMN11022714",
+        "sample_title": "FKD2783",
+        "sample_name": "ETKEFU000000000093",
+        "url": "https://www.ncbi.nlm.nih.gov/biosample/11022714"
+    },
+    {
+        "accession": "SAMN11022715",
+        "sample_title": "FSG2706",
+        "sample_name": "ETSEGU000000000094",
+        "url": "https://www.ncbi.nlm.nih.gov/biosample/11022715"
+    },
+    {
+        "accession": "SAMN11022716",
+        "sample_title": "FSG2736",
+        "sample_name": "ETSEGU000000000095",
+        "url": "https://www.ncbi.nlm.nih.gov/biosample/11022716"
+    },
+    {
+        "accession": "SAMN11022717",
+        "sample_title": "FSG2761",
+        "sample_name": "ETSEGU000000000096",
+        "url": "https://www.ncbi.nlm.nih.gov/biosample/11022717"
+    },
+    {
+        "accession": "SAMN11022718",
+        "sample_title": "FSG2786",
+        "sample_name": "ETSEGU000000000097",
+        "url": "https://www.ncbi.nlm.nih.gov/biosample/11022718"
+    },
+    {
+        "accession": "SAMN11022719",
+        "sample_title": "FSG2760",
+        "sample_name": "ETSEGU000000000098",
+        "url": "https://www.ncbi.nlm.nih.gov/biosample/11022719"
+    },
+    {
+        "accession": "SAMN11022720",
+        "sample_title": "FSG2753",
+        "sample_name": "ETSEGU000000000099",
+        "url": "https://www.ncbi.nlm.nih.gov/biosample/11022720"
+    },
+    {
+        "accession": "SAMN11022721",
+        "sample_title": "AKR2950",
+        "sample_name": "ETARBU000000000100",
+        "url": "https://www.ncbi.nlm.nih.gov/biosample/11022721"
+    },
+    {
+        "accession": "SAMN11022722",
+        "sample_title": "AKR2918",
+        "sample_name": "ETARBU000000000101",
+        "url": "https://www.ncbi.nlm.nih.gov/biosample/11022722"
+    },
+    {
+        "accession": "SAMN11022723",
+        "sample_title": "AKR2930",
+        "sample_name": "ETARBU000000000102",
+        "url": "https://www.ncbi.nlm.nih.gov/biosample/11022723"
+    },
+    {
+        "accession": "SAMN11022724",
+        "sample_title": "AKR2916",
+        "sample_name": "ETARBU000000000103",
+        "url": "https://www.ncbi.nlm.nih.gov/biosample/11022724"
+    },
+    {
+        "accession": "SAMN11022725",
+        "sample_title": "AKR2915",
+        "sample_name": "ETARBU000000000104",
+        "url": "https://www.ncbi.nlm.nih.gov/biosample/11022725"
+    },
+    {
+        "accession": "SAMN11022726",
+        "sample_title": "AKR2917",
+        "sample_name": "ETARBU000000000105",
+        "url": "https://www.ncbi.nlm.nih.gov/biosample/11022726"
+    },
+    {
+        "accession": "SAMN11022727",
+        "sample_title": "AKR2926",
+        "sample_name": "ETARBU000000000106",
+        "url": "https://www.ncbi.nlm.nih.gov/biosample/11022727"
+    },
+    {
+        "accession": "SAMN11022728",
+        "sample_title": "AKR2934",
+        "sample_name": "ETARBU000000000107",
+        "url": "https://www.ncbi.nlm.nih.gov/biosample/11022728"
+    },
+    {
+        "accession": "SAMN11022729",
+        "sample_title": "AKR2947",
+        "sample_name": "ETARBU000000000108",
+        "url": "https://www.ncbi.nlm.nih.gov/biosample/11022729"
+    },
+    {
+        "accession": "SAMN11022730",
+        "sample_title": "AKD2942",
+        "sample_name": "ETADNU000000000109",
+        "url": "https://www.ncbi.nlm.nih.gov/biosample/11022730"
+    },
+    {
+        "accession": "SAMN11022731",
+        "sample_title": "AKD2925",
+        "sample_name": "ETADNU000000000110",
+        "url": "https://www.ncbi.nlm.nih.gov/biosample/11022731"
+    },
+    {
+        "accession": "SAMN11022732",
+        "sample_title": "AKD2940",
+        "sample_name": "ETADNU000000000111",
+        "url": "https://www.ncbi.nlm.nih.gov/biosample/11022732"
+    },
+    {
+        "accession": "SAMN11022733",
+        "sample_title": "AKD2904",
+        "sample_name": "ETADNU000000000112",
+        "url": "https://www.ncbi.nlm.nih.gov/biosample/11022733"
+    },
+    {
+        "accession": "SAMN11022734",
+        "sample_title": "AKD2949",
+        "sample_name": "ETADNU000000000113",
+        "url": "https://www.ncbi.nlm.nih.gov/biosample/11022734"
+    },
+    {
+        "accession": "SAMN11022735",
+        "sample_title": "AKD2948",
+        "sample_name": "ETADNU000000000114",
+        "url": "https://www.ncbi.nlm.nih.gov/biosample/11022735"
+    },
+    {
+        "accession": "SAMN11022736",
+        "sample_title": "AKD2936",
+        "sample_name": "ETADNU000000000115",
+        "url": "https://www.ncbi.nlm.nih.gov/biosample/11022736"
+    },
+    {
+        "accession": "SAMN11022737",
+        "sample_title": "AKD2920",
+        "sample_name": "ETADNU000000000116",
+        "url": "https://www.ncbi.nlm.nih.gov/biosample/11022737"
+    },
+    {
+        "accession": "SAMN11022738",
+        "sample_title": "AKD2939",
+        "sample_name": "ETADNU000000000117",
+        "url": "https://www.ncbi.nlm.nih.gov/biosample/11022738"
+    },
+    {
+        "accession": "SAMN11022739",
+        "sample_title": "AKD2901",
+        "sample_name": "ETADNU000000000118",
+        "url": "https://www.ncbi.nlm.nih.gov/biosample/11022739"
+    }
+]

@@ -21,7 +21,7 @@ class Command(BaseCommand):
 
     @staticmethod
     def filter_sra_objects():
-        with open('dataportal/modules/sheep/data/sra.json') as jsonfile:
+        with open('dataportal/modules/sheep/sampledata/sra.json') as jsonfile:
             data = json.load(jsonfile)
         animals = Animal.objects.all()
         sra_objects = []
