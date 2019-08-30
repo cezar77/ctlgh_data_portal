@@ -1,4 +1,6 @@
 from django.views.generic import DetailView
+from django.views.decorators.cache import cache_page
+from django.utils.decorators import method_decorator
 
 from django_filters.views import FilterView
 from django_tables2.views import SingleTableView
@@ -10,6 +12,7 @@ from .tables import AnimalTable
 from .filters import AnimalFilter
 
 
+@method_decorator(cache_page(30*24*60*60), name='dispatch')
 class AnimalList(ExportMixin, FilterView, SingleTableView):
     model = Animal
     table_class = AnimalTable
@@ -23,6 +26,7 @@ class AnimalList(ExportMixin, FilterView, SingleTableView):
         return context
 
 
+@method_decorator(cache_page(30*24*60*60), name='dispatch')
 class AnimalDetail(DetailView):
     model = Animal
     context_object_name = 'animal'
