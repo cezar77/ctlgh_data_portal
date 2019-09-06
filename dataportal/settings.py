@@ -50,7 +50,6 @@ INSTALLED_APPS = [
     'django_filters',
     'crispy_forms',
     'email_obfuscator',
-    'cacheops',
     # custom apps
     'dataportal.modules.core',
     'dataportal.modules.boundaries',
@@ -172,19 +171,17 @@ CRISPY_TEMPLATE_PACK = 'bootstrap3'
 
 DJANGO_TABLES2_TEMPLATE = 'core/bootstrap-responsive.html'
 
-# Cacheops
-CACHEOPS_REDIS = {
-    'host': 'localhost',
-    'port': 6379,
-    'db': 1
+# Cache
+CACHES = {
+    'default': {
+        'BACKEND': 'django_redis.cache.RedisCache',
+        'LOCATION': 'redis://127.0.0.1:6379/1',
+        'OPTIONS': {
+            'CLIENT_CLASS': 'django_redis.client.DefaultClient'
+        },
+        'KEY_PREFIX': 'ctlgh'
+    }
 }
-
-CACHEOPS = {
-    'ideal.*': {'ops': 'all', 'timeout': 24*60*60, 'local_get': True},
-}
-
-CACHEOPS_FAKE = False
-CACHEOPS_DEGRADE_ON_FAILURE = True
 
 try:
     from .local_settings import *
