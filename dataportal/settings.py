@@ -58,7 +58,8 @@ INSTALLED_APPS = [
     'dataportal.modules.sheep',
     'dataportal.modules.chickens',
     'ideal',
-    'ideal.helper'
+    'ideal.helper',
+    'ideal.api',
 ]
 
 MIDDLEWARE = [
@@ -112,12 +113,13 @@ DATABASES = {
         'HOST': credentials.get('IDEAL_HOST'),
         'PORT': credentials.get('IDEAL_PORT'),
         'OPTIONS': {
-            'init_command': "SET GLOBAL sql_mode=(SELECT REPLACE(@@sql_mode,'ONLY_FULL_GROUP_BY',''));"
+            # 'init_command': "SET GLOBAL sql_mode=(SELECT REPLACE(@@sql_mode,'ONLY_FULL_GROUP_BY',''));"
+            'init_command': "SET GLOBAL sql_mode=''"
         }
     }
 }
 
-DATABASE_ROUTERS = ['ideal.routers.IdealRouter', 'ideal.helper.routers.IdealHelperRouter']
+DATABASE_ROUTERS = ['ideal.routers.IdealRouter', 'ideal.helper.routers.IdealHelperRouter', 'ideal.helper.routers.IdealAPIRouter']
 
 # Password validation
 # https://docs.djangoproject.com/en/1.11/ref/settings/#auth-password-validators
@@ -181,6 +183,12 @@ CACHES = {
         },
         'KEY_PREFIX': 'ctlgh'
     }
+}
+
+# Django REST Framework
+REST_FRAMEWORK = {
+    'DEFAULT_PAGINATION_CLASS': 'rest_framework.pagination.PageNumberPagination',
+    'PAGE_SIZE': 25,
 }
 
 try:
