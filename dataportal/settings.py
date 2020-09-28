@@ -119,7 +119,7 @@ DATABASES = {
     }
 }
 
-DATABASE_ROUTERS = ['ideal.routers.IdealRouter', 'ideal.helper.routers.IdealHelperRouter', 'ideal.helper.routers.IdealAPIRouter']
+DATABASE_ROUTERS = ['ideal.routers.IdealRouter', 'ideal.helper.routers.IdealHelperRouter', 'ideal.api.routers.IdealAPIRouter']
 
 # Password validation
 # https://docs.djangoproject.com/en/1.11/ref/settings/#auth-password-validators
