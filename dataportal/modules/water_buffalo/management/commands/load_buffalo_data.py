@@ -23,8 +23,9 @@ class Command(BaseCommand):
 
     def add_arguments(self, parser):
         parser.add_argument(
-            'filename',
+            '--filename',
             type=argparse.FileType('r'),
+            default='dataportal/modules/water_buffalo/management/commands/filereport_read_run_PRJEB39591.json',
             help='JSON file with data for water buffalo'
         )
 
@@ -32,7 +33,6 @@ class Command(BaseCommand):
         filename = options['filename']
         samples = json.load(filename)
         result = list(map(self.process_samples, samples))
-        print(result)
 
     def process_samples(self, sample):
         run_accession = sample.get('run_accession')
@@ -43,9 +43,9 @@ class Command(BaseCommand):
         species = Species.objects.get(slug='bubalus-bubalis')
         record = {
             'study_accession': sample.get('study_accession'),
-            'sample_accession': sample_accession,
+            'sample_accession': sample.get('sample_accession'),
             'experiment_accession': sample.get('experiment_accession'),
-            'run_accession': sample.get('run_accession'),
+            'run_accession': run_accession,
             'tax_id': sample.get('tax_id'),
             'fastq_ftp': fastq_ftp,
             'submitted_ftp': submitted_ftp,
