@@ -15,9 +15,9 @@ class Animal(models.Model):
     ENA_BASE_URL = 'https://www.ebi.ac.uk/ena/browser/view/'
 
     study_accession = models.CharField(max_length=10)
-    sample_accession = models.CharField(max_length=12, unique=True)
+    sample_accession = models.CharField(max_length=12)
     experiment_accession = models.CharField(max_length=10)
-    run_accession = models.CharField(max_length=10)
+    run_accession = models.CharField(max_length=10, unique=True)
     tax_id = models.CharField(max_length=12)
     fastq_ftp = ArrayField(
         models.URLField(max_length=120),

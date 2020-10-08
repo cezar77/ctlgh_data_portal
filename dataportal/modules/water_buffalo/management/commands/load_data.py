@@ -35,7 +35,7 @@ class Command(BaseCommand):
         print(result)
 
     def process_samples(self, sample):
-        sample_accession = sample.get('sample_accession')
+        run_accession = sample.get('run_accession')
         fastq_ftp = self.get_urls(sample.get('fastq_ftp'))
         submitted_ftp = self.get_urls(sample.get('submitted_ftp'))
         breed = self.get_breed(sample.get('submitted_ftp'))
@@ -54,7 +54,7 @@ class Command(BaseCommand):
             'species': species,
         }
         Animal.objects.update_or_create(
-            sample_accession=sample_accession,
+            run_accession=run_accession,
             defaults=record
         )
 
