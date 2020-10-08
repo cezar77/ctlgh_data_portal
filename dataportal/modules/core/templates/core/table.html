@@ -27,7 +27,7 @@
           </div>
         </form>
       {% endif %}
-      {% for format in  table.export_formats %}
+      {% for format in table.export_formats %}
         <div class="form-group">
           <a href="{% querystring '_export'='tsv' %}" role="button" class="btn btn-default">
             download <code>.{{ format }}</code>
