@@ -57,6 +57,7 @@ INSTALLED_APPS = [
     'dataportal.modules.animals',
     'dataportal.modules.sheep',
     'dataportal.modules.chickens',
+    'dataportal.modules.water_buffalo',
     'ideal',
     'ideal.helper',
     'ideal.api',

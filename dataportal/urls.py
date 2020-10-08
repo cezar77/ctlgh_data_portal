@@ -22,6 +22,7 @@ urlpatterns = [
     url(r'^animals/', include('dataportal.modules.animals.urls')),
     url(r'^sheep/', include('dataportal.modules.sheep.urls')),
     url(r'^chickens/', include('dataportal.modules.chickens.urls')),
+    url(r'^water_buffalo/', include('dataportal.modules.water_buffalo.urls')),
     url(r'^boundaries/', include('dataportal.modules.boundaries.urls')),
     url(r'^ideal/', include('ideal.urls')),
     url(r'^ideal/', include('ideal.helper.urls')),
