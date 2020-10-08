@@ -22,7 +22,7 @@ class Species(models.Model):
     order = models.CharField(max_length=30)
     class_name = models.CharField('class', db_column='class', max_length=30)
     phylum = models.CharField(max_length=30)
-    ncbi_id = models.PositiveSmallIntegerField('NCBI ID', unique=True)
+    ncbi_id = models.PositiveIntegerField('NCBI ID', unique=True)
     image = models.OneToOneField(
         'Image',
         on_delete=models.CASCADE,
@@ -97,7 +97,7 @@ class Image(models.Model):
     attribution = models.CharField(max_length=500)
 
     def __str__(self):
-        m = re.match(r'^.+/(.+)\.jpg$', self.file_url)
+        m = re.match(r'^.+/(.+)\.(jpg|JPG)$', self.file_url)
         result = m.group(1)
         return urllib.parse.unquote(result.replace('_', ' '))
 
