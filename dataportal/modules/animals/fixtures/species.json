@@ -32,5 +32,22 @@
             "ncbi_id": 9940,
             "image": 2
         }
+    },
+    {
+        "model": "animals.species",
+        "pk": 3,
+        "fields": {
+            "common_name": "Water buffalo",
+            "slug": "bubalus-bubalis",
+            "species": "bubalis",
+            "genus": "Bubalus",
+            "subfamily": "Bovinae",
+            "family": "Bovidae",
+            "order": "Artiodactyla",
+            "class_name": "Mammalia",
+            "phylum": "Chordata",
+            "ncbi_id": 89462,
+            "image": 3
+        }
     }
 ]
