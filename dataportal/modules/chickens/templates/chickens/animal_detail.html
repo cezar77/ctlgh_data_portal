@@ -83,12 +83,14 @@
 {% block javascript %}
 <script>
   var mymap = L.map('mapid').setView([0, 30], 4);
-  L.tileLayer('https://api.tiles.mapbox.com/v4/{id}/{z}/{x}/{y}.png?access_token={accessToken}',
+  L.tileLayer('https://api.mapbox.com/styles/v1/{id}/tiles/{z}/{x}/{y}?access_token={accessToken}',
     {
       attribution: 'Map data &copy; <a href="http://openstreetmap.org">OpenStreetMap</a> contributors, <a href="http://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>, Imagery © <a href="http://mapbox.com">Mapbox</a>',
       maxZoom: 18,
-      id: 'mapbox.streets',
-      accessToken: 'pk.eyJ1IjoiY2V6YXJwZW5kYXJvdnNraSIsImEiOiJjajlvNWMyaWE1Y3BiMnFucnRuOXp2MzJ4In0.cnFLASbZTkfE7mh56YNn5w'
+      id: 'mapbox/streets-v11',
+      tileSize: 512,
+      zoomOffset: -1,
+      accessToken: 'pk.eyJ1IjoiY2V6YXJwZW5kYXJvdnNraSIsImEiOiJja3pmZnpvNDMyc3l5Mm5ueDI4Z3c3MGtpIn0.ao1qoYHmpT3wfX7F9Nz1Ng'
     }
   ).addTo(mymap);
 
