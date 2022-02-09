@@ -13,11 +13,11 @@ class AnimalTable(tables.Table):
     sample_accession = tables.Column(orderable=False)
     experiment_accession = tables.Column(orderable=False)
     run_accession = tables.Column(orderable=False)
+    breed = tables.Column()
     tax_id = tables.Column(orderable=False)
     fastq_ftp = tables.Column(orderable=False)
     submitted_ftp = tables.Column(orderable=False)
     sra_ftp = tables.Column(orderable=False)
-    breed = tables.Column()
 
     export_formats = ['tsv']
 
@@ -25,8 +25,8 @@ class AnimalTable(tables.Table):
         model = Animal
         fields = (
             'study_accession', 'sample_accession', 'experiment_accession',
-            'run_accession', 'tax_id', 'fastq_ftp', 'submitted_ftp',
-            'sra_ftp', 'breed'
+            'run_accession', 'breed', 'tax_id', 'fastq_ftp', 'submitted_ftp',
+            'sra_ftp'
         )
         attrs = {
             'class': 'table table-responsive table-hover'
